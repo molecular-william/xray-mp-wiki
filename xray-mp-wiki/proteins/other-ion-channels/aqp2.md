@@ -93,21 +93,21 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
       <td>Membrane preparation</td>
       <td>Cell lysis and <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a></td>
       <td>--</td>
-      <td>20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> + <a href="/xray-mp-wiki/reagents/detergents/og/">n-Octyl-β-D-glucopyranoside</a> (OGNG</td>
-      <td><a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> lysed, membranes harvested by centrifugation, solubilized in Hepeseteter Chesr Hepesr Glyciner Acetater Succinater Mesm <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a> A (20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a></td>
+      <td>20 mM Tris-HCl pH 8.0, 300 mM NaCl, 0.2% OGNG + n-Octyl-β-D-glucopyranoside (OGNG)</td>
+      <td>Cells lysed, membranes harvested by centrifugation, solubilized in 20 mM Tris-HCl pH 8.0, 300 mM NaCl, 0.2% OGNG</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized metal affinity chromatography</a> (<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
       <td>HisTrap HP column, stepwise <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> elution</td>
-      <td>HisTrap HP (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td>20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> + OGNG</td>
+      <td>HisTrap HP (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td>20 mM Tris-HCl Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> + OGNG</td>
       <td>Wash with 10 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> (2 CV, then 75 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> (5 CV, elution with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Desalting</td>
       <td>Sephadex G-25 PD-10 column</td>
       <td>Sephadex G-25</td>
-      <td>20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> + OGNG</td>
+      <td>20 mM Tris-HCl Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> + OGNG</td>
       <td>Concentrated to 2.5 ml before desalting</td>
     </tr>
     <tr>
@@ -115,21 +115,21 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
       <td>His-tagged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a>, overnight at 4 °C</td>
       <td>--</td>
       <td>0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> Propane-HCl pH 9.5 + OGNG</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> added at 2:1 ratio (Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids:ClppPn ProteaseProteased Proteaseoteasession Proteaseubstratetease MechanismCyto Aeolicus Ftshchia Coli SppaProtease Family Mechanismd Protease Substrate Specificity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> added at 2:1 ratio (</td>
     </tr>
     <tr>
       <td>Reverse <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
       <td>Second HisTrap HP column, flowthrough collection</td>
       <td>HisTrap HP</td>
-      <td>20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + OGNG</td>
-      <td>Cleaved Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids collected in flowthrough</td>
+      <td>20 mM Tris-HCl Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + OGNG</td>
+      <td>Cleaved</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase</td>
-      <td>20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> + OGNG</td>
-      <td>Concentrated to <500 μl before Entropic Spring MechanismInjection Mechanismcosity Sample Injection For Sfx. Peak fractions collected, concentrated to 10 mg/ml, 5% GlycerolColil 3 Phosphatel Facilitator added, flash frozen at −80 °C</td>
+      <td>20 mM Tris-HCl Propane-HCl pH 8.0, 300 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> + OGNG</td>
+      <td>Concentrated to <500 μl before</td>
     </tr>
   </tbody>
 </table>
@@ -140,15 +140,15 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
   <tbody>
     <tr>
       <td>Method</td>
-      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging drop vapor diffusion</a></td>
+      <td>Hanging drop vapor diffusion</td>
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>AQP2 constructs at 10 mg/ml in Hepeseteter Chesr Hepesr Glyciner Acetater Succinater Mesm <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a> A (20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis Tris Propane-HCl pH 8.0, 300 mM NaCl, 0.2% OGNG, 5% GlycerolColil 3 Phosphatel Facilitator</td>
+      <td>AQP2 constructs at 10 mg/ml in 20 mM Tris-HCl pH 8.0, 300 mM NaCl, 0.2% OGNG, 5% glycerol</td>
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>20–30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>400, TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis Tris Propane-HCl pH 8.5, 0.1 M Mgcl2, 0.1 M NaCl, 0.1 M CdCl2 (added 1:4 ratio</td>
+      <td>20–30% PEG400, 20 mM Tris-HCl pH 8.5, 0.1 M MgCl2, 0.1 M NaCl, 0.1 M CdCl2 (added 1:4 ratio)</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -156,15 +156,15 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
     <tr>
       <td>Growth time</td>
-      <td>2–3 days (Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction formed within 15 min at highest <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> concentrations</td>
+      <td>2–3 days (crystals formed within 15 min at highest PEG concentrations)</td>
     </tr>
     <tr>
       <td>Cryoprotection</td>
-      <td>Crystals grown at <24% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>400 soaked in reservoir + 30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>400; otherwise no additional cryoprotection</td>
+      <td>Crystals grown at <24% PEG400 soaked in reservoir + 30% PEG400; otherwise no additional cryoprotection</td>
     </tr>
     <tr>
       <td>Notes</td>
-      <td>T125M best in 20% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>400 at 6 °C, T126M best in 24% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>400 at room temperature, A147T <a href="/xray-mp-wiki/proteins/other-ion-channels/kpbest/">Kpbest</a> in 22% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a> at 6 °C.</td>
+      <td>T125M best in 20% PEG400 at 6 °C, T126M best in 24% PEG400 at room temperature, A147T in 22% PEG400 at 6 °C.</td>
     </tr>
   </tbody>
 </table>
@@ -1479,15 +1479,15 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
   <tbody>
     <tr>
       <td>Method</td>
-      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor diffusion</a></td>
+      <td>Hanging-drop vapor diffusion</td>
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>Wild-Ry3RR51rtd470 1u2 Familye Ii Abc Transporter Familyrae V Atpase K Ringinine Oscillation Mechanismobacter Tartaricus C Subunitillus Pseudofirmus Of4 C13 Ring AQP2 Peptide 5Tru at Pro242</td>
+      <td>C-terminally truncated AQP2 (residues 1-242) at Pro242</td>
     </tr>
     <tr>
       <td>Temperature</td>
-      <td>100 K (data collection</td>
+      <td>100 K (data collection)</td>
     </tr>
     <tr>
       <td>Cryoprotection</td>
@@ -1495,7 +1495,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     </tr>
     <tr>
       <td>Notes</td>
-      <td>CdCl₂ used as an <a href="/xray-mp-wiki/reagents/additives/had13a/">Had13A</a> during TruncationllizationlizationPhasellizationimerizationPhase Crystallizationstallization Under OilLysozyme Fusionization Free Interface Diffusion. Complete data collected at ESRF (Grenoble, France from a <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Semet</a> <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">Sad</a> Phasinge Wavelength Anomalous Diffraction frozen <a href="/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/">Single Crystal Microspectrophotometry</a>. Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction belonged to space group P4₂ with one tetramer in the asymmetric unit (a=119.11 Å, b=119.11 Å, c=90.48 Å.</td>
+      <td>CdCl₂ used as an additive during crystallization. Complete data collected at ESRF (Grenoble, France) from a single frozen crystal. Belonged to space group P4₂ with one tetramer in the asymmetric unit (a=119.11 Å, b=119.11 Å, c=90.48 Å).</td>
     </tr>
   </tbody>
 </table>
@@ -2188,28 +2188,15 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 
 ### C-terminal conformational variability
 
-The C-terminal helix of AQP2 shows significant Conformational Dynamics Mfsl Dynamics Mppasesonal Equilibriumational States Clcl Coupling Gatingsulfide Bridge Trappingl Asymmetry Abc Transporters variability
-across the four protomers of the tetramer. In protomer C, the C-Nav1 4 Cterm CamGlun2B Atde1 Anion Exchangernal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion
-Gxxxg Motifing Helix Mechanismx Shift Mechanismzontal Helix Spring Mechanism interacts with a NCSy Mismatch Rotary Motor-related [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) molecule via [L Leucine](/xray-mp-wiki/reagents/ligands/l-leucine/) residues
-(Leu230, 234, 237, 240, suggesting a role in protein-Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids [Pot Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) Substrate Specificitymer Interaction Proteorhodopsin
-relevant to LIP5-Anion Mediated Ligand Bindingdulation Gabab Receptor Paracellular Ion Selectivity trafficking.
+The C-terminal helix of AQP2 shows significant conformational variability across the four protomers of the tetramer. In protomer C, the C-terminal helix interacts with a symmetry-related AQP2 molecule via leucine residues (Leu230, 234, 237, 240), suggesting a role in protein-protein interactions relevant to AQP2 trafficking and LIP5 binding.
 
 ### Cd²⁺ and Ca²⁺ binding sites
 
-Two Cd²⁺ binding sites (Cd1 and Cd2 identified per AQP2 tetramer. Cd1 is
-at the Cuscjmray-mp-wiki/proteins/wza/ 1ocessing4Yidce MimeticsCdc50Aric Regulation Like MechanismCenter Mechanismpology ArchitectureSide Chain PackingCoupling Mechanismee Protein Synthesisponent Signaling Systemupported Membrane ElectrophysiologyF1 Atpase Stator Complexetworks Membrane Protein Oligomerizatione Protein Crystals For Neutron Diffractionrected Spin Labeling Membrane Proteintom Derivative Detergents And Lipids [Batch Crystallization Free Interface Diffusion](/xray-mp-wiki/methods/crystallization/batch-crystallization-free-interface-diffusion/) between protomers A and D, ligated by GluA155 and
-GlnD57. Cd2 is [Conformational Coupling Gating](/xray-mp-wiki/concepts/transport-mechanisms/conformational-coupling-gating/) [Pq Loop Family](/xray-mp-wiki/concepts/protein-families/pq-loop-family/) Loop Receptor Familypetitive Antagonism Cys Loopensitization In Cys Loop Receptorstch Loop Gating Rnd Transporters B and the C-Sars Cov 2 CtdCterm CamGlun2B Atde1 Anion Exchangernal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion tail. Radioactive Ca²⁺
-Fkbp12omaing Change Mechanisme Binding PocketHelical Binding Sitee Binding Proteinate Binding In Asbt Yfive Lipid Bindingcholine Binding Proteinc Glycoside Binding Mechanismxtended Binding Pocket Modifier Toxin Bindingoprotein Induced Fit Bindingasmic Drug Binding Site Rndaeodactylum TricornutumGas Anaesthetic Mechanism Drug Binding Site Atp Synthase C Ringctive State High Affinity Agonist Bindingendent Quinone Binding Reaction Center assays demonstrate that [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/)-expressing oocytes bind significantly
-more Ca²⁺ than controls, suggesting Ca²⁺ is the physiological [Tc114](/xray-mp-wiki/reagents/ligands/tc114/) Lbdccd Efficiencyite Binding Mode Mediated Ligand Binding Network In Ligand Bindingturate Binding Mechanismy Beta1 Ar Ligand Free Basal.
+Two Cd²⁺ binding sites (Cd1 and Cd2) identified per AQP2 tetramer. Cd1 is at the interface between protomers A and D, ligated by GluA155 and GlnD57. Cd2 is located between loop B and the C-terminal tail in protomer C. Radioactive Ca²⁺ assays demonstrate that AQP2-expressing oocytes bind significantly more Ca²⁺ than controls, suggesting Ca²⁺ is the physiological ligand for these sites.
 
 ### NDI-causing mutations in the wild-type structure
 
-The wild-Ry3RR51rtd470 1u2 Familye Ii Abc Transporter Familyrae V Atpase K Ringinine Oscillation Mechanismobacter Tartaricus C Subunitillus Pseudofirmus Of4 C13 Ring [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) [Structure Based Antipsychotic Design](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) reveals locations of mutations causing NDI.
-Key sites include: Gln57 (Cd1 [Tc114](/xray-mp-wiki/reagents/ligands/tc114/) Lbdccd Efficiency Mediated Ligand Binding Network In Ligand Bindingturate Binding Mechanismy Beta1 Ar Ligand Free Basal, Ser148 (casein Dgkalglycerol Kinase Zneaercury Ii Chloridelatinum Ii Chlorideotassium Tetrakis Hydroxido Platinate Ii site,
-Thr125/Thr126 in loop C near the N-[N Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) Kkrsepsep2P Site Binding Modera Helical Binding Sitee 2 Protease Family Mechanismosteric Site In Nss Transportersiplasmic Drug Binding Site Rndmon Drug Binding Site Atp Synthase C Ringe Directed Spin Labeling Membrane Protein Asn123, and Asp150
-in loop D which mediates [Pq Loop Family](/xray-mp-wiki/concepts/protein-families/pq-loop-family/) Loop Receptor Familypetitive Antagonism Cys Loopensitization In Cys Loop Receptorstch Loop Gating Rnd Transporters D-C Sars Cov 2 CtdCterm CamGlun2B Atde1 Anion Exchangernal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion tail [Pot Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) Substrate Specificitymer Interaction Proteorhodopsin via Arg152.
-Most NDI-causing Malignant Hyperthermiative Active Gpcr Mutations are in Yajcmp-wiki/proteins/[Malf](/xray-mp-wiki/proteins/abc-transporters/malF/)/mp-wiki/proteins/[Malg](/xray-mp-wiki/proteins/abc-transporters/malG/)/Agn Transmembrane Poresl Transmembrane Protein Design [Autoinhibitory Domains](/xray-mp-wiki/concepts/transport-mechanisms/autoinhibitory-domains/) and cause
-misfolding and ER retention.
+The wild-type AQP2 structure reveals locations of mutations causing NDI. Key sites include: Gln57 (Cd1 ligand), Ser148 (casein kinase II site), Thr125/Thr126 in loop C near the N-glycosylation site at Asn123, and Asp150 in loop D which mediates interactions with the C-terminal tail via Arg152. Most NDI-causing mutations are in transmembrane domains and cause misfolding and ER retention.
 
 
 ## Cross-References

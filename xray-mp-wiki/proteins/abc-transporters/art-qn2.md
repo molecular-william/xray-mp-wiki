@@ -113,10 +113,10 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td></td>
-      <td>Purification via C-Sars Cov 2 CtdCterm CamGlun2B Atde1 Anion Exchangernal <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> Fusion 6x His tag on ArtQ</td>
+      <td>Purification via 6x His tag on ArtQ</td>
     </tr>
   </tbody>
 </table>
@@ -143,10 +143,10 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td></td>
-      <td>ArtI purification, followed by denaturation/renaturation to remove prebound Tat A SubstrateBinding Pockete Binding In Asbt Yfe Protonation Coupling Protease Substrate Specificitysporter Substrate Specificitystrate Recognition Gmg Motifly Substrate Specificitye Polyspecificity Smr Transporters Protein Insertase Substrate Exit Gate</td>
+      <td>ArtI purification, followed by denaturation/renaturation to remove prebound substrate</td>
     </tr>
   </tbody>
 </table>
@@ -161,7 +161,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>Purified Art(QN2 Ton ComplexcComplexpdc ComplexTSecretase Complexb1 BrilTccc3pinachBtuf ComplexB Complex Cterm Camgc Complex Release Complexs Acidophila Molischianum Spoiiah ComplexCore Complex Assemblyg Pseudomonas Aeruginosaght Harvesting Complex Ii F1 Atpase Efrapeptin Complexh Light Harvesting Complex IiEndothelin Etb Receptor Irl2500 F1 Atpase Stator Complex</td>
+      <td>Purified Art(QN)₂ complex</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -169,7 +169,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
     <tr>
       <td>Notes</td>
-      <td>Continuous Diffractionlength Anomalous Diffractionelength Anomalous Diffractionrotein Crystals For Neutron Diffraction data collected at Shanghai <a href="/xray-mp-wiki/methods/structure-determination/time-resolved-serial-synchrotron-crystallography/">Time Resolved Serial Synchrotron Crystallography</a> <a href="/xray-mp-wiki/concepts/methods-techniques/x-ray-radiation-damage/">X Ray Radiation Damage</a> Facility Beamline BL17U. <a href="/xray-mp-wiki/proteins/other-ion-channels/glua2-ampa-receptor/">Glua2 Ampa Receptor</a> solved by Molecular Dockingr Replacementimulationay-mp-wiki/concepts/<a href="/xray-mp-wiki/concepts/methods-techniques/steered-molecular-dynamics/">SMD</a>/ Mismatch Rotary Motor <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a>.</td>
+      <td>Data collected at Shanghai Synchrotron Radiation Facility Beamline BL17U. Structure solved by molecular replacement.</td>
     </tr>
   </tbody>
 </table>
@@ -189,7 +189,7 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     </tr>
     <tr>
       <td>Notes</td>
-      <td>ArtI-Arg Ton ComplexcComplexpdc ComplexTSecretase Complexb1 BrilTccc3pinachBtuf ComplexB Complex Cterm Camgc Complex Release Complexs Acidophila Molischianum Spoiiah ComplexCore Complex Assemblyg Pseudomonas Aeruginosaght Harvesting Complex Ii F1 Atpase Efrapeptin Complexh Light Harvesting Complex IiEndothelin Etb Receptor <a href="/xray-mp-wiki/reagents/ligands/irl2500/">Irl2500</a> F1 Atpase Stator Complex solved at 1.48 A <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-2-2a/">Rhodopsin 2 2A</a></td>
+      <td>ArtI-Arg complex solved at 1.48 Å resolution</td>
     </tr>
   </tbody>
 </table>
@@ -1978,19 +1978,19 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 
 ### First structural basis of substrate specificity in an amino acid ABC importer TMD
 
-The Art(QN2 Ton ComplexcComplexpdc ComplexTSecretase Complexb1 BrilTccc3pinachBtuf ComplexB Complex Cterm Camgc Complex Release Complexs Acidophila Molischianum Spoiiah ComplexCore Complex Assemblyg Pseudomonas Aeruginosaght Harvesting Complex Ii F1 Atpase Efrapeptin Complexh Light Harvesting Complex IiEndothelin Etb Receptor [Irl2500](/xray-mp-wiki/reagents/ligands/irl2500/) contains two substrate-binding sites, one per ArtQ SecgamaB3haubunit E, located at the [Batch Crystallization Free Interface Diffusion](/xray-mp-wiki/methods/crystallization/batch-crystallization-free-interface-diffusion/) [Conformational Coupling Gating](/xray-mp-wiki/concepts/transport-mechanisms/conformational-coupling-gating/) the two ArtQ [Yeast V Atpase Subunits D F Scdf](/xray-mp-wiki/proteins/pumps-atpases/yeast-v-atpase-subunits-d-f-scdf/) halfway across the predicted Cuscjmray-mp-wiki/proteins/wza/ 1ocessing4Yidce MimeticsCdc50Aric Regulation Like MechanismCenter Mechanismpology ArchitectureSide Chain PackingCoupling Mechanismee Protein Synthesise1 Anion Exchangerponent Signaling Systemupported Membrane ElectrophysiologyF1 Atpase Stator Complexetworks Membrane Protein Oligomerizatione Protein Crystals For Neutron Diffractionrected Spin Labeling Membrane Proteintom Derivative Detergents And Lipids bilayer. Each binding [K2P Modulator Pocket](/xray-mp-wiki/concepts/miscellaneous/k2p-modulator-pocket/) is highly negatively charged, creating an electrostatic tunnel that allows positively charged Leutct11B Glun2B Atdo Methoxy IsocoumarinSuperfamily acids (Arg, His to pass through. Key residues involved in Tat A Substratee Protonation Coupling Protease Substrate Specificitysporter Substrate Specificitystrate Recognition Gmg Motifly Substrate Specificitye Polyspecificity Smr Transporters Protein Insertase Substrate Exit Gate Fkbp12Lbdomaing Change Mechanismte Binding Modee Binding PocketHelical Binding Sitee Binding Proteinate Binding In Asbt Yfive Lipid Bindingcholine Binding Proteinc Glycoside Binding MechanismMediated Ligand Bindingxtended Binding Pocket Modifier Toxin Bindingoprotein Induced Fit BindingNetwork In Ligand Bindingasmic Drug Binding Site Rndurate Binding Mechanismaeodactylum TricornutumGas Anaesthetic Mechanism Drug Binding Site Atp Synthase C Ringctive State High Affinity Agonist Bindingendent Quinone Binding Reaction Center include ArtQ-Pro66, ArtQ-Leu67, ArtQ-Asn98, ArtQ-Tyr102, ArtQ-Glu152, ArtQ-Glu159, ArtQ-Val155, and ArtQ-Met156. These residues are highly [Conserved Core Triad](/xray-mp-wiki/concepts/signaling-receptors/conserved-core-triad/) across species.
+The Art(QN)₂ complex contains two substrate-binding sites, one per ArtQ subunit, located at the interface between the two ArtQ subunits, reaching halfway across the predicted membrane bilayer from the periplasmic surface. Each binding pocket is highly negatively charged, creating an electrostatic tunnel that allows positively charged amino acids (Arg, His) to pass through. Key residues involved in substrate binding include ArtQ-Pro66, ArtQ-Leu67, ArtQ-Asn98, ArtQ-Tyr102, ArtQ-Glu152, ArtQ-Glu159, ArtQ-Val155, and ArtQ-Met156. These residues are highly conserved across species.
 
 ### Inward-facing conformation with semi-open NBD dimer
 
-In all [Glua2 Ampa Receptor](/xray-mp-wiki/proteins/other-ion-channels/glua2-ampa-receptor/), the ArtQ dimer adopts an [Kir2 2 Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kir2-2-channel/) Kir3 2 Cytoplasmic Pore-facing [Nb N00](/xray-mp-wiki/reagents/antibodies/nb-n00/) Conformationve Conformationed Conformationomophore Conformation open to the cytoplasm, while the ArtN dimer exists in a SemisweetemisweetemisweetSemisweetSemi Sweetrio Sp [Semisweet](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/)-[Mscs](/xray-mp-wiki/proteins/voltage-gated-channels/mscs/)s A106V](/xray-mp-wiki/proteins/voltage-gated-channels/mscs-a106v/) state. Two ATP molecules are bound at the Walker A and Walker B motifs. No obvious Conformational Dynamics Mfsl Dynamics Mppasesonal Equilibriumational States Clcsulfide Bridge Trappingl Asymmetry Abc Transporters changes were observed [Conformational Coupling Gating](/xray-mp-wiki/concepts/transport-mechanisms/conformational-coupling-gating/) apo, Arg-bound, ATP-bound, and Arg/[ATP](/xray-mp-wiki/reagents/ligands/atp/)-DltbhhReceptor Bosentann 5 Ht2B Receptort Atp Synthase C10 Ringn Endothelin Etb Receptor Et1rnating Ion Bound Configurations forms (RMSD < 0.2 A, indicating that the Sri 9829n1 Glun2B Nmda Receptor transition to the [Abc Transporter Outward Occluded Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-outward-occluded-mechanism/)-Inward Facing Conformationrd Facing Conformation [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) Adapted Statet Adapted State Return State Mechanismey Beta1 Ar Ligand Free Basal requires Fkbp12Lbdomaing Change Mechanismte Binding Modee Binding PocketHelical Binding Sitee Binding Proteinate Binding In Asbt Yfive Lipid Bindingcholine Binding Proteinc Glycoside Binding MechanismMediated Ligand Bindingxtended Binding Pocket Modifier Toxin Bindingoprotein Induced Fit BindingNetwork In Ligand Bindingasmic Drug Binding Site Rndurate Binding Mechanismaeodactylum TricornutumGas Anaesthetic Mechanism Drug Binding Site Atp Synthase C Ringctive State High Affinity Agonist Bindingendent Quinone Binding Reaction Center of the cognate SBP ArtI.
+The ArtQ dimer adopts an inward-facing conformation open to the cytoplasm, while the ArtN dimer exists in a semi-open state. Two ATP molecules are bound at the Walker A and Walker B motifs. No obvious conformational changes were observed between apo, Arg-bound, ATP-bound, and Arg/ATP-bound forms (RMSD < 0.2 Å), indicating that the transition to the outward-facing state requires the cognate solute-binding protein ArtI.
 
 ### Functional coupling requires ArtI SBP
 
-Art(QN2 exhibits low spontaneous ATPase activity that is stimulated approximately fourfold by Arg- or His-loaded ArtI. The ATPase activity is sensitive to ortho-vanadate. A mutation at the key binding residue ArtQ-E152A resulted in substantially increased [Turkey Beta1 Ar Ligand Free Basal](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-ligand-free-basal/) and stimulated ATPase [Trex1](/xray-mp-wiki/proteins/gpcr/trex1/) Rnase Activitynstitutive Activity, suggesting the mutation uncouples Tat A Substratee Protonation Coupling Protease Substrate Specificitysporter Substrate Specificitystrate Recognition Gmg Motifly Substrate Specificitye Polyspecificity Smr Transporters Protein Insertase Substrate Exit Gate Fkbp12Lbdomaing Change Mechanismte Binding Modee Binding PocketHelical Binding Sitee Binding Proteinate Binding In Asbt Yfive Lipid Bindingcholine Binding Proteinc Glycoside Binding MechanismMediated Ligand Bindingxtended Binding Pocket Modifier Toxin Bindingoprotein Induced Fit BindingNetwork In Ligand Bindingasmic Drug Binding Site Rndurate Binding Mechanismaeodactylum TricornutumGas Anaesthetic Mechanism Drug Binding Site Atp Synthase C Ringctive State High Affinity Agonist Bindingendent Quinone Binding Reaction Center from [ATP](/xray-mp-wiki/reagents/ligands/atp/) hydrolysis Allosteric Regulationl Allosteric Regulationporter [Allosteric Regulation](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/).
+Art(QN)₂ exhibits low spontaneous ATPase activity that is stimulated approximately fourfold by Arg- or His-loaded ArtI. The ATPase activity is sensitive to ortho-vanadate. A mutation at the key binding residue ArtQ-E152A resulted in substantially increased basal and stimulated ATPase activity, suggesting the mutation uncouples ATP hydrolysis from transport regulation.
 
 ### Homodimeric type I ABC importer architecture
 
-ArtQ contains five Yajcmp-wiki/proteins/[Malf](/xray-mp-wiki/proteins/abc-transporters/malF/)/mp-wiki/proteins/[Malg](/xray-mp-wiki/proteins/abc-transporters/malG/)/Agn Transmembrane Poresl Transmembrane Protein Design segments (TM1-TM5, with TM1 wrapping around the outer Cuscjmray-mp-wiki/proteins/wza/ 1ocessing4Yidce MimeticsCdc50Aric Regulation Like Mechanismve Lipid BindingCenter MechanismSide Chain PackingCoupling Mechanismee Protein Synthesise1 Anion Exchangerupported Membrane ElectrophysiologyF1 Atpase Stator Complexetworks Membrane Protein Oligomerizatione Protein Crystals For Neutron Diffractionrected Spin Labeling Membrane Proteintom Derivative Detergents And Lipids-Inward Facing Conformationrd Facing Conformation Surface Hydroxyl AcidityGas Anaesthetic Mechanism and TM2-TM5 adopting an up-down Dual Topology Channelspology Architecture lining the Secdfs Jannaschii SecyThermodenitrificans Secye Channel 4thwaylease Pathwayry Malodour Production Pathwayntry Ion Conduction Pathway. This Cupin FoldA Fold is similar to MetI of the E. coli SAMine Transporter [Acetate](/xray-mp-wiki/reagents/buffers/acetate/)e Uptake Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/acetate-uptake-transporter-family/) [Aaprtd](/xray-mp-wiki/proteins/abc-transporters/aaprtd/) Secretion Systemxpression System Expression Systemovirus Expression Systemomponent Signaling System (RMSD ~2.6 A. The EAA Gxxxg Motifega MotifMotif5 Linker Interaction Motif Substrate Recognition Gmg Motif EAA-X(3-G mediates interactions between ArtQ and ArtN subunits.
+ArtQ contains five transmembrane segments (TM1-TM5), with TM1 wrapping around the outer membrane-facing surface and TM2-TM5 adopting an up-down topology lining the translocation pathway. This fold is similar to MetI of the E. coli methionine uptake system (RMSD ~2.6 Å). The EAA-X(3)-G motif mediates interactions between ArtQ and ArtN subunits.
 
 
 ## Cross-References
