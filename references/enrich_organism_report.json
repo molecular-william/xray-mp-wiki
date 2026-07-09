@@ -1,0 +1,12 @@
+{
+  "run_timestamp": "2026-07-06T11:05:45",
+  "dry_run": false,
+  "proteins_with_uniprot": 710,
+  "unique_accessions": 864,
+  "resolved_from_cache": 846,
+  "needed_api_fallback": 18,
+  "resolved_from_api": 0,
+  "total_written": 3,
+  "total_skipped": 687,
+  "total_missing": 20
+}

@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: xray-mp-wiki-scripts
+Version: 0.1.0
+Summary: Scripts for managing the X-ray Membrane Protein Wiki
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: PyYAML>=6.0
+Requires-Dist: ruamel.yaml>=0.18
+Requires-Dist: requests>=2.28

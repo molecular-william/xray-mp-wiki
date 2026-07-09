@@ -1,0 +1,10 @@
+[console_scripts]
+wiki-aggregate-stats = scripts.aggregate_stats:main
+wiki-enrich-wikilinks = scripts.enrich_wikilinks:main
+wiki-generate-page = scripts.generate_page:main
+wiki-lint = scripts.lint:main
+wiki-query = scripts.wiki_query:main
+wiki-rebuild-entity-catalog = scripts.rebuild_entity_catalog:main
+wiki-rebuild-graph = scripts.rebuild_graph:main
+wiki-rebuild-indexes = scripts.rebuild_indexes:main
+wiki-validate = scripts.validate_yaml:main

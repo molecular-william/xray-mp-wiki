@@ -1,0 +1,7 @@
+# xray-mp-wiki scripts — pinned dependencies
+# Usage: pip install -r requirements.txt
+# Or:    pip install -e .              (from pyproject.toml)
+
+PyYAML==6.0.3
+ruamel.yaml==0.18.16
+requests==2.32.5

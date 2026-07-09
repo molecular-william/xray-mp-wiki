@@ -1,0 +1,6935 @@
+{
+  "run_timestamp": "2026-07-03T15:09:59",
+  "dry_run": false,
+  "method": "auto",
+  "total_proteins_with_chains": 586,
+  "total_proteins_vote_fallback": 718,
+  "unique_pdbs_total": 1867,
+  "unique_pdbs_resolved": 1837,
+  "summary": {
+    "chain_multi_high": 160,
+    "chain_high": 391,
+    "chain_medium": 1,
+    "vote_high": 80,
+    "vote_tie_auto": 65,
+    "vote_no_mapping": 9,
+    "vote_medium": 13
+  },
+  "total_resolved": 710,
+  "total_failed": 9,
+  "methods": {
+    "chain_ok": 552,
+    "vote_ok": 158
+  },
+  "proteins": {
+    "5ht2a-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P28223",
+        "P47898",
+        "Q9V2J8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 14
+    },
+    "5ht2b-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P41595"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "5ht2c-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P28335"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "a-fulgidus-amt1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O29285"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "a2a-psb1-bril": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P29274"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "aaprtd": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O67184"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "aawzmwzt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O67181",
+        "O67182"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "ab-macb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0D8G707"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "abcb10": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9NRK6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "abcg1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P45844"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "abcg2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9UNQ0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "abcg5": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9H221",
+        "Q9H222"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "abcg5-abcg8-hetero-dimer": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9H221",
+        "Q9H222"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "abcg8": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9H221",
+        "Q9H222"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "acer3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9NUN7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "acetabularia-rhodopsin-ii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G1K3Q0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "acrb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AAW9",
+        "P0ADZ7",
+        "P31224"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 121
+    },
+    "adeb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B0V4F5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "adic": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P60061",
+        "P60063",
+        "P60066"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "adipor1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q96A54"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "adipor2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q86V24"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 14
+    },
+    "af2299": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O27985"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "afaglb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O29867"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "afubia": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O28625"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "aglB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O29867"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "ahlabc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A454GEH4",
+        "A0KLE1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 40
+    },
+    "algm1m2ss": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9KWT5",
+        "Q9KWT7",
+        "Q9KWT8",
+        "Q9KWT9"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "amp2x": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G3MM57"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "amt-b": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AC55",
+        "P69681"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 24
+    },
+    "anabaena-sensory-rhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0ACD6B968"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "apubia": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9YBM8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "aq_128": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O66528"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "aqp0": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P06624"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "aqp1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P47865"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "aqp2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P41181"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "aqpm-methanothermobacter-marburgensis": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9C4Z5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "aquaporin-z": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P60844"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 17
+    },
+    "aquifex-aeolicus-mray": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O66465"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "aqy1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F2QVG4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "arabidopsis-thaliana-cystinosin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P57758"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "archaeoglobus-fulgidus-aglb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O29867"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "archaeoglobus-fulgidus-modbc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O30142",
+        "O30143",
+        "O30144"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "archaerhodopsin-2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P29563"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "archaerhodopsin-3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P96787"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "arnt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q1LDT6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "art-qn2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8RCC2",
+        "Q8RCC3"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 24
+    },
+    "asbt-nm": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9K0A9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "asbt-yf": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C4ST46"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "ascaris-suum-quinol-fumarate-reductase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O44074",
+        "P92506",
+        "P92507",
+        "Q33862"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "asic1a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G9I929",
+        "G9I930",
+        "P60514",
+        "Q1XA76"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 45
+    },
+    "at-suc1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q39232"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "at1r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P30556"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 7
+    },
+    "at2r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0ABE7",
+        "P50052"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "atp11c-cdc50a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8NB49",
+        "Q9NV96"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "atpc1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q94KI8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "atpcc1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q94KI8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "atpip2-4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9FF53"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "attip2-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q41951"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "baca": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P60933"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "bacillus-pseudofirmus-of4-c12-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P22483"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "bacillus-pseudofirmus-of4-c13-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P22483"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 13
+    },
+    "bacteriorhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02945",
+        "Q9NW15"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 14
+    },
+    "basc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A8UCQ5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "bbfpn": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6MLJ0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "bbzip": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0H3LM39"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "bc-malt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q63GK8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "bcsa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q3J125",
+        "Q3J126"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "bcsb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q3J125",
+        "Q3J126"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "bctspo": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q81BL7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "bcxer": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0AA82WP37",
+        "A0AA82WPB4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 39
+    },
+    "beetle-icmt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "D6WJ77"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "beta1-adrenergic-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P07700",
+        "P0AA25"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "beta2-adrenergic-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00720",
+        "P07550"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 15
+    },
+    "betp": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P54582"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "bioy-lactococcus-lactis": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A2RMJ9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "blastochloris-viridis-photosynthetic-reaction-centre": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P06008",
+        "P06009",
+        "P06010",
+        "P07173"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "blastochloris-viridis-reaction-center": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P06008",
+        "P06009",
+        "P06010",
+        "P07173"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "blt1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00323"
+      ],
+      "confidence": "medium",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "bovine-adp-atp-carrier": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02722"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "bovine-atp-synthase-c8-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00829",
+        "P05630",
+        "P05631",
+        "P05632",
+        "P19483",
+        "P32876"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 17
+    },
+    "bovine-na-k-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G3MWR4",
+        "Q04645",
+        "Q08DA1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "bovine-rhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02699"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 30
+    },
+    "bovine-urea-transporter-b-utb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5QF96"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "bpe-fluoride-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q7VYU0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "bpeb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q63NK6",
+        "Q63WS7"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "bpef": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q63NK6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "bsyetj": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O31539"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "btucd-btuf-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P06609",
+        "P06611",
+        "P37028"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "c5ar1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21730"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "ca-vab": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A8EVM5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 28
+    },
+    "cait": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B4EY22",
+        "P31553"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "casmate": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A2D0TCI5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "cax-af-h-ca-exchanger": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O29988"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "cb2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P34972",
+        "P59768",
+        "P62873",
+        "P63096"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "ccr2-t4l": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P41597"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ccr9": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P51686"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "cd47-bril-b6h12": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q08722"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "cd81": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P60033"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "cd9": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21926"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "channelrhodopsin-2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8RUT8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "channelrhodopsin-c1c2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8RUT8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "chicken-bestrophin-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "E1C3A0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "chicken-p2x7-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "E1C6P3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "chloroplast-atp-synthase-c-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08212"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 14
+    },
+    "chloroplast-atp-synthase-c14-ring-spinach": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P69447"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 14
+    },
+    "chrimson": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8L435"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "ci-vsd": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F6XHE4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "cir-nonlabens-marinus": {
+      "status": "resolved",
+      "uniprot_id": [
+        "W8VZW3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 13
+    },
+    "claudin-19-mouse": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P01558",
+        "Q9ET38"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "clbm": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q0P7K3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "clc-ec1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P37019"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 19
+    },
+    "clc-sy1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P73745"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "clostridium-boltrea-mray": {
+      "status": "resolved",
+      "uniprot_id": [
+        "R0BTE9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "clyA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P77335"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "cmabcb1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "M1VAN7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "cmeb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q0PBE4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "cmtmem175": {
+      "status": "resolved",
+      "uniprot_id": [
+        "K9UJK2"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "cnr1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P04899",
+        "P21554",
+        "P59768",
+        "P62873",
+        "P63096"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 16
+    },
+    "coccomyxa-rhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "I0YUS5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "cpaqp1aa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "M1K561"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "crth2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9Y5Y4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "cruxrhodopsin-3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P94854"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "cusA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P38054",
+        "P77239"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "cusB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P38054",
+        "P77239"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "cusa-efflux-pump": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P38054"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "cyslt1r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9Y271"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "cyslt2r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9NS75"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "cysz": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0X8F058",
+        "M4XKU7",
+        "Q5QUJ8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "cytochrome-b": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AAM1",
+        "P0ACD8",
+        "P69739"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "cytochrome-b561": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9SWS1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "d-dat": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0A334",
+        "Q7K4Y6"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "d4-dopamine-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21917"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "dap12": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O43914"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "ddat-gat": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q7K4Y6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "declic": {
+      "status": "resolved",
+      "uniprot_id": [
+        "V4JF97"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "delta-opioid-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P32300",
+        "P41143"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "dgka": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0ABN1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "dgot": {
+      "status": "resolved",
+      "uniprot_id": [
+        "J7QAK3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "dinf-bh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9KAX3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "dltb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5M4V3",
+        "Q5M4V4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "dra-nramp": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9RTP8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "drd2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P14416"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "drosophila-orai": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9U6B8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 30
+    },
+    "drslc38a9": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q08BA4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "dsbA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0A6M2",
+        "P0AEG4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "dsbB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0A6M2",
+        "P0AEG4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "dstable-t4-lysozyme": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08483"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "dtpa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P77304"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "dtpb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P36837"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "e-coli-lgt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P60955"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "e-coli-lnt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P23930",
+        "Q9ZI86"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 13
+    },
+    "ec-cor-a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P31224"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "ec-hyd-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AAM1",
+        "P0ACD8",
+        "P69739"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "ec-yidc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P25714",
+        "Q1R4M9"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "eca-clcf": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C9CPP6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "ecf-cbrt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q1G7W0",
+        "Q1GBI8",
+        "Q1GBI9",
+        "Q1GBJ0"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "ecf-foit-lactobacillus-delbrueckii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q1G929",
+        "Q1G930",
+        "Q1GBI8",
+        "Q1GBI9",
+        "Q1GBJ0"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "ecf-pant": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q03PY5",
+        "Q03PY6",
+        "Q03PY7",
+        "Q03SM0",
+        "Q1GBG0",
+        "Q1GBI8",
+        "Q1GBI9",
+        "Q1GBJ0"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "ecodmt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "E4KPW4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "ecpgb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C6EFV6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ecsatp": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AC98"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "ehirae-v-atpase-k-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P43457"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "eiiaglc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02916",
+        "P68183",
+        "P68187",
+        "P69783"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "elic": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0C7B7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 35
+    },
+    "emrd": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P31442"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "emre": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P23895"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 17
+    },
+    "ep3-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P43115"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "etb-receptor-bosentan": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P24530"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "etb-s6b-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P13208",
+        "P24530"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "exiguobacterium-sibiricum-rhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q81BL7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "fcp-phaeodactylum-tricornutum": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B7FRW2"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "flak": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A9A677"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "flap": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P20292"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "fluc-ec2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B7LI20",
+        "Q6J5N4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 22
+    },
+    "focA-vibrio-cholerae": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AC25",
+        "Q9KRE7"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 20
+    },
+    "folate-ecf-transporter-lactobacillus-brevis": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q03PY5",
+        "Q03PY6",
+        "Q03PY7",
+        "Q03S56"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "fpr2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P25090"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "fragaceatoxin-c": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B9W5G6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "ftsblq-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P06136",
+        "P0A6S5",
+        "P0AEN4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "fucose-permease-fucp": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11551"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "gabar-b3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P28472"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "gadc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P63235"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "gastric-hk-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P18434",
+        "P19156"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 20
+    },
+    "gcgr": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P47871"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "gdx-clo": {
+      "status": "resolved",
+      "uniprot_id": [
+        "U2EQ00"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "geobacillus-thermodenitrificans-secye": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A4IJH4",
+        "A4IJK8",
+        "P28366"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "get1-get2-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G0SFE0",
+        "O43681"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 16
+    },
+    "ghrelin-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q92847"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "girk2-kir3-2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P48542",
+        "P59768",
+        "P62873"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 24
+    },
+    "gkApcT": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A5A616",
+        "Q5L1G5"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "gkpot": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5KYD1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "glcp-se": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0H2VG78"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "glic": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q7NDN8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 100
+    },
+    "glnk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AC55",
+        "P69681"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "gloeobacter-rhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q7NP59"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "glp1r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P43220"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 7
+    },
+    "glpT": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08194"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "glpf": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AER0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "glpg": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P09391"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "glt-ph": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O59010"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 50
+    },
+    "glt-tk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5JID0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "gluN1-gluN2b-nmda-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A1L8F5J9",
+        "A7XY94",
+        "P35439",
+        "Q00960"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 40
+    },
+    "glua2-ampa-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P19491"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 42
+    },
+    "glucl": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O17793"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "glut1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11166"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "glycophorin-a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02724"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "glyr-alpha3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O75311"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "gpr52": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P59768",
+        "P62873",
+        "P63092",
+        "Q9Y2T5"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "gpr6": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P46095",
+        "P59768",
+        "P62873",
+        "P63092"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 7
+    },
+    "gsuk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q74FS9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 16
+    },
+    "gtacr1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "L1J207"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "gtrb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q55487"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "h276395-glt-ph": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O59010"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "heliobacterial-reaction-center": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B0TAT4",
+        "Q1MX24"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "heliorhodopsin-taher": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A151EDA9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "hent1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q99808"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "hglut3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11169"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "hgpr40": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O14842"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "hi1470-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q57130",
+        "Q57399"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "hiGlpG": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P44783"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "hiteha": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P44741"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "hmmbh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AAM1",
+        "P0ACD8",
+        "P69739"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "hmp-ecf-transporter-lactobacillus-brevis": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q03NM0",
+        "Q03PY5",
+        "Q03PY6",
+        "Q03PY7"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "hot75bpr-proteorhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9AFF7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "hsc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q186B7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 40
+    },
+    "htrii-transducer": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P42196",
+        "P42259"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "human-5-ht1b-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P28222"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-adenosine-a1-receptor-a1ar": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P30542"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "human-adenosine-a2a-receptor-a2ar": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P29274",
+        "P63092"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 23
+    },
+    "human-ae1-anion-exchanger": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02730"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-aqp10": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q96PS8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "human-aqp5": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P55064"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "human-aqp7": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O14520"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "human-aquaporin-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P29972"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "human-aquaporin-2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P41181"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "human-aquaporin-4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P55087"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "human-beta-2-adrenergic-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P07550"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "human-ccka-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P01350",
+        "P04899",
+        "P32239",
+        "P50148",
+        "P59768",
+        "P62873"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 17
+    },
+    "human-cckb-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P32238"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-claudin-4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O14493",
+        "P01558"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-claudin-9": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O95484",
+        "P01558"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "human-connexin-26-gap-junction-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P29033"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "human-dhhc20": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5W0Z9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-dopamine-d3-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P35462"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "human-endothelin-etb-receptor-et1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P05305",
+        "P24530"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "human-endothelin-etb-receptor-irl2500": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P24530"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "human-ep4-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P35408"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "human-glut3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11169"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "human-glyt1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P16218",
+        "P48067"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "human-histamine-h1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P35367"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "human-histamine-h3-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0ABE7",
+        "Q9Y5N1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-k2p1-twik-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O00180"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-niemann-pick-c1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O15118"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "human-p2x3-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P56373"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 21
+    },
+    "human-p2y1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q7K4Y6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "human-pafr": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P25105"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-smoothened-hsmo": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q99835"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-task-1-k2p3-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O14649"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "human-y1-receptor-npy1r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P25929"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "human-y2-receptor-npy2r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P49146"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "hwbr": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q18DH8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "ilyobacter-tartaricus-c-subunit": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8KRV3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 11
+    },
+    "influenza-a-m2-proton-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0R5TVW3",
+        "A4D7H3",
+        "O70632",
+        "P0DOF5",
+        "Q0HD59",
+        "Q3YPZ4",
+        "Q9Q0L9"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 60
+    },
+    "ipct-dipps": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O29976"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "irtab-mycobacterium-thermoresistibile": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A100XE85",
+        "A0A100XEC2"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "jumping-spider-rhodopsin-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B1B1U5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "k2p-2-1-trek-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P97438"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "k2p2-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P97438"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "kappa-opioid-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0ABE7",
+        "P41145"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "kcsa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0A333",
+        "P0A334"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 166
+    },
+    "kdpfabc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P03959",
+        "P03960",
+        "P03961",
+        "P36937"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "kir2-2-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F1NHE9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 28
+    },
+    "kirbac-potassium-channels": {
+      "status": "resolved",
+      "uniprot_id": [
+        "D9N164",
+        "P83698",
+        "Q2W6R1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 36
+    },
+    "kpbest": {
+      "status": "resolved",
+      "uniprot_id": [
+        "S7AS11"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "kr2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "N0DKS8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 69
+    },
+    "kr2-krokinobacter-eikastus-rhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "N0DKS8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "kr2-rhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "N0DKS8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 7
+    },
+    "ks-amt5": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q1Q357"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "ktrb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O32081"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "kv1-2-2-1-2m-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P62483",
+        "P63142"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "kv1-2-2-1-3m-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P62483",
+        "P63142"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "kv1-2-2-1-v406w": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P62483",
+        "P63142"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "kvap": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9YDF8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "kvlm-pore-module": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8Y5K1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "lac-y": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02920"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "lbsemisweet": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B0SR19"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "leubat": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O67854"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "leut": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O67854"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 53
+    },
+    "lh1-rc-supercomplex-tepidum": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A8ASG6",
+        "D2Z0P1",
+        "D2Z0P2",
+        "D2Z0P3",
+        "D2Z0P5",
+        "D2Z0P9",
+        "P80176"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 73
+    },
+    "lh2-rps-acidophila": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P26789",
+        "P26790"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 36
+    },
+    "lh2-rs-molischianum": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P95673",
+        "P97253"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 16
+    },
+    "lmrp": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q48658"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "lnt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P23930"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "lp-copa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P04191",
+        "Q5ZWR1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "lpa1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q92633"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "lpa6": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q08BG4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "lpcat3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A1L1RNG8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "lptb2fg-pseudomonas-aeruginosa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9HVV6",
+        "Q9HXH4",
+        "Q9HXH5"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "lptb2fgc-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0H3CQA2",
+        "A0A0H3CR83",
+        "A0A0H3CU18",
+        "A0A421IFY4",
+        "O30650",
+        "Q9KP51",
+        "Q9KP75",
+        "Q9KP76"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "lsi1-cryst": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6Z2T3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "lspa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6GHN9",
+        "Q9HVM5"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "ltaa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q2FZP8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ltc4-synthase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q16873"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 24
+    },
+    "m1-muscarinic-acetylcholine-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11229",
+        "Q8QGR0"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "m1-star-t4l": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11229"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "m2-muscarinic-acetylcholine-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08172"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "m3-muscarinic-acetylcholine-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08483"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "m4-muscarinic-acetylcholine-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08173"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ma-icmt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8TMG0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "macb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q2EHL8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "malF": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02916",
+        "P0AEX9",
+        "P68183",
+        "Q1R3Q1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "malG": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02916",
+        "P0AEX9",
+        "P68183",
+        "Q1R3Q1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "malK": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02916",
+        "P0AEX9",
+        "P68183",
+        "Q1R3Q1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "maltose-binding-protein": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02916",
+        "P0AEX9",
+        "P68183",
+        "Q1R3Q1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "maltose-transporter-malfgk2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C9QV42",
+        "C9QV46",
+        "P02916",
+        "P0AEX9",
+        "P68183",
+        "P68187",
+        "P69783"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 30
+    },
+    "mamodbc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8TTZ3",
+        "Q8TTZ4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "masr1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G4SW86"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "mastr": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A7M4DUE4",
+        "O59010"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "mcjd": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P04191",
+        "Q9X2W0"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "mdfA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AEY8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "mdfa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AEY8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "mdfa-i239t-g354e": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AEY8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "med12bpr-proteorhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q4PP54"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "melbst": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P30878"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "mep2-ammonium-transceptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P41948",
+        "Q59UP8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 18
+    },
+    "metabotropic-glutamate-receptor-5": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P41594"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "metarhodopsin-ii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02699"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "methanococcus-jannaschii-secy": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P60460",
+        "Q57817",
+        "Q60175"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "methanococcus-maripaludis-rce1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6LZY8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "mexB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P52002"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "mexb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P52002"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "mglu1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q13255"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "mgst2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q99735"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "mgt-e-thermus-thermophilus": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5SMG8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "mhsT": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9KDT3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "mhv1cc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q3U2S8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "mitochondrial-calcium-uniporter-mcu": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q21121"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "mj0480": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q57904"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "mjnhaP1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q60362"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "mjs2p": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q57837"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "mlotik1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q98GN8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "mmpL3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0QP27"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "mmpsh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A3CWV0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "mouse-claudin-15": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9Z0S5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "mouse-drd4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P51436"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "mouse-p-glycoprotein": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21447"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "mouse-scd1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P13516"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "mpges-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O14684"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "msba": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P63359",
+        "Q8FJB1"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "mscs": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0C0S1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 7
+    },
+    "mt-pgsa1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P9WPG7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "mt-tmem175": {
+      "status": "resolved",
+      "uniprot_id": [
+        "E4TN31",
+        "P0AEX9"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 36
+    },
+    "mtcorb-ac": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A1G8XA46"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "mthk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O27564"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 36
+    },
+    "mtmem16a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C7Z7K1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "mtre": {
+      "status": "resolved",
+      "uniprot_id": [
+        "D1E405"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "mu-opioid-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P42866"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "murj": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A979HMS2",
+        "B7IE18",
+        "P0AF16"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "murj-ta-thermosiphon-africanus": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B7IE18"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "mvins": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A1T557"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "n2098r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A1Z4FUT4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "n4075r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A218QMM7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "na-k-atpase-pig-kidney": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P05024",
+        "P05027",
+        "Q58K79"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 50
+    },
+    "naatm1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q2G506"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 18
+    },
+    "nak-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C2R3K4",
+        "Q81HW2"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 44
+    },
+    "nap-a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5SIA2",
+        "Q72IM4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "narghi": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P09152",
+        "P11349",
+        "P11350"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 30
+    },
+    "nark": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P10903"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "narq": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P27896"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "naru": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P37758"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "navab": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A8EVM5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 44
+    },
+    "navae1p-sodium-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02699"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "navms": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0L5S6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 44
+    },
+    "navms-sodium-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0L5S6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "navrh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0L5S6",
+        "D0RMU8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "navsulp": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A9VEV6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "ncr1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q12200"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ncx-mj": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q57556"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "nerh50": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q82X47"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "neurotensin-receptor-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P20789"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "ng-hka": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P07340",
+        "P54708"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "nhaa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P13738"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "nhtmem16": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C7Z7K1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "nm-epta": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q7DD94"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "nop-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P41146"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "nor-mng": {
+      "status": "resolved",
+      "uniprot_id": [
+        "E8SM44",
+        "M1E1G6",
+        "Q5F9J8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "nrfh-quinol-dehydrogenase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q72EF3",
+        "Q72EF4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "nsxer-xenorhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G0QG75"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "ntmate2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A3KDM5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ntsr1-el": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P20789"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ntsr1-lf": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P20789"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "nupg": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AFF4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "o-sativa-sweet2b": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5N8J1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "olpvr1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F2Y337"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "opsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02699"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "oqxb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P20789",
+        "P62873",
+        "P63096",
+        "P63211"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "orexin-1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O15269",
+        "O15270",
+        "Q8N138",
+        "Q969W0"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 16
+    },
+    "orexin-2-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O43614"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "osnip2-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6Z2T3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "oxit": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q51330"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "oxytocin-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P30559"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "p2y12-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9H244"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "panhap": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9UZ55"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "par2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O35433",
+        "P0CH43"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "pbgA-yejM": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AD27",
+        "P40709"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "pc-mangt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A3MTD6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "pcat1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A3DCU1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "pept-sh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A1L8Y4Q3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "pept-so": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8EKT7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "pept-so2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8EHE6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "pept-st": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5M4H8",
+        "Q8EKT7"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "peptst-transporter": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5M4H8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "pfaqp": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8II36"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "pfht1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O97467"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "pfmate": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8U2X0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 11
+    },
+    "pglb-campylobacter-lari": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B9KDD4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "pglk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O86150"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "pharaonis-halorhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q3ITX1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "phospholamban": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P04191",
+        "P42532",
+        "P61012"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 7
+    },
+    "photosystem-i-thermosynechococcus-elongatus": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0A401",
+        "P0A403",
+        "P0A405",
+        "P0A407",
+        "P0A415",
+        "P0A420",
+        "P0A423",
+        "P0A425",
+        "P0A427",
+        "P0A429",
+        "Q8DGB4",
+        "Q8DKP6"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 36
+    },
+    "photosystem-ii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "D0VWR1",
+        "D0VWR2",
+        "D0VWR3",
+        "D0VWR4",
+        "D0VWR5",
+        "D0VWR7",
+        "D0VWR8",
+        "P0A386",
+        "P0A387",
+        "P0A431",
+        "P0A444",
+        "P0DM37",
+        "P12238",
+        "P12239",
+        "P12240",
+        "P12241",
+        "P12312",
+        "P12313",
+        "P19052",
+        "P19054",
+        "P51765",
+        "P56152",
+        "P59087",
+        "Q7DGD4",
+        "Q8CM25",
+        "Q8DHA7",
+        "Q8DHJ2",
+        "Q8DIF8",
+        "Q8DIN8",
+        "Q8DIN9",
+        "Q8DIP0",
+        "Q8DIQ0",
+        "Q8DIQ1",
+        "Q8DJ43",
+        "Q8DJI1",
+        "Q8DJZ6",
+        "Q8DKM3",
+        "Q9F1K9",
+        "Q9F1L5",
+        "Q9F1R6"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 739
+    },
+    "photosystem-ii-core-dimer": {
+      "status": "resolved",
+      "uniprot_id": [
+        "D0VWR1",
+        "D0VWR2",
+        "D0VWR3",
+        "D0VWR4",
+        "D0VWR5",
+        "D0VWR7",
+        "D0VWR8",
+        "P0A386",
+        "P0A387",
+        "P0A431",
+        "P0A444",
+        "P0DM37",
+        "P12238",
+        "P12239",
+        "P12240",
+        "P12241",
+        "P12312",
+        "P12313",
+        "P19052",
+        "P19054",
+        "P51765",
+        "P56152",
+        "P59087",
+        "Q7DGD4",
+        "Q8CM25",
+        "Q8DHA7",
+        "Q8DHJ2",
+        "Q8DIF8",
+        "Q8DIN8",
+        "Q8DIN9",
+        "Q8DIP0",
+        "Q8DIQ0",
+        "Q8DIQ1",
+        "Q8DJ43",
+        "Q8DJI1",
+        "Q8DJZ6",
+        "Q9F1K9",
+        "Q9F1L5",
+        "Q9F1R6"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 154
+    },
+    "pmmo": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q50541",
+        "Q9KX50",
+        "Q9KX51"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 15
+    },
+    "pmulaa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9CMQ1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "psba2-psii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0A386",
+        "P0A431",
+        "P0A446",
+        "P59087",
+        "Q8CM25",
+        "Q8DHA7",
+        "Q8DHJ2",
+        "Q8DIF8",
+        "Q8DIN8",
+        "Q8DIN9",
+        "Q8DIP0",
+        "Q8DIQ0",
+        "Q8DIQ1",
+        "Q8DJ43",
+        "Q8DJI1",
+        "Q8DJZ6",
+        "Q8DKM3",
+        "Q9F1K9",
+        "Q9F1L5",
+        "Q9F1R6"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 39
+    },
+    "psba3-psii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0A386",
+        "P0A431",
+        "P59087",
+        "Q8CM25",
+        "Q8DHA7",
+        "Q8DHJ2",
+        "Q8DIF8",
+        "Q8DIN8",
+        "Q8DIN9",
+        "Q8DIP0",
+        "Q8DIQ0",
+        "Q8DIQ1",
+        "Q8DIV4",
+        "Q8DJ43",
+        "Q8DJI1",
+        "Q8DJZ6",
+        "Q8DKM3",
+        "Q9F1K9",
+        "Q9F1L5",
+        "Q9F1R6"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 39
+    },
+    "pseudomonas-aeruginosa-lnt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9ZI86"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "psi-lhci-chlamydomonas": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A8IFG7",
+        "A8IKC8",
+        "A8IL32",
+        "A8ITV3",
+        "A8JF10",
+        "P09144",
+        "P12154",
+        "P12352",
+        "P12356",
+        "P14224",
+        "P14225",
+        "P59777",
+        "Q00914",
+        "Q05093",
+        "Q39615",
+        "Q75VY6",
+        "Q75VY7",
+        "Q75VY8",
+        "Q75VY9",
+        "Q75VZ0",
+        "Q84Y02"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 45
+    },
+    "psi-lhci-pea": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0F6NGI2",
+        "A0A0M3KL10",
+        "A0A0M3KL12",
+        "D5MAL3",
+        "E1C9K6",
+        "E1C9K8",
+        "E1C9L1",
+        "E1C9L3",
+        "P05310",
+        "P10793",
+        "P17227",
+        "Q32904",
+        "Q41038",
+        "Q9SQL2"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 16
+    },
+    "pspr": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A8X6EH36"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "pyrococcus-furiosus-secye": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8TZK2",
+        "Q8U019"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "rembh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AAM1",
+        "P0ACD8",
+        "P69739"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "rh-protein-nitrosomonas-europaeae": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q82X47"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "rhcg": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9UBD6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "rhodobacter-sphaeroides-reaction-center": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0C0Y7",
+        "P0C0Y8",
+        "P0C0Y9",
+        "Q3J170",
+        "Q3J1A5",
+        "Q3J1A6"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 81
+    },
+    "rhodopsin-2-2a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02699"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "rhodopsin-n2c-d282c-mutant": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02699"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ribu": {
+      "status": "resolved",
+      "uniprot_id": [
+        "E5QVT2"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "rod-a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5SIX3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "rps-viridis-reaction-centre": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P06008",
+        "P06009",
+        "P06010",
+        "P07173"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "rstspo": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9RFC8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "rv1410": {
+      "status": "resolved",
+      "uniprot_id": [
+        "K5B8L6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "s1p1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21453"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "s1p3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q99500"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "s1p5": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9H228"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "sa-pgsa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P63756"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "sagb-spdc-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q2FXF4",
+        "Q2YYX7"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "salmonella-typhimurium-foca": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q7CQU0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "sav1866": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q99T13"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "sbta": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P73953",
+        "P73954"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "sbtb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P73953",
+        "P73954"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "sca-dmt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0S4MEX1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "sctr1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C0HAK2"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "se-cits": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G4BX92"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "secdf": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5SKE6",
+        "Q9RTE3"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "sece": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P38383",
+        "Q5SHE6",
+        "Q5SHQ8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "secg": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P38383",
+        "Q5SHE6",
+        "Q5SHQ8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "secy": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P38383",
+        "Q5SHE6",
+        "Q5SHQ8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "secyeg": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P38383",
+        "Q5SHE6",
+        "Q5SHQ8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "sehyd-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AAM1",
+        "P0ACD8",
+        "P69739"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "sehyd-5": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AAM1",
+        "P0ACD8",
+        "P69739"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "sensory-rhodopsin-ii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P42196",
+        "P42259"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "serca1a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P04191",
+        "P42532"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 27
+    },
+    "serca2a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11607",
+        "P16615"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "serca2b": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P16615"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "shaker-kv1-2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P62483",
+        "P63142"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 32
+    },
+    "shark-na-k-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "C4IX13",
+        "P05024",
+        "P05027",
+        "Q4H132",
+        "Q58K79",
+        "Q70Q12"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 13
+    },
+    "siat": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B4EZY7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "sigma-1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q99720"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "sigma-2-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q3MHW7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "slac1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P44741"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "slc26dg": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q1J2S8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "slc35a1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q61420"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "smoothened": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P56726"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "so-pip2-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q41372"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 20
+    },
+    "sotb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P31122"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "spcs1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P42212"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "spinach-chloroplast-c14-rotor-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P69447"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 14
+    },
+    "spinach-light-harvesting-complex-ii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P12333"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "spirulina-platensis-c15-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A5HEI4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 15
+    },
+    "spr0694-0695": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8DQF7",
+        "Q8DQF8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "squid-rhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P31356"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "srrh-pde": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F2TZN0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "ss-znta": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P04191"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ssert": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P31645"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 7
+    },
+    "sstr2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P30874",
+        "P59768",
+        "P62873",
+        "P63096"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "stclc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8ZRP8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "stearoyl-coa-desaturase-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O00767"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "stelic": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G2FID1"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 25
+    },
+    "steroid-sulfatase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08842"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "stp10": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9LT15"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "sucnr1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6IYF9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "sulfitobacter-scoat": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A3T2G5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "synechocystis-halorhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A9X9ZA75"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "teha": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P44741"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "thermochromatium-tepidum-hipip": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q93RD8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "thermochromatium-tepidum-photosynthetic-reaction-center": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q93RD8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "thermotoga-maritima-cora": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9WZ31"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "thermotoga-maritima-seca": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B1L914",
+        "P35874",
+        "Q9X1I9",
+        "Q9X1R4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "thit": {
+      "status": "resolved",
+      "uniprot_id": [
+        "D8KFM5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "tm-cora": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9WZ31"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "tm287-288": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9WYC3",
+        "Q9WYC4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "tm86v-delta-ic3a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P20789"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "tmpit": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9WY99"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "tmppase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9S5X0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "tmrab": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q72J04",
+        "Q72J05"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "tmyidc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9X1H2"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "tpcorc-magnesium-transporter": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A109QFA5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "traak": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O88454",
+        "Q9NYG8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 14
+    },
+    "transhydrogenase-dii-domain": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q72GR8",
+        "Q72GR9",
+        "Q72GS0"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 22
+    },
+    "trek-2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P57789"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 16
+    },
+    "tric-b1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9NA75"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "tric-b2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9NA73"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "tric-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q3HKN0",
+        "Q981D4"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "trka": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q87KD2",
+        "Q87TN7"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 12
+    },
+    "trkh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q87KD2",
+        "Q87TN7"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "trpv2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G1SNM3"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "trpv6": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9R186"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 21
+    },
+    "tubulin-darpin-complex-td1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P29274"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "turkey-beta1-ar-m23": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P07550"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "turkey-beta1-ar-m23-2vt4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P07700"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "tysemisweet": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B5YGD6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "uapA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q07307"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "uraA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AGM7",
+        "P0AGM8"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 9
+    },
+    "us28": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P69332",
+        "P69333",
+        "P78423"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "vccnt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9KPL5"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "vcindy": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9KNE0"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "vcmn": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A2A1YWE9"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "vit1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0DO17"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "vp-trkh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q87TN7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "vrg4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P40107"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 3
+    },
+    "vrh-ppase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21616"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 18
+    },
+    "vsglt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P96169"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "wza": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9X4B7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 8
+    },
+    "wzxe": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AAA7"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "xanthorhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q2S2F8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "xl-sigma-1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6DCU6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 26
+    },
+    "xyle": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0AGF4"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 5
+    },
+    "yajc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0ADZ7",
+        "P31224"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "yarrowia-lipolytica-atp-synthase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q37695",
+        "Q6C326",
+        "Q6C338",
+        "Q6C877",
+        "Q6CFT7"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 19
+    },
+    "ybgH": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P75742"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "ydah": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q0VR69"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "yeast-adp-atp-carrier": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P18239"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "yeast-atm1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P40416"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 4
+    },
+    "yeast-atp-synthase-c10-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P61829"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "yeast-f1c10-atp-synthase-subcomplex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00829",
+        "P00830",
+        "P05631",
+        "P07251",
+        "P0A6E6",
+        "P19483",
+        "P21306",
+        "P38077",
+        "P61829",
+        "P68699",
+        "Q12165"
+      ],
+      "confidence": "multi_high",
+      "method": "chain",
+      "n_chain_pairs": 36
+    },
+    "yeast-mitochondrial-atp-synthase-c10-ring": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P61829"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 10
+    },
+    "yeeE": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G0GAP6"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "yepept": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A2R9TD79"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 1
+    },
+    "zfp2x4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F8W463"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "zmpste24": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O75844"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 2
+    },
+    "zneA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q1LCD8"
+      ],
+      "confidence": "high",
+      "method": "chain",
+      "n_chain_pairs": 6
+    },
+    "a-pernix-kvap": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9YDF8"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "acetylcholine-binding-protein": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P58154"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "acra": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P54302"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "af-copa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "W0UUV5"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "af-tmem16": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8Y7I7"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "alpha-1b-adrenergic-receptor": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_mapping",
+      "method": "vote",
+      "n_pdbs": 1,
+      "votes": {}
+    },
+    "apelin-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00268"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "aquifex-aeolicus-ftsh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O67077"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "arabidopsis-nitrate-transporter-nrt1-1": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_pdb_mapping",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "archaerhodopsin-1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P10727"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "avglur1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "E9P5T5"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 6
+    },
+    "bacillus-halodurans-yidc2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9SZU7"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "bc-chbc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5SID2"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "bcs1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9CZP5"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 4
+    },
+    "bk-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q12791"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "bovine-f1-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00829"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "bovine-f1-atpase-azide-free": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P19483"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "bovine-f1-atpase-efrapeptin-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P05631"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "bovine-f1-atpase-stator-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02721"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "c-elegans-p-glycoprotein": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q13627"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "c-thermarum-f1-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F5LA74"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "c1c2ga": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8RUT8"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "ccr2a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P41597"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "ccr5": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P51681"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "ccr7": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P32248"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "cd53": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P19397"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "clpp": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O95154"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "crf1r-star-t4l": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P29476"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "cry6aa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q45757"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "cusC": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P77239"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "cytochrome-b5": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00167"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "cytochrome-b5-reductase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00387"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "eaat1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q15758"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "ec-semisweet": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O75469"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "ecglpg-cyto": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P09391"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "enterococcus-hirae-v1-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P43435"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 5
+    },
+    "escherichia-coli-sppa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08395"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "espB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P9WJD9"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 4
+    },
+    "espg1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "I6X486"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "etf-qo": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P55931"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "exbB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8A5H8"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "exbD": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8A5H8"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "f-nucleatum-f1-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8RGE1"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "fbpc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5FA19"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "frizzled-4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00268"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "gabarap": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O95721"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "girk1-cytoplasmic-pore": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P63251"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "glic-ecd": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q7NDN8"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "glpd-e-coli": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P13035"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "glttk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9I5Q5"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "gluN1b-gluN2b-atd": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q00960"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "glua2-3-ampa-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P19491"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "glua2-lbd": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P19491"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "gnrh1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P30968"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "gr": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8RUT8"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "gs-alpha": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P04896"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "hace2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0DTC2"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "halorhodopsin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0DMH7"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "heliorhodopsin-48c12": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6P2Q9"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "hslo3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A8MYU2"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "hsvkor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9BQB6"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 6
+    },
+    "human-alpha4beta2-nicotinic-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P52293"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "human-beta1-ar": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08588"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 4
+    },
+    "human-bk-channel-slo1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q12791"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "human-gabab-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9UBS5"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 4
+    },
+    "human-gpr132": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O60885"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "human-gpr4": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P12277"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "human-gpr65": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_pdb_mapping",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "human-gpr68": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q96RU2"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "human-mt1-melatonin-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P48039"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 4
+    },
+    "human-mt2-melatonin-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00268"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 4
+    },
+    "human-neurokinin-1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P25103"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 4
+    },
+    "human-pth1-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q37979"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "human-rhodopsin-e113q-m257y": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08100"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "ic-plus-plus": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_mapping",
+      "method": "vote",
+      "n_pdbs": 2,
+      "votes": {}
+    },
+    "il-17a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8NAC3"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "il-17f": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q96PD4"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "il-17ra": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q96PD4"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "il-17rc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8NAC3"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "jagn1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8N5M9"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "kctd16": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q68DU8"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "kir3-1-kirbac1-3-chimera": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q146M9"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "ktra": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O32080"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "larB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F9UST0"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "lh1-rc-thermochromatium-tepidum": {
+      "status": "resolved",
+      "uniprot_id": [
+        "D2Z0P2"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "listeriolysin-o": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0H3GD84"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "m5-muscarinic-acetylcholine-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08912"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "ma-mscl": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q58584"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "mc4-r": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P32245"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "mexa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P52477"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "mlaA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0W8AQT6"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "mlaC": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0ADV7"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "mlaD": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P64605"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "mlab": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P64602"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "mlaf": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P64602"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "molybdenum-storage-protein": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00698"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "mouse-5ht3a-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P09874"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "mouse-visual-arrestin-3a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08100"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "mt4l-lysozyme": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P08483"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "mycp1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02787"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "nav1-4-cterm-cam": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P35499"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "nicastrin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F0ZBA6"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "norM-vc": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9R381"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "nuclear-cap-binding-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9BXP5"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "olpvr2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A8I3AZZ2"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "paddle-chimaera-channel": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P62483"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "par1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "B6YXQ1"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "pbsrd5a": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0DTD1"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "pe25": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q79FE1"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "pea-light-harvesting-complex-ii": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q29411"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "photosystem-ii-red-alga": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9TLR0"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "pip-synthase-rs": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A9WSF5"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "pl5-pentamer": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_mapping",
+      "method": "vote",
+      "n_pdbs": 1,
+      "votes": {}
+    },
+    "ppe41": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q79FE1"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "pqiB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P43671"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "ptr-chimera": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P62483"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "rocker": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_mapping",
+      "method": "vote",
+      "n_pdbs": 1,
+      "votes": {}
+    },
+    "ry1-repeat12": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11716"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "ry2-spry1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P11716"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "sarcolipin": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_pdb_mapping",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "sars-cov-2-ctd": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P0DTC2"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "sc-pmt2-mir-domain": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P31382"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "sc-pmt3-mir-domain": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P47190"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "schizorhodopsin": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_mapping",
+      "method": "vote",
+      "n_pdbs": 1,
+      "votes": {}
+    },
+    "smhA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A1Q4NVM5"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "smhB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A1Q4NVM7"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "smoothened-fla-fusion": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00323"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "snap29": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O95721"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "spoiiq-spoiiah-complex": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P49785"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "sppa-bs": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O34525"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "sppa-ec": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9WZY5"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "spr0693": {
+      "status": "resolved",
+      "uniprot_id": [
+        "A0A0Y3EE53"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "starkeya-novella-yddg": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P00327"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "sulfide-quinone-oxidoreductase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O67931"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "syntaxin17": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O95721"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "t-thermophilus-atpase-peripheral-stalk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q5SIT5"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "tbrucei-f1-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q57XX1"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "tcdA1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9RN43"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "tcdB2-tccC3": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9RN43"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "tg2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21980"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "thaumatin": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P02883"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "thermothelomyces-thermophila-adp-atp-carrier": {
+      "status": "resolved",
+      "uniprot_id": [
+        "F6MIW5"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "thermotoga-maritima-ftsh": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9WZ49"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "thermus-thermophilus-a-atpase-peripheral-stalk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8A183"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "thromboxane-a2-receptor": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21731"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "tlg2": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G0S539"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "tmcdsa": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9EQU3"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "tmem266": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8BZB3"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "tonB": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8A5H8"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "trex1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q91XB0"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 6
+    },
+    "trpml1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q9GZU1"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "trvkorl": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q6TEK8"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 5
+    },
+    "turkey-beta1-ar-ligand-free-basal": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q8N3J5"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "ulaA": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P04637"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "urea-transporter-dvut": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P12277"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "v1-atpase-t-thermophilus": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q56404"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 4
+    },
+    "vamp8": {
+      "status": "resolved",
+      "uniprot_id": [
+        "O95721"
+      ],
+      "confidence": "medium",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "vcx1": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q2SXN9"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "vp-zntb": {
+      "status": "resolved",
+      "uniprot_id": [
+        "Q87M69"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "vps45": {
+      "status": "resolved",
+      "uniprot_id": [
+        "G0S539"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 3
+    },
+    "yajr-transporter": {
+      "status": "failed",
+      "uniprot_id": null,
+      "reason": "no_mapping",
+      "method": "vote",
+      "n_pdbs": 1,
+      "votes": {}
+    },
+    "yeast-f1-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P21306"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "yeast-v-atpase-egc-head-peripheral-stalk": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P48836"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "yeast-v-atpase-subunits-d-f-scdf": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P39111"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "yeast-v1-atpase": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P32610"
+      ],
+      "confidence": "tie_auto",
+      "method": "vote",
+      "n_pdbs": 2
+    },
+    "yebT": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P64605"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    },
+    "yegt": {
+      "status": "resolved",
+      "uniprot_id": [
+        "P76417"
+      ],
+      "confidence": "high",
+      "method": "vote",
+      "n_pdbs": 1
+    }
+  }
+}

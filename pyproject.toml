@@ -1,0 +1,82 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta:__legacy__"
+
+[project]
+name = "xray-mp-wiki-scripts"
+version = "0.1.0"
+description = "Scripts for managing the X-ray Membrane Protein Wiki"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+dependencies = [
+    "PyYAML>=6.0",
+    "ruamel.yaml>=0.18",
+    "requests>=2.28",
+]
+
+[project.scripts]
+wiki-generate-page = "scripts.generate_page:main"
+wiki-validate = "scripts.validate_yaml:main"
+wiki-lint = "scripts.lint:main"
+wiki-query = "scripts.wiki_query:main"
+wiki-rebuild-indexes = "scripts.rebuild_indexes:main"
+wiki-rebuild-entity-catalog = "scripts.rebuild_entity_catalog:main"
+wiki-rebuild-graph = "scripts.rebuild_graph:main"
+wiki-enrich-wikilinks = "scripts.enrich_wikilinks:main"
+wiki-aggregate-stats = "scripts.aggregate_stats:main"
+
+[tool.setuptools.packages.find]
+include = ["scripts*"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # pyflakes
+    "I",   # isort
+    "N",   # pep8-naming
+    "W",   # pycodestyle warnings
+]
+ignore = [
+    "E402",  # module-import-not-at-top-of-file — sys.path.insert pattern
+    "E501",  # line-too-long — managed by ruff formatter line-length
+    "N802",  # function-name-should-be-lowercase — _v_* validators
+    "N806",  # variable-in-function-should-be-lowercase — some test variables
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "lf"
+
+[tool.pytest.ini_options]
+testpaths = ["scripts"]
+markers = [
+    "slow: full-scan tests (~30-60s). Use --run-slow to include.",
+]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]
+
+[tool.mypy]
+python_version = "3.11"
+warn_unused_configs = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+disallow_untyped_defs = false
+strict_optional = true
+ignore_missing_imports = true  # local modules (_base, _subdir_utils) & yaml at runtime
+files = [
+    "scripts/_base.py",
+    "scripts/_subdir_utils.py",
+    "scripts/protein_page_renderer.py",
+    "scripts/reagent_page_renderer.py",
+    "scripts/method_page_renderer.py",
+    "scripts/concept_page_renderer.py",
+    "scripts/generate_page.py",
+]

@@ -1,0 +1,51 @@
+name: Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.13"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -e .
+          pip install ruff pytest mypy
+
+      - name: Lint with ruff
+        run: ruff check scripts/
+
+      - name: Check formatting with ruff
+        run: ruff format --check scripts/
+
+      - name: Type check with mypy
+        run: mypy scripts/_base.py scripts/_subdir_utils.py scripts/generate_page.py scripts/protein_page_renderer.py scripts/reagent_page_renderer.py scripts/method_page_renderer.py scripts/concept_page_renderer.py
+
+      - name: Run fast tests
+        run: python -m pytest scripts/test_generate.py scripts/test_validate.py scripts/test_wiki_query.py -v --junitxml=report-fast.xml
+
+      - name: Run full-scan tests (slow)
+        run: python -m pytest scripts/test_data_integrity.py -v --junitxml=report-slow.xml
+        continue-on-error: true  # known-threshold: data integrity may find catalog drift
+
+      - name: Upload test reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-reports-${{ matrix.python-version }}
+          path: report-*.xml

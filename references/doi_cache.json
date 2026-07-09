@@ -1,0 +1,460 @@
+{
+  "10.1002/1873-3468.14136": {
+    "last_checked": "2026-07-03T05:36:27Z",
+    "note": "rate-limited \u2014 may be valid",
+    "status": "403",
+    "valid": false
+  },
+  "10.1002/anie.201302374": {
+    "last_checked": "2026-07-03T05:36:36Z",
+    "note": "rate-limited \u2014 may be valid",
+    "status": "403",
+    "valid": false
+  },
+  "10.1002/anie.202003788": {
+    "last_checked": "2026-07-03T05:36:44Z",
+    "note": "rate-limited \u2014 may be valid",
+    "status": "403",
+    "valid": false
+  },
+  "10.1002/anie.202115545": {
+    "last_checked": "2026-07-03T05:36:53Z",
+    "note": "rate-limited \u2014 may be valid",
+    "status": "403",
+    "valid": false
+  },
+  "10.1002/pro.215": {
+    "last_checked": "2026-07-03T05:37:01Z",
+    "note": "rate-limited \u2014 may be valid",
+    "status": "403",
+    "valid": false
+  },
+  "10.1002/pro.2387": {
+    "last_checked": "2026-07-03T05:37:09Z",
+    "note": "rate-limited \u2014 may be valid",
+    "status": "403",
+    "valid": false
+  },
+  "10.1006/jmbi.1994.0097": {
+    "last_checked": "2026-07-03T05:37:13Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1006/jmbi.1997.0966": {
+    "last_checked": "2026-07-03T05:37:18Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1006/jmbi.1999.3027": {
+    "last_checked": "2026-07-03T05:37:21Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1007/s10969-013-9154-x": {
+    "last_checked": "2026-07-03T05:37:26Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.BMC.2005.12.001": {
+    "last_checked": "2026-07-03T05:37:30Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.CELL.2010.05.003": {
+    "last_checked": "2026-07-03T05:37:34Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.FEBSLET.2005.09.061": {
+    "last_checked": "2026-07-03T05:37:42Z",
+    "note": "rate-limited \u2014 may be valid",
+    "status": "403",
+    "valid": false
+  },
+  "10.1016/J.JMB.2004.08.090": {
+    "last_checked": "2026-07-03T05:37:46Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.JMB.2007.03.007": {
+    "last_checked": "2026-07-03T05:37:50Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.JMB.2007.04.082": {
+    "last_checked": "2026-07-03T05:37:54Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.JMB.2008.04.017": {
+    "last_checked": "2026-07-03T05:37:58Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.JMB.2009.04.001": {
+    "last_checked": "2026-07-03T05:38:01Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.MOLCEL.2011.10.020": {
+    "last_checked": "2026-07-03T05:38:06Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.MOLCEL.2016.05.037": {
+    "last_checked": "2026-07-03T05:38:09Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.STR.2012.03.014": {
+    "last_checked": "2026-07-03T05:38:13Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/J.STR.2014.12.012": {
+    "last_checked": "2026-07-03T05:38:17Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/JMB.2008.04.017": {
+    "last_checked": "2026-07-03T05:38:20Z",
+    "status": "404",
+    "valid": false
+  },
+  "10.1016/S0022-2836(02)00681-2": {
+    "last_checked": "2026-07-03T05:38:24Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/S0022-2836(03)00024-X": {
+    "last_checked": "2026-07-03T05:38:28Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/S0022-2836(03)00751-4": {
+    "last_checked": "2026-07-03T05:38:32Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/S0092-8674(02)01227-8": {
+    "last_checked": "2026-07-03T05:38:36Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/S0969-2126(96)00063-9": {
+    "last_checked": "2026-07-03T05:38:40Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/S0969-2126(99)80118-X": {
+    "last_checked": "2026-07-03T05:38:44Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.acr.2015.07.014": {
+    "last_checked": "2026-07-03T05:38:47Z",
+    "status": "404",
+    "valid": false
+  },
+  "10.1016/j.bbabio.2001.08.008": {
+    "last_checked": "2026-07-03T05:38:51Z",
+    "status": "404",
+    "valid": false
+  },
+  "10.1016/j.bbabio.2001.08.009": {
+    "last_checked": "2026-07-03T05:38:54Z",
+    "status": "404",
+    "valid": false
+  },
+  "10.1016/j.bbabio.2001.08.012": {
+    "last_checked": "2026-07-03T05:38:57Z",
+    "status": "404",
+    "valid": false
+  },
+  "10.1016/j.bbabio.2008.01.008": {
+    "last_checked": "2026-07-03T05:39:01Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbabio.2013.11.015": {
+    "last_checked": "2026-07-03T05:39:05Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbabio.2023.148986": {
+    "last_checked": "2026-07-03T05:39:09Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbagen.2020.129800": {
+    "last_checked": "2026-07-03T05:39:13Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbamem.2011.09.009": {
+    "last_checked": "2026-07-03T05:39:16Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbamem.2019.183065": {
+    "last_checked": "2026-07-03T05:39:20Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbamem.2021.183825": {
+    "last_checked": "2026-07-03T05:39:24Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbrc.2018.09.043": {
+    "last_checked": "2026-07-03T05:39:28Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbrc.2019.12.091": {
+    "last_checked": "2026-07-03T05:39:32Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbrc.2020.11.096": {
+    "last_checked": "2026-07-03T05:39:36Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bbrc.2023.149393": {
+    "last_checked": "2026-07-03T05:39:39Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bcp.2022.115291": {
+    "last_checked": "2026-07-03T05:39:43Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.bmc.2005.12.001": {
+    "last_checked": "2026-07-03T05:39:47Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2005.12.035": {
+    "last_checked": "2026-07-03T05:39:51Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2006.10.034": {
+    "last_checked": "2026-07-03T05:39:55Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2006.10.034)": {
+    "last_checked": "2026-07-03T05:39:58Z",
+    "status": "404",
+    "valid": false
+  },
+  "10.1016/j.cell.2010.05.003": {
+    "last_checked": "2026-07-03T05:40:02Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2011.07.046": {
+    "last_checked": "2026-07-03T05:40:06Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2014.01.011": {
+    "last_checked": "2026-07-03T05:40:10Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2014.03.045": {
+    "last_checked": "2026-07-03T05:40:14Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2014.07.023": {
+    "last_checked": "2026-07-03T05:40:18Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2015.04.011": {
+    "last_checked": "2026-07-03T05:40:22Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2015.04.045": {
+    "last_checked": "2026-07-03T05:40:26Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2015.06.002": {
+    "last_checked": "2026-07-03T05:40:30Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2016.07.036": {
+    "last_checked": "2026-07-03T05:40:34Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2016.09.056": {
+    "last_checked": "2026-07-03T05:40:38Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2016.10.004": {
+    "last_checked": "2026-07-03T05:40:42Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2016.12.033": {
+    "last_checked": "2026-07-03T05:40:46Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2017.01.042": {
+    "last_checked": "2026-07-03T05:40:50Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2017.03.010": {
+    "last_checked": "2026-07-03T05:40:54Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2017.03.019": {
+    "last_checked": "2026-07-03T05:40:58Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2017.12.011": {
+    "last_checked": "2026-07-03T05:41:02Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2018.01.001": {
+    "last_checked": "2026-07-03T05:41:06Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2018.11.025": {
+    "last_checked": "2026-07-03T05:41:10Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2018.12.006": {
+    "last_checked": "2026-07-03T05:41:14Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2018.12.011": {
+    "last_checked": "2026-07-03T05:41:18Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2019.01.003": {
+    "last_checked": "2026-07-03T05:41:22Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2019.04.021": {
+    "last_checked": "2026-07-03T05:41:26Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2019.06.031": {
+    "last_checked": "2026-07-03T05:41:30Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2019.07.028": {
+    "last_checked": "2026-07-03T05:41:35Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2019.08.038": {
+    "last_checked": "2026-07-03T05:41:39Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2020.01.008": {
+    "last_checked": "2026-07-03T05:41:43Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2020.03.045": {
+    "last_checked": "2026-07-03T05:41:47Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.cell.2021.11.001": {
+    "last_checked": "2026-07-03T05:41:51Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.celrep.2013.03.007": {
+    "last_checked": "2026-07-03T05:41:55Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.celrep.2015.04.045": {
+    "last_checked": "2026-07-03T05:41:59Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.celrep.2015.10.025": {
+    "last_checked": "2026-07-03T05:42:03Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.celrep.2015.12.087": {
+    "last_checked": "2026-07-03T05:42:07Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.celrep.2017.04.030": {
+    "last_checked": "2026-07-03T05:42:11Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.celrep.2019.03.106": {
+    "last_checked": "2026-07-03T05:42:15Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.celrep.2023.112831": {
+    "last_checked": "2026-07-03T05:42:19Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.chembiol.2020.01.011": {
+    "last_checked": "2026-07-03T05:42:23Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.chembiol.2020.04.002": {
+    "last_checked": "2026-07-03T05:42:27Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.crmeth.2021.100102": {
+    "last_checked": "2026-07-03T05:42:31Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.crstbi.2021.11.005": {
+    "last_checked": "2026-07-03T05:42:35Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.ejmech.2023.116036": {
+    "last_checked": "2026-07-03T05:42:39Z",
+    "status": "200",
+    "valid": true
+  },
+  "10.1016/j.febslet.2005.09.061": {
+    "last_checked": "2026-07-03T05:42:47Z",
+    "note": "rate-limited \u2014 may be valid",
+    "status": "403",
+    "valid": false
+  }
+}

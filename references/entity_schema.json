@@ -1,0 +1,1007 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "X-ray MP Wiki \u2014 Entity YAML Schema",
+  "description": "Formal JSON Schema for all entity types in the xray-mp-wiki.",
+  "definitions": {
+    "common_metadata": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "created": {
+          "description": "ISO date YYYY-MM-DD. YAML parses unquoted dates as date objects, quoted as strings."
+        },
+        "updated": {
+          "description": "ISO date YYYY-MM-DD. YAML parses unquoted dates as date objects, quoted as strings."
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "protein",
+            "reagent",
+            "method",
+            "concept"
+          ]
+        },
+        "layout": {
+          "type": "string",
+          "enum": [
+            "default"
+          ]
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^doi/10\\."
+          },
+          "minItems": 1
+        },
+        "verified": {
+          "type": "string",
+          "enum": [
+            "none",
+            "regex",
+            "agent",
+            "human"
+          ],
+          "default": "none"
+        },
+        "overview": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "tags",
+        "sources"
+      ]
+    },
+    "doi_ref": {
+      "type": "string",
+      "pattern": "^doi/10\\.",
+      "description": "Format: doi/10.xxxx##yyyy"
+    },
+    "cross_references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "path",
+          "title"
+        ],
+        "properties": {
+          "path": {
+            "type": "string",
+            "pattern": "^/xray-mp-wiki/"
+          },
+          "title": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Protein \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500": {},
+    "protein_mpstruc": {
+      "type": "object",
+      "properties": {
+        "subgroup": {
+          "type": "string"
+        },
+        "pdb_dois": {
+          "type": "object",
+          "patternProperties": {
+            "^[A-Za-z0-9]{4}$": {
+              "type": "string",
+              "pattern": "^doi/10\\."
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "subgroup"
+      ]
+    },
+    "protein_tcdb": {
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "tc_id",
+            "superfamily"
+          ],
+          "properties": {
+            "tc_id": {
+              "type": "string"
+            },
+            "superfamily": {
+              "type": "string"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "entries"
+          ],
+          "properties": {
+            "entries": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": [
+                  "tc_id",
+                  "superfamily"
+                ],
+                "properties": {
+                  "tc_id": {
+                    "type": "string"
+                  },
+                  "superfamily": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "protein_expression": {
+      "type": "object",
+      "properties": {
+        "system": {
+          "type": "string"
+        },
+        "construct": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "induction": {
+          "type": "string"
+        },
+        "media": {
+          "type": "string"
+        }
+      }
+    },
+    "protein_structures": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "pdb_id"
+        ],
+        "properties": {
+          "pdb_id": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9]{4}$"
+          },
+          "resolution": {
+            "type": "string"
+          },
+          "space_group": {
+            "type": "string"
+          },
+          "construct": {
+            "type": "string"
+          },
+          "ligand": {
+            "type": "string"
+          },
+          "refinement": {
+            "type": "object",
+            "properties": {
+              "r_work": {
+                "type": "string"
+              },
+              "r_free": {
+                "type": "string"
+              }
+            }
+          },
+          "atoms": {
+            "type": "string"
+          },
+          "data_collection": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "protein_purifications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string"
+          },
+          "expression_system": {
+            "type": "string"
+          },
+          "expression_construct": {
+            "type": "string"
+          },
+          "tag_info": {
+            "type": "string"
+          },
+          "steps": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "step"
+              ],
+              "properties": {
+                "step": {
+                  "type": "string"
+                },
+                "method": {
+                  "type": "string"
+                },
+                "resin": {
+                  "type": "string"
+                },
+                "buffer": {
+                  "type": "string"
+                },
+                "detergent": {
+                  "type": "string"
+                },
+                "notes": {
+                  "type": "string"
+                },
+                "detergent_details": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "reagent": {
+                        "type": "string"
+                      },
+                      "concentration": {
+                        "type": [
+                          "number",
+                          "null"
+                        ]
+                      },
+                      "unit": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "reagent"
+                    ]
+                  }
+                },
+                "buffer_details": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "reagent": {
+                        "type": "string"
+                      },
+                      "concentration": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      "unit": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      "ph": {
+                        "type": [
+                          "number",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "reagent"
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "final_sample": {
+            "type": "string"
+          },
+          "yield": {
+            "type": "string"
+          },
+          "purity": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "crystallizations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string"
+          },
+          "method": {
+            "type": "string"
+          },
+          "protein_sample": {
+            "type": "string"
+          },
+          "reservoir": {
+            "type": "string"
+          },
+          "lipid": {
+            "type": "string"
+          },
+          "protein_to_lipid_ratio": {
+            "type": "string"
+          },
+          "mixing_ratio": {
+            "type": "string"
+          },
+          "temperature": {
+            "type": "string"
+          },
+          "growth_time": {
+            "type": "string"
+          },
+          "cryoprotection": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "sequences": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "pdb_id",
+          "chain"
+        ],
+        "properties": {
+          "pdb_id": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9]{4}$"
+          },
+          "chain": {
+            "type": "string"
+          },
+          "tmd": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "residues": {
+            "type": "string"
+          },
+          "topology": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "begin",
+                "end",
+                "location"
+              ],
+              "properties": {
+                "begin": {
+                  "type": "string"
+                },
+                "end": {
+                  "type": "string"
+                },
+                "pdb_begin": {
+                  "type": "string"
+                },
+                "pdb_end": {
+                  "type": "string"
+                },
+                "location": {
+                  "type": "string",
+                  "enum": [
+                    "Membrane",
+                    "Inside",
+                    "Outside",
+                    "Unknown"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "biological_insights": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "title"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "content": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "publications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source"
+        ],
+        "properties": {
+          "source": {
+            "type": "string",
+            "pattern": "^doi/10\\."
+          },
+          "structures": {
+            "$ref": "#/definitions/protein_structures"
+          },
+          "purifications": {
+            "$ref": "#/definitions/protein_purifications"
+          },
+          "crystallizations": {
+            "$ref": "#/definitions/crystallizations"
+          },
+          "sequences": {
+            "$ref": "#/definitions/sequences"
+          }
+        }
+      }
+    },
+    "protein_specific": {
+      "properties": {
+        "category": {
+          "enum": [
+            "proteins"
+          ]
+        },
+        "type": {
+          "enum": [
+            "protein"
+          ]
+        },
+        "uniprot_id": {
+          "oneOf": [
+            {
+              "type": "string",
+              "pattern": "^[OPQ][0-9][A-Z0-9]{3}[0-9]|[A-NR-Z][0-9]([A-Z][A-Z0-9]{2}[0-9]){1,2}$"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[OPQ][0-9][A-Z0-9]{3}[0-9]|[A-NR-Z][0-9]([A-Z][A-Z0-9]{2}[0-9]){1,2}$"
+              },
+              "minItems": 2
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "accession": {
+                    "type": "string"
+                  },
+                  "species": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "species"
+                ]
+              },
+              "minItems": 1
+            }
+          ]
+        },
+        "organism": {
+          "type": "string"
+        },
+        "mpstruc_classification": {
+          "$ref": "#/definitions/protein_mpstruc"
+        },
+        "tcdb_classification": {
+          "$ref": "#/definitions/protein_tcdb"
+        },
+        "expression": {
+          "$ref": "#/definitions/protein_expression"
+        },
+        "publications": {
+          "$ref": "#/definitions/publications"
+        },
+        "biological_insights": {
+          "$ref": "#/definitions/biological_insights"
+        },
+        "cross_references": {
+          "$ref": "#/definitions/cross_references"
+        }
+      }
+    },
+    "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Reagent \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500": {},
+    "reagent_uses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "content": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "reagent_examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "protein"
+        ],
+        "properties": {
+          "protein": {
+            "type": "string"
+          },
+          "concentration": {
+            "type": "string"
+          },
+          "context": {
+            "type": "string"
+          },
+          "result": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "binding": {
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": {
+            "target": {
+              "type": "string"
+            },
+            "interactions": {
+              "type": "string"
+            },
+            "pocket_volume": {
+              "type": "string"
+            },
+            "key_residues": {
+              "type": "string"
+            }
+          }
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "target": {
+                "type": "string"
+              },
+              "interactions": {
+                "type": "string"
+              },
+              "pocket_volume": {
+                "type": "string"
+              },
+              "key_residues": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "advantages_disadvantages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "comparison": {
+      "oneOf": [
+        {
+          "type": "object"
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        }
+      ]
+    },
+    "reagent_specific": {
+      "properties": {
+        "category": {
+          "enum": [
+            "reagents"
+          ]
+        },
+        "type": {
+          "enum": [
+            "reagent"
+          ]
+        },
+        "chemical_name": {
+          "type": "string"
+        },
+        "chemical_formula": {
+          "type": "string"
+        },
+        "molecular_weight": {
+          "type": "string"
+        },
+        "class": {
+          "type": "string"
+        },
+        "cmc": {
+          "type": "string"
+        },
+        "hlb": {
+          "type": "string"
+        },
+        "transition_temp": {
+          "type": "string"
+        },
+        "head_group": {
+          "type": "string"
+        },
+        "tail_length": {
+          "type": "string"
+        },
+        "acyl_chain": {
+          "type": "string"
+        },
+        "phase_transition": {
+          "type": "string"
+        },
+        "pka": {
+          "type": "string"
+        },
+        "ph_range": {
+          "type": "string"
+        },
+        "concentration_range": {
+          "type": "string"
+        },
+        "function": {
+          "type": "string"
+        },
+        "solubility": {
+          "type": "string"
+        },
+        "typical_concentration": {
+          "type": "string"
+        },
+        "kd_ki": {
+          "type": "string"
+        },
+        "clinical_status": {
+          "type": "string"
+        },
+        "scaffold": {
+          "type": "string"
+        },
+        "source_organism": {
+          "type": "string"
+        },
+        "fusion_strategy": {
+          "type": "string"
+        },
+        "size": {
+          "type": "string"
+        },
+        "target": {
+          "type": "string"
+        },
+        "format": {
+          "type": "string"
+        },
+        "epitope": {
+          "type": "string"
+        },
+        "isotype": {
+          "type": "string"
+        },
+        "uses": {
+          "$ref": "#/definitions/reagent_uses"
+        },
+        "examples": {
+          "$ref": "#/definitions/reagent_examples"
+        },
+        "binding": {
+          "$ref": "#/definitions/binding"
+        },
+        "binding_mode": {
+          "$ref": "#/definitions/binding"
+        },
+        "advantages": {
+          "$ref": "#/definitions/advantages_disadvantages"
+        },
+        "disadvantages": {
+          "$ref": "#/definitions/advantages_disadvantages"
+        },
+        "comparison": {
+          "$ref": "#/definitions/comparison"
+        },
+        "cross_references": {
+          "$ref": "#/definitions/cross_references"
+        }
+      }
+    },
+    "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Method \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500": {},
+    "protocol": {
+      "type": "object",
+      "properties": {
+        "reagents": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "steps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "conditions": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "method_proteins_using": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "protein": {
+            "type": "string"
+          },
+          "resolution": {
+            "type": "string"
+          },
+          "pdb": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "method_overview_page": {
+      "properties": {
+        "methods_list": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "workflow": {
+          "type": "string"
+        },
+        "comparison": {
+          "type": "object"
+        },
+        "related_resources": {
+          "$ref": "#/definitions/cross_references"
+        }
+      }
+    },
+    "method_specific": {
+      "properties": {
+        "category": {
+          "enum": [
+            "methods"
+          ]
+        },
+        "type": {
+          "enum": [
+            "method"
+          ]
+        },
+        "principle": {
+          "type": "string"
+        },
+        "protocol": {
+          "$ref": "#/definitions/protocol"
+        },
+        "advantages": {
+          "$ref": "#/definitions/advantages_disadvantages"
+        },
+        "disadvantages": {
+          "$ref": "#/definitions/advantages_disadvantages"
+        },
+        "proteins_using": {
+          "$ref": "#/definitions/method_proteins_using"
+        },
+        "related_methods": {
+          "$ref": "#/definitions/cross_references"
+        },
+        "related_reagents": {
+          "$ref": "#/definitions/cross_references"
+        },
+        "cross_references": {
+          "$ref": "#/definitions/cross_references"
+        },
+        "methods_list": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "workflow": {
+          "type": "string"
+        }
+      }
+    },
+    "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Concept \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500": {},
+    "concept_examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "protein": {
+            "type": "string"
+          },
+          "context": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "related_concepts": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "path": {
+                "type": "string"
+              },
+              "relationship": {
+                "type": "string"
+              }
+            }
+          },
+          {
+            "type": "string"
+          }
+        ]
+      }
+    },
+    "concept_specific": {
+      "properties": {
+        "category": {
+          "enum": [
+            "concepts"
+          ]
+        },
+        "type": {
+          "enum": [
+            "concept"
+          ]
+        },
+        "mechanism": {
+          "type": "string"
+        },
+        "details": {
+          "type": "string"
+        },
+        "examples": {
+          "$ref": "#/definitions/concept_examples"
+        },
+        "related_concepts": {
+          "$ref": "#/definitions/related_concepts"
+        },
+        "cross_references": {
+          "$ref": "#/definitions/cross_references"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "$ref": "#/definitions/common_metadata"
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "protein"
+          }
+        }
+      },
+      "then": {
+        "$ref": "#/definitions/protein_specific"
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "reagent"
+          }
+        }
+      },
+      "then": {
+        "$ref": "#/definitions/reagent_specific"
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "method"
+          }
+        }
+      },
+      "then": {
+        "$ref": "#/definitions/method_specific"
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "concept"
+          }
+        }
+      },
+      "then": {
+        "$ref": "#/definitions/concept_specific"
+      }
+    }
+  ]
+}
