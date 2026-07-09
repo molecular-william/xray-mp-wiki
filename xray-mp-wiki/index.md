@@ -10,6 +10,7 @@ This is a wiki on reagents and procedures for X-ray crystallography of membrane 
 - [Reagents](/xray-mp-wiki/categories/reagents/) - Detergents, buffers, additives, lipids, ligands
 - [Methods](/xray-mp-wiki/categories/methods/) - Crystallization, purification, expression systems
 - [Concepts](/xray-mp-wiki/categories/concepts/) - Scientific concepts and mechanisms
+- [📊 Knowledge Graph](/xray-mp-wiki/graph/) - Interactive network visualization of all entities
 
 ## Content
 
