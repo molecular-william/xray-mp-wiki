@@ -1,0 +1,16 @@
+title: X-ray MP Wiki
+description: Wiki on reagents and procedures for X-ray crystallography of membrane proteins
+author: molecular-william
+baseurl: "/xray-mp-wiki"
+url: "https://molecular-william.github.io"
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  toc_levels: "1,2,3"
+  auto_ids: true
+
+exclude:
+  - Gemfile.lock

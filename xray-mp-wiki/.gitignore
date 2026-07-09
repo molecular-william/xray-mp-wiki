@@ -1,0 +1,70 @@
+# Jekyll build output
+_site/
+_cache/
+
+# Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# Jekyll
+.jekyll-cache/
+log.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor/IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tests
+.rubocop.yml
+.rubocop_todo.yml
+.rubocop_cache/
+*.gem
+Gemfile.lock
+
+# Build scripts (not needed for GH Pages)
+jekyll-serve.sh
+serve.sh
+Rakefile
+build.sh
+Makefile
+
+# Local configuration (if any)
+_config.local.yml
+.env
+.env.local
+
+# Coverage reports
+coverage/
+.coverage
+htmlcov/
+.cov/
+
+# Documentation artifacts
+docs/_build/
+docs/build/
+
+# YAMLs
+concepts_yaml/
+methods_yaml/
+proteins_yaml/
+reagents_yaml/

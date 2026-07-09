@@ -1,0 +1,1265 @@
+---
+title: Multiple Isomorphous Replacement with Anomalous Scattering (MIRAS)
+created: 2026-05-29
+updated: 2026-05-29
+type: method
+category: methods
+layout: default
+tags: [structure-xray, structure-sad, subdirectory-structure-determination]
+sources: [doi/10.1038##EMBOJ.2012.157]
+verified: false
+---
+
+# Multiple Isomorphous Replacement with Anomalous Scattering (MIRAS)
+
+## Overview
+
+MIRAS (Multiple Isomorphous Replacement with Anomalous Scattering) is a crystallographic phasing method that combines data from isomorphous heavy-atom derivatives with anomalous scattering signals from multiple sources (e.g., [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) derivatives and [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/)). It is particularly powerful for de novo structure determination of membrane proteins where [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) is not feasible.
+
+## Principle
+
+MIRAS exploits two independent sources of phase information:
+(1) Isomorphous differences between native and heavy-atom derivative crystals, and
+(2) Anomalous scattering signals from both the heavy atoms (e.g., [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/)) and the
+incorporated [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) residues. By combining these signals, MIRAS provides
+robust phase estimates that can be improved through solvent flattening and
+non-crystallographic symmetry averaging.
+
+## Protocol
+
+### Reagents and Materials
+
+- Seleno-[L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) (for protein expression)
+- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury/) or other [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) compounds (for crystal derivatization)
+
+### Steps
+
+1. {'step': 'Selenomethionine-incorporated protein expression', 'description': 'Express the target protein in methionine auxotrophic E. coli strains (e.g., B834) in the presence of seleno-[L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) to achieve near-complete replacement of methionine with [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/). This provides strong anomalous signal from selenium atoms at the selenium K-edge (~12.66 keV).\n'}
+2. {'step': 'Heavy-atom derivative crystal preparation', 'description': 'Soak native crystals in solutions containing [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) compounds (e.g., [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury/)) to obtain heavy-atom derivative crystals. Screen multiple derivative conditions to identify isomorphous crystals with strong heavy-atom binding sites.\n'}
+3. {'step': 'X-ray data collection', 'description': 'Collect native high-resolution data, heavy-atom derivative data, lower-resolution native data, and [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) anomalous data. Data can be processed using pipelines such as XIA2 with XDS for indexing and scaling, or mosflm and aimless. Collect at appropriate wavelengths to maximize anomalous signal from selenium (anomalous peak) and [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) (L-edges).\n'}
+4. {'step': 'Heavy atom site location', 'description': 'Locate heavy atom sites manually using programs such as RSPS, or automatically using programs such as SHELXD. Refine heavy atom positions and parameters using maximum likelihood programs such as SHARP.\n'}
+5. {'step': 'Initial phasing with solvent flattening', 'description': 'Calculate initial phases using SHARP with solvent flattening in SOLOMON. The combination of isomorphous replacement and anomalous scattering provides phase information that can be significantly improved by density modification.\n'}
+6. {'step': 'Cross-crystal averaging and [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) improvement', 'description': 'Improve map quality through cross-crystal averaging using DMMulti, combining information from the [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) derivative, selenium anomalous, and isomorphous native datasets. Apply non-crystallographic symmetry ([NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/)) averaging when multiple copies of the molecule exist in the asymmetric unit.\n'}
+
+### Typical Conditions
+
+- **temperature**: 100 K (cryo-cooled crystals)
+- **notes**: Data collected on synchrotron beamlines (e.g., Diamond Light Source IO2, IO3, IO4). Anisotropic diffraction may be present and can be addressed through anisotropic [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of structure factors.
+
+
+
+## Advantages
+
+- -
+-  
+- M
+- u
+- l
+- t
+- i
+- p
+- l
+- e
+-  
+- i
+- n
+- d
+- e
+- p
+- e
+- n
+- d
+- e
+- n
+- t
+-  
+- p
+- h
+- a
+- s
+- e
+-  
+- s
+- o
+- u
+- r
+- c
+- e
+- s
+-  
+- (
+- [
+- M
+- e
+- r
+- c
+- u
+- r
+- y
+-  
+- (
+- H
+- g
+- C
+- l
+- 2
+- )
+-  
+- -
+-  
+- A
+- q
+- u
+- a
+- p
+- o
+- r
+- i
+- n
+-  
+- I
+- n
+- h
+- i
+- b
+- i
+- t
+- o
+- r
+- ]
+- (
+- /
+- x
+- r
+- a
+- y
+- -
+- m
+- p
+- -
+- w
+- i
+- k
+- i
+- /
+- r
+- e
+- a
+- g
+- e
+- n
+- t
+- s
+- /
+- a
+- d
+- d
+- i
+- t
+- i
+- v
+- e
+- s
+- /
+- m
+- e
+- r
+- c
+- u
+- r
+- y
+- /
+- )
+- ,
+-  
+- s
+- e
+- l
+- e
+- n
+- i
+- u
+- m
+- ,
+-  
+- i
+- s
+- o
+- m
+- o
+- r
+- p
+- h
+- o
+- u
+- s
+-  
+- d
+- i
+- f
+- f
+- e
+- r
+- e
+- n
+- c
+- e
+- s
+- )
+- 
+
+-  
+-  
+- p
+- r
+- o
+- v
+- i
+- d
+- e
+-  
+- r
+- e
+- d
+- u
+- n
+- d
+- a
+- n
+- c
+- y
+-  
+- a
+- n
+- d
+-  
+- r
+- e
+- l
+- i
+- a
+- b
+- i
+- l
+- i
+- t
+- y
+-  
+- i
+- n
+-  
+- p
+- h
+- a
+- s
+- e
+-  
+- d
+- e
+- t
+- e
+- r
+- m
+- i
+- n
+- a
+- t
+- i
+- o
+- n
+- 
+
+- -
+-  
+- [
+- S
+- e
+- l
+- e
+- n
+- o
+- m
+- e
+- t
+- h
+- i
+- o
+- n
+- i
+- n
+- e
+-  
+- (
+- S
+- e
+- M
+- e
+- t
+- )
+- ]
+- (
+- /
+- x
+- r
+- a
+- y
+- -
+- m
+- p
+- -
+- w
+- i
+- k
+- i
+- /
+- r
+- e
+- a
+- g
+- e
+- n
+- t
+- s
+- /
+- a
+- d
+- d
+- i
+- t
+- i
+- v
+- e
+- s
+- /
+- s
+- e
+- l
+- e
+- n
+- o
+- m
+- e
+- t
+- h
+- i
+- o
+- n
+- i
+- n
+- e
+- /
+- )
+-  
+- i
+- n
+- c
+- o
+- r
+- p
+- o
+- r
+- a
+- t
+- i
+- o
+- n
+-  
+- p
+- r
+- o
+- v
+- i
+- d
+- e
+- s
+-  
+- s
+- t
+- r
+- o
+- n
+- g
+- ,
+-  
+- p
+- r
+- e
+- d
+- i
+- c
+- t
+- a
+- b
+- l
+- e
+-  
+- a
+- n
+- o
+- m
+- a
+- l
+- o
+- u
+- s
+-  
+- s
+- i
+- g
+- n
+- a
+- l
+- 
+
+- -
+-  
+- C
+- a
+- n
+-  
+- b
+- e
+-  
+- c
+- o
+- m
+- b
+- i
+- n
+- e
+- d
+-  
+- w
+- i
+- t
+- h
+-  
+- n
+- o
+- n
+- -
+- c
+- r
+- y
+- s
+- t
+- a
+- l
+- l
+- o
+- g
+- r
+- a
+- p
+- h
+- i
+- c
+-  
+- s
+- y
+- m
+- m
+- e
+- t
+- r
+- y
+-  
+- a
+- v
+- e
+- r
+- a
+- g
+- i
+- n
+- g
+-  
+- f
+- o
+- r
+-  
+- s
+- i
+- g
+- n
+- i
+- f
+- i
+- c
+- a
+- n
+- t
+- 
+
+-  
+-  
+- m
+- a
+- p
+-  
+- q
+- u
+- a
+- l
+- i
+- t
+- y
+-  
+- i
+- m
+- p
+- r
+- o
+- v
+- e
+- m
+- e
+- n
+- t
+- 
+
+- -
+-  
+- P
+- a
+- r
+- t
+- i
+- c
+- u
+- l
+- a
+- r
+- l
+- y
+-  
+- v
+- a
+- l
+- u
+- a
+- b
+- l
+- e
+-  
+- f
+- o
+- r
+-  
+- d
+- e
+-  
+- n
+- o
+- v
+- o
+-  
+- s
+- t
+- r
+- u
+- c
+- t
+- u
+- r
+- e
+-  
+- d
+- e
+- t
+- e
+- r
+- m
+- i
+- n
+- a
+- t
+- i
+- o
+- n
+-  
+- w
+- h
+- e
+- n
+-  
+- m
+- o
+- l
+- e
+- c
+- u
+- l
+- a
+- r
+- 
+
+-  
+-  
+- r
+- e
+- p
+- l
+- a
+- c
+- e
+- m
+- e
+- n
+- t
+-  
+- i
+- s
+-  
+- n
+- o
+- t
+-  
+- f
+- e
+- a
+- s
+- i
+- b
+- l
+- e
+-  
+- (
+- e
+- .
+- g
+- .
+- ,
+-  
+- n
+- o
+- v
+- e
+- l
+-  
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+-  
+- f
+- o
+- l
+- d
+- s
+-  
+- o
+- r
+-  
+- f
+- a
+- m
+- i
+- l
+- i
+- e
+- s
+- )
+- 
+
+- -
+-  
+- C
+- r
+- o
+- s
+- s
+- -
+- c
+- r
+- y
+- s
+- t
+- a
+- l
+-  
+- a
+- v
+- e
+- r
+- a
+- g
+- i
+- n
+- g
+-  
+- c
+- a
+- n
+-  
+- r
+- e
+- c
+- o
+- v
+- e
+- r
+-  
+- p
+- h
+- a
+- s
+- e
+-  
+- i
+- n
+- f
+- o
+- r
+- m
+- a
+- t
+- i
+- o
+- n
+-  
+- e
+- v
+- e
+- n
+-  
+- f
+- r
+- o
+- m
+-  
+- w
+- e
+- a
+- k
+-  
+- o
+- r
+- 
+
+-  
+-  
+- i
+- m
+- p
+- e
+- r
+- f
+- e
+- c
+- t
+-  
+- d
+- e
+- r
+- i
+- v
+- a
+- t
+- i
+- v
+- e
+- s
+- 
+
+
+## Disadvantages
+
+- -
+-  
+- R
+- e
+- q
+- u
+- i
+- r
+- e
+- s
+-  
+- g
+- r
+- o
+- w
+- i
+- n
+- g
+-  
+- m
+- u
+- l
+- t
+- i
+- p
+- l
+- e
+-  
+- c
+- r
+- y
+- s
+- t
+- a
+- l
+-  
+- t
+- y
+- p
+- e
+- s
+-  
+- (
+- n
+- a
+- t
+- i
+- v
+- e
+- ,
+-  
+- h
+- e
+- a
+- v
+- y
+- -
+- a
+- t
+- o
+- m
+-  
+- d
+- e
+- r
+- i
+- v
+- a
+- t
+- i
+- v
+- e
+- s
+- ,
+- 
+
+-  
+-  
+- s
+- e
+- l
+- e
+- n
+- o
+- m
+- e
+- t
+- h
+- i
+- o
+- n
+- i
+- n
+- e
+- -
+- i
+- n
+- c
+- o
+- r
+- p
+- o
+- r
+- a
+- t
+- e
+- d
+- )
+-  
+- w
+- h
+- i
+- c
+- h
+-  
+- c
+- a
+- n
+-  
+- b
+- e
+-  
+- c
+- h
+- a
+- l
+- l
+- e
+- n
+- g
+- i
+- n
+- g
+-  
+- f
+- o
+- r
+-  
+- m
+- e
+- m
+- b
+- r
+- a
+- n
+- e
+-  
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+- s
+- 
+
+- -
+-  
+- H
+- e
+- a
+- v
+- y
+- -
+- a
+- t
+- o
+- m
+-  
+- d
+- e
+- r
+- i
+- v
+- a
+- t
+- i
+- z
+- a
+- t
+- i
+- o
+- n
+-  
+- m
+- a
+- y
+-  
+- d
+- a
+- m
+- a
+- g
+- e
+-  
+- c
+- r
+- y
+- s
+- t
+- a
+- l
+- s
+-  
+- o
+- r
+-  
+- i
+- n
+- d
+- u
+- c
+- e
+-  
+- n
+- o
+- n
+- -
+- i
+- s
+- o
+- m
+- o
+- r
+- p
+- h
+- i
+- s
+- m
+- 
+
+- -
+-  
+- T
+- i
+- m
+- e
+- -
+- c
+- o
+- n
+- s
+- u
+- m
+- i
+- n
+- g
+-  
+- p
+- r
+- o
+- c
+- e
+- s
+- s
+-  
+- r
+- e
+- q
+- u
+- i
+- r
+- i
+- n
+- g
+-  
+- m
+- u
+- l
+- t
+- i
+- p
+- l
+- e
+-  
+- d
+- a
+- t
+- a
+-  
+- c
+- o
+- l
+- l
+- e
+- c
+- t
+- i
+- o
+- n
+- s
+- 
+
+- -
+-  
+- M
+- a
+- y
+-  
+- r
+- e
+- q
+- u
+- i
+- r
+- e
+-  
+- s
+- i
+- g
+- n
+- i
+- f
+- i
+- c
+- a
+- n
+- t
+-  
+- c
+- o
+- m
+- p
+- u
+- t
+- a
+- t
+- i
+- o
+- n
+- a
+- l
+-  
+- r
+- e
+- s
+- o
+- u
+- r
+- c
+- e
+- s
+-  
+- f
+- o
+- r
+-  
+- c
+- r
+- o
+- s
+- s
+- -
+- c
+- r
+- y
+- s
+- t
+- a
+- l
+-  
+- a
+- v
+- e
+- r
+- a
+- g
+- i
+- n
+- g
+- 
+
+- -
+-  
+- A
+- n
+- i
+- s
+- o
+- t
+- r
+- o
+- p
+- i
+- c
+-  
+- d
+- i
+- f
+- f
+- r
+- a
+- c
+- t
+- i
+- o
+- n
+-  
+- (
+- c
+- o
+- m
+- m
+- o
+- n
+-  
+- i
+- n
+-  
+- m
+- e
+- m
+- b
+- r
+- a
+- n
+- e
+-  
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+-  
+- c
+- r
+- y
+- s
+- t
+- a
+- l
+- s
+- )
+-  
+- c
+- a
+- n
+-  
+- r
+- e
+- d
+- u
+- c
+- e
+- 
+
+-  
+-  
+- t
+- h
+- e
+-  
+- e
+- f
+- f
+- e
+- c
+- t
+- i
+- v
+- e
+- n
+- e
+- s
+- s
+-  
+- o
+- f
+-  
+- t
+- h
+- e
+-  
+- m
+- e
+- t
+- h
+- o
+- d
+- 
+
+
+## Related Methods
+
+- [Multi-wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/) — Related anomalous scattering phasing method using multiple wavelengths
+- [Single-wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Simpler anomalous scattering method using a single wavelength
+- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Alternative phasing method that uses a known homologous structure
+
+## Related Reagents
+
+- [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Selenomethionine-incorporated protein used for anomalous phasing
+- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury/) — Heavy atom derivative used for MIRAS phasing

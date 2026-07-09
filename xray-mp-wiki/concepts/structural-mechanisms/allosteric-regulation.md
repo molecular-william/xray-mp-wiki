@@ -1,0 +1,45 @@
+---
+title: Allosteric Regulation in Membrane Proteins
+created: 2026-05-27
+updated: 2026-06-03
+type: concept
+category: concepts
+layout: default
+tags: [concept-functional, subdirectory-structural-mechanisms]
+sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1073##pnas.1901822116, doi/10.1073##pnas.1901346116, doi/10.1038##s41586-018-0083-5, doi/10.1038##s41467-021-27726-2, doi/10.1016##j.cell.2020.01.008, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature12232, doi/10.1038##nature12735, doi/10.1038##nature20605, doi/10.1038##nature23652, doi/10.1073##pnas.2101632118, doi/10.1038##s41467-021-24151-3]
+verified: false
+---
+
+# Allosteric Regulation in Membrane Proteins
+
+## Overview
+Allosteric regulation is a fundamental mechanism by which ligand binding at one site (allosteric site) modulates the activity, conformation, or ligand binding at a distant site (orthosteric or active site). In membrane proteins, allosteric modulation can occur through lipids, steroids, small molecules, or protein-protein interactions. Allosteric modulators can enhance (positive allosteric modulators, PAMs) or inhibit (negative allosteric modulators, NAMs) the activity of the primary ligand. In GPCRs, allosteric sites can be located in the transmembrane domain, extracellular loops, or intracellular regions. The intracellular allosteric pocket in class A GPCRs, identified in the beta2-adrenergic receptor and CCR2/CCR9, represents a widely conserved site that overlaps with the G-protein-binding interface.
+
+
+## Mechanism/Details
+Allosteric regulation operates through conformational changes propagated through the protein structure. Binding of an allosteric modulator induces local conformational changes that propagate through secondary and tertiary structure to the orthosteric site, altering its affinity or efficacy. In GPCRs, allosteric sites can be located in the transmembrane domain, extracellular loops, or intracellular regions. Lipids and steroids can serve as endogenous allosteric modulators by binding to specific pockets within the transmembrane region. Intracellular allosteric pockets in GPCRs are typically formed by the cytoplasmic ends of transmembrane helices and intracellular loops. Binding of allosteric modulators to these pockets can stabilize specific conformational states (active or inactive), modulate G-protein coupling, or affect beta-arrestin recruitment. The location of the intracellular allosteric pocket is widely conserved amongst diverse class A GPCRs, suggesting therapeutic potential.
+
+
+## Examples in Membrane Protein Work
+- CC Chemokine Receptor 2 with T4 Lysozyme Fusion ([CCR2-T4L](/xray-mp-wiki/proteins/gpcr/ccr2-t4l/)) — CCR2-RA-[R] binds in a novel intracellular allosteric pocket more than 30 A from the orthosteric site, caged by helices I-III and VI-VIII. This pocket overlaps the G-protein-binding interface and represents the most intracellular allosteric site observed in class A GPCRs. [BMS-681](/xray-mp-wiki/reagents/ligands/bms-681/) (orthosteric) and CCR2-RA-[R] (allosteric) cooperatively stabilize an inactive conformation through bi-directional allosteric communication.
+- Cannabinoid Receptor 1 (CB1) — [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) binds to a specific site in CB1 involving Phe155^2.42 and Phe237^4.46, acting as an endogenous allosteric modulator. Pregnenolone, a [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) derivative, also modulates CB1 activity through the same binding region. This modulation is CB1-specific, as [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) binding is not observed in [Cannabinoid Receptor 2 (CNR2/CB2)](/xray-mp-wiki/proteins/gpcr/cb2/) structures.
+- Cannabinoid Receptor 1 (CB1) — Pregnenolone acts as a CB1 allosteric modulator, protecting the brain from cannabis intoxication. Its structural scaffold is similar to [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/), suggesting it binds to the same allosteric pocket.
+- [Maltose](/xray-mp-wiki/reagents/additives/maltose/) Transporter (MalFGK2) — EIIA^Glc (Enzyme IIA^Glc) is a classical Monod-Wyman-Changeux allosteric inhibitor of the [Maltose](/xray-mp-wiki/reagents/additives/maltose/) transporter. Two EIIA^Glc molecules bind to the cytoplasmic ATPase subunits ([MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/)), wedging between the NBD of one [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/) and the regulatory domain of the opposite [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/). This stabilizes the inward-facing conformation and prevents ATP hydrolysis. The binding site is distant from the Walker A motifs, ATP-binding site, and maltose-binding site, confirming allosteric regulation.
+- Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/)) — Cmpd-15PA (a derivative of Cmpd-15) binds to an intracellular allosteric pocket formed by the cytoplasmic ends of TM1, TM2, TM6, TM7, ICL1, and helix 8. The compound stabilizes TM6 in the inactive conformation through direct polar interactions with Thr274^6.36 and non-polar interactions with Ala271^6.33 and Leu275^6.37. Cmpd-15PA disrupts a salt bridge between Arg63^ICL1 and Asp331^8.49, enabling a new salt bridge between Lys267^6.29 and Asp331^8.49. This allosteric pocket overlaps the G-protein-binding interface and is distinct from the orthosteric site. The pocket is conserved across class A GPCRs, though Cmpd-15 shows differential efficacy between beta2 AR and beta1 AR due to specific residue differences (Phe61 and Lys267 in beta2 AR vs. Thr and Arg in beta1 AR).
+- SbtA-[SBTB](/xray-mp-wiki/proteins/slc-transporters/sbtb/) Complex (Synechocystis sp. PCC 6803) — [SBTB](/xray-mp-wiki/proteins/slc-transporters/sbtb/) is a PII-like protein that allosterically inhibits the [SBTA](/xray-mp-wiki/proteins/slc-transporters/sbta/) bicarbonate transporter. AMP binding to [SBTB](/xray-mp-wiki/proteins/slc-transporters/sbtb/) stabilizes its T-loop in an extended conformation that inserts into the cytoplasmic cavity of [SBTA](/xray-mp-wiki/proteins/slc-transporters/sbta/) (formed between scaffold and core domains), locking [SBTA](/xray-mp-wiki/proteins/slc-transporters/sbta/) in an inward-facing state and preventing bicarbonate transport. cAMP disrupts the T-loop conformation and relieves inhibition. This allosteric mechanism is analogous to GlnK-mediated regulation of AmtB and couples bicarbonate uptake to cellular energy/ carbon status in the cyanobacterial CO2-concentrating mechanism.
+- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Co-crystallization of AcrB with an antibiotic cocktail (erythromycin, linezolid, oxacillin, fusidic acid) revealed a deep ~1700 A^3 transmembrane domain binding pocket (TMD-BP) in the T protomer. Fusidic acid binding induces substantial displacement of TM11 (13.6 degrees) and TM12 (36.7 degrees), creating a cavity near the Asp407/Asp408/Lys940 proton relay residues. Thiol cross-link protection assays demonstrate that oxacillin and novobiocin also occupy this pocket. The TMD-BP is proposed as an allosteric site that, when occupied, may cause hyperactivation or cooperative multidrug transport.
+
+## Related Concepts
+
+
+## Cross-References
+- [CC Chemokine Receptor 2 with T4 Lysozyme Fusion (CCR2-T4L)](/xray-mp-wiki/proteins/gpcr/ccr2-t4l/) — Novel intracellular allosteric pocket identified; CCR2-RA-[R] binds at G-protein interface
+- [EIIA^Glc (Escherichia coli Enzyme IIA^Glc)](/xray-mp-wiki/proteins/abc-transporters/eiiaglc/) — Allosteric inhibitor of maltose transporter; binds to MalK subunits
+- [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/) — ABC transporter allosterically inhibited by EIIA^Glc
+- [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/gpcr/cnr1/) — Cholesterol identified as endogenous allosteric modulator of CB1
+- [Cannabinoid Receptor 2 (CNR2/CB2)](/xray-mp-wiki/proteins/gpcr/cb2/) — CB2 lacks cholesterol binding site, highlighting CB1-specific allosteric regulation
+- [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — Endogenous allosteric modulator binding to CB1 transmembrane pocket
+- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Intracellular allosteric pocket revealed by Cmpd-15PA structure (PDB: 5X7D)
+- [SbtA (Bicarbonate Transporter)](/xray-mp-wiki/proteins/slc-transporters/sbta/) — Allosterically inhibited by SbtB through T-loop insertion into the cytoplasmic cavity
+- [SbtB (PII-Like Regulatory Protein)](/xray-mp-wiki/proteins/slc-transporters/sbtb/) — Allosteric regulator of SbtA; T-loop conformation modulated by adenyl nucleotide binding
+- [GlnK PII Signal Transduction Protein](/xray-mp-wiki/proteins/other-ion-channels/glnk/) — Analogous PII-family allosteric regulator of AmtB, functionally similar to SbtB

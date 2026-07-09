@@ -1,0 +1,29 @@
+---
+title: Peripheral Stalk Elasticity in Rotary ATPases
+created: 2026-06-11
+updated: 2026-06-16
+type: concept
+category: concepts
+layout: default
+tags: [concept-transport-mechanism, subdirectory-concepts]
+sources: [doi/10.1016##j.jmb.2012.04.012, doi/10.1016##j.str.2012.08.020]
+verified: false
+---
+
+# Peripheral Stalk Elasticity in Rotary ATPases
+
+## Overview
+The peripheral stalk of rotary ATPases connects the membrane-embedded F0 motor to the catalytic F1 head. Elastic elements in the stalk allow conformational flexibility during rotation. In the eukaryotic V-ATPase, the EG3 peripheral stalk exhibits spring-loading elasticity through two flexible hinges identified in the EG coiled coil, enabling strain storage during assembly and release during regulated dissociation.
+
+## Mechanism/Details
+The peripheral stalk of rotary ATPases connects the membrane-embedded F0/Vo motor to the catalytic F1/V1 head. Elastic elements in the stalk allow conformational flexibility during rotation and, in eukaryotic V-ATPases, facilitate regulated dissociation. The V-ATPase EG3 peripheral stalk contains two flexible hinges (centered at Glu54 and Met84 in subunit E) that allow movement of rigid N- and C-terminal domains without disrupting the coiled coil. This elasticity enables a spring-loading mechanism where the EG3 stalk is compressed during enzyme assembly by the RAVE chaperone, storing strain that can be released upon dissociation signals.
+
+## Examples in Membrane Protein Work
+
+
+## Related Concepts
+
+
+## Cross-References
+- [Yeast V-ATPase EGC_head Peripheral Stalk Complex](/xray-mp-wiki/proteins/pumps-atpases/yeast-v-atpase-egc-head-peripheral-stalk/) — Eukaryotic V-ATPase EG3 peripheral stalk exhibits spring-loading elasticity through flexible hinges in the coiled coil
+- [Ph E-Subunit E](/xray-mp-wiki/proteins/pumps-atpases/ph-e-subunit-e/) — Elastic connector in ATP synthase peripheral stalk

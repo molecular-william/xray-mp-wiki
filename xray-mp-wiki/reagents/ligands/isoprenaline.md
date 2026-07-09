@@ -1,0 +1,60 @@
+---
+title: Isoprenaline (Isoproterenol)
+created: 2026-05-29
+updated: 2026-05-29
+type: reagent
+category: reagents
+layout: default
+tags: [ligand, subdirectory-ligands]
+sources: [doi/10.1038##NATURE09746, doi/10.1126##science.aau5595]
+verified: false
+---
+
+# Isoprenaline (Isoproterenol)
+
+## Overview
+
+Isoprenaline (also known as isoproterenol) is a synthetic catecholamine and a potent non-selective beta-adrenergic receptor agonist. It is the synthetic analogue of noradrenaline ([Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/)) with an additional methyl group on the amine nitrogen. Isoprenaline is widely used as a pharmacological tool to study beta-adrenergic receptor signaling and was used as a crystallization ligand for the turkey beta1-adrenergic receptor (beta1AR-M23) structure at 2.85 A resolution. It acts as a full agonist with high affinity (log KD approximately -7.0 to -8.3 depending on receptor construct).
+
+
+## Properties
+
+
+## Use in Membrane Protein Work
+
+No specific use cases documented.
+## Examples from This Wiki
+
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 (beta1AR-M23) | 0.45 mg/ml [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) co-crystallized | Co-crystallized with turkey beta1AR-M23 in [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.5 buffer with 28% [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) precipitant and 0.5% [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) detergent. [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) at 0.45 mg/ml was added from a 10 mg/ml stock in 2% [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) immediately prior to crystallization. | Structure solved at 2.85 A resolution (PDB: iso327), representing the active agonist-bound conformation |
+
+## Binding Mode
+
+### Binding to Turkey Beta1-Adrenergic Receptor (beta1AR)
+
+Isoprenaline binds deep within the transmembrane bundle of beta1AR. The catechol headgroup forms a conserved hydrogen bond network with Asp121 in transmembrane helix 3 and with Ser211 and Ser215 in extracellular loop 2. The isopropyl amine group forms a salt bridge with Asp121. The compact structure of isoprenaline means it does not extend into the extended ligand binding pocket, unlike larger agonists such as [Carmoterol](/xray-mp-wiki/reagents/ligands/carmoterol/).
+
+- **Pocket volume**: Decreases 42% from inactive to active state (doi/10.1126##science.aau5595)
+- **Key residues**: Asp121, Ser211, Ser215, Trp117, Val122, Val125
+
+## Advantages and Disadvantages
+
+No advantages/disadvantages recorded.
+
+## Comparison with Related Reagents
+
+No comparison data available.
+
+## Cross-References
+
+- [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Isoprenaline is the co-crystallized agonist ligand for the beta1AR-M23 structure
+- [Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23-2vt4/) — Related beta1AR-M23 structure with antagonist cyanopindolol
+- [Carmoterol](/xray-mp-wiki/reagents/ligands/carmoterol/) — Related beta-adrenergic agonist ligand with extended pocket interaction
+- [Dobutamine](/xray-mp-wiki/reagents/ligands/dobutamine/) — Related beta-adrenergic agonist ligand
+- [Salbutamol](/xray-mp-wiki/reagents/ligands/salbutamol/) — Related beta-adrenergic agonist ligand
+- [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Antagonist ligand for beta1AR used in related structure determination
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — Isoprenaline binding stabilizes the active conformation of beta1AR
+- [GPCR Active State High-Affinity Agonist Binding](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-state-high-affinity-agonist-binding/) — Isoprenaline shows largest binding site contraction (42%) upon activation
+- [Turkey Beta1-Adrenergic Receptor (beta1AR)](/xray-mp-wiki/proteins/gpcr/beta1-adrenergic-receptor/) — New active-state structure (PDB 6H7J) with isoprenaline shows binding site contraction
+- [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers

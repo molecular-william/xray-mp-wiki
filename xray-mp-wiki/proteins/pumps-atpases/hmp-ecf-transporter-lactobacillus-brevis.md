@@ -1,0 +1,542 @@
+---
+title: "HMP ECF Transporter from Lactobacillus brevis"
+created: 2026-06-21
+updated: 2026-07-03
+type: protein
+category: proteins
+layout: default
+tags: [transporter, membrane-protein, xray-crystallography]
+sources: [doi/10.1038##nature12045]
+verified: regex
+uniprot_id: ['Q03NM0', 'Q03PY5', 'Q03PY6', 'Q03PY7']
+---
+
+# HMP ECF Transporter from Lactobacillus brevis
+
+<div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
+
+
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q03NM0">UniProt: Q03NM0</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q03PY5">UniProt: Q03PY5</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q03PY6">UniProt: Q03PY6</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q03PY7">UniProt: Q03PY7</a>
+
+<span class="expr-badge">Lactobacillus brevis</span>
+
+## Overview
+
+The HMP (hydroxymethyl pyrimidine) energy-coupling factor (ECF) transporter from
+Lactobacillus brevis is a four-subunit membrane protein complex that imports
+hydroxymethyl pyrimidine, a precursor of thiamine (vitamin B1). The complex
+comprises EcfA and EcfA' (two cytoplasmic ATPase subunits), EcfT (a transmembrane
+energy-coupling component), and EcfS (a membrane-embedded substrate-binding S
+component specific for HMP). The crystal structure of the nucleotide-free,
+substrate-free complex was determined at 3.5 Å resolution, revealing a
+horseshoe-shaped open architecture of EcfT and an unusual horizontal orientation
+of EcfS within the membrane plane. This structure provides the first view of a
+complete quaternary ECF transporter and supports a transport model involving
+rigid-body rotation of the S component.
+
+
+## Publications
+
+### doi/10.1038##nature12045
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4hzu">4HZU</a></td>
+      <td>3.5</td>
+      <td>P2₁2₁2₁</td>
+      <td>Full-length EcfA (1-279), EcfA' (1-290), EcfS (1-166), EcfT (1-266) with N-terminal dodecahistidine tag on EcfT</td>
+      <td>None (substrate-free)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: E. coli C43(DE3)
+- **Construct**: ecfT-ecfS in pRSF-Duet-1, ecfA-ecfA' in pACYC-Duet-1; EcfT with N-terminal 12×His tag
+- **Notes**: Co-expression from two vectors; induced with 0.25 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) for 3 h at 37°C
+
+**Purification:**
+
+- **Expression system**: E. coli C43(DE3)
+- **Expression construct**: Co-expression of ecfT-ecfS-pRSF-Duet-1 + ecfA-ecfA'-pACYC-Duet-1
+- **Tag info**: N-terminal dodecahistidine tag on EcfT
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Sonication</td>
+      <td>—</td>
+      <td>25 mM Tris-HCl pH 8.0, 150 mM NaCl</td>
+      <td>Cells resuspended and disrupted by sonication</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Ultracentrifugation</td>
+      <td>—</td>
+      <td>25 mM Tris-HCl pH 8.0, 150 mM NaCl + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Membrane fraction pelleted at 100,000g; solubilized for 1.5 h at 4°C</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA</td>
+      <td>Ni-NTA (Qiagen)</td>
+      <td>25 mM Tris-HCl pH 8.0, 150 mM NaCl, 20-250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+  </tbody>
+</table>
+**Final sample**: Purified complex in 0.2% (w/v) DM for crystallization
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Quaternary ECF transporter complex in 0.2% DM</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>24% (w/v) <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 1500, 15% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 100 mM Tris pH 8.4, 200 mM MgCl2</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:1</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>2-5 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>15% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> in reservoir</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Heavy-atom derivatives generated by soaking crystals in 10 mg/ml K2Pt(NO2)4 for 4 h</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4hzu">4HZU</a> — Chain B (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AIAFEHVTYTYQAGTPMAHTALTDVSLTVPDRGYLAIIGHTGSGKSTLIQQLNALLKPTSGTIKIDEFTITPETTNAALKPLRQHVGMVFQFPENQLFEETVRQDIAFGPKNFGMADAD</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">ALALADEMLTTVGLDQSYAERSPFELSGGQMRRVAIAGVLAMQPKVLVLDEPTAGLDPQGRQEMMRLFARLHQEQGLTIVLVTHQMEDVAQYAEQVAVMHEGRLMKFGTPADVFSNREWL</span></span>
+<span class="topo-ruler">       250       260       270       280       290</span>
+<span class="topo-line"><span class="topo-inside">QDHQLDVPQAAQFARRLRDRGLTFPKQPLTADQLADYLAQQWAQR</span><span class="topo-unknown">GADHV</span></span>
+<details class="topo-details"><summary>Topology coordinates (3 regions)</summary>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>285</td>
+      <td>2</td>
+      <td>285</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>290</td>
+      <td>286</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4hzu">4HZU</a> — Chain A (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">TENIISVDHLTYQY</span><span class="topo-unknown">DEN</span><span class="topo-inside">QAPALTDVSFTVHAGEWLAIVGHNGSGKSTLAKSLDGLLPFTQGSVTVGGITLTPETVWQVREQIGMIFQNPDNQFVGATVEDDVAFGLENRQISRDEMVPR</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-inside">VQAALAQVGMTSFAQREPSSLSGGQKQRVALAGIVAIAPKILILDEATSMLDPQGRIEMLAIVRQLRQQQNLTVISITHDIDEAASADRVLVIDDGRLVDEAVPSQIFERGTQLVEMGLD</span></span>
+<span class="topo-ruler">       250       260       270         </span>
+<span class="topo-line"><span class="topo-inside">LPFTEKLKAALRQRGITPPTTYQTAAEMEEWLWQSLS</span><span class="topo-unknown">NT</span></span>
+<details class="topo-details"><summary>Topology coordinates (5 regions)</summary>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>15</td>
+      <td>2</td>
+      <td>15</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>18</td>
+      <td>16</td>
+      <td>18</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>277</td>
+      <td>19</td>
+      <td>277</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>278</td>
+      <td>279</td>
+      <td>278</td>
+      <td>279</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4hzu">4HZU</a> — Chain T (5 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-unknown">MSNFIFGRYLPLDSVV</span><span class="topo-inside">HRLDPRAKLM</span><span class="topo-membrane">LSFCYIIVVFLANNI</span><span class="topo-outside">W</span><span class="topo-membrane">SYAILIAFTVGAILSSKI</span><span class="topo-inside">S</span><span class="topo-membrane">LGFFLKGIRPLLWLIVFTVVLQLLFSPAGG</span><span class="topo-outside">HTYFHWA</span><span class="topo-unknown">FINV</span><span class="topo-outside">T</span><span class="topo-membrane">QDGLINAGYIFVRFLLI</span></span>
+<span class="topo-ruler">       130       140       150       160       170       180       190       200       210       220       230       240</span>
+<span class="topo-line"><span class="topo-membrane">IMMSTLL</span><span class="topo-inside">TLSTQPLD</span><span class="topo-unknown">IATGLASL</span><span class="topo-inside">MKPLRWVKVPVDTLAMMLSIALRFVPTLMDEATKIMNAQRARGVDFGEGGLFKQAKSLIPLMVPLFMSAFNRAEDLSTAMEARGYQDSEHRSQY</span><span class="topo-unknown">RIL</span></span>
+<span class="topo-ruler">       250       260      </span>
+<span class="topo-line"><span class="topo-unknown">TWQ</span><span class="topo-inside">RR</span><span class="topo-membrane">DTVTWLLFLLGFVAILIFRHW</span></span>
+<details class="topo-details"><summary>Topology coordinates (17 regions)</summary>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>16</td>
+      <td>1</td>
+      <td>16</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>26</td>
+      <td>17</td>
+      <td>26</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>41</td>
+      <td>27</td>
+      <td>41</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>42</td>
+      <td>42</td>
+      <td>42</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>61</td>
+      <td>61</td>
+      <td>61</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>91</td>
+      <td>62</td>
+      <td>91</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>98</td>
+      <td>92</td>
+      <td>98</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>102</td>
+      <td>99</td>
+      <td>102</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>103</td>
+      <td>103</td>
+      <td>103</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>127</td>
+      <td>104</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>135</td>
+      <td>128</td>
+      <td>135</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>143</td>
+      <td>136</td>
+      <td>143</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>237</td>
+      <td>144</td>
+      <td>237</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>243</td>
+      <td>238</td>
+      <td>243</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>244</td>
+      <td>245</td>
+      <td>244</td>
+      <td>245</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>266</td>
+      <td>246</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4hzu">4HZU</a> — Chain S (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-ruler">        10        20        30        40        50        60        70        80        90       100       110       120</span>
+<span class="topo-line"><span class="topo-inside">MTKGSLKENTIAAVLIAMTVALSILVVIPIPATKGIVTLCEVGIYTSAILYGRRM</span><span class="topo-unknown">GLLVGGASGFLIDIL</span><span class="topo-inside">TGYPVWC</span><span class="topo-unknown">LFSLVIHGTQGLVVGWLL</span><span class="topo-inside">PRHHKGIRSMLLPLLVGS</span><span class="topo-unknown">LVMVIGY</span></span>
+<span class="topo-ruler">       130       140       150       160      </span>
+<span class="topo-line"><span class="topo-unknown">CLATTLLFGWPAGLASIFGNVV</span><span class="topo-inside">QVGFGAGVTLSIVGPLTRLKPD</span><span class="topo-unknown">LV</span></span>
+<details class="topo-details"><summary>Topology coordinates (8 regions)</summary>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>55</td>
+      <td>1</td>
+      <td>55</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>70</td>
+      <td>56</td>
+      <td>70</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>77</td>
+      <td>71</td>
+      <td>77</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>95</td>
+      <td>78</td>
+      <td>95</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>113</td>
+      <td>96</td>
+      <td>113</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>142</td>
+      <td>114</td>
+      <td>142</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>164</td>
+      <td>143</td>
+      <td>164</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>166</td>
+      <td>165</td>
+      <td>166</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+</div>
+</div>
+</div>
+
+</div>
+
+## Biological / Functional Insights
+
+### Structure of a complete quaternary ECF transporter
+
+The 3.5 Å crystal structure reveals the first complete quaternary ECF transporter. The T component (EcfT) has a horseshoe-shaped open architecture with five transmembrane α-helices and two cytoplasmic coupling helices connecting to EcfA and EcfA'. The S component (EcfS) lies horizontally along the lipid membrane, bound exclusively by the five transmembrane segments and two cytoplasmic helices of EcfT. All interactions between EcfS and EcfT are hydrophobic (van der Waals), with no hydrogen bonds, which may facilitate movement of EcfS during transport.
+
+### EcfA-EcfA' ATPase dimer
+
+EcfA and EcfA' have similar structures (RMSD 2.83 Å for 249 Cα atoms) and dimerize mainly through their C-terminal subdomains. The RecA-like and helical subdomains are spatially separated, similar to nucleotide-free ABC transporters. Key ATP-binding residues (Lys46-Ser47 P-loop, Gln88 Q-loop, Asp165 Walker B, His199 H-loop) are conserved.
+
+### Working model for ECF transporter mechanism
+
+Based on the structure, a transport model is proposed involving rigid-body rotation of EcfS. In the default resting state (observed here), EcfS is horizontal and inward-open. ATP binding switches EcfA-EcfA' to a closed conformation, pushing the substrate entry point of EcfS toward the extracellular side via the coupling modules of EcfT. ATP hydrolysis and release of ADP/Pi reset the transporter, releasing substrate into the cytoplasm.
+
+
+## Cross-References
+
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter/">ECF Transporter (Energy-Coupling Factor Transporter)</a> — This ECF transporter is the HMP-specific member of the ECF family from L. brevis
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/folate-ecf-transporter-lactobacillus-brevis/">Folate ECF Transporter from Lactobacillus brevis</a> — Another ECF transporter from the same organism with different S-component specificity
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/">ECF (Energy Coupling Factor) Transporter Family</a> — This protein is a member of the ECF transporter family
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Detergent used in purification or crystallization
