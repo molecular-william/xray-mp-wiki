@@ -18,9 +18,9 @@ This wiki contains pages organized into the categories above. Browse the categor
 
 ## Documentation
 
-- [Wiki Reference](../references/WIKI-REFERENCE.md) — Domain, conventions, directory structure, entity page structures, tag taxonomy, correction policy, source-truth verification
-- [Wiki Workflow](../references/WIKI-WORKFLOW.md) — Complete per-entity workflows: YAML schemas, generate/update commands, merge rules, pitfalls
-- [Wiki Scripts](../references/WIKI-SCRIPTS.md) — Script inventory, usage, architecture, testing
+- [Wiki Reference](https://github.com/molecular-william/xray-mp-wiki/blob/main/references/WIKI-REFERENCE.md) — Domain, conventions, directory structure, entity page structures, tag taxonomy, correction policy, source-truth verification
+- [Wiki Workflow](https://github.com/molecular-william/xray-mp-wiki/blob/main/references/WIKI-WORKFLOW.md) — Complete per-entity workflows: YAML schemas, generate/update commands, merge rules, pitfalls
+- [Wiki Scripts](https://github.com/molecular-william/xray-mp-wiki/blob/main/references/WIKI-SCRIPTS.md) — Script inventory, usage, architecture, testing
 
 ## Health
 
