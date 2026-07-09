@@ -1,13 +1,13 @@
 ---
 title: "n-Decyl-beta-D-Maltoside (DM)"
 created: 2026-06-05
-updated: 2026-06-23
+updated: 2026-07-09
 type: reagent
 category: reagents
 layout: default
 tags: [detergent-nonionic, detergent-mild, subdirectory-detergents]
-sources: [doi/10.1107##s205979832001517x, doi/10.1038##nsmb.2904, doi/10.1038##s41467-018-03477-5, doi/10.1038##nature20606, doi/10.7554##eLife.09375, doi/10.7554##eLife.18767, doi/10.7554##eLife.28032, doi/10.7554##eLife.31259, doi/10.1126##science.1150755, doi/10.1038##srep07299]
-verified: false
+sources: [doi/10.1107##s205979832001517x, doi/10.1038##nsmb.2904, doi/10.1038##s41467-018-03477-5, doi/10.1038##nature20606, doi/10.7554##eLife.09375, doi/10.7554##eLife.18767, doi/10.7554##eLife.28032, doi/10.7554##eLife.31259, doi/10.1126##science.1150755, doi/10.1038##srep07299, doi/10.1038##nsmb.1531]
+verified: none
 ---
 
 # n-Decyl-beta-D-Maltoside (DM)

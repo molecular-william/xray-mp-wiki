@@ -1,13 +1,13 @@
 ---
 title: "n-Octyl beta-D-glucopyranoside (OG)"
 created: 2026-06-02
-updated: 2026-06-23
+updated: 2026-07-09
 type: reagent
 category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1002##anie.201302374, doi/10.1016##j.jmb.2011.04.038, doi/10.1016##j.jmb.2011.06.028, doi/10.1016##j.jmb.2011.08.044, doi/10.1016##j.jmb.2007.02.070, doi/10.1002##1873-3468.14136, doi/10.1016##j.jsbmb.2022.106228, doi/10.1016##s0022-2836(03)00024-x, doi/10.1038##nature06925, doi/10.1038##nature12648, doi/10.1038##nature10917, doi/10.1038##nature09487, doi/10.1038##nsmb.1788, doi/10.1073##pnas.0811322106, doi/10.1073##pnas.0902725106, doi/10.7554##eLife.09375, doi/10.1371##journal.pone.0097475, doi/10.1016##S0022-2836(02)00681-2, doi/10.1038##NATURE01109, doi/10.1006##jmbi.1999.3027]
-verified: false
+verified: none
 ---
 
 # n-Octyl beta-D-glucopyranoside (OG)
@@ -101,3 +101,5 @@ No comparison data available.
 - [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) — Crystallization precipitant used with beta-octylglucoside for HiTehA
 - [Human Aquaporin 4 (hAQP4)](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) — OG molecule bound in hAQP4 crystal structure
 - [Salmonella enterica Citrate/Sodium Symporter (SeCitS)](/xray-mp-wiki/proteins/slc-transporters/se-cits/) — OG used as crystallization additive for SeCitS
+- [n-Octyl beta-D-glucopyranoside (OG) [Canonical Page]](/xray-mp-wiki/reagents/detergents/og/) — Canonical OG page with comprehensive coverage across multiple sources
+- [n-Octyl-beta-D-thioglucopyranoside (OTG)](/xray-mp-wiki/reagents/detergents/octylthioglucoside/) — Related sulfur-containing alkyl glucoside with similar properties

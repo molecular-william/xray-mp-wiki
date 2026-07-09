@@ -1,13 +1,13 @@
 ---
 title: "n-Dodecyl-beta-D-maltopyranoside (DDM)"
 created: 2026-06-08
-updated: 2026-06-23
+updated: 2026-07-09
 type: reagent
 category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
-sources: [doi/10.1107##s205979832001517x, doi/10.1038##nsmb.2687, doi/10.1038##nsmb.3417, doi/10.1038##s41421-018-0037-y, doi/10.1038##nsmb.3346, doi/10.1038##nature12233, doi/10.1038##nature20606, doi/10.1038##s41467-017-00217-z, doi/10.1038##s41467-017-00887-9, doi/10.1073##pnas.1612927114, doi/10.1126##science.1110064, doi/10.1126##science.1111199, doi/10.7554##eLife.28032, doi/10.7554##eLife.31259, doi/10.1126##sciadv.abp9011, doi/10.1016##j.bbamem.2021.183825]
-verified: false
+sources: [doi/10.1107##s205979832001517x, doi/10.1038##nsmb.2687, doi/10.1038##nsmb.3417, doi/10.1038##s41421-018-0037-y, doi/10.1038##nsmb.3346, doi/10.1038##nature12233, doi/10.1038##nature20606, doi/10.1038##s41467-017-00217-z, doi/10.1038##s41467-017-00887-9, doi/10.1073##pnas.1612927114, doi/10.1126##science.1110064, doi/10.1126##science.1111199, doi/10.7554##eLife.28032, doi/10.7554##eLife.31259, doi/10.1126##sciadv.abp9011, doi/10.1016##j.bbamem.2021.183825, doi/10.1038##nature13494, doi/10.1038##nature14035]
+verified: none
 ---
 
 # n-Dodecyl-beta-D-maltopyranoside (DDM)

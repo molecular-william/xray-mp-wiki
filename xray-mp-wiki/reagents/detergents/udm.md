@@ -1,13 +1,13 @@
 ---
 title: "n-Undecyl-beta-D-maltoside (UDM)"
 created: 2026-06-04
-updated: 2026-06-23
+updated: 2026-07-09
 type: reagent
 category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
-sources: [doi/10.1038##NATURE06717, doi/10.1038##ncomms4009, doi/10.1126##science.1110064]
-verified: false
+sources: [doi/10.1038##NATURE06717, doi/10.1038##ncomms4009, doi/10.1126##science.1110064, doi/10.1038##nature07869]
+verified: none
 ---
 
 # n-Undecyl-beta-D-maltoside (UDM)

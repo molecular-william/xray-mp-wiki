@@ -1,12 +1,12 @@
 ---
 title: "n-Octyl-beta-D-thioglucopyranoside (OTG)"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-09
 type: reagent
 category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
-sources: [doi/10.1038##s41467-023-40911-9]
+sources: [doi/10.1038##s41467-023-40911-9, doi/10.1038##NATURE07101]
 verified: none
 ---
 

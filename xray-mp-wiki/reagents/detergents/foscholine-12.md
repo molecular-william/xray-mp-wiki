@@ -1,13 +1,13 @@
 ---
 title: "Foscholine-12"
 created: 2026-06-02
-updated: 2026-06-23
+updated: 2026-07-09
 type: reagent
 category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
-sources: [doi/10.1038##nature10218, doi/10.1073##pnas.1612927114]
-verified: false
+sources: [doi/10.1038##nature10218, doi/10.1073##pnas.1612927114, doi/10.1126##science.1261172]
+verified: none
 ---
 
 # Foscholine-12
@@ -71,3 +71,5 @@ No comparison data available.
 - [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) — Detergent used in purification or crystallization
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization
 - [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) — Additive used in purification or crystallization buffers
+- [Rocker — De Novo Designed Zn²⁺ Transporter](/xray-mp-wiki/proteins/miscellaneous/rocker/) — Primary solubilization detergent for AUC and solution NMR characterization of Rocker
+- [DPC](/xray-mp-wiki/reagents/detergents/dpc/) — Detergent used in purification or crystallization

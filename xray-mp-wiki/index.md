@@ -729,7 +729,6 @@ For a detailed audit: `python3 ~/Desktop/Research/coding_projects/xray-mp-wiki/s
 | protein | proteins/enzymes/afubia/ | AfUbiA - Archaeoglobus fulgidus UbiA Family Prenyltransferase | AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus |
 | protein | proteins/enzymes/aglB/ | A. fulgidus AglB-L Oligosaccharyltransferase | AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si |
 | protein | proteins/enzymes/apubia/ | ApUbiA (UbiA from Aeropyrum pernix) — Intramembrane Prenyltransferase | ApUbiA is an intramembrane prenyltransferase from the hyperthermophilic archaeon |
-| protein | proteins/enzymes/aquifex-aeolicus-ftsh/ | FtsH from Aquifex aeolicus (A. aeolicus AAA Protease) | FtsH is a universally conserved [ATP](/xray-mp-wiki/reagents/ligands/atp/)-depen |
 | protein | proteins/enzymes/aquifex-aeolicus-mray/ | Aquifex aeolicus MraY Phospho-MurNAc-pentapeptide Translocase | MraY (phospho-MurNAc-pentapeptide translocase) from Aquifex aeolicus
 | protein | proteins/enzymes/archaeoglobus-fulgidus-aglb/ | Archaeoglobus fulgidus AglB (AfAglB) | Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol |
 | protein | proteins/enzymes/arnt/ | 4-Amino-4-deoxy-L-arabinose Transferase ArnT from Cupriavidus metallidurans | ArnT (PmrK) is an integral membrane lipid-to-lipid glycosyltransferase that |
@@ -956,7 +955,6 @@ For a detailed audit: `python3 ~/Desktop/Research/coding_projects/xray-mp-wiki/s
 | protein | proteins/gpcr/us28/ | US28 Viral Chemokine Receptor | US28 is a G-protein-coupled receptor encoded by human cytomegalovirus (CMV) that |
 | protein | proteins/kdel-receptor/ | Human KDEL Receptor | The human KDEL receptor is a seven-pass transmembrane receptor that retrieves es |
 | protein | proteins/mfs-transporters/arabidopsis-nitrate-transporter-nrt1-1/ | Arabidopsis thaliana Nitrate Transporter NRT1.1 (CHL1/NPF6.3) | NRT1.1 (CHL1/NPF6.3) is a dual-affinity nitrate transporter from Arabidopsis |
-| protein | proteins/mfs-transporters/arabidopsis-thaliana-cystinosin/ | Arabidopsis thaliana cystinosin (AtCystinosin) | Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte |
 | protein | proteins/mfs-transporters/at-suc1/ | Arabidopsis thaliana Sucrose Transporter SUC1 | Arabidopsis thaliana SUC1 is a low-affinity sucrose-proton symporter from the SU |
 | protein | proteins/mfs-transporters/bbfpn/ | BbFPN — Putative Bacterial Ferroportin Homologue from Bdellovibrio bacteriovorus | BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello |
 | protein | proteins/mfs-transporters/dtpb/ | Escherichia coli DtpB Peptide Transporter | DtpB is a proton-dependent oligopeptide transporter (POT) from the Major Facilit |
@@ -998,7 +996,6 @@ For a detailed audit: `python3 ~/Desktop/Research/coding_projects/xray-mp-wiki/s
 | protein | proteins/mfs-transporters/yepept/ | YePEPT (Yersinia enterocolitica Peptide Transporter) | YePEPT is a proton-dependent oligopeptide transporter (POT) family member from
 | protein | proteins/miscellaneous/a-thaliana-sweet1/ | A. thaliana SWEET1 | A. thaliana SWEET1 is a glucose transporter from the SWEET family found in Arabi |
 | protein | proteins/miscellaneous/af-tmem16/ | afTMEM16 (TMEM16 Lipid Scramblase from Aspergillus fumigatus) | afTMEM16 is a calcium-activated lipid scramblase from the fungus Aspergillus fum |
-| protein | proteins/miscellaneous/arabidopsis-thaliana-cystinosin/ | Arabidopsis thaliana cystinosin (AtCystinosin) | Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte |
 | protein | proteins/miscellaneous/cd47-bril-b6h12/ | CD47 BRIL-B6H12 complex from Homo sapiens | CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system.  |
 | protein | proteins/miscellaneous/ec-semisweet/ | E. coli SemiSWEET (EcSemiSWEET) | EcSemiSWEET is a sugar transporter from the SWEET family found in Escherichia co |
 | protein | proteins/miscellaneous/lbsemisweet/ | LbSemiSWEET from Leptospira biflexa | LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium  |
@@ -1670,7 +1667,6 @@ For a detailed audit: `python3 ~/Desktop/Research/coding_projects/xray-mp-wiki/s
 | reagent | reagents/detergents/dm/ | n-Decyl-beta-D-Maltoside (DM) | Decyl-β-D-maltoside (DM) is a mild nonionic detergent with a 10-carbon alkyl cha |
 | reagent | reagents/detergents/dmng/ | Decyl Maltose Neopentyl Glycol (DMng) | Decyl [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol (DMn |
 | reagent | reagents/detergents/dodecanoyl-sucrose/ | Dodecanoyl Sucrose | Dodecanoyl sucrose is a nonionic detergent composed of sucrose (hydrophilic head |
-| reagent | reagents/detergents/dodecanoylmorpholine/ | Dodecanoylmorpholine (DM) | Dodecanoylmorpholine (DM) is a nonionic surfactant commonly used as a mild deter |
 | reagent | reagents/detergents/dodecylphosphocholine/ | Dodecylphosphocholine (DPC) | Dodecylphosphocholine ([DPC](/xray-mp-wiki/reagents/detergents/dpc/)) is a zwitt |
 | reagent | reagents/detergents/dpc/ | Decylphosphocholine (DPC) | Decylphosphocholine ([DPC](/xray-mp-wiki/reagents/detergents/dodecylphosphocholi |
 | reagent | reagents/detergents/fa-3/ | FA-3 (Facade-EM Facial Amphiphile) | FA-3 (Facade-EM, 3alpha-hydroxy-7alpha,12alpha-di-((O-beta-D-maltosyl)-2-hydroxy |
