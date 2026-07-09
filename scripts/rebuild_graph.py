@@ -146,6 +146,13 @@ def main():
     for e in edges:
         e["opacity"] = round(max(0.05, min(1.0, e["weight"] / max_w * 0.9 + 0.1)), 2)
 
+    # ponytail: trim low-importance nodes — full graph is 2.8MB, too slow
+    # upgrade: remove filter when server-side pagination/level-of-detail is added
+    IMPORTANCE_MIN = 0.07
+    filtered_ids = {n["id"] for n in nodes.values() if n["importance"] >= IMPORTANCE_MIN}
+    nodes = {k: v for k, v in nodes.items() if k in filtered_ids}
+    edges = [e for e in edges if e["source"] in filtered_ids and e["target"] in filtered_ids]
+
     graph = {
         "meta": {"total_nodes": len(nodes), "total_edges": len(edges)},
         "nodes": sorted(nodes.values(), key=lambda n: -n["importance"]),
