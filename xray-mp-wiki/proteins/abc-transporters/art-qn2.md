@@ -1,7 +1,7 @@
 ---
 title: "Art(QN)2 ABC Amino Acid Importer from Thermoanaerobacter tengcongensis"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-09
 type: protein
 category: proteins
 layout: default
@@ -43,39 +43,39 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yms">4YMS</a></td>
       <td>2.8</td>
       <td>—</td>
-      <td>Full-length Art(QN2 complex from T. tengcongensis, apo form</td>
+      <td>Full-length Art(QN)2 complex from T. tengcongensis, apo form</td>
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yms">4YMS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ymt">4YMT</a></td>
       <td>2.6</td>
       <td>—</td>
-      <td>Full-length Art(QN2 complex with Arg bound</td>
+      <td>Full-length Art(QN)2 complex with Arg bound</td>
       <td>Arg</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yms">4YMS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ymw">4YMW</a></td>
       <td>2.8</td>
       <td>—</td>
-      <td>Full-length Art(QN2 complex with His bound</td>
+      <td>Full-length Art(QN)2 complex with His bound</td>
       <td>His</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yms">4YMS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ymv">4YMV</a></td>
       <td>3.0</td>
       <td>—</td>
-      <td>Full-length Art(QN2 complex with ATP bound</td>
+      <td>Full-length Art(QN)2 complex with ATP bound</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yms">4YMS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ymu">4YMU</a></td>
       <td>2.5</td>
       <td>—</td>
-      <td>Full-length Art(QN2 complex with Arg and ATP bound</td>
+      <td>Full-length Art(QN)2 complex with Arg and ATP bound</td>
       <td>Arg, <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yms">4YMS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ymx">4YMX</a></td>
       <td>1.48</td>
       <td>—</td>
       <td>Cognate solute-binding protein ArtI complexed with Arg</td>

@@ -1,7 +1,7 @@
 ---
 title: "ApUbiA (UbiA from Aeropyrum pernix) — Intramembrane Prenyltransferase"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-09
 type: protein
 category: proteins
 layout: default
@@ -40,18 +40,18 @@ ApUbiA is an intramembrane prenyltransferase from the hyperthermophilic archaeon
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4od5">4OD5</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4od4">4OD4</a></td>
       <td>3.30</td>
-      <td>--</td>
-      <td>Full-length ApUbiA (apo state</td>
-      <td>None (apo</td>
+      <td>—</td>
+      <td>Full-length ApUbiA (apo state)</td>
+      <td></td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4od5">4OD5</a></td>
       <td>3.60</td>
-      <td>--</td>
+      <td>—</td>
       <td>Full-length ApUbiA complexed with GSPP, PHB, and Mg2+</td>
-      <td>GSPP (<a href="/xray-mp-wiki/reagents/additives/gpp/">GPP</a> thiopyrophosphate, PHB (p-hydroxybenzoate, Mg2+</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
