@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10151, doi/10.1038##nsmb.3491, doi/10.1038##s41598-018-34534-0]
-verified: regex
+verified: agent
 uniprot_id: B9KDD4
 ---
 
@@ -419,22 +419,22 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
       <td>Cell resuspension and lysis</td>
       <td><a href="/xray-mp-wiki/methods/cell-lysis/french-press/">Microfluidizer</a> disruption at 15,000 psi</td>
       <td>--</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 250 mM NaCl + --</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 250 mM NaCl + --</td>
       <td>Cells disrupted at 15,000 psi chamber pressure; membranes pelleted by centrifugation at 100,000g for 30 min</td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 250 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 1% N-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, Anatrace)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 250 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 1% N-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, Anatrace)</td>
       <td>Membranes solubilized for 1.5 h at 4 C</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity purification</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized metal affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Superflow</a> column (Qiagen)</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 250 mM NaCl, 0.016% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.016% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>Purified on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Superflow](/xray-mp-wiki/reagents/additives/nickel-nta/) column (Qiagen)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 250 mM NaCl, 0.016% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.016% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Purified on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) column</td>
     </tr>
     <tr>
       <td>Desalting</td>
@@ -453,9 +453,9 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200</a> 10/300 column (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">[Superdex 200</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) 10/300 column (GE Healthcare)</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/mes">MES</a> pH 6.5, 100 mM NaCl, 3% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.016% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.016% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>Concentrated to 12 mg/ml after <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> for crystallization</td>
+      <td>Concentrated to 12 mg/ml after <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) for crystallization</td>
     </tr>
   </tbody>
 </table>
@@ -1118,4 +1118,4 @@ The Mn2+ ion coordinates the glycosidic oxygen of LLO rather than the negatively
 - <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a> — MgCl2 mentioned in transport assay buffers
 - <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> — Used for His-tag affinity purification of PglB
 - <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Superdex 200 SEC used for final purification before crystallization
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> — Buffer component in purification or crystallization

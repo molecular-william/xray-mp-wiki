@@ -323,6 +323,26 @@
                       "reagent"
                     ]
                   }
+                },
+                "step_type": {
+                  "type": "string",
+                  "enum": [
+                    "binding", "clarification", "complex_formation", "concentration",
+                    "crystallization_setup", "deglycosylation", "dialysis", "elution",
+                    "exchange", "expression", "hic", "ion_exchange", "lysis",
+                    "membrane_prep", "modification", "polishing", "purification", "sec",
+                    "solubilization", "tag_cleavage", "wash"
+                  ]
+                },
+                "step_subtype": {
+                  "type": "string",
+                  "enum": [
+                    "binding", "clarification", "complex_formation", "concentration",
+                    "crystallization_setup", "deglycosylation", "dialysis", "elution",
+                    "exchange", "expression", "hic", "ion_exchange", "lysis",
+                    "membrane_prep", "modification", "polishing", "purification", "sec",
+                    "solubilization", "tag_cleavage", "wash"
+                  ]
                 }
               }
             }

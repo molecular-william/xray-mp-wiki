@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##emboj.2010.243]
-verified: false
+verified: agent
 ---
 
 # Amino-Methoxy-Isocoumarin (JLK-6)

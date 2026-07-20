@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-018-0447-x]
-verified: regex
+verified: pdb
 uniprot_id: P00268
 ---
 

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.celrep.2019.03.106]
-verified: false
+verified: agent
 ---
 
 # Adenylyl Methylenediphosphonate (AMP-PCP / AMPPCP)

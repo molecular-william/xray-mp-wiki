@@ -102,6 +102,15 @@ SUBDIRECTORY_TAGS = {
     "subdirectory-construct-design", "subdirectory-miscellaneous",
 }
 
+DETERGENT_DETAIL_UNITS = {"%", "mM"}
+STEP_TYPES = {
+    "binding", "clarification", "complex_formation", "concentration",
+    "crystallization_setup", "deglycosylation", "dialysis", "elution",
+    "exchange", "expression", "hic", "ion_exchange", "lysis",
+    "membrane_prep", "modification", "polishing", "purification", "sec",
+    "solubilization", "tag_cleavage", "wash",
+}
+
 # ─── Schema definitions (uses string references for nested validators) ──
 
 SCHEMAS = {
@@ -197,14 +206,13 @@ _NESTED_VALIDATOR_MAP = {}
 # ─── Nested validators ───────────────────────────────────────────
 
 def _v_protein_structures(items, errors):
-    """structures[]: each item must have source and pdb_id."""
+    """structures[]: each item must have pdb_id. source is inherited from
+    the parent publication in DOI-grouped format (all current files)."""
     for i, s in enumerate(items):
         prefix = f"structures[{i}]"
         if not isinstance(s, dict):
             errors.append(f"{prefix}: must be a dict, got {type(s).__name__}")
             continue
-        if "source" not in s:
-            errors.append(f"{prefix}: missing required field 'source'")
         if "pdb_id" not in s:
             errors.append(f"{prefix}: missing required field 'pdb_id'")
         for field in ["resolution", "space_group", "construct", "ligand"]:
@@ -244,6 +252,26 @@ def _v_protein_purifications(items, errors):
                 for field in ["resin", "buffer", "notes"]:
                     if field in step and not isinstance(step[field], str):
                         errors.append(f"{step_prefix}.{field}: must be string, got {type(step[field]).__name__}")
+                if "step_type" in step:
+                    if step["step_type"] not in STEP_TYPES:
+                        errors.append(f"{step_prefix}.step_type: '{step['step_type']}' not in controlled vocabulary ({', '.join(sorted(STEP_TYPES))})")
+                if "step_subtype" in step:
+                    if step["step_subtype"] not in STEP_TYPES:
+                        errors.append(f"{step_prefix}.step_subtype: '{step['step_subtype']}' not in controlled vocabulary ({', '.join(sorted(STEP_TYPES))})")
+                if "detergent_details" in step:
+                    dd_arr = step["detergent_details"]
+                    if not isinstance(dd_arr, list):
+                        errors.append(f"{step_prefix}.detergent_details: must be a list")
+                    else:
+                        for k, item in enumerate(dd_arr):
+                            if not isinstance(item, dict):
+                                errors.append(f"{step_prefix}.detergent_details[{k}]: must be an object")
+                                continue
+                            if "reagent" not in item or not isinstance(item["reagent"], str):
+                                errors.append(f"{step_prefix}.detergent_details[{k}].reagent: required, string")
+                            unit = item.get("unit")
+                            if unit is not None and unit not in DETERGENT_DETAIL_UNITS:
+                                errors.append(f"{step_prefix}.detergent_details[{k}].unit: '{unit}' not in canonical set ({', '.join(sorted(DETERGENT_DETAIL_UNITS))})")
                 if "buffer_details" in step:
                     bd = step["buffer_details"]
                     if not isinstance(bd, list):
@@ -257,14 +285,13 @@ def _v_protein_purifications(items, errors):
 
 
 def _v_crystallizations(items, errors):
-    """crystallizations[]: each must have source."""
+    """crystallizations[]: validates each entry. source is inherited from
+    the parent publication in DOI-grouped format (all current files)."""
     for i, c in enumerate(items):
         prefix = f"crystallizations[{i}]"
         if not isinstance(c, dict):
             errors.append(f"{prefix}: must be a dict, got {type(c).__name__}")
             continue
-        if "source" not in c:
-            errors.append(f"{prefix}: missing required field 'source'")
         for field in ["method", "protein_sample", "reservoir", "temperature", "growth_time", "notes"]:
             if field in c and not isinstance(c[field], str):
                 errors.append(f"{prefix}.{field}: must be string, got {type(c[field]).__name__}")
@@ -575,6 +602,18 @@ def validate_entity(yaml_data, entity_type, strict=False):
                 fn(yaml_data[field], errors)
             else:
                 errors.append(f"nested validator '{validator_ref}' for '{field}' not found")
+
+    # Also validate DOI-grouped publications[].{purifications, crystallizations, structures}
+    if entity_type == "protein" and "publications" in yaml_data:
+        pub_subs = {"purifications", "crystallizations", "structures"} & set(schema["nested_validators"])
+        for i, pub in enumerate(yaml_data["publications"]):
+            if not isinstance(pub, dict):
+                continue
+            for sub in pub_subs:
+                if sub in pub:
+                    fn = _NESTED_VALIDATOR_MAP.get(schema["nested_validators"][sub])
+                    if fn:
+                        fn(pub[sub], errors)
 
     # Check for non-Jekyll wikilink syntax [[...]] in ALL string fields
     _validate_wikilinks(yaml_data, errors)

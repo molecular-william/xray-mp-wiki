@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-phosphate, subdirectory-buffers]
 sources: [doi/10.1016##j.jsbmb.2022.106228, doi/10.1021##acs.jmedchem.5b00892]
-verified: false
+verified: agent
 ---
 
 # Ammonium Phosphate (Monobasic)

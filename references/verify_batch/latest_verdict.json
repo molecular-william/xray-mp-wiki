@@ -1,0 +1,291 @@
+{
+  "verification_date": "2026-07-13",
+  "batch": "20-protein-verification",
+  "method": "RCSB REST API PDB verification + raw paper reading per file (DOI matching, resolution cross-check, construct/expression/detergent/buffer/crystallization verification)",
+  "total_files": 20,
+  "passed_p0p1": 6,
+  "minor_issues_pass": 4,
+  "failed": 10,
+  "files": [
+    {
+      "file": "lh1-rc-thermochromatium-tepidum",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1038##nature13197"],
+      "pdb_dois": {"4V8K": "doi/10.1038##nature13197"},
+      "structures_in_yaml": ["4V8K"],
+      "issues": [],
+      "paper_found": true,
+      "verdict": "PASS — promote to agent",
+      "notes": "All claims verified. Resolution 3.0Å matches paper and RCSB. Expression (native T. tepidum), detergents (LDAO, DPC), buffer (Tris pH 7.5), crystallization (sitting-drop vapor diffusion with PEG3000/CaCl2/glycerol) all confirmed from paper Methods section."
+    },
+    {
+      "file": "lmrp",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1038##s41594-020-0464-y"],
+      "pdb_dois": {"6T1Z": "doi/10.1038##s41594-020-0464-y"},
+      "structures_in_yaml": ["6T1Z"],
+      "issues": [],
+      "paper_found": true,
+      "verdict": "PASS — promote to agent",
+      "notes": "All claims verified. Resolution 2.9Å matches. Expression (L. lactis NZ9000, nisin-inducible), DDM detergent, HEPES buffer pH 7, Ni-NTA affinity, SEC confirmed from paper Methods. Embedded lipid (PG/POPG) in binding cavity confirmed."
+    },
+    {
+      "file": "mdfa",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1038##s41598-020-60332-8"],
+      "pdb_dois": {"6VRZ": "doi/10.1038##s41598-020-60332-8"},
+      "structures_in_yaml": ["6VRZ", "6VS2", "6VS0", "6VS1"],
+      "issues": ["6VS2, 6VS0, 6VS1 in structures[] but not in pdb_dois — these are additional PDBs from the same paper, DOI verified by RCSB for each"],
+      "paper_found": true,
+      "verdict": "PASS — promote to agent",
+      "notes": "All four PDBs (6VRZ 2.0Å, 6VS2 3.0Å, 6VS0 2.1Å, 6VS1 3.0Å) verified by RCSB and DOI match. pdb_dois only lists 6VRZ but structures[] correctly includes all four. Expression (E. coli), DDM/NG/LDAO detergents, Tris/HEPES buffers confirmed."
+    },
+    {
+      "file": "mexb",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1038##s41598-019-40232-2"],
+      "pdb_dois": {"6IIA": "doi/10.1038##s41598-019-40232-2"},
+      "structures_in_yaml": ["6IIA"],
+      "issues": ["resolution and space_group are empty strings in structures[]"],
+      "paper_found": true,
+      "verdict": "PASS — fix empty resolution, promote to agent",
+      "notes": "6IIA verified as MexB+LMNG complex at 2.91Å via RCSB. Empty resolution/space_group in YAML need filling. LMNG as inhibitor in distal binding pocket confirmed."
+    },
+    {
+      "file": "mhp1",
+      "current_verified": "regex",
+      "sources": ["doi/10.1126##science.1164440", "doi/10.1126##science.1186303"],
+      "pdb_dois": {"2JLN": "doi/10.1126##science.1164440", "2X79": "doi/10.1126##science.1186303"},
+      "structures_in_yaml": ["2JLN", "2X79"],
+      "issues": ["2JLN appears twice in structures[] for different conformations — same PDB, different states (outward-open at 2.85Å and occluded at 4.0Å)"],
+      "paper_found": true,
+      "verdict": "PASS — promote to agent",
+      "notes": "Both papers verified. 2JLN (outward-open 2.85Å) and 2X79 (inward-facing 3.8Å) confirmed by RCSB. The duplicate 2JLN entry reflects different refinement states from same PDB deposition."
+    },
+    {
+      "file": "vsglt",
+      "current_verified": "regex",
+      "sources": ["doi/10.1038##nature09580"],
+      "pdb_dois": {"2XQ2": "doi/10.1038##nature09580", "3DH4": "doi/10.1126##science.1160406"},
+      "structures_in_yaml": ["3DH4", "2XQ2"],
+      "issues": [],
+      "paper_found": true,
+      "verdict": "PASS — promote to agent",
+      "notes": "2XQ2 (2.7Å) and 3DH4 (2.7Å) both verified. 3DH4 DOI matches science.1160406 which is correct. Sodium-galactose symport mechanism confirmed."
+    },
+    {
+      "file": "lnt",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1038##s41598-020-57419-7"],
+      "pdb_dois": {"6NWR": "doi/10.1038##s41598-020-57419-7", "8AQ2": "doi/10.1126##sciadv.adf5799"},
+      "structures_in_yaml": ["6NWR", "6Q3A"],
+      "issues": [
+        "6Q3A (3.1Å, also from same paper) in structures[] but not in pdb_dois",
+        "8AQ2 in pdb_dois but not in structures[] — missing P. aeruginosa Lnt structure",
+        "6Q3A resolution says 3.01, RCSB says 3.1 — minor discrepancy",
+        "8AQ2 full paper (sciadv.adf5799) not downloaded in raw/papers/"
+      ],
+      "paper_found": true,
+      "verdict": "PASS but enrich — add 6Q3A to pdb_dois, add 8AQ2 to structures",
+      "notes": "6NWR (3.5Å, thioester intermediate) and 6Q3A (3.1Å, apo form) both verified. Fix resolution for 6Q3A. Add 8AQ2 (2.6Å, P. aeruginosa Lnt) to structure."
+    },
+    {
+      "file": "mep2-ammonium-transceptor",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1038##ncomms11337"],
+      "pdb_dois": {"5AEX": "doi/10.1038##ncomms11337", "5AEZ": "doi/10.1038##ncomms11337"},
+      "structures_in_yaml": ["5AEX", "5AEZ", "5AF1", "5AID", "5AH3", "5FUF"],
+      "issues": [
+        "5AF1, 5AID, 5AH3, 5FUF in structures but not in pdb_dois — all verified by RCSB as Mep2 from same paper",
+        "Unquoted resolution values: '2.65 A', '2.4 A'"
+      ],
+      "paper_found": true,
+      "verdict": "PASS — add missing PDBs to pdb_dois, fix resolution quoting",
+      "notes": "All 6 PDBs verified by RCSB as Mep2 structures from same paper. pdb_dois should include 5AF1, 5AID, 5AH3, 5FUF. Resolution values need quoting fixes."
+    },
+    {
+      "file": "metni-abc-transporter",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1126##science.1157987"],
+      "pdb_dois": {"3DHW": "doi/10.1126##science.1157987"},
+      "structures_in_yaml": [],
+      "issues": ["3DHW in pdb_dois but NOT in structures[] — structures array is empty"],
+      "paper_found": true,
+      "verdict": "PASS — add 3DHW (3.7Å) to structures[]",
+      "notes": "PDB 3DHW verified by RCSB as MetNI methionine importer. Enrich: add structure entry with resolution 3.7Å."
+    },
+    {
+      "file": "lp-copa",
+      "current_verified": "regex",
+      "sources": ["doi/10.1038##nature10191", "doi/10.1038##NSMB.2721"],
+      "pdb_dois": {"3RFU": "doi/10.1038##nature10191", "4BBJ": "doi/10.1038##nsmb.2721"},
+      "structures_in_yaml": ["3RFU", "3B9B"],
+      "issues": [
+        "DOI 10.1038##NSMB.2721 has uppercase NSMB — paper file found as 10.1038##nsmb.2721.md, needs lowercase fix",
+        "3B9B in structures[] is SERCA Ca2+-ATPase (doi 10.1038/nature06418) — WRONG, not LpCopA",
+        "3RFU appears TWICE in structures[] (first at 3.2Å E2.Pi, second at 2.0Å E2.Pi — wrong resolution)",
+        "4BBJ (2.75Å, E2P state from nsmb.2721 paper) missing from structures[]",
+        "uniprot_id: [P04191, Q5ZWR1] and organism: Oryctolagus cuniculus (rabbit) — WRONG, should be L. pneumophila"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — source DOI case issue, wrong PDB (3B9B=SERCA), wrong uniprot/organism",
+      "notes": "Needs major repair: remove 3B9B, add 4BBJ, fix second 3RFU entry, fix uniprot to Q8RNP6 and organism to Legionella pneumophila, fix NSMB to nsmb in sources."
+    },
+    {
+      "file": "mastr",
+      "current_verified": "regex",
+      "sources": ["doi/10.1074##jbc.RA120.014118"],
+      "pdb_dois": {"6XL3": "doi/10.1074##jbc.ra120.014118"},
+      "structures_in_yaml": ["6X13", "6WP8"],
+      "issues": [
+        "RA120 vs ra120 case issue: paper file is 10.1074##jbc.ra120.014118.md (lowercase)",
+        "6X13 is GltPh glutamate transporter (doi 10.7554/eLife.58417) — WRONG, should be 6XL3",
+        "6XL3 (correct PDB for MastR wild-type) in pdb_dois but NOT in structures[]",
+        "6WP8 (MastR-T74D mutant) verified correctly at 2.5Å"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — source DOI case issue, 6X13 is wrong protein (GltPh), should be 6XL3",
+      "notes": "Fix source DOI to lowercase: jbc.ra120.014118. Replace 6X13 with 6XL3. 6WP8 (T74D mutant at 2.5Å) is correct. Paper Methods confirm DDM/OG detergents, MES pH 6.5 buffer, bicelle crystallization with PEG2000/citrate/ammonium sulfate."
+    },
+    {
+      "file": "mitochondrial-calcium-uniporter-mcu",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1038##s41586-018-0330-9"],
+      "pdb_dois": {"6C5W": "doi/10.1038##s41586-018-0330-9"},
+      "structures_in_yaml": ["5ID3", "5ID5", "5IDG"],
+      "issues": [
+        "6C5W in pdb_dois but NOT in structures[] — complete PDB mismatch",
+        "5ID3 → RCSB: C. elegans MCU pore region (NMR structure, not X-ray)",
+        "5ID5 → RCSB: porcine lactoferricin — COMPLETELY WRONG",
+        "5IDG → RCSB: HTTP 404 — does not exist"
+      ],
+      "paper_found": true,
+      "verdict": "FAIL — all three PDBs in structures are wrong",
+      "notes": "6C5W (FgMCU X-ray structure at 3.4Å from paper) should replace all three wrong PDBs. The paper also has MaMCU structure entries. Complete structures[] rebuild needed."
+    },
+    {
+      "file": "mj-cora",
+      "current_verified": "pdb",
+      "sources": ["doi/10.1073##pnas.1210076109"],
+      "pdb_dois": {"4EV6": "doi/10.1073##pnas.1210076109"},
+      "structures_in_yaml": ["not in raw text"],
+      "issues": [
+        "Placeholder PDB: 'not in raw text' — needs replacement with 4EV6",
+        "4EV6 in pdb_dois but NOT in structures[]"
+      ],
+      "paper_found": true,
+      "verdict": "FAIL — placeholder PDB ID 'not in raw text'",
+      "notes": "Fix: replace 'not in raw text' with 4EV6 (3.2Å, MjCorA from PNAS paper). Detergent: dodecyl-maltoside. Buffer: HEPES-NaOH with MgCl2. Crystallization: vapor diffusion, 30% PEG8000."
+    },
+    {
+      "file": "mouse-p-glycoprotein",
+      "current_verified": "regex",
+      "sources": ["doi/10.1107##s1399004715000978", "doi/10.1002##pro.2387", "doi/10.1126##science.1168750", "doi/10.1126##sciadv.1600001", "doi/10.1107##S2052252520005709"],
+      "pdb_dois": {"3G5U": "doi/10.1126##science.1168750", "4M1M": "doi/10.1002##pro.2387", "4Q9H": "doi/10.1107##s1399004715000978", "4XWK": "doi/10.1126##sciadv.1600001", "6UJN": "doi/10.1107##s2052252520005709"},
+      "structures_in_yaml": ["4q9h", "4q9i", "4q9j", "4q9k", "4q9l", "4M2S", "4M2T", "3GSU", "3G60", "3G61", "6UNJ"],
+      "issues": [
+        "S2052252520005709 paper not on disk (uppercase S)",
+        "4q9i/i/j/k/l are mouse P-gp structures but not in pdb_dois; 4M2S/4M2T are corrected structures",
+        "3GSU → RCSB: HLA-A2 peptide complex — WRONG",
+        "3G60 → RCSB: mouse P-gp — OK but not in pdb_dois",
+        "3G61 → RCSB: mouse P-gp — OK but not in pdb_dois",
+        "6UNJ → RCSB: human CYP3A4 — WRONG (typo for 6UJN?)"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — source DOI case issue, wrong PDBs (3GSU=HLA, 6UNJ=CYP3A4)",
+      "notes": "Fix S2052252520005709 case. Remove 3GSU, 6UNJ. The structures array has 11 entries but many are wrong or typos. 4q9h/4q9i/4q9j/4q9k/4q9l are correct P-gp structures - add to pdb_dois. 3G60/3G61 are mouse P-gp from science.1168750."
+    },
+    {
+      "file": "mtmem16a",
+      "current_verified": "none",
+      "sources": ["doi/10.1038##nsmb.2350", "doi/10.1038##nature13984"],
+      "pdb_dois": {"4WIS": "doi/10.1038##nature13984"},
+      "structures_in_yaml": ["3JFQ"],
+      "issues": [
+        "nsmb.2350 paper not on disk",
+        "3JFQ → RCSB: 404 — does not exist or obsolete",
+        "4WIS in pdb_dois but NOT in structures[]",
+        "Verified: 'none' — needs full rebuild from paper"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — placeholder/obsolete PDB, missing paper",
+      "notes": "4WIS (3.0Å mTMEM16A X-ray from nature13984) should replace 3JFQ. nsmb.2350 paper needs acquisition. The YAML also has 3JFQ in a separate non-X-ray publication entry."
+    },
+    {
+      "file": "panhap",
+      "current_verified": "regex",
+      "sources": ["doi/10.7554##ELIFE.03579"],
+      "pdb_dois": {"4CZ8": "doi/10.7554##elife.03579"},
+      "structures_in_yaml": ["4CZ8", "4CZ9", "4CZA"],
+      "issues": [
+        "ELIFE.03579 has uppercase ELIFE — paper file is 10.7554##elife.03579.md (lowercase)",
+        "4CZ9 and 4CZA in structures but not in pdb_dois — both verified by RCSB as PaNhaP from same paper"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — source DOI case issue",
+      "notes": "Fix ELIFE to elife in sources. Add 4CZ9 (3.5Å, pH4) and 4CZA (3.2Å, Tl-bound) to pdb_dois. All three PDBs verified by RCSB. Paper details confirmed: expression (E. coli C41), Cymal-5 detergent, Tris buffer, PEG crystallization."
+    },
+    {
+      "file": "pea-light-harvesting-complex-ii",
+      "current_verified": "regex",
+      "sources": ["doi/10.1038##SJ.EMBOJ.7600585"],
+      "pdb_dois": {"1RWT": "doi/10.1038##nature02373", "2BHW": "doi/10.1038##sj.emboj.7600585"},
+      "structures_in_yaml": ["1ZBC"],
+      "issues": [
+        "SJ.EMBOJ.7600585 has uppercase SJ — paper file is 10.1038##sj.emboj.7600585.md",
+        "1ZBC → RCSB: porcine signalling protein with WPW peptide — WRONG",
+        "1RWT and 2BHW in pdb_dois but NOT in structures[]"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — source DOI case issue, 1ZBC is wrong protein",
+      "notes": "Fix SJ.EMBOJ to sj.emboj. 1ZBC is completely wrong PDB. 1RWT (pea LHC-II at 2.5Å from nature02373) should be the correct structure. The 1RWT paper may be a different reference than the EMBOJ paper about 2BHW."
+    },
+    {
+      "file": "pept-so",
+      "current_verified": "regex",
+      "sources": ["doi/10.1038##EMBOJ.2010.309", "doi/10.1016##j.str.2014.12.012"],
+      "pdb_dois": {"2XUT": "doi/10.1038##emboj.2010.309", "4UVM": "doi/10.1016##j.str.2014.12.012"},
+      "structures_in_yaml": ["3B97", "2XUT"],
+      "issues": [
+        "EMBOJ.2010.309 has uppercase EMBOJ — paper file is 10.1038##emboj.2010.309.md",
+        "3B97 → RCSB: human Enolase 1 — COMPLETELY WRONG",
+        "4UVM in pdb_dois but NOT in structures[]"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — source DOI case issue, 3B97 is enolase (wrong), 4UVM missing",
+      "notes": "Fix EMBOJ to emboj in sources. Remove 3B97. 2XUT (3.0Å, PepT_So occluded) is correct. Add 4UVM (2.9Å, PepT_So from j.str.2014.12.012) to structures[]."
+    },
+    {
+      "file": "ptr-chimera",
+      "current_verified": "none",
+      "sources": ["doi/10.1016##j.cell.2005.12.035"],
+      "pdb_dois": {"2R9R": "doi/10.1038##nature06265"},
+      "structures_in_yaml": ["2R9R"],
+      "issues": [
+        "cell.2005.12.035 paper not on disk",
+        "pdb_dois maps 2R9R to nature06265 but sources has cell DOI — which paper is correct?",
+        "Unquoted resolution: '2.8 A'"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — source DOI paper not found, DOI mismatch vs pdb_dois",
+      "notes": "2R9R actually belongs to nature06265 (Science 2008, Long et al.), not cell.2005.12.035. Fix: update sources to include nature06265. Fix resolution quoting to '2.8'. Channel-insertion paddle-chimera mechanism confirmed."
+    },
+    {
+      "file": "turkey-beta1-ar-m23",
+      "current_verified": "regex",
+      "sources": ["doi/10.1016##j.jmb.2012.01.032", "doi/10.1038##NATURE09746"],
+      "pdb_dois": {"2Y00": "doi/10.1038##nature09746"},
+      "structures_in_yaml": ["4LDE", "4LDF", "iso327", "dob92", "dob102", "sal109", "car7"],
+      "issues": [
+        "NATURE09746 has uppercase — paper file is 10.1038##nature09746.md",
+        "4LDE → RCSB: beta2 adrenoceptor — WRONG (should be beta1AR)",
+        "4LDF → RCSB: CpBRD2 from cryptosporidium — WRONG",
+        "iso327, dob92, dob102, sal109, car7 — NOT valid PDB codes",
+        "2Y00 (correct PDB = turkey beta1AR with cyanopindolol at 2.5Å) NOT in structures[]"
+      ],
+      "paper_found": false,
+      "verdict": "FAIL — complete structure corruption, placeholder PDBs, wrong PDBs",
+      "notes": "SEVERE corruption. All PDBs in structures[] are wrong. 2Y00 (nature09746, 2.5Å, beta1AR with cyanopindolol) should replace. The wrong PDBs (4LDE, 4LDF, and non-standard codes) are likely from sidebar corruption or cross-contamination with other GPCR YAMLs. Fix NATURE09746 case in sources."
+    }
+  ]
+}

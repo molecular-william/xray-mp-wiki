@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41422-022-00679-x]
-verified: regex
+verified: agent
 uniprot_id: ['P30874', 'P59768', 'P62873', 'P63096']
 ---
 
@@ -102,7 +102,7 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
   <tbody>
     <tr>
       <td>LCP crystallization</td>
-      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a></td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a> Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)</td>
       <td></td>
       <td>Not specified in paper</td>
       <td>Crystals grown in <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> lipid phase; determined at 2.65 A and 2.6 A</td>

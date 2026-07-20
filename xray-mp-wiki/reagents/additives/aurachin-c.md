@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1073##pnas.0904165106]
-verified: false
+verified: agent
 ---
 
 # Aurachin C

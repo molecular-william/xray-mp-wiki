@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##nature17975]
-verified: false
+verified: agent
 ---
 
 # Ammonium Formate

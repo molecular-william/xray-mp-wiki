@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.febslet.2007.01.073]
-verified: false
+verified: agent
 ---
 
 # AMP-PNP

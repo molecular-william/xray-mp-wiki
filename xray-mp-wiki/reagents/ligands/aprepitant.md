@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41467-018-07939-8]
-verified: false
+verified: agent
 ---
 
 # Aprepitant

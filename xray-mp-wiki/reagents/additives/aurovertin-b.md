@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, antibiotic, subdirectory-additives]
 sources: [doi/10.1073##pnas.93.14.6913]
-verified: false
+verified: agent
 ---
 
 # Aurovertin B

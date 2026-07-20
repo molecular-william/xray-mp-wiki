@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2009.07.009]
-verified: regex
+verified: pdb
 uniprot_id: Q5FA19
 ---
 

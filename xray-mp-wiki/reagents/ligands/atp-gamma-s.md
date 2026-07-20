@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature12056]
-verified: false
+verified: agent
 ---
 
 # ATPγS (Adenosine 5'-O-(3-thiotriphosphate))

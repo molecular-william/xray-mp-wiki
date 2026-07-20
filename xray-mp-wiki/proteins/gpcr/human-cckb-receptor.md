@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein]
 sources: [doi/10.1038##s41589-021-00866-8]
-verified: regex
+verified: pdb
 uniprot_id: P32238
 ---
 

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1038##emboj.2010.243]
-verified: false
+verified: agent
 ---
 
 # Ammonium Chloride

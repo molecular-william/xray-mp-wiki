@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-ammonium-acetate, subdirectory-buffers]
 sources: [doi/10.1016##s0022-2836(03)00024-x]
-verified: false
+verified: agent
 ---
 
 # Ammonium Acetate

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [solubilization-detergent, subdirectory-detergents, detergent-zwitterionic]
 sources: [doi/10.1016##j.cell.2010.05.003]
-verified: false
+verified: agent
 ---
 
 # Anzergent 3,12

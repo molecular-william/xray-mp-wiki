@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12046]
-verified: regex
+verified: pdb
 uniprot_id: ['Q03PY5', 'Q03PY6', 'Q03PY7', 'Q03S56']
 ---
 

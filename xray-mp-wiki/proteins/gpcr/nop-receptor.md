@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11085, doi/10.1016##j.str.2015.07.024]
-verified: regex
+verified: agent
 uniprot_id: P41146
 ---
 
@@ -71,20 +71,20 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
       <td>Baculovirus infection of Sf9 insect cells</td>
       <td></td>
       <td></td>
-      <td>BRIL-ΔN-NOP-ΔC construct expressed in Sf9 cells; harvested 48 h post-infection</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-ΔN-NOP-ΔC construct expressed in Sf9 cells; harvested 48 h post-infection</td>
     </tr>
     <tr>
       <td>Membrane preparation and solubilization</td>
       <td>Homogenization and solubilization in detergent</td>
       <td></td>
-      <td>20 mM HEPES pH 7.5, 500 mM NaCl, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 1.0% lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (MNG), 0.3% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a>, 0.03% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
+      <td>20 mM HEPES pH 7.5, 500 mM NaCl, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 1.0% lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (MNG), 0.3% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a>, 0.03% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/))</td>
       <td><a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> present during solubilization; <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a> used for cysteine blocking</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin</td>
-      <td>20 mM HEPES pH 7.5, 500 mM NaCl, 0.1% MNG, 0.03% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.1% MNG, 0.03% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 500 mM NaCl, 0.1% MNG, 0.03% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.1% MNG, 0.03% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
   </tbody>
@@ -357,7 +357,7 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td></td>
       <td>Not specified</td>
-      <td>Receptor purity and monodispersity monitored via SDS-PAGE and analytic SEC throughout purification</td>
+      <td>Receptor purity and monodispersity monitored via SDS-PAGE and analytic <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> throughout purification</td>
     </tr>
   </tbody>
 </table>

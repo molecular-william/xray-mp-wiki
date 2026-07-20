@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1016##j.str.2014.08.022]
-verified: false
+verified: agent
 ---
 
 # Ammonium Tartrate

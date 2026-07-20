@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein]
 sources: [doi/10.1073##pnas.0902725106]
-verified: regex
+verified: pdb
 uniprot_id: P55087
 ---
 

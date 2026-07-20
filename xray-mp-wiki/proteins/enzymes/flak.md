@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10218]
-verified: regex
+verified: pdb
 uniprot_id: A9A677
 ---
 

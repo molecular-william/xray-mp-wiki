@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein]
 sources: [doi/10.1371##journal.pbio.1002411]
-verified: regex
+verified: agent
 uniprot_id: Q41951
 ---
 

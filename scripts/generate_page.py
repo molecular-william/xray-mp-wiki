@@ -25,8 +25,9 @@ Options:
 import sys
 from pathlib import Path
 
-# Add scripts directory to path for imports
+# Add scripts directory and renderers subdirectory to path for imports
 sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parent / "renderers"))
 
 from _base import (
     BASE_DIR,

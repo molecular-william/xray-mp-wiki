@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature14656]
-verified: regex
+verified: pdb-check
 uniprot_id: P08100
 ---
 

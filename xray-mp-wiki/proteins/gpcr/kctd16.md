@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1903024116]
-verified: regex
+verified: pdb-pass
 uniprot_id: Q68DU8
 ---
 

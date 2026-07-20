@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.celrep.2015.12.087, doi/10.1016##j.str.2016.02.018]
-verified: false
+verified: agent
 ---
 
 # Adenosine Triphosphate (ATP)

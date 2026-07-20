@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2014.01.011, doi/10.1038##nature11375]
-verified: false
+verified: agent
 ---
 
 # Amiloride

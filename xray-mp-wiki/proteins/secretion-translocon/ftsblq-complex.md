@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-023-37543-4]
-verified: regex
+verified: pdb
 uniprot_id: ['P06136', 'P0A6S5', 'P0AEN4']
 ---
 

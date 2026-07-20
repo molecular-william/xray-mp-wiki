@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2021.11.001, doi/10.1038##nature10867]
-verified: false
+verified: agent
 ---
 
 # Atropine

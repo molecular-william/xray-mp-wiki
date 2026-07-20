@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2015.04.011, doi/10.1016##j.cell.2018.12.006, doi/10.1016##j.str.2019.12.003, doi/10.1038##s41594-018-0079-8, doi/10.1126##science.aay9813]
-verified: false
+verified: agent
 ---
 
 # Angiotensin II

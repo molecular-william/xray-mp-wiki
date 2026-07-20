@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##ncomms5355]
-verified: false
+verified: agent
 ---
 
 # Anta XV

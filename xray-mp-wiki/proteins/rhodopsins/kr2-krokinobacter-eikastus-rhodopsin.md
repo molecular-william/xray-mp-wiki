@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, pump]
 sources: [doi/10.1038##nsmb.3002]
-verified: regex
+verified: pdb-pass
 uniprot_id: N0DKS8
 ---
 

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nsmb.2860]
-verified: false
+verified: agent
 ---
 
 # Ala-Tyr(L-3,5-diBr)
