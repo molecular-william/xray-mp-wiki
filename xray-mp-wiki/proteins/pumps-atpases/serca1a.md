@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##35015017, doi/10.1038##NSMB.2721, doi/10.1038##SJ.EMBOJ.7601135, doi/10.1038##emboj.2013.250, doi/10.1038##nature00944, doi/10.1038##nature02680, doi/10.1038##nature06418, doi/10.1038##nature11900, doi/10.1016##j.str.2016.02.018, doi/10.1016##J.BMC.2005.12.001, doi/10.1016##j.chembiol.2020.04.002, doi/10.1038##nature22357, doi/10.1038##ncomms1307, doi/10.1073##pnas.0506222102, doi/10.1073##pnas.1815472115, doi/10.1107##S2052252520012312, doi/10.1038##nature11899, doi/10.1073##pnas.2014896117, doi/10.1126##science.1106289]
-verified: regex
+verified: agent
 uniprot_id: ['P04191', 'P42532']
 ---
 
@@ -29,7 +29,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 ## Publications
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##35015017 (1 structure)</strong></summary>
+<summary><strong>doi/10.1038/35015017 (1 structure)</strong></summary>
 
 **Structures:**
 
@@ -43,7 +43,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1su1">1SU1</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1su4">1SU4</a></td>
       <td>2.6 A</td>
       <td>C2</td>
       <td>Full-length SERCA1a, 994 residues, from rabbit skeletal muscle sarcoplasmic reticulum</td>
@@ -123,7 +123,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##NSMB.2721 (2 structures, 2 sequences)</strong></summary>
+<summary><strong>doi/10.1038/nature06418 (2 structures, 2 sequences)</strong></summary>
 
 **Structures:**
 
@@ -544,7 +544,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##SJ.EMBOJ.7601135 (3 structures, 3 sequences)</strong></summary>
+<summary><strong>doi/10.1038/SJ.EMBOJ.7601135 (3 structures, 3 sequences)</strong></summary>
 
 **Structures:**
 
@@ -1242,7 +1242,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##emboj.2013.250 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1038/emboj.2013.250 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -1288,7 +1288,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
     </tr>
     <tr>
       <td>Mixing ratio</td>
-      <td>1:1</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -1544,7 +1544,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##nature00944 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1038/nature00944 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -1821,7 +1821,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##nature02680 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1038/nature02680 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -2084,7 +2084,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##nature06418 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1038/nature06418 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -2347,7 +2347,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##nature11900 (1 structure)</strong></summary>
+<summary><strong>doi/10.1038/nature11900 (1 structure)</strong></summary>
 
 **Structures:**
 
@@ -2361,7 +2361,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4k5t">4K5T</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4h1w">4H1W</a></td>
       <td>3.1 A</td>
       <td>P21212</td>
       <td>Full-length SERCA1a (994 residues) in complex with sarcolipin (SLN, 30 residues) from rabbit skeletal muscle</td>
@@ -2393,7 +2393,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
     </tr>
     <tr>
       <td>Mixing ratio</td>
-      <td>1:1</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -2417,7 +2417,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1016##j.str.2016.02.018 (3 structures, 3 sequences)</strong></summary>
+<summary><strong>doi/10.1016/J.STR.2016.02.018 (3 structures, 3 sequences)</strong></summary>
 
 **Structures:**
 
@@ -3100,7 +3100,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1016##J.BMC.2005.12.001 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1016/J.BMC.2005.12.001 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -3359,7 +3359,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1016##j.chembiol.2020.04.002 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1016/j.chembiol.2020.04.002 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -3614,7 +3614,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##nature22357 (5 structures, 5 sequences)</strong></summary>
+<summary><strong>doi/10.1038/nature22357 (5 structures, 5 sequences)</strong></summary>
 
 **Structures:**
 
@@ -4978,7 +4978,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1073##pnas.0506222102 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1073/pnas.0506222102 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -5234,7 +5234,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1073##pnas.1815472115 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1073/pnas.1815472115 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -5476,7 +5476,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1107##S2052252520012312 (1 structure, 2 sequences)</strong></summary>
+<summary><strong>doi/10.1107/S2052252520012312 (1 structure, 2 sequences)</strong></summary>
 
 **Structures:**
 
@@ -6003,7 +6003,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
       <td>Solubilization (native)</td>
       <td>Solubilization with C12E8</td>
       <td>--</td>
-      <td>Affinity chromatography buffer + 2% C12E8 (octaethylene glycol mono-n-dodecylether)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> buffer + 2% C12E8 (octaethylene glycol mono-n-dodecylether)</td>
       <td>Native SERCA1a extracted from rabbit sarcoplasmic reticulum membrane with 2% C12E8 and purified by <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> as described in ref 31.</td>
     </tr>
     <tr>
@@ -6011,7 +6011,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
       <td>HaloTag purification</td>
       <td>HaloTag resin (Promega)</td>
       <td>Standard purification buffer + C12E8</td>
-      <td>Recombinant HaloTag-fused SERCA1a expressed in COS7 cells via adenovirus infection. Microsomal fraction prepared, solubilized with C12E8, purified using HaloTag system. SERCA1a separated from HaloTag by TEV protease cleavage, then further purified by dye <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a>.</td>
+      <td>Recombinant HaloTag-fused SERCA1a expressed in COS7 cells via adenovirus infection. Microsomal fraction prepared, solubilized with C12E8, purified using HaloTag system. SERCA1a separated from HaloTag by <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage, then further purified by dye <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a>.</td>
     </tr>
   </tbody>
 </table>
@@ -6308,7 +6308,7 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1073##pnas.2014896117 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1073/pnas.2014896117 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 

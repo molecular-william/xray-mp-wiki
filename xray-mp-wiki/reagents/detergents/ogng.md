@@ -1,5 +1,5 @@
 ---
-title: Octyl Glucose Neopentyl Glycol (OGNG)
+title: "Octyl Glucose Neopentyl Glycol (OGNG)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1073##pnas.1817271116]
-verified: false
+verified: regex
 ---
 
 # Octyl Glucose Neopentyl Glycol (OGNG)

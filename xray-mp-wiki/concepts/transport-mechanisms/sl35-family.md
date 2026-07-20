@@ -1,13 +1,13 @@
 ---
-title: SLC35 Family (Nucleotide Sugar Transporters)
+title: "SLC35 Family (Nucleotide Sugar Transporters)"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature24464]
-verified: false
+verified: regex
 ---
 
 # SLC35 Family (Nucleotide Sugar Transporters)

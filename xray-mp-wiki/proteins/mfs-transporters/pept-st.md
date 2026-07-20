@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##EMBOJ.2012.157, doi/10.1016##j.str.2018.01.005]
-verified: regex
+verified: agent
 uniprot_id: ['Q5M4H8', 'Q8EKT7']
 ---
 
@@ -27,7 +27,7 @@ PepT_St is a proton-dependent oligopeptide transporter (POT) from Streptococcus 
 
 ## Publications
 
-### doi/10.1038##EMBOJ.2012.157
+### doi/10.1038/EMBOJ.2010.309
 
 **Structures:**
 
@@ -468,7 +468,7 @@ PepT_St is a proton-dependent oligopeptide transporter (POT) from Streptococcus 
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>--</td>
       <td>-- + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>His-Tag affinity capture</td>

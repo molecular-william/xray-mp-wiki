@@ -1,13 +1,13 @@
 ---
-title: DRD2 Extended Binding Pocket (DRD2-EBP)
+title: "DRD2 Extended Binding Pocket (DRD2-EBP)"
 created: 2026-06-03
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [subdirectory-concepts, concept-functional]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature25758, doi/10.1038##s41467-020-14884-y]
-verified: false
+verified: regex
 ---
 
 # DRD2 Extended Binding Pocket (DRD2-EBP)

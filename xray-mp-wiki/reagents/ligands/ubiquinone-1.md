@@ -1,5 +1,5 @@
 ---
-title: Ubiquinone-1 (UQ1)
+title: "Ubiquinone-1 (UQ1)"
 created: 2026-05-29
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1107##s2059798322004144, doi/10.1038##NSMB.1434]
-verified: false
+verified: none
 ---
 
 # Ubiquinone-1 (UQ1)

@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109]
-verified: regex
-uniprot_id: P49785
+verified: agent
+uniprot_id: ['P49785', 'P71044']
 ---
 
 # SpoIIQ-SpoIIIAH Intercellular Channel Complex from Bacillus subtilis
@@ -16,7 +16,7 @@ uniprot_id: P49785
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P49785">UniProt: P49785</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P49785">UniProt: P49785</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P71044">UniProt: P71044</a>
 
 <span class="expr-badge">Bacillus subtilis</span>
 
@@ -82,7 +82,7 @@ for late-stage gene expression during sporulation.
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>Nickel affinity resin</td>
       <td>Not specified + Not specified</td>
       <td>His6-tagged proteins purified by nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
@@ -99,7 +99,7 @@ for late-stage gene expression during sporulation.
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td>Superdex S200</td>
       <td>Not specified + Not specified</td>
-      <td>Purification of complex by SEC-MALLS; Superdex S200 10/300 column</td>
+      <td>Purification of complex by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>-MALLS; Superdex S200 10/300 column</td>
     </tr>
   </tbody>
 </table>
@@ -187,7 +187,7 @@ for late-stage gene expression during sporulation.
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>Not specified</td>
       <td>Not specified + Not specified</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a> affinity purification of truncated complex</td>

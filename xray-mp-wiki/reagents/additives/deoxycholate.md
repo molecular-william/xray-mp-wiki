@@ -1,5 +1,5 @@
 ---
-title: Deoxycholate (DXC)
+title: "Deoxycholate (DXC)"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2018.02.026, doi/10.1038##cr.2015.94, doi/10.1038##ncomms9004]
-verified: false
+verified: regex
 ---
 
 # Deoxycholate (DXC)

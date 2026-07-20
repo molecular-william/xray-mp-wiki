@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1021##acs.biochem.6b01089, doi/10.1073##pnas.1314195110, doi/10.1038##s42003-021-02473-8]
-verified: regex
+verified: agent
 uniprot_id: O29867
 ---
 
@@ -41,7 +41,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gmy">5GMY</a></td>
-      <td>3.5 A</td>
+      <td>3.5</td>
       <td>Not specified in paper</td>
       <td>AfAglB G617C mutant cross-linked with acceptor peptide Ac-RYNVTAC-NH2 via engineered disulfide bond at position 617</td>
       <td>Acceptor peptide (Ac-RYNVTAC-NH2) containing N-glycosylation sequon Asn-Val-Thr</td>
@@ -736,7 +736,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7e9s">7E9S</a></td>
-      <td>2.7 A</td>
+      <td>2.7</td>
       <td>Not specified in paper</td>
       <td>AfAglB G617C mutant with tethered sequon peptide (TAMRA-APY(Dab)VTASCR-OH), ternary complex with dolichol-phosphate</td>
       <td>Dolichol-phosphate, Mn2+</td>

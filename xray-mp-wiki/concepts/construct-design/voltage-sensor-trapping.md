@@ -1,13 +1,13 @@
 ---
-title: Voltage-Sensor Trapping
+title: "Voltage-Sensor Trapping"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-construct-design]
 sources: [doi/10.1126##science.aac5464]
-verified: false
+verified: regex
 ---
 
 # Voltage-Sensor Trapping

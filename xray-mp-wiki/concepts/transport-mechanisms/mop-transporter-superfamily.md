@@ -1,13 +1,13 @@
 ---
-title: MOP Transporter Superfamily
+title: "MOP Transporter Superfamily"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nsmb.3346]
-verified: false
+verified: regex
 ---
 
 # MOP Transporter Superfamily

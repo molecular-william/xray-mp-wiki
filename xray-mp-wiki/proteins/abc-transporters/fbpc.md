@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2009.07.009]
-verified: pdb
+verified: agent
 uniprot_id: Q5FA19
 ---
 
@@ -22,7 +22,7 @@ uniprot_id: Q5FA19
 
 ## Overview
 
-FbpC is the nucleotide-binding domain (NBD) of the FbpABC ferric  uptake -binding cassette (ABC) transporter from Neisseria gonorrhoeae. The crystal structure was determined at 1.9 A resolution, revealing a domain-swapped physiological dimer in the asymmetric unit. This represents the first observation of [Three-Dimensional Domain Swapping](/xray-mp-wiki/concepts/structural-mechanisms/domain-swapping/) in ABC importers. The C-terminal regulatory domains of each monomer undergo a substantial domain swap, creating an unusually extended dimer interface with a six-histidine cluster at the base. Molecular dynamics simulations comparing FbpC with the homologous  NBD demonstrated that while FbpC does not open as far or as rapidly as  upon  removal, both closed structures have higher free energies than their respective open states, indicating that  binding free energy is partially stored as strain energy and released following hydrolysis.
+FbpC is the nucleotide-binding domain (NBD) of the FbpABC ferric uptake -binding cassette (ABC) transporter from Neisseria gonorrhoeae. The crystal structure was determined at 1.9 A resolution, revealing a domain-swapped physiological dimer in the asymmetric unit. This represents the first observation of [Three-Dimensional Domain Swapping](/xray-mp-wiki/concepts/structural-mechanisms/domain-swapping/) in ABC importers. The C-terminal regulatory domains of each monomer undergo a substantial domain swap, creating an unusually extended dimer interface with a six-histidine cluster at the base. Molecular dynamics simulations comparing FbpC with the homologous  NBD demonstrated that while FbpC does not open as far or as rapidly as  upon  removal, both closed structures have higher free energies than their respective open states, indicating that  binding free energy is partially stored as strain energy and released following hydrolysis.
 
 ## Publications
 
@@ -74,17 +74,17 @@ FbpC is the nucleotide-binding domain (NBD) of the FbpABC ferric  uptake -bindin
     </tr>
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA silica (Promega) batch binding</td>
-      <td>Ni-NTA silica</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> silica (Promega) batch binding</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> silica</td>
       <td>25 mM  pH 8.0, 5 mM , 0.5 M NaCl, 20% , 0.05 M  + --</td>
-      <td>5 mL Ni-NTA beads incubated with lysate for 1 h at 4 C with 20 mM ; washed with 30 column volumes; eluted with step gradient to 0.25 M </td>
+      <td>5 mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> beads incubated with lysate for 1 h at 4 C with 20 mM ; washed with 30 column volumes; eluted with step gradient to 0.25 M </td>
     </tr>
     <tr>
       <td> cobalt-affinity chromatography</td>
       <td> cobalt-affinity resin (BD Biosciences) batch binding</td>
       <td> cobalt-affinity resin</td>
       <td>25 mM  pH 8.0, 5 mM , 0.5 M NaCl, 20% , 30 mM  + --</td>
-      <td>Eluted FbpC diluted 1:10 in no- buffer; incubated with 5 mL  resin for 1 h at 4 C; washed with 30 mM ; eluted with 0.25 M ; purity >99% by SDS-PAGE</td>
+      <td>Eluted FbpC diluted 1:10 in no- buffer; incubated with 5 mL resin for 1 h at 4 C; washed with 30 mM ; eluted with 0.25 M ; purity >99% by SDS-PAGE</td>
     </tr>
   </tbody>
 </table>
@@ -132,7 +132,7 @@ FbpC is the first observation of [Three-Dimensional Domain Swapping](/xray-mp-wi
 
 ### Closed NBDs are tense
 
-Molecular dynamics simulations of both FbpC and  showed that upon  removal, both NBDs open rapidly, demonstrating that the closed structures have higher free energies than their open states. This strain energy is built up when  binds and is released following hydrolysis, contributing to the power stroke of ABC transport.
+Molecular dynamics simulations of both FbpC and  showed that upon removal, both NBDs open rapidly, demonstrating that the closed structures have higher free energies than their open states. This strain energy is built up when  binds and is released following hydrolysis, contributing to the power stroke of ABC transport.
 
 ### Electrostatic forces drive NBD opening
 

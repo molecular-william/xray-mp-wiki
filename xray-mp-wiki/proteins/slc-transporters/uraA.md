@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature09885, doi/10.1038##cr.2017.83, doi/10.1038##nature11403, doi/10.1038##s41467-024-51814-8]
-verified: regex
+verified: agent
 uniprot_id: ['P0AGM7', 'P0AGM8']
 ---
 
@@ -82,8 +82,8 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) (Qiagen)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mM <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Resin washed three times with 10 ml wash buffer each; protein eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in wash buffer. 1 mM <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a> included throughout.</td>
     </tr>
@@ -92,7 +92,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
       <td>Gel filtration chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/30 (GE Healthcare)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, indicated detergent, 1 mM <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a> + 0.4% beta-NG (for crystallization)</td>
-      <td>Protein concentrated to ~10 mg/ml before SEC; peak fractions collected for crystallization. All buffers contained 1 mM <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a>.</td>
+      <td>Protein concentrated to ~10 mg/ml before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>; peak fractions collected for crystallization. All buffers contained 1 mM <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a>.</td>
     </tr>
   </tbody>
 </table>
@@ -720,14 +720,14 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> (Qiagen)</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mM <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a> + 0.2% DM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) (Qiagen)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mM <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Resin washed three times with wash buffer, eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/30 (GE Healthcare)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 1 mM <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a>, indicated detergents + indicated detergents (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, NG, <a href="/xray-mp-wiki/reagents/detergents/fos-choline-9/">FC-9</a>, <a href="/xray-mp-wiki/reagents/detergents/fos-choline-11/">FC-11</a>)</td>
       <td>Peak fractions collected for crystallization or biochemical characterizations</td>
@@ -1029,7 +1029,7 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3qe7">3QE7</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4doj">4DOJ</a></td>
       <td>3.2 A</td>
       <td>P6_22</td>
       <td>Wild-type full-length UraA</td>

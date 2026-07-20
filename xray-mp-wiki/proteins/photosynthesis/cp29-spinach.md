@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.2008]
-verified: regex
+verified: agent
 ---
 
 # CP29 Light-Harvesting Complex from Spinach (Spinacia oleracea)
@@ -34,7 +34,7 @@ CP29 is a minor light-harvesting chlorophyll a/b-binding protein from photosyste
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not yet assigned">NOT YET ASSIGNED</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3pl9">3PL9</a></td>
       <td>2.8</td>
       <td>—</td>
       <td>Full-length CP29 from Spinacia oleracea</td>

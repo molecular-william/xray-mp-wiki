@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##cr.2016.140]
-verified: regex
+verified: agent
 uniprot_id: ['Q3HKN0', 'Q981D4']
 ---
 
@@ -93,14 +93,14 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
     </tr>
     <tr>
       <td>Ni-NTA affinity</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA Superflow (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow (Qiagen)</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>C-terminal GFP-His8 tag; eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; Tev digestion to remove GFP tag</td>
+      <td>C-terminal GFP-His8 tag; eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> digestion to remove GFP tag</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL (GE Healthcare)</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Peak fractions collected for crystallization</td>

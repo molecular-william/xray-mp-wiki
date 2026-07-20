@@ -1,13 +1,13 @@
 ---
-title: K2P Modulator Pocket
+title: "K2P Modulator Pocket"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-miscellaneous]
 sources: [doi/10.1038##nature22988]
-verified: false
+verified: regex
 ---
 
 # K2P Modulator Pocket

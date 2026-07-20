@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-additives]
 sources: []
-verified: none
+verified: agent
 ---
 
 # gp67 Signal Peptide

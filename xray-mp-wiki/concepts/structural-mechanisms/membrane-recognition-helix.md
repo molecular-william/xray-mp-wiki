@@ -1,13 +1,13 @@
 ---
-title: Membrane Recognition Helix
+title: "Membrane Recognition Helix"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1016##j.bbamem.2021.183825]
-verified: false
+verified: regex
 ---
 
 # Membrane Recognition Helix

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature25439]
-verified: regex
+verified: agent
 uniprot_id: D6WJ77
 ---
 
@@ -81,7 +81,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
     </tr>
     <tr>
       <td>Antibody-affinity chromatography</td>
-      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>YL1/2 antibody coupled to CNBr-activated sepharose beads</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> (pH 7.5), 150 mM KCl, 2 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 2 mM CaCl2, 25 uM AdoHcy, 1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a> + 1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a></td>
       <td>YL1/2 antibody recognizes C-terminal AAEGEEF tag. Elution with 5 mM Asp-Phe peptide or Glu-Glu-Phe peptide</td>
@@ -89,7 +89,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200 Increase column (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase column (GE Healthcare)</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> (pH 7.5), 150 mM KCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 2 mM CaCl2, 25 uM AdoHcy, 1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a> + 1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a></td>
       <td>ICMT-monobody complex purified at 1:3 molar ratio (ICMT:monobody)</td>
     </tr>

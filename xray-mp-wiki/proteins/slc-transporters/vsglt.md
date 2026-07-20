@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature09580]
-verified: regex
+verified: agent
 uniprot_id: P96169
 ---
 
@@ -27,7 +27,7 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
 
 ## Publications
 
-### doi/10.1038##nature09580
+### doi/10.1038/NATURE09580
 
 **Structures:**
 
@@ -48,7 +48,7 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
       <td><a href="/xray-mp-wiki/reagents/ligands/d-galactose/">D-Galactose</a>, sodium ions</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3dh5">3DH5</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2xq2">2XQ2</a></td>
       <td>2.7</td>
       <td>P212121</td>
       <td>vSGLT residues 1-452 (full-length) without N-terminal His-tag</td>
@@ -76,9 +76,9 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
     <tr>
       <td>Cell lysis</td>
       <td>Detergent solubilization from E. coli membrane fractions</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> (His-tag affinity)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) (His-tag affinity)</td>
       <td>Buffer containing Tris</td>
-      <td>Selenomethionine-substituted protein for <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction">SAD</a> phasing</td>
+      <td>Selenomethionine-substituted protein for <a href="/xray-mp-wiki/methods/structure-determination/single-anomalous-dispersion/">[SAD</a>](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction) phasing</td>
     </tr>
   </tbody>
 </table>

@@ -7,16 +7,16 @@ category: proteins
 layout: default
 tags: [ion-channel, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature19785]
-verified: regex
-uniprot_id: P52293
+verified: agent
+uniprot_id: ['P43681', 'P17787']
 ---
 
 # Human Alpha4Beta2 Nicotinic Receptor
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P52293">UniProt: P52293</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P43681">UniProt: P43681</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P17787">UniProt: P17787</a>
 
-<span class="expr-badge">Mus musculus</span>
+<span class="expr-badge">Homo sapiens</span>
 
 ## Overview
 
@@ -39,7 +39,7 @@ The human alpha4beta2 nicotinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/a
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5huw">5HUW</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kxi">5KXI</a></td>
       <td>3.9 A</td>
       <td>P212121</td>
       <td>Human alpha4 (residues 1-338, 556-601) and beta2 (residues 1-330, 417-477) with M3-M4 loop deletion and Glu-Arg linker at MX-M4 junction. Strep-tag at C terminus of beta2 subunit.</td>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1176088]
-verified: regex
+verified: agent
 ---
 
 # ApcT Amino Acid Transporter from Methanocaldococcus jannaschii

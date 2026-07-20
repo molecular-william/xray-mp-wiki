@@ -41,7 +41,7 @@ functional repertoire of the family.
 
 ## Examples in Membrane Protein Work
 - [GlpT](/xray-mp-wiki/proteins/mfs-transporters/glpT/) — E. coli glycerol-3-phosphate/Pi antiporter; first MFS structure (PDB 1PW4, 3.3 Å). Revealed the 12-helix pseudo-twofold architecture and rocker-switch mechanism.
-- [LacY](/xray-mp-wiki/proteins/mfs-transporters/lacy/) — E. coli lactose permease; extensively characterized proton-coupled symporter with inward-open (PDB 2CFP) and outward-open (PDB 2Y5Y) structures.
+- [LacY](/xray-mp-wiki/proteins/lacy/) — E. coli lactose permease; extensively characterized proton-coupled symporter with inward-open (PDB 2CFP) and outward-open (PDB 2Y5Y) structures.
 - [NhaA](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — E. coli Na+/H+ antiporter; unusual 10-TM MFS fold (PDB 1YQY, 3.45 Å), first structure of a Na+/H+ antiporter.
 - [LtaA](/xray-mp-wiki/proteins/mfs-transporters/ltaa/) — S. aureus lipid-linked disaccharide flippase (PDB 6S7V, 3.3 Å). Demonstrates MFS fold adapted for amphiphilic lipid substrates.
 - [Rv1410 MFS Transporter (P55)](/xray-mp-wiki/proteins/mfs-transporters/rv1410/) — TAG:H+ antiporter from M. tuberculosis, DHA2 subclass MFS member with conserved E157-R426 ion lock.
@@ -51,7 +51,7 @@ functional repertoire of the family.
 
 ## Cross-References
 - [GlpT (Glycerol-3-Phosphate/Pi Antiporter)](/xray-mp-wiki/proteins/mfs-transporters/glpT/) — First MFS protein crystallized, revealing the canonical 12-helix fold
-- [LacY (Lactose Permease)](/xray-mp-wiki/proteins/mfs-transporters/lacy/) — Best-characterized MFS symporter with structures in multiple states
+- [LacY (Lactose Permease)](/xray-mp-wiki/proteins/lacy/) — Best-characterized MFS symporter with structures in multiple states
 - [NhaA (Na+/H+ Antiporter)](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — Atypical 10-TM MFS member, first Na+/H+ antiporter structure
 - [LtaA (S. aureus Lipid-Linked Disaccharide Flippase)](/xray-mp-wiki/proteins/mfs-transporters/ltaa/) — MFS flippase demonstrating transport of lipid substrates
 - [Rv1410 MFS Transporter (P55)](/xray-mp-wiki/proteins/mfs-transporters/rv1410/) — M. tuberculosis MFS drug resistance transporter

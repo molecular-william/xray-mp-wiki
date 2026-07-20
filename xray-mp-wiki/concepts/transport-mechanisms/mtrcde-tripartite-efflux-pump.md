@@ -1,13 +1,13 @@
 ---
-title: MtrCDE Tripartite Multidrug Efflux Pump
+title: "MtrCDE Tripartite Multidrug Efflux Pump"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, concept-protein-family, membrane-protein]
+tags: [concept-transport-mechanism, concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1371##journal.pone.0097475]
-verified: false
+verified: regex
 ---
 
 # MtrCDE Tripartite Multidrug Efflux Pump

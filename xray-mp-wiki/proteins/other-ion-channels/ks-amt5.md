@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-017-02637-3]
-verified: pdb-pass
+verified: agent
 uniprot_id: Q1Q357
 ---
 
@@ -82,22 +82,22 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>n-Decyl-β-D-maltopyranoside (DM)</td>
+      <td>n-Decyl-β-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Protein solubilized from membranes</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
       <td></td>
-      <td>Standard Ni-NTA purification</td>
+      <td>Standard <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> purification</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>0.09% CYMAL-5</td>
-      <td>SEC in buffer containing 0.09% CYMAL-5. Protein eluted as a trimer.</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> in buffer containing 0.09% CYMAL-5. Protein eluted as a trimer.</td>
     </tr>
   </tbody>
 </table>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.2407066121]
-verified: regex
+verified: agent
 uniprot_id: P21980
 ---
 
@@ -41,14 +41,14 @@ Transglutaminase 2 (TG2) is a multifunctional enzyme that catalyzes Ca2+-depende
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1kv3">1KV3</a></td>
-      <td>2.8 A</td>
+      <td>2.8</td>
       <td>P212121</td>
       <td>Full-length human transglutaminase 2 (residues 1-687)</td>
       <td>GTP (bound in the GTP-binding pocket, inactive conformation)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2q3z">2Q3Z</a></td>
-      <td>2.0 A</td>
+      <td>2.0</td>
       <td>P212121</td>
       <td>Full-length human transglutaminase 2 (active conformation)</td>
       <td>Calcium (activating ion)</td>
@@ -82,7 +82,7 @@ Transglutaminase 2 (TG2) is a multifunctional enzyme that catalyzes Ca2+-depende
     <tr>
       <td>Ni-NTA affinity chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> agarose resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) agarose resin</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (wash), 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (elution) + --</td>
       <td>His-tagged TG2 eluted and dialyzed against low-imidazole buffer</td>
     </tr>
@@ -95,7 +95,7 @@ Transglutaminase 2 (TG2) is a multifunctional enzyme that catalyzes Ca2+-depende
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> + --</td>
       <td>Monomeric TG2 concentrated to 10-15 mg/mL</td>

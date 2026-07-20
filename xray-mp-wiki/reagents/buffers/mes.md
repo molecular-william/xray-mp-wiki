@@ -1,5 +1,5 @@
 ---
-title: 2-(N-Morpholino)ethanesulfonic Acid (MES)
+title: "2-(N-Morpholino)ethanesulfonic Acid (MES)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-mes, subdirectory-buffers]
 sources: [doi/10.1016##J.MOLCEL.2011.10.020, doi/10.1016##j.jbc.2021.100479, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature06925, doi/10.1038##nature11524, doi/10.1038##nature11744, doi/10.1038##nature13306, doi/10.1038##ncomms8177, doi/10.1038##ncomms9004, doi/10.1016##j.str.2014.07.013, doi/10.1038##417515a, doi/10.1038##nature12014, doi/10.1038##nsmb.3417, doi/10.7554##eLife.09375, doi/10.7554##eLife.51511]
-verified: false
+verified: none
 ---
 
 # 2-(N-Morpholino)ethanesulfonic Acid (MES)

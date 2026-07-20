@@ -1,5 +1,5 @@
 ---
-title: Chloride Ion (Cl-)
+title: "Chloride Ion (Cl-)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature12533]
-verified: false
+verified: regex
 ---
 
 # Chloride Ion (Cl-)

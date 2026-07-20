@@ -1,5 +1,5 @@
 ---
-title: Tegoprazan
+title: "Tegoprazan"
 created: 2026-06-21
 updated: 2026-06-21
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.jmedchem.2c00338]
-verified: false
+verified: agent
 ---
 
 # Tegoprazan

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1073##pnas.1612927114]
-verified: regex
+verified: agent
 uniprot_id: Q7DD94
 ---
 
@@ -78,13 +78,13 @@ NmEptA is a [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) phosphoethanolamin
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Ni2+-NTA</td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Not specified</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>

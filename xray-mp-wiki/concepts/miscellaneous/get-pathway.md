@@ -1,13 +1,13 @@
 ---
-title: GET Pathway for Tail-Anchored Protein Insertion
+title: "GET Pathway for Tail-Anchored Protein Insertion"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-miscellaneous]
 sources: [doi/10.1038##s41467-023-42867-2]
-verified: false
+verified: regex
 ---
 
 # GET Pathway for Tail-Anchored Protein Insertion

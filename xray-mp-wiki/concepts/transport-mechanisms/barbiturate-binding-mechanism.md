@@ -1,13 +1,13 @@
 ---
-title: Barbiturate Binding Mechanism in Pentameric Ligand-Gated Ion Channels
+title: "Barbiturate Binding Mechanism in Pentameric Ligand-Gated Ion Channels"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1074##jbc.M116.766964]
-verified: false
+verified: none
 ---
 
 # Barbiturate Binding Mechanism in Pentameric Ligand-Gated Ion Channels

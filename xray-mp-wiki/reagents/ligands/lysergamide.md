@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2016.12.033]
-verified: none
+verified: agent
 ---
 
 # Lysergamide (LSA)
@@ -33,8 +33,8 @@ LSA was used as a negative control to demonstrate the functional importance of t
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [5-HT2B Receptor](/xray-mp-wiki/proteins/gpcr/5-ht2b-receptor/) | Not specified | Functional assays (β-arrestin2 recruitment, Gq calcium flux) | Much reduced potency compared to LSD and SSAz |
-| [5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5-ht2a-receptor/) | Not specified | Molecular docking into 5-HT2A homology model | Reduced potency; amide substituent does not engage in hydrophobic contacts |
+| [5-HT2B Receptor](/xray-mp-wiki/proteins/gpcr/5ht2b-receptor/) | Not specified | Functional assays (β-arrestin2 recruitment, Gq calcium flux) | Much reduced potency compared to LSD and SSAz |
+| [5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5ht2a-receptor/) | Not specified | Molecular docking into 5-HT2A homology model | Reduced potency; amide substituent does not engage in hydrophobic contacts |
 
 ## Advantages and Disadvantages
 

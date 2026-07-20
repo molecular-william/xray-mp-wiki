@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.0910365106]
-verified: regex
-uniprot_id: P02721
+verified: agent
+uniprot_id: ['P00829', 'P02721', 'P05630', 'P05631', 'P05632', 'P13619', 'P13620', 'P13621', 'P19483']
 ---
 
 # Bovine Mitochondrial F1-ATPase-Stator Complex (Membrane Extrinsic Region)
@@ -16,7 +16,7 @@ uniprot_id: P02721
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P02721">UniProt: P02721</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P00829">UniProt: P00829</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P02721">UniProt: P02721</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P05630">UniProt: P05630</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P05631">UniProt: P05631</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P05632">UniProt: P05632</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P13619">UniProt: P13619</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P13620">UniProt: P13620</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P13621">UniProt: P13621</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P19483">UniProt: P19483</a>
 
 <span class="expr-badge">Bos taurus</span>
 
@@ -115,7 +115,7 @@ The bovine mitochondrial F1-ATPase-stator complex (F1-stator_T) is a subcomplex 
     </tr>
     <tr>
       <td>Cryoprotection</td>
-      <td>Crystals passed through cryoprotection solutions: 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl</a> (pH 8.0), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a>, 25 mM <a href="/xray-mp-wiki/reagents/additives/sucrose">Sucrose</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-sulfate">MgSO4</a>, 2.5 mM <a href="/xray-mp-wiki/reagents/additives/dtt">DTT</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 0.01% NaN3, 0.0005% <a href="/xray-mp-wiki/reagents/additives/phenylmethylsulfonyl-fluoride">PMSF</a>, 20 µM <a href="/xray-mp-wiki/reagents/ligands/adp">ADP</a>, 19-22% (w/v) PEG8000, 150 mM (NH4)2SO4, 50 mM MES (pH 6.5), 0.5 mM AMP-PNP, 5-20% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> (increased in 5% steps)</td>
+      <td>Crystals passed through cryoprotection solutions: 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl</a> (pH 8.0), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a>, 25 mM <a href="/xray-mp-wiki/reagents/ligands/sucrose">Sucrose</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-sulfate">MgSO4</a>, 2.5 mM <a href="/xray-mp-wiki/reagents/additives/dtt">DTT</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 0.01% NaN3, 0.0005% <a href="/xray-mp-wiki/reagents/additives/phenylmethylsulfonyl-fluoride">PMSF</a>, 20 µM <a href="/xray-mp-wiki/reagents/ligands/adp">ADP</a>, 19-22% (w/v) PEG8000, 150 mM (NH4)2SO4, 50 mM MES (pH 6.5), 0.5 mM AMP-PNP, 5-20% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> (increased in 5% steps)</td>
     </tr>
     <tr>
       <td>Notes</td>

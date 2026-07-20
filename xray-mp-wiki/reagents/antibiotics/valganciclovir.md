@@ -1,5 +1,5 @@
 ---
-title: Valganciclovir
+title: "Valganciclovir"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, subdirectory-antibiotics]
 sources: [doi/10.1021##jacs.8b11343]
-verified: false
+verified: agent
 ---
 
 # Valganciclovir

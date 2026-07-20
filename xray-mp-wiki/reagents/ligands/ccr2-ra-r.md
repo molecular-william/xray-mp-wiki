@@ -1,5 +1,5 @@
 ---
-title: CCR2-RA-[R]
+title: "CCR2-RA-[R]"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature20605]
-verified: false
+verified: agent
 ---
 
 # CCR2-RA-[R]

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, subdirectory-antibiotics]
 sources: [doi/10.1038##ncomms7874]
-verified: none
+verified: agent
 ---
 
 # Sulfathiazole

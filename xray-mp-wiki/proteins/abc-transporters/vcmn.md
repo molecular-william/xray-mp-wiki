@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2018.10.004]
-verified: regex
+verified: agent
 uniprot_id: A0A2A1YWE9
 ---
 
@@ -96,13 +96,13 @@ VcmN is a multidrug and toxic compound extrusion (MATE) transporter from the pat
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 100 mM NaCl, <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>His-tag purification</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 100 mM NaCl + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Final polishing step</td>

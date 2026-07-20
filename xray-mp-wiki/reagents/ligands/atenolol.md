@@ -1,5 +1,5 @@
 ---
-title: Atenolol
+title: "Atenolol"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent

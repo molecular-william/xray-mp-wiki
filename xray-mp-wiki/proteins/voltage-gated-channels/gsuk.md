@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
 sources: [doi/10.7554##eLife.00184]
-verified: regex
+verified: agent
 uniprot_id: Q74FS9
 ---
 
@@ -130,7 +130,7 @@ GsuK is a two-transmembrane, RCK-regulated K+ channel from *Geobacter sulfurredu
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC (Size-Exclusion Chromatography)</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a> (Size-Exclusion Chromatography)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (10/30)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/ches/">CHES</a> pH 9.0, 150 mM KSCN, 2 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> + 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>For full-length channel; also contains 0.1 mg/ml <a href="/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/">E. coli Polar Lipids</a></td>

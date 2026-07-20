@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2017.11.005, doi/10.1038##nature14035, doi/10.1016##j.str.2022.11.001, doi/10.1021##acs.jmedchem.9b01787]
-verified: regex
+verified: agent
 uniprot_id: O43614
 ---
 
@@ -689,14 +689,14 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 750 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2% sodium cholate, 0.3% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Membranes solubilized 1 hr at 4C with 1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2% sodium cholate, 0.3% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 1 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a>, and 10 uM <a href="/xray-mp-wiki/reagents/ligands/lemborexant">Lemborexant</a>. Ultracentrifugation 30 min at 140,000 x g.</td>
+      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 750 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2% sodium cholate, 0.3% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Membranes solubilized 1 hr at 4C with 1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2% sodium cholate, 0.3% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a>, and 10 uM <a href="/xray-mp-wiki/reagents/ligands/lemborexant">Lemborexant</a>. Ultracentrifugation 30 min at 140,000 x g.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Sepharose Superflow (Qiagen)</td>
-      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 750 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.02% sodium cholate, 0.03% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Sepharose Superflow (Qiagen)</td>
+      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 750 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.02% sodium cholate, 0.03% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Binding overnight at 4C. Washed with 15 column volumes. Eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>. Supplemented with 2 mM CaCl2 for next step.</td>
     </tr>
     <tr>
@@ -708,7 +708,7 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
     </tr>
     <tr>
       <td>Protease cleavage and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td>HRV 3C protease cleavage followed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>HRV 3C protease cleavage followed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>--</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl, 0.01% L-MNG, 0.5 mM <a href="/xray-mp-wiki/reagents/ligands/lemborexant">Lemborexant</a> + 0.01% L-MNG</td>
       <td>HRV 3C protease and 0.5 mM <a href="/xray-mp-wiki/reagents/ligands/lemborexant">Lemborexant</a> added overnight at 4C to cleave tags. Concentrated in 50 kDa cutoff Amicon Ultra concentrator and run on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL column.</td>
@@ -942,21 +942,21 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6m4w">6M4W</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6to7">6TO7</a></td>
       <td>2.76 A</td>
       <td>P212121</td>
       <td>OX2 StaR with 12 thermostabilizing mutations. C-terminal residues 389-444 removed, ICL3 replaced with P. abyssi glycogen synthase residues 218-413, N14D/N22D/N30D/N202D, C381W/C382W/C383W. Crystallized by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>.</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/suvorexant">Suvorexant</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6m4x">6M4X</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6to7">6TO7</a></td>
       <td>2.74 A</td>
       <td>P212121</td>
       <td>OX2 StaR with 12 thermostabilizing mutations. Same as 6M4W. Crystallized by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>.</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/empa">EMPA</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6m4y">6M4Y</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6to7">6TO7</a></td>
       <td>2.61 A</td>
       <td>P212121</td>
       <td>OX2 StaR with 12 thermostabilizing mutations. Same as 6M4W. Crystallized by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>.</td>

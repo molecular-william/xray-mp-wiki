@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature08624, doi/10.1111##bph.15254, doi/10.1111##febs.15455, doi/10.1126##science.1256508, doi/10.1126##science.1258409, doi/10.1016##j.cell.2014.07.023]
-verified: regex
+verified: agent
 uniprot_id: P19491
 ---
 
@@ -635,7 +635,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>SEC - <a href="/xray-mp-wiki/reagents/additives/superose-6/">Superose 6</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> - <a href="/xray-mp-wiki/reagents/additives/superose-6/">Superose 6</a> column</td>
       <td>—</td>
       <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>(/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 1 mM n-undecyl-beta-D-thiomaltopyranoside (C11Thio), 0.01 mg/mL <a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a>:<a href="/xray-mp-wiki/reagents/lipids/pope/">POPE</a>:<a href="/xray-mp-wiki/reagents/lipids/popg/">POPG</a> (3:1:1)</td>
       <td>Pooled peak fractions concentrated to ~2 mg/mL for crystallization</td>
@@ -1231,7 +1231,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>SEC - Superose 6 10/300 GL</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> - Superose 6 10/300 GL</td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 150 mM NaCl, 0.5 mg/mL <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> Anagrade, low alpha isomer (Anatrace)</td>
       <td>Tag-free GluA2cryst purified. Pooled peak fractions used for EM and crystallization</td>
@@ -2434,7 +2434,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
     <tr>
       <td>Purification</td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Similar to GluA2_cryst1 protocols</td>
       <td><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Detailed purification similar to GluA2_cryst1 construct. Protein concentrated for crystallization with toxin and ligands</td>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2020.11.014, doi/10.1038##s41594-018-0072-2]
-verified: regex
+verified: agent
 uniprot_id: Q08BA4
 ---
 
@@ -93,35 +93,35 @@ Zebrafish SLC38A9 (drSLC38A9) is a lysosomal amino acid transporter from Danio r
       <td>Solubilization</td>
       <td>Detergent extraction at 4 C for 4 hours</td>
       <td>—</td>
-      <td>20 mM Tris pH 8.0, 500 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">GLYCEROL</a>, 2% <a href="/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltoside/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM Tris pH 8.0, 500 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">GLYCEROL</a>, 2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">[DDM</a>](/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltoside/), 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Ultra-centrifuged at 130,000 x g for 1 hour after solubilization</td>
     </tr>
     <tr>
       <td>Affinity capture</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> Metal Affinity Resin incubation at 4 C overnight</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> Metal Affinity Resin (Clontech)</td>
-      <td>20 mM Tris pH 8.0, 500 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">GLYCEROL</a>, 2% DDM, 0.2% CHS</td>
+      <td>20 mM Tris pH 8.0, 500 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">GLYCEROL</a>, 2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Incubated overnight at 4 C</td>
     </tr>
     <tr>
       <td>Wash</td>
       <td>Column wash</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> Metal Affinity Resin (Clontech)</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">IMIDAZOLE</a>, 20 mM Tris pH 8.0, 500 mM NaCl, 0.1% DDM</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">IMIDAZOLE</a>, 20 mM Tris pH 8.0, 500 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>5 column volumes wash</td>
     </tr>
     <tr>
       <td>Tag removal</td>
       <td>In-column thrombin digestion</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> Metal Affinity Resin (Clontech)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 500 mM NaCl, 0.4% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.02% DDM</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 500 mM NaCl, 0.4% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Thrombin at enzyme:protein molar ratio of 1:1000, overnight at 4 C. Cleaved protein in flow-through.</td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase</a> 10/300 GL (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">TRIS-HCL</a> pH 8.0, 150 mM NaCl, 0.2% DM</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS-HCL</a> pH 8.0, 150 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Peak fractions pooled and concentrated to 5 mg/mL for crystallization</td>
     </tr>
   </tbody>
@@ -137,7 +137,7 @@ Zebrafish SLC38A9 (drSLC38A9) is a lysosomal amino acid transporter from Danio r
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>drSLC38A9-Fab complex at 5 mg/mL in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">TRIS-HCL</a> pH 8.0, 150 mM NaCl, 0.2% DM</td>
+      <td>drSLC38A9-Fab complex at 5 mg/mL in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS-HCL</a> pH 8.0, 150 mM NaCl, 0.2% DM</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -720,5 +720,5 @@ drSLC38A9 exhibits higher affinity for leucine than arginine, and transport of l
 - <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> — Primary buffer used throughout purification
 - <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Stabilizer in solubilization buffer
 - <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Eluent competitor in TALON affinity purification
-- <a href="/xray-mp-wiki/proteins/leut">LEUT</a> — Structurally related membrane protein
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">TRIS-HCL</a> — Reagent used in this study
+- <a href="/xray-mp-wiki/proteins/enzymes/leut">LEUT</a> — Structurally related membrane protein
+- <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS-HCL</a> — Reagent used in this study

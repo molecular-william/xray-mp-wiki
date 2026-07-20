@@ -1,5 +1,5 @@
 ---
-title: Pirenzepine
+title: "Pirenzepine"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature17188]
-verified: false
+verified: agent
 ---
 
 # Pirenzepine

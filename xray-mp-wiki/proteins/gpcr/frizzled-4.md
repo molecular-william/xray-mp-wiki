@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-018-0447-x]
-verified: pdb
-uniprot_id: P00268
+verified: agent
+uniprot_id: Q9ULV1
 ---
 
 # Frizzled 4 Receptor (FZD4)
@@ -16,9 +16,9 @@ uniprot_id: P00268
 <div class="expr-badges"><span class="expr-badge expr-sf9">Sf9</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P00268">UniProt: P00268</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q9ULV1">UniProt: Q9ULV1</a>
 
-<span class="expr-badge">Clostridium pasteurianum</span>
+<span class="expr-badge">Homo sapiens</span>
 
 ## Overview
 

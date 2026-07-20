@@ -1,13 +1,13 @@
 ---
-title: Noble Gas Anaesthetic Mechanism via Membrane Protein Surface Binding
+title: "Noble Gas Anaesthetic Mechanism via Membrane Protein Surface Binding"
 created: 2026-06-09
 updated: 2026-06-09
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-membrane-mimetics]
 sources: [doi/10.1038##s42003-022-03233-y]
-verified: false
+verified: regex
 ---
 
 # Noble Gas Anaesthetic Mechanism via Membrane Protein Surface Binding

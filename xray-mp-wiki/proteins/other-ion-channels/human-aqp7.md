@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2019.11.011]
-verified: pdb
+verified: agent
 uniprot_id: O14520
 ---
 
@@ -89,13 +89,13 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>Buffer A: 20 mM <a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">Sodium Phosphate</a> pH 8.0, 300 mM NaCl, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.07% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a>. Wash: 10 mM then 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>. Elution: 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.07% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> (octyl <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> neopentyl glycol)</td>
       <td>Protein loaded overnight in presence of 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">Sodium Phosphate</a> pH 7.5, 100 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.07% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a> + 0.07% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a></td>
       <td>Final polishing step; purity assessed by SDS-PAGE</td>

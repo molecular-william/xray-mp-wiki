@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature14623]
-verified: regex
+verified: agent
 uniprot_id: A3DCU1
 ---
 
@@ -106,12 +106,12 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
       <td>Glutathione Sepharose <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Glutathione Sepharose 4B (GE Healthcare)</td>
       <td>50 mM Tris-HCl pH 7.0, 500 mM NaCl, 10% glycerol, 5 mM DTT, 2 mM <a href="/xray-mp-wiki/reagents/detergents/udm">UDM</a> (n-undecyl-beta-D-maltopyranoside) + <a href="/xray-mp-wiki/reagents/detergents/udm">UDM</a></td>
-      <td>On-column TEV protease cleavage overnight at 4 C to remove GST tag</td>
+      <td>On-column <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage overnight at 4 C to remove GST tag</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC on Superdex 200</td>
-      <td>Superdex 200 16/60 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 (GE Healthcare)</td>
       <td>20 mM Tris-HCl pH 7.0, 150 mM NaCl, 2 mM <a href="/xray-mp-wiki/reagents/detergents/udm">UDM</a>, 5 mM DTT + <a href="/xray-mp-wiki/reagents/detergents/udm">UDM</a></td>
       <td>Final purification step</td>
     </tr>

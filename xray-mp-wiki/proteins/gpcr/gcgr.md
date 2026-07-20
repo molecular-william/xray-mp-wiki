@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12393, doi/10.1038##nature17414, doi/10.1038##nature22363, doi/10.1038##nature25153]
-verified: regex
+verified: agent
 uniprot_id: P47871
 ---
 
@@ -76,22 +76,22 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, Ph 7.0, 166 mM NaCl, 13.3% GlpF, 270 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, Ph 7.0, 166 mM NaCl, 13.3% GlpF, 270 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>2 h At 4 C; insoluble material pelleted At 504,300g for 30 min</td>
     </tr>
     <tr>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> resin</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> superflow resin</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, Ph 7.0, 800 mM NaCl, 10% GlpF, 100 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, Ph 7.0, 800 mM NaCl, 10% GlpF, 100 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> during AChBP; washed with 10 bed volumes; eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a></td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, Ph 7.0, 500 mM NaCl, 10% GlpF, 50 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a>-200 column; peak fractions pooled and concentrated to ~25 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/imisx-in-situ-crystallization/">IMISX In-Situ Serial Crystallography</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, Ph 7.0, 500 mM NaCl, 10% GlpF, 50 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/)-200 column; peak fractions pooled and concentrated to ~25 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/imisx-in-situ-crystallization/">IMISX In-Situ Serial Crystallography</a></td>
     </tr>
   </tbody>
 </table>
@@ -627,14 +627,14 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 20 mM KCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a> (MgCl₂), 13% GlpF, 200 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 4% Dm + 0.8% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 20 mM KCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a> (MgCl₂), 13% GlpF, 200 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 4% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.8% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>3 h At 4 C; supernatant cleared At 160,000g</td>
     </tr>
     <tr>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> resin</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> resin</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150-500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% GlpF, 30 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150-500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% GlpF, 30 uM <a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Complexed with mAb1 At 1:1.2 molar ratio On resin</td>
     </tr>
   </tbody>
@@ -897,14 +897,14 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150 mM NaCl, 40 uM NNC1702, <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> inhibitors + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150 mM NaCl, 40 uM NNC1702, <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> inhibitors + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>3 h At 4 C; supernatant cleared At 160,000g for 30 min</td>
     </tr>
     <tr>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> resin</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> resin (Clontech)</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150 mM NaCl, 10% GlpF, 10 uM NNC1702 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150 mM NaCl, 10% GlpF, 10 uM NNC1702 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Washed with 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; elution conditions not specified In methods; incubated with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> resin overnight At 4 C</td>
     </tr>
   </tbody>

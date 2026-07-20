@@ -1,5 +1,5 @@
 ---
-title: Salinixanthin
+title: "Salinixanthin"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1073##pnas.0807162105]
-verified: false
+verified: agent
 ---
 
 # Salinixanthin

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1021##acs.jmedchem.3c01822, doi/10.1021##acs.jmedchem.0c01620]
-verified: regex
+verified: agent
 uniprot_id: P32245
 ---
 
@@ -83,28 +83,28 @@ The human melanocortin 4 receptor (MC4-R) is a class A G protein-coupled recepto
       <td>Protein extraction</td>
       <td>Membrane solubilization by incubation 3 h at 4 C with gentle mixing</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 1.0% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Extracted from membranes in 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1.0% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 1.0% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Extracted from membranes in 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1.0% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
     </tr>
     <tr>
       <td>IMAC purification</td>
       <td>Incubation with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a> resin overnight at 4 C with 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 8 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (wash); 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (elution)</td>
-      <td>Washed with wash buffer 1 (800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 8 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a>, 50 uM test peptides) and wash buffer 2 (without MgCl2 and ATP); eluted with 220 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 100 uM test peptides</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 8 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (wash); 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (elution)</td>
+      <td>Washed with wash buffer 1 (800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 8 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a>, 50 uM test peptides) and wash buffer 2 (without MgCl2 and ATP); eluted with 220 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 100 uM test peptides</td>
     </tr>
     <tr>
       <td>Deglycosylation</td>
       <td>Incubation with <a href="/xray-mp-wiki/reagents/additives/endoh/">ENDOH</a> overnight at 4 C</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/endoh/">ENDOH</a> in-house production; removed N-glycosylation</td>
     </tr>
     <tr>
       <td>Concentration</td>
       <td>Concentrated to 35-45 mg/mL using 100 kDa cutoff concentrator</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Sartorius concentrator, Göttingen, Germany</td>
     </tr>
   </tbody>

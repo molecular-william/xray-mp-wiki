@@ -1,5 +1,5 @@
 ---
-title: Leukotriene B4 (LTB4)
+title: "Leukotriene B4 (LTB4)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nchembio.2547]
-verified: false
+verified: regex
 ---
 
 # Leukotriene B4 (LTB4)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1074##jbc.RA120.014144]
-verified: regex
+verified: agent
 uniprot_id: ['Q8NB49', 'Q9NV96']
 ---
 
@@ -76,15 +76,15 @@ ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi
       <td>2. Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">Flag</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">Flag</a> M2 affinity resin</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 6.5, 200 mM NaCl, 2 mM Mg(CH₃COO)₂, 1 mM ATP, 0.1% DM, 0.5 mM BeSO₄, 1.5 mM NaF</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 6.5, 200 mM NaCl, 2 mM Mg(CH₃COO)₂, 1 mM ATP, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.5 mM BeSO₄, 1.5 mM NaF</td>
       <td>Resin washed with 20 column volumes; eluted with <a href="/xray-mp-wiki/reagents/additives/flag-peptide/">Flag peptide</a> or by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> cleavage</td>
     </tr>
     <tr>
       <td>3. Deglycosylation and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">size-exclusion chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Gel Filtration</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 6.5, 200 mM NaCl, 2 mM Mg(CH₃COO)₂, 0.5 mM BeSO₄, 1.5 mM NaF, 0.1% DM</td>
-      <td>Endoglycosidase treatment before SEC to remove excess glycans. Fractions containing the ATP11C-CDC50A complex were pooled</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 6.5, 200 mM NaCl, 2 mM Mg(CH₃COO)₂, 0.5 mM BeSO₄, 1.5 mM NaF, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Endoglycosidase treatment before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> to remove excess glycans. Fractions containing the ATP11C-CDC50A complex were pooled</td>
     </tr>
   </tbody>
 </table>

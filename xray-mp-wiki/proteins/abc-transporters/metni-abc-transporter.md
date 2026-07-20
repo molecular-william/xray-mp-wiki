@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1157987]
-verified: regex
+verified: agent
 ---
 
 # E. coli Methionine ABC Transporter MetNI

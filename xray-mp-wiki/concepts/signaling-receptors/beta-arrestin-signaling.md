@@ -1,13 +1,13 @@
 ---
-title: Beta-Arrestin Signaling
+title: "Beta-Arrestin Signaling"
 created: 2026-05-27
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1038##s41594-022-00796-6, doi/10.1016##j.cell.2015.04.011, doi/10.1038##nature12944, doi/10.1038##nature14656]
-verified: false
+verified: regex
 ---
 
 # Beta-Arrestin Signaling

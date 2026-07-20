@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2018.01.001]
-verified: regex
+verified: agent
 uniprot_id: P28335
 ---
 
@@ -84,21 +84,21 @@ The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligand
       <td>Membrane preparation and solubilization</td>
       <td>Dounce homogenization and <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a></td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 50 mM NaCl, 2 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, protease inhibitors + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (n-dodecyl-β-D-maltopyranoside) + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a> (<a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> hemisuccinate)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 50 mM NaCl, 2 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, protease inhibitors + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (n-dodecyl-β-D-maltopyranoside) + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate) (<a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> hemisuccinate)</td>
       <td>Membranes solubilized for 2 h at 4°C</td>
     </tr>
     <tr>
       <td>TALON IMAC affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a> resin (Clontech)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; elution with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate), 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; elution with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate)</td>
       <td>Receptor eluted and concentrated</td>
     </tr>
     <tr>
       <td>TEV protease cleavage and FLAG purification</td>
-      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease">TEV</a> cleavage followed by <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag">FLAG</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV</a> cleavage followed by <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag">FLAG</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
       <td>Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag">FLAG</a> M1 agarose resin (Sigma)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate) + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate)</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag">FLAG</a> tag cleaved, receptor concentrated to ~30 mg/mL for crystallization</td>
     </tr>
   </tbody>

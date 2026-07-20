@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # Get3 (TRC40) TA Protein Targeting Factor

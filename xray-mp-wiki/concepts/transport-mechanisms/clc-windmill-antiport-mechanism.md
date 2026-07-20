@@ -1,13 +1,13 @@
 ---
-title: CLC Windmill Antiport Mechanism
+title: "CLC Windmill Antiport Mechanism"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41594-018-0082-0]
-verified: false
+verified: regex
 ---
 
 # CLC Windmill Antiport Mechanism

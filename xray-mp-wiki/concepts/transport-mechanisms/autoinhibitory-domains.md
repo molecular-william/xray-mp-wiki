@@ -1,13 +1,13 @@
 ---
-title: Autoinhibitory Domains in Ion Pumps
+title: "Autoinhibitory Domains in Ion Pumps"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature11900]
-verified: false
+verified: regex
 ---
 
 # Autoinhibitory Domains in Ion Pumps

@@ -1,5 +1,5 @@
 ---
-title: 1-Palmitoyl-2-Oleoylphosphatidylglycerol (POPG)
+title: "1-Palmitoyl-2-Oleoylphosphatidylglycerol (POPG)"
 created: 2026-06-03
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1016##j.jmb.2020.06.012, doi/10.1038##nature12484, doi/10.1038##nsmb.1531, doi/10.1038##417515a, doi/10.1016##j.bbamem.2021.183825, doi/10.1038##s41594-020-0464-y]
-verified: false
+verified: regex
 ---
 
 # 1-Palmitoyl-2-Oleoylphosphatidylglycerol (POPG)

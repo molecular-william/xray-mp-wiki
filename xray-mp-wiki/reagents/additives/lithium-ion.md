@@ -1,5 +1,5 @@
 ---
-title: Lithium Ion (Li+)
+title: "Lithium Ion (Li+)"
 created: 2026-06-04
 updated: 2026-06-04
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##ncomms4009]
-verified: false
+verified: regex
 ---
 
 # Lithium Ion (Li+)

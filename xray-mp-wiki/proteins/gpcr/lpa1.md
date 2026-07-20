@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2015.06.002]
-verified: regex
+verified: agent
 uniprot_id: Q92633
 ---
 
@@ -88,17 +88,17 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>--</td>
       <td>His-tag on <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL Fusion Protein</a> fusion partner used for affinity capture</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td>SEC column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column</td>
       <td>--</td>
-      <td>Analytical SEC used for stability screening in place of CPM assay; SEC stability assays guided compound selection</td>
+      <td>Analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> used for stability screening in place of CPM assay; SEC stability assays guided compound selection</td>
     </tr>
   </tbody>
 </table>

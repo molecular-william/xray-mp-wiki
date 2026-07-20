@@ -1,5 +1,5 @@
 ---
-title: Cholesterol
+title: "Cholesterol"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid-sterol, subdirectory-lipids]
 sources: [doi/10.1016##j.cell.2016.09.056, doi/10.1016##j.cell.2020.01.008, doi/10.1016##j.celrep.2015.04.045, doi/10.1016##j.jmb.2020.05.017, doi/10.1016##j.jmb.2022.167795, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature19785, doi/10.1038##s41467-018-07939-8, doi/10.1038##s41422-020-00424-2]
-verified: false
+verified: agent
 ---
 
 # Cholesterol

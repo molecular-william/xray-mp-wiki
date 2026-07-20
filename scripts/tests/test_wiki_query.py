@@ -6,7 +6,6 @@ All tests are read-only — they never modify project files.
 """
 
 import os
-import sys
 import tempfile
 
 import pytest

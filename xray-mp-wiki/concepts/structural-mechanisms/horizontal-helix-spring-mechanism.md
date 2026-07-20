@@ -1,13 +1,13 @@
 ---
-title: Horizontal Helix Spring Mechanism
+title: "Horizontal Helix Spring Mechanism"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##ncomms4110]
-verified: false
+verified: regex
 ---
 
 # Horizontal Helix Spring Mechanism

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1016##j.jbc.2022.102668]
-verified: none
+verified: regex
 ---
 
 # p-Aminobenzoic Acid (PABA)

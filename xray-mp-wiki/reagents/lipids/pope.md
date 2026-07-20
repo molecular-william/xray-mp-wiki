@@ -1,13 +1,13 @@
 ---
-title: POPE (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine)
+title: "POPE (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-16
 type: reagent
 category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
-sources: [doi/10.1016##j.jmb.2019.12.025, doi/10.1016##j.str.2019.04.007]
-verified: false
+sources: [doi/10.1016##j.jmb.2019.12.025, doi/10.1016##j.str.2019.04.007, doi/10.1016##j.bbamem.2021.183825]
+verified: regex
 ---
 
 # POPE (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine)

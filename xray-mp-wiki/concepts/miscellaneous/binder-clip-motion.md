@@ -1,13 +1,13 @@
 ---
-title: Binder Clip Motion
+title: "Binder Clip Motion"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-miscellaneous]
 sources: [doi/10.1038##ncomms7112]
-verified: false
+verified: regex
 ---
 
 # Binder Clip Motion

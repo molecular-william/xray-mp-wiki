@@ -1,5 +1,5 @@
 ---
-title: Vitamin K Cycle
+title: "Vitamin K Cycle"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-functional, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1038##nature08720, doi/10.1038##ncomms4110, doi/10.1126##science.abc5667]
-verified: false
+verified: regex
 ---
 
 # Vitamin K Cycle

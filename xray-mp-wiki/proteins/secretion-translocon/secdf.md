@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature09980, doi/10.1016##j.str.2018.01.002, doi/10.1016##j.celrep.2017.04.030]
-verified: regex
+verified: agent
 uniprot_id: ['Q5SKE6', 'Q9RTE3']
 ---
 
@@ -76,7 +76,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Agarose</td>
       <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6-tag</a>ged SecDF purified from <a href="/xray-mp-wiki/concepts/methods-techniques/c41-e-coli-expression-strain/">E. coli</a> membrane fraction in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>
@@ -422,7 +422,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Agarose</td>
       <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>His10-tagged SecDF purified from <a href="/xray-mp-wiki/concepts/methods-techniques/c41-e-coli-expression-strain/">E. coli</a> membrane fraction</td>
     </tr>
@@ -757,7 +757,7 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Agarose</td>
       <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>DrSecDF(Met-28-768)-<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6</a> purified from <a href="/xray-mp-wiki/concepts/methods-techniques/c41-e-coli-expression-strain/">E. coli</a> membrane fraction</td>
     </tr>

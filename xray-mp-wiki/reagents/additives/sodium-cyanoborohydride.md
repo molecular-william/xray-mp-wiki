@@ -1,5 +1,5 @@
 ---
-title: Sodium Cyanoborohydride
+title: "Sodium Cyanoborohydride"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature08650]
-verified: false
+verified: agent
 ---
 
 # Sodium Cyanoborohydride

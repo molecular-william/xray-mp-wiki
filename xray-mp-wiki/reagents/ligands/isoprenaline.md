@@ -1,5 +1,5 @@
 ---
-title: Isoprenaline (Isoproterenol)
+title: "Isoprenaline (Isoproterenol)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##NATURE09746, doi/10.1126##science.aau5595]
-verified: false
+verified: none
 ---
 
 # Isoprenaline (Isoproterenol)

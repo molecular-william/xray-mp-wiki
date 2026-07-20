@@ -38,8 +38,8 @@ lipoproteins to their correct membrane destination.
 - LoLA (Outer Membrane Lipoprotein Chaperone) — A periplasmic chaperone that binds to outer membrane-directed lipoproteins and delivers them to the LoLB-LoLC-E complex for insertion into the outer membrane.
 
 ## Related Concepts
-- [Bacterial Cell Envelope](/xray-mp-wiki/concepts/structural-mechanisms/bacterial-cell-envelope/) — Lipoproteins are key structural and functional components of the bacterial cell envelope
+- [Bacterial Cell Envelope](/xray-mp-wiki/concepts/membrane-mimetics/bacterial-cell-envelope/) — Lipoproteins are key structural and functional components of the bacterial cell envelope
 - [Lipobox Motif](/xray-mp-wiki/concepts/structural-mechanisms/lipobox-motif/) — The lipobox ([LVI][ASTVI][GAS]C) is the conserved signal sequence for lipoprotein modification
 
 ## Cross-References
-- [Bacterial Cell Envelope](/xray-mp-wiki/concepts/structural-mechanisms/bacterial-cell-envelope/) — Lipoproteins are integral components of the bacterial cell envelope
+- [Bacterial Cell Envelope](/xray-mp-wiki/concepts/membrane-mimetics/bacterial-cell-envelope/) — Lipoproteins are integral components of the bacterial cell envelope

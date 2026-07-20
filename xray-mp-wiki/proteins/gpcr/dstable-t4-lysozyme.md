@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, xray-crystallography, membrane-protein]
 sources: [doi/10.1016##j.str.2014.08.022]
-verified: regex
+verified: agent
 uniprot_id: P08483
 ---
 
@@ -42,7 +42,7 @@ dsT4L is a disulfide-stabilized variant of T4 lysozyme engineered for use as a f
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u14">4U14</a></td>
-      <td>3.6 A</td>
+      <td>3.6</td>
       <td>P41212</td>
       <td>dsT4L fused to M3 muscarinic receptor ICL3 (residues 259-482). Two disulfide bridges: Cys3-Cys97 and Cys21-Cys142.
 </td>

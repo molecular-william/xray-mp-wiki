@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1016##j.jmb.2021.167226, doi/10.1021##jacs.8b06741, doi/10.1038##NATURE13293, doi/10.1038##nsmb.3346]
-verified: false
+verified: none
 ---
 
 # Decyl Maltose Neopentyl Glycol (DMng)

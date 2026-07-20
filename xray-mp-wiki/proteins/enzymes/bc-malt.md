@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2016.04.003, doi/10.1073##pnas.1800647115]
-verified: regex
+verified: agent
 uniprot_id: Q63GK8
 ---
 
@@ -86,7 +86,7 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA Agarose Resin</a> affinity (<a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a>, Clontech)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) affinity (<a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a>, Clontech)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON Cobalt Affinity Resin</a> cobalt affinity resin</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 30 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
       <td>Washed with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, eluted with 300 mM imidazole</td>
@@ -100,7 +100,7 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
-      <td>SEC (<a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/300 GL)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (<a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/300 GL)</td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM trehalose, 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM (n-Decyl-beta-D-Maltoside)</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">Beta-Mercaptoethanol</a></td>
       <td>Full-length EIICB protein unstable at high concentrations in detergent; trypsinized EIIC domain used for crystallization</td>
@@ -981,7 +981,7 @@ The crystal structure of bcMalT cross-linked in an inward-facing conformation (b
 - <a href="/xray-mp-wiki/reagents/additives/maltose">Maltose</a> — bcMalT selectively binds and transports [Maltose](/xray-mp-wiki/reagents/additives/maltose); IC50 4.5 uM
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase Crystallization</a> — bcMalT crystallized using LCP method with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein)
 - <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) used for membrane protein solubilization during bcMalT purification
-- <a href="/xray-mp-wiki/reagents/detergents/lDAO">Lauryldimethylamine N-oxide (LDAO)</a> — [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao) used for functional assays and proteoliposome reconstitution
+- <a href="/xray-mp-wiki/reagents/detergents/ldao">Lauryldimethylamine N-oxide (LDAO)</a> — [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao) used for functional assays and proteoliposome reconstitution
 - <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a> — [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) used as lipid matrix in LCP crystallization of bcMalT
 - <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography (SEC)</a> — Purification method used in protein preparation
 - <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> — Purification method used in protein preparation

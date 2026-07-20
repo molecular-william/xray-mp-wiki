@@ -1,5 +1,5 @@
 ---
-title: MPEP (2-Methyl-6-(phenylethynyl)pyridine)
+title: "MPEP (2-Methyl-6-(phenylethynyl)pyridine)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.jmedchem.5b00892, doi/10.1021##acs.jmedchem.7b01722]
-verified: false
+verified: regex
 ---
 
 # MPEP (2-Methyl-6-(phenylethynyl)pyridine)

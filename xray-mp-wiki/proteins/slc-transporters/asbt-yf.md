@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12811]
-verified: regex
+verified: agent
 uniprot_id: C4ST46
 ---
 
@@ -91,7 +91,7 @@ _Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii)
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> cleavage and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Gel Filtration</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.19% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a> removed by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a>; protein further purified by SEC</td>
+      <td>N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a> removed by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a>; protein further purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>

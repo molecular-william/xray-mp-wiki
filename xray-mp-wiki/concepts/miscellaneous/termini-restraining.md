@@ -1,13 +1,13 @@
 ---
-title: Termini Restraining
+title: "Termini Restraining"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design, subdirectory-concepts]
+tags: [concept-construct-design, subdirectory-miscellaneous]
 sources: [doi/10.1126##sciadv.abe3717]
-verified: false
+verified: regex
 ---
 
 # Termini Restraining

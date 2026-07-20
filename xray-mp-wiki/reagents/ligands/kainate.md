@@ -1,5 +1,5 @@
 ---
-title: Kainate (KA)
+title: "Kainate (KA)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2014.07.023]
-verified: false
+verified: agent
 ---
 
 # Kainate (KA)

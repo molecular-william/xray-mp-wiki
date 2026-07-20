@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12357]
-verified: regex
+verified: agent
 uniprot_id: P29476
 ---
 
@@ -39,8 +39,8 @@ The human corticotropin-releasing factor 1 receptor (CRF1R) is a class A G prote
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ufo">3UFO</a></td>
-      <td>2.97 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4k5y">4K5Y</a></td>
+      <td>2.97</td>
       <td>P212121</td>
       <td>Human CRF1R thermostabilized mutant with T4 lysozyme (T4L) fusion replacing ICL3 (residues 104-373), crystallized in complex with <a href="/xray-mp-wiki/reagents/ligands/cp-376395/">Cp 376395</a>
 </td>

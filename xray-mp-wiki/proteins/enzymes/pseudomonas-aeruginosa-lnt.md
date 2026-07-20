@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##sciadv.adf5799]
-verified: regex
+verified: agent
 uniprot_id: Q9ZI86
 ---
 
@@ -84,14 +84,14 @@ Pseudomonas aeruginosa apolipoprotein N-acyltransferase (LntPae) is a 57 kDa int
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA affinity</td>
-      <td>Ni-NTA Superflow</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow</td>
       <td></td>
       <td>Washed with buffer containing 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; eluted with 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>HiLoad 16/60 <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td></td>
       <td>Purified in buffer containing 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> or 0.02% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>

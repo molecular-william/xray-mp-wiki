@@ -1,5 +1,5 @@
 ---
-title: 7-Benzylidenenaltrexone (BNTX)
+title: "7-Benzylidenenaltrexone (BNTX)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature12944]
-verified: false
+verified: agent
 ---
 
 # 7-Benzylidenenaltrexone (BNTX)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1246774]
-verified: regex
+verified: agent
 uniprot_id: Q9YBM8
 ---
 
@@ -40,7 +40,7 @@ ApUbiA is an intramembrane prenyltransferase from the hyperthermophilic archaeon
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4od4">4OD4</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4od5">4OD5</a></td>
       <td>3.30</td>
       <td>—</td>
       <td>Full-length ApUbiA (apo state)</td>

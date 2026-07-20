@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature05155, doi/10.1038##ncomms11673]
-verified: none
+verified: regex
 ---
 
 # LeuT Fold
@@ -35,7 +35,7 @@ unwound TM1/TM6 regions forming the substrate-binding pocket.
 
 ## Examples in Membrane Protein Work
 - [LeuT](/xray-mp-wiki/proteins/enzymes/leut/) — A. aeolicus leucine transporter; first structure defining the LeuT fold (PDB 2A65, 1.65 Å).
-- [MhsT](/xray-mp-wiki/proteins/slc-transporters/mhst/) — B. halodurans multi-hydrophobic amino acid transporter; LeuT fold NSS family member.
+- [MhsT](/xray-mp-wiki/proteins/mhst/) — B. halodurans multi-hydrophobic amino acid transporter; LeuT fold NSS family member.
 - [BetP](/xray-mp-wiki/proteins/slc-transporters/betp/) — C. glutamicum betaine transporter; shares the LeuT fold topology.
 
 ## Related Concepts

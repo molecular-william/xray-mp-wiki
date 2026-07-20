@@ -1,13 +1,13 @@
 ---
-title: Di-Iron-Containing Desaturase Family
+title: "Di-Iron-Containing Desaturase Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-functional]
+tags: [concept-protein-family, concept-functional, subdirectory-protein-families]
 sources: [doi/10.1038##nsmb.3049]
-verified: false
+verified: regex
 ---
 
 # Di-Iron-Containing Desaturase Family

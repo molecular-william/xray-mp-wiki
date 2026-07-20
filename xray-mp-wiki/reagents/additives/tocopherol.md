@@ -1,5 +1,5 @@
 ---
-title: Tocopherol (Vitamin E)
+title: "Tocopherol (Vitamin E)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##nature13453]
-verified: false
+verified: regex
 ---
 
 # Tocopherol (Vitamin E)

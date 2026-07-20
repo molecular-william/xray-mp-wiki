@@ -1,5 +1,5 @@
 ---
-title: Designed Ankyrin Repeat Protein (DARPin)
+title: "Designed Ankyrin Repeat Protein (DARPin)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##nature13205]
-verified: false
+verified: regex
 ---
 
 # Designed Ankyrin Repeat Protein (DARPin)

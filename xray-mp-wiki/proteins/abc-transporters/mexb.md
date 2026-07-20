@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1038##s41598-019-40232-2]
-verified: regex
+verified: agent
 uniprot_id: P52002
 ---
 

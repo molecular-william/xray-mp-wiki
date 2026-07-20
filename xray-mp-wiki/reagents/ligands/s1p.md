@@ -1,5 +1,5 @@
 ---
-title: S1P (Sphingosine-1-Phosphate)
+title: "S1P (Sphingosine-1-Phosphate)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2015.06.002]
-verified: false
+verified: regex
 ---
 
 # S1P (Sphingosine-1-Phosphate)

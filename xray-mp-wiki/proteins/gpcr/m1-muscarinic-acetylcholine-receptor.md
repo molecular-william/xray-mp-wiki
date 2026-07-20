@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.aax2517, doi/10.1038##nature17188, doi/10.1016##j.cell.2021.11.001]
-verified: regex
+verified: agent
 uniprot_id: ['P11229', 'Q8QGR0']
 ---
 
@@ -269,7 +269,7 @@ The M1 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/)
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5cxv">5CXV</a></td>
-      <td>2.7 A</td>
+      <td>2.7</td>
       <td>P 21 21 21</td>
       <td>Human M1 muscarinic receptor, N-terminal FLAG epitope tag, N-glycosylation mutants (N2Q, N12Q, unintentionally N110Q 3.37), residues 226-389 of ICL3 replaced by T4 lysozyme fusion protein, C-terminal 8x histidine tag
 </td>
@@ -474,21 +474,21 @@ The M1 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/)
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6zfz">6ZFZ</a></td>
-      <td>2.17 A</td>
+      <td>2.17</td>
       <td>C 2 2 21</td>
       <td><a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> in ICL3)</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/77-lh-28-1/">77-LH-28-1</a></td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6zg4">6ZG4</a></td>
-      <td>2.17 A</td>
+      <td>2.17</td>
       <td>C 2 2 21</td>
       <td><a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> in ICL3)</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/htl9936/">HTL9936</a></td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6zg9">6ZG9</a></td>
-      <td>2.17 A</td>
+      <td>2.17</td>
       <td>C 2 2 21</td>
       <td><a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> in ICL3)</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/gsk1034702/">GSK1034702</a></td>
@@ -536,14 +536,14 @@ The M1 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/)
     </tr>
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Batch binding to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin for 3 hours, gradient wash (10 to 60 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>), elution with 245 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin</td>
+      <td>Batch binding to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin for 3 hours, gradient wash (10 to 60 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>), elution with 245 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin</td>
       <td>40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (binding); 40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 70 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (wash); 40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 245 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (elution) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Ligand (20 uM) included in all binding and wash buffers</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column pre-equilibrated with buffer containing ligand</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column pre-equilibrated with buffer containing ligand</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 40 uM ligand + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Protein concentrated to approximately 60 mg/mL using 100 kDa cut-off membrane prior to crystallization</td>

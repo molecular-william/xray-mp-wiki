@@ -1,5 +1,5 @@
 ---
-title: 2-AG (2-Arachidonoylglycerol)
+title: "2-AG (2-Arachidonoylglycerol)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2015.06.002]
-verified: false
+verified: agent
 ---
 
 # 2-AG (2-Arachidonoylglycerol)

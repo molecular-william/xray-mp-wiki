@@ -1,5 +1,5 @@
 ---
-title: Olmesartan
+title: "Olmesartan"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2015.04.011, doi/10.1074##jbc.M115.689000]
-verified: false
+verified: none
 ---
 
 # Olmesartan

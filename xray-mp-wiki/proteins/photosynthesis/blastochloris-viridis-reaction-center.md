@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1021##bi900545e]
-verified: regex
+verified: agent
 uniprot_id: ['P06008', 'P06009', 'P06010', 'P07173']
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: Sodium Channel Inactivation Gating
+title: "Sodium Channel Inactivation Gating"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature11077, doi/10.1038##ncomms3465, doi/10.1038##ncomms14205, doi/10.1085##jgp.201711884]
-verified: false
+verified: regex
 ---
 
 # Sodium Channel Inactivation Gating

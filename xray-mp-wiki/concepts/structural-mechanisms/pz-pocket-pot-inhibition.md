@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-transport-mechanism, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s42004-022-00636-0]
-verified: false
+verified: regex
 ---
 
 # PZ Pocket: Inhibitor-Induced Binding Pocket in POTs

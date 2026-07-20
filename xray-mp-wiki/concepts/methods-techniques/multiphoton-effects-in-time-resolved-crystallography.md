@@ -1,13 +1,13 @@
 ---
-title: Multiphoton Effects in Time-Resolved Serial Femtosecond Crystallography
+title: "Multiphoton Effects in Time-Resolved Serial Femtosecond Crystallography"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, concept-functional, membrane-protein]
+tags: [concept-crystallography-principle, concept-functional, membrane-protein, subdirectory-methods-techniques]
 sources: [doi/10.1038##s41467-019-10758-0, doi/10.1063##1.3553377]
-verified: false
+verified: none
 ---
 
 # Multiphoton Effects in Time-Resolved Serial Femtosecond Crystallography

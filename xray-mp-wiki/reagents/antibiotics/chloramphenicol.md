@@ -1,5 +1,5 @@
 ---
-title: Chloramphenicol
+title: "Chloramphenicol"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, subdirectory-antibiotics]
 sources: [doi/10.1038##cr.2015.94]
-verified: false
+verified: agent
 ---
 
 # Chloramphenicol

@@ -1,5 +1,5 @@
 ---
-title: Nb.AT110i1 Synthetic Nanobody
+title: "Nb.AT110i1 Synthetic Nanobody"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1016##j.cell.2018.12.006]
-verified: false
+verified: regex
 ---
 
 # Nb.AT110i1 Synthetic Nanobody

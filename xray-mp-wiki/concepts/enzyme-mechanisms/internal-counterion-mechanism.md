@@ -1,13 +1,13 @@
 ---
-title: Internal Counterion Mechanism in P-Type ATPases
+title: "Internal Counterion Mechanism in P-Type ATPases"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-enzyme-mechanisms]
 sources: [doi/10.7554##eLife.73124]
-verified: false
+verified: none
 ---
 
 # Internal Counterion Mechanism in P-Type ATPases

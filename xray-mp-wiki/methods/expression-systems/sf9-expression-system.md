@@ -1,5 +1,5 @@
 ---
-title: Sf9 Insect Cell Expression System
+title: "Sf9 Insect Cell Expression System"
 created: 2026-05-29
 updated: 2026-05-29
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [expression-system, subdirectory-expression-systems]
 sources: [doi/10.1016##j.str.2017.11.005, doi/10.1073##pnas.2024651118]
-verified: false
+verified: regex
 ---
 
 # Sf9 Insect Cell Expression System

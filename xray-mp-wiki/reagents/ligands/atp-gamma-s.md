@@ -1,5 +1,5 @@
 ---
-title: ATPγS (Adenosine 5'-O-(3-thiotriphosphate))
+title: "ATPγS (Adenosine 5'-O-(3-thiotriphosphate))"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature12056]
-verified: agent
+verified: regex
 ---
 
 # ATPγS (Adenosine 5'-O-(3-thiotriphosphate))

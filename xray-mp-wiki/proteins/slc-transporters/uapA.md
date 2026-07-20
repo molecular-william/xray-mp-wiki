@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms11336]
-verified: regex
+verified: agent
 uniprot_id: Q07307
 ---
 
@@ -75,17 +75,17 @@ UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific f
     </tr>
     <tr>
       <td>Solubilization and affinity purification</td>
-      <td>Detergent solubilization and Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Detergent solubilization and <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>not specified</td>
       <td>not specified + not specified</td>
       <td>Protein solubilized from membranes and purified via GFP-His8 tag.</td>
     </tr>
     <tr>
       <td>Tag cleavage and final purification</td>
-      <td>TEV protease cleavage and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td>Superdex unspecified</td>
       <td>not specified + not specified</td>
-      <td>GFP-His8 tag removed by TEV protease cleavage before SEC. Xanthine (or 8-bromoxanthine for derivative preparation) was included throughout purification.</td>
+      <td>GFP-His8 tag removed by <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>. Xanthine (or 8-bromoxanthine for derivative preparation) was included throughout purification.</td>
     </tr>
   </tbody>
 </table>

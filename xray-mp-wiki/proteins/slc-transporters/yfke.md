@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1073##pnas.1302515110]
-verified: regex
+verified: agent
 ---
 
 # YfkE Ca2+/H+ Antiporter from Bacillus subtilis
@@ -53,7 +53,7 @@ YfkE is a Ca2+/H+ antiporter from *Bacillus subtilis* belonging to the [Ca2+:Cat
     <tr>
       <td>Purification</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>n-dodecyl-beta-D-maltoside</td>
       <td></td>
     </tr>

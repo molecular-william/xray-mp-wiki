@@ -1,13 +1,13 @@
 ---
-title: Scissor-Switch Gating in POT Family Transporters
+title: "Scissor-Switch Gating in POT Family Transporters"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.str.2014.06.008, doi/10.1016##J.STR.2014.12.012]
-verified: false
+verified: none
 ---
 
 # Scissor-Switch Gating in POT Family Transporters

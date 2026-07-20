@@ -1,13 +1,13 @@
 ---
 title: "Human Glycine Transporter 1 (GlyT1)"
 created: 2021-03-03
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-021-03274-z]
-verified: regex
+verified: agent
 uniprot_id: ['P16218', 'P48067']
 ---
 
@@ -39,14 +39,14 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6zbv">6ZBV</a></td>
-      <td>3.4 A</td>
+      <td>3.4</td>
       <td>P2_1</td>
       <td>Human GlyT1 minimal construct with N- and C-terminal deletions (Delta1-90, Delta685-706), EL2 deletion (Delta240-256), point mutations L153A, S297A, I368A, C633A; C-terminal eGFP and decahistidine tag</td>
       <td>Cmpd1 (benzoylisoindoline inhibitor)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6zpl">6ZPL</a></td>
-      <td>3.9 A</td>
+      <td>3.9</td>
       <td>P2_1</td>
       <td>GlyT1-Lic fusion with N-terminal lichenase (residues 9-281, PDB 2CIT), C-terminal eGFP and decahistidine tag</td>
       <td>Cmpd1 (benzoylisoindoline inhibitor)</td>
@@ -76,13 +76,13 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> (lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol) or 1% <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a> (decyl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol) with 0.1% cholesteryl hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> (lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol) or 1% <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a> (decyl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol) with 0.1% cholesteryl hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/))</td>
       <td>Solubilization performed in the continuous presence of Cmpd1 to stabilize the inhibited conformation</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> or Ni-NTA resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> or <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, 0.001% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a></td>
       <td>Purified in the presence of 100 uM Cmpd1</td>
     </tr>

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2016.12.033]
-verified: none
+verified: regex
 ---
 
 # SSAz ((S,S)-Azetidide)
@@ -33,8 +33,8 @@ SSAz was used to investigate the functional significance of LSD's diethylamide c
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [5-HT2B Receptor](/xray-mp-wiki/proteins/gpcr/5-ht2b-receptor/) | Not specified | Functional assays (β-arrestin2 recruitment, Gq calcium flux) | Nearly identical efficacy and potency to LSD |
-| [5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5-ht2a-receptor/) | Not specified | Functional assays and molecular docking | Potent agonist with LSD-like activity |
+| [5-HT2B Receptor](/xray-mp-wiki/proteins/gpcr/5ht2b-receptor/) | Not specified | Functional assays (β-arrestin2 recruitment, Gq calcium flux) | Nearly identical efficacy and potency to LSD |
+| [5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5ht2a-receptor/) | Not specified | Functional assays and molecular docking | Potent agonist with LSD-like activity |
 
 ## Advantages and Disadvantages
 

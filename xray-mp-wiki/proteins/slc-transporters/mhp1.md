@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1164440, doi/10.1126##science.1186303]
-verified: regex
+verified: agent
 ---
 
 # Mhp1 Benzyl-Hydantoin Transporter from Microbacterium liquefaciens
@@ -22,7 +22,7 @@ Mhp1 is a member of the Nucleobase-Cation-Symport-1 (NCS1) family from Microbact
 
 ## Publications
 
-### doi/10.1126##science.1164440
+### doi/10.1126/SCIENCE.1164440
 
 **Structures:**
 
@@ -36,14 +36,14 @@ Mhp1 is a member of the Nucleobase-Cation-Symport-1 (NCS1) family from Microbact
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/— (see supporting material)">— (SEE SUPPORTING MATERIAL)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2jln">2JLN</a></td>
       <td>2.85</td>
       <td>—</td>
       <td>Full-length Mhp1</td>
       <td>—</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/— (see supporting material)">— (SEE SUPPORTING MATERIAL)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2jln">2JLN</a></td>
       <td>4.0</td>
       <td>—</td>
       <td>Full-length Mhp1</td>
@@ -107,7 +107,7 @@ Mhp1 is a member of the Nucleobase-Cation-Symport-1 (NCS1) family from Microbact
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/— (see supporting material)">— (SEE SUPPORTING MATERIAL)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2x79">2X79</a></td>
       <td>3.8</td>
       <td>—</td>
       <td>Full-length Mhp1 (residues 6-470)</td>

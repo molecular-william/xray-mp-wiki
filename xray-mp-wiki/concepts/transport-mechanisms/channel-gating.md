@@ -1,13 +1,13 @@
 ---
-title: Channel Gating via Plug Domain Displacement
+title: "Channel Gating via Plug Domain Displacement"
 created: 2026-05-28
 updated: 2026-05-28
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.molcel.2007.05.002]
-verified: false
+verified: regex
 ---
 
 # Channel Gating via Plug Domain Displacement

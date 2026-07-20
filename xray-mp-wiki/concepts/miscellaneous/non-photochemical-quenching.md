@@ -1,13 +1,13 @@
 ---
-title: Non-photochemical Quenching (NPQ) in LHC-II
+title: "Non-photochemical Quenching (NPQ) in LHC-II"
 created: 2026-06-02
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-miscellaneous]
 sources: [doi/10.1038##nature02373, doi/10.1038##nsmb.3068]
-verified: false
+verified: regex
 ---
 
 # Non-photochemical Quenching (NPQ) in LHC-II

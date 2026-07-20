@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein]
 sources: [doi/10.1038##nature11077, doi/10.1073##pnas.1700761114, doi/10.1073##pnas.1814928115, doi/10.1038##s41586-018-0120-4, doi/10.1085##jgp.201711884]
-verified: regex
+verified: agent
 uniprot_id: A8EVM5
 ---
 

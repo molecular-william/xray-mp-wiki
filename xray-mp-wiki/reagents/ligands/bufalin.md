@@ -1,5 +1,5 @@
 ---
-title: Bufalin
+title: "Bufalin"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1073##pnas.1422997112]
-verified: false
+verified: agent
 ---
 
 # Bufalin

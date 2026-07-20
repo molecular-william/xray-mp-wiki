@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1073##pnas.1217042110]
-verified: regex
+verified: agent
 uniprot_id: Q9NRK6
 ---
 
@@ -89,7 +89,7 @@ ABCB10 is a human [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (A
       <td>Detergent extraction</td>
       <td>—</td>
       <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (dodecyl maltoside)</td>
-      <td>Purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> with addition of either <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a> (cholesteryl-hemisuccinate) or CDL (cardiolipin)</td>
+      <td>Purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> with addition of either <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate) (cholesteryl-hemisuccinate) or CDL (cardiolipin)</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
@@ -100,10 +100,10 @@ ABCB10 is a human [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (A
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td>—</td>
       <td></td>
-      <td>Final polishing step in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> with <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a> or CDL</td>
+      <td>Final polishing step in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> with <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate) or CDL</td>
     </tr>
   </tbody>
 </table>

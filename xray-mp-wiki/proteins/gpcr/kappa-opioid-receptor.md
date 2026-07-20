@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10939, doi/10.1016##j.cell.2017.12.011, doi/10.1038##s41467-023-37041-7]
-verified: regex
+verified: agent
 uniprot_id: ['P0ABE7', 'P41145']
 ---
 
@@ -89,7 +89,7 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 150 mM NaCl + 1% (w/v) detergent (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> likely)</td>
+      <td>50 mM HEPES pH 7.5, 150 mM NaCl + 1% (w/v) detergent (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) likely)</td>
       <td>—</td>
     </tr>
   </tbody>
@@ -600,7 +600,7 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>10 mM HEPES pH 7.5, 100 mM NaCl + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mg/mL <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM HEPES pH 7.5, 100 mM NaCl + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mg/mL <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Membranes resuspended and solubilized by gentle stirring.</td>
     </tr>
     <tr>
@@ -915,35 +915,35 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>10 mM HEPES pH 7.5, 150 mM NaCl, protease inhibitors + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM HEPES pH 7.5, 150 mM NaCl, protease inhibitors + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>2 h at 4 C; clarified at 150,000 x g for 30 min.</td>
     </tr>
     <tr>
       <td>TALON IMAC affinity</td>
       <td>Cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
-      <td>Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 20 mM imidazole, 10% glycerol, 25 uM nalfurafine; Wash II: 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 25 uM nalfurafine + Wash I: 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>; Wash II: 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 20 mM imidazole, 10% glycerol, 25 uM nalfurafine; Wash II: 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 25 uM nalfurafine + Wash I: 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/); Wash II: 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Resin incubated with supernatant overnight at 4 C; washed with 10 CV Wash I then 10 CV Wash II; eluted with 250 mM imidazole.</td>
     </tr>
     <tr>
       <td>TEV protease cleavage</td>
       <td>Proteolytic cleavage</td>
       <td>—</td>
-      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>His-tagged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease added overnight at 4 C to remove N-terminal 10x His-tag.</td>
     </tr>
     <tr>
       <td>Reverse TALON purification</td>
       <td>Pass-through chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin</td>
-      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Flow-through collected to remove <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease, cleaved His-tag, and uncleaved protein.</td>
     </tr>
     <tr>
       <td>Nb39 complex formation</td>
       <td>Complex formation</td>
       <td>—</td>
-      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Incubated with excess Nb39 (KOR/Nb39 1:2 molar ratio) for 3 h; concentrated to ~30 mg/mL using 100 kDa MWCO concentrator.</td>
     </tr>
   </tbody>

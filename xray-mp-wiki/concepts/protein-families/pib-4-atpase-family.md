@@ -1,13 +1,13 @@
 ---
-title: PIB-4-Type ATPase Family
+title: "PIB-4-Type ATPase Family"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.7554##eLife.73124]
-verified: false
+verified: none
 ---
 
 # PIB-4-Type ATPase Family

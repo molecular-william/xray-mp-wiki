@@ -1,13 +1,13 @@
 ---
-title: DTG/DTS Rhodopsin
+title: "DTG/DTS Rhodopsin"
 created: 2026-05-27
 updated: 2026-05-27
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1016##j.jbc.2022.101722]
-verified: false
+verified: regex
 ---
 
 # DTG/DTS Rhodopsin

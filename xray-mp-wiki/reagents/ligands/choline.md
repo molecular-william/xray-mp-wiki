@@ -1,5 +1,5 @@
 ---
-title: Choline
+title: "Choline"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature11403]
-verified: false
+verified: agent
 ---
 
 # Choline

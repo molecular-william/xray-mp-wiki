@@ -1,13 +1,13 @@
 ---
-title: Remote Coupling Mechanism in Membrane Transporters
+title: "Remote Coupling Mechanism in Membrane Transporters"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.str.2018.01.002, doi/10.3389##fmicb.2017.02095]
-verified: false
+verified: regex
 ---
 
 # Remote Coupling Mechanism in Membrane Transporters

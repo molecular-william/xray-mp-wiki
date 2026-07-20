@@ -1,13 +1,13 @@
 ---
-title: Claudin Tight Junction Architecture
+title: "Claudin Tight Junction Architecture"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1126##science.1248571]
-verified: false
+verified: regex
 ---
 
 # Claudin Tight Junction Architecture

@@ -1,13 +1,13 @@
 ---
 title: "Bacteriorhodopsin (bR) from Halobacterium salinarum"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-019-10758-0, doi/10.1038##s41598-018-31370-0, doi/10.1073##pnas.95.20.11673]
-verified: regex
+verified: agent
 uniprot_id: ['P02945', 'Q9NW15']
 ---
 
@@ -52,49 +52,49 @@ proton transfer pathway.
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6r60">6R60</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ga1">6GA1</a></td>
       <td>1.80</td>
       <td>C2</td>
       <td>Full-length bacteriorhodopsin from Halobacterium salinarum, crystallized in LCP</td>
       <td>All-trans retinal (chromophore)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6r61">6R61</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ga1">6GA1</a></td>
       <td>1.80</td>
       <td>C2</td>
       <td>Full-length bacteriorhodopsin from Halobacterium salinarum, crystallized in LCP</td>
       <td>All-trans retinal (chromophore)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6r62">6R62</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ga1">6GA1</a></td>
       <td>1.80</td>
       <td>C2</td>
       <td>Full-length bacteriorhodopsin from Halobacterium salinarum, crystallized in LCP</td>
       <td>All-trans retinal (chromophore)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6r63">6R63</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ga1">6GA1</a></td>
       <td>1.80</td>
       <td>C2</td>
       <td>Full-length bacteriorhodopsin from Halobacterium salinarum, crystallized in LCP</td>
       <td>All-trans retinal (chromophore)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6r64">6R64</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ga1">6GA1</a></td>
       <td>1.80</td>
       <td>C2</td>
       <td>Full-length bacteriorhodopsin from Halobacterium salinarum, crystallized in LCP</td>
       <td>All-trans retinal (chromophore)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6r65">6R65</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ga1">6GA1</a></td>
       <td>1.80</td>
       <td>C2</td>
       <td>Full-length bacteriorhodopsin from Halobacterium salinarum, crystallized in LCP</td>
       <td>All-trans retinal (chromophore)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6r66">6R66</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ga1">6GA1</a></td>
       <td>1.80</td>
       <td>C2</td>
       <td>Full-length bacteriorhodopsin from Halobacterium salinarum, crystallized in LCP</td>
@@ -131,7 +131,7 @@ proton transfer pathway.
       <td>Detergent solubilization</td>
       <td>—</td>
       <td>25 mM K2HPO4/<a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">NaH2PO4</a> pH 5.6, 1.2% <a href="/xray-mp-wiki/reagents/detergents/og/">beta-OG</a> (beta-OG)</td>
-      <td>PMs at 0.9 mg/mL mixed with 1.7% beta-OG, sonicated, solubilized for 24 h</td>
+      <td>PMs at 0.9 mg/mL mixed with 1.7% beta-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>, sonicated, solubilized for 24 h</td>
     </tr>
     <tr>
       <td>3. Size-exclusion chromatography</td>

@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2020.03.045, doi/10.1038##s41586-020-2180-5, doi/10.1038##s41586-020-2179-y]
-verified: regex
-uniprot_id: P0DTC2
+verified: agent
+uniprot_id: Q9BYF1
 ---
 
 # Human Angiotensin-Converting Enzyme 2 (hACE2)
@@ -16,9 +16,9 @@ uniprot_id: P0DTC2
 <div class="expr-badges"><span class="expr-badge expr-sf9">Sf9</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P0DTC2">UniProt: P0DTC2</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q9BYF1">UniProt: Q9BYF1</a>
 
-<span class="expr-badge">Severe acute respiratory syndrome coronavirus 2</span>
+<span class="expr-badge">Homo sapiens</span>
 
 ## Overview
 
@@ -42,7 +42,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6lzg">6LZG</a></td>
-      <td>2.50 A</td>
+      <td>2.5</td>
       <td>P41212</td>
       <td>hACE2 residues 19-615, N-terminal peptidase domain in complex with <a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> CTD</td>
       <td><a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> CTD (spike protein residues 319-541)</td>
@@ -53,7 +53,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
 **Expression:**
 
 - **Expression system**: [Hi5 Insect Cells](/xray-mp-wiki/methods/expression-systems/hi5-expression-system/) ([Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
-- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/peptides/gp67-signal-peptide/), C-terminal 6xHis tag
+- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/additives/gp67-signal-peptide/), C-terminal 6xHis tag
 
 **Purification:**
 
@@ -68,14 +68,14 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
   <tbody>
     <tr>
       <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/histrap/">HisTrap</a> HP 5 mL column</td>
       <td>Buffer not specified + --</td>
       <td>Soluble proteins from <a href="/xray-mp-wiki/methods/expression-systems/hi5-expression-system/">Hi5</a> cell supernatant purified by metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a></td>
       <td>Final purification step; samples pooled and concentrated</td>
@@ -132,7 +132,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6m0j">6M0J</a></td>
-      <td>2.45 A</td>
+      <td>2.45</td>
       <td>P4₁2₁2</td>
       <td>hACE2 residues Ser19-Asp615, N-terminal peptidase domain in complex with <a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> RBD (residues Arg319-Phe541)</td>
       <td><a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> RBD (spike protein residues 319-541), zinc ion</td>
@@ -143,7 +143,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
 **Expression:**
 
 - **Expression system**: [Hi5 Insect Cells](/xray-mp-wiki/methods/expression-systems/hi5-expression-system/) ([Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
-- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/peptides/gp67-signal-peptide/), C-terminal 6xHis tag
+- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/additives/gp67-signal-peptide/), C-terminal 6xHis tag
 
 **Purification:**
 
@@ -165,8 +165,8 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin (GE Healthcare)</td>
       <td><a href="/xray-mp-wiki/reagents/buffers/hbs/">HBS</a> (10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.2, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>) + --</td>
       <td>Eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in <a href="/xray-mp-wiki/reagents/buffers/hbs/">HBS</a> buffer</td>
     </tr>
@@ -175,7 +175,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Gel Filtration</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column (GE Healthcare)</td>
       <td><a href="/xray-mp-wiki/reagents/buffers/hbs/">HBS</a> (10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.2, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>) + --</td>
-      <td>Pre-equilibrated with <a href="/xray-mp-wiki/reagents/buffers/hbs/">HBS</a> buffer; complex formed by incubating ACE2 with <a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> RBD for 1 h on ice before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Pre-equilibrated with <a href="/xray-mp-wiki/reagents/buffers/hbs/">HBS</a> buffer; complex formed by incubating ACE2 with <a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> RBD for 1 h on ice before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>
@@ -229,7 +229,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6vw1">6VW1</a></td>
-      <td>2.68 A</td>
+      <td>2.68</td>
       <td>P 21 21 21</td>
       <td>hACE2 residues 1-615 in complex with <a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> <a href="/xray-mp-wiki/concepts/construct-design/chimeric-rbd/">Chimeric RBD</a></td>
       <td><a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> <a href="/xray-mp-wiki/concepts/construct-design/chimeric-rbd/">Chimeric RBD</a> (<a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov-2/">SARS-CoV-2</a> core + <a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov/">SARS-CoV</a> side loop), zinc ion</td>
@@ -240,7 +240,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
 **Expression:**
 
 - **Expression system**: [Hi5 Insect Cells](/xray-mp-wiki/methods/expression-systems/hi5-expression-system/) ([Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
-- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/peptides/gp67-signal-peptide/), C-terminal 6xHis tag
+- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/additives/gp67-signal-peptide/), C-terminal 6xHis tag
 
 **Purification:**
 
@@ -262,8 +262,8 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) column</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.2, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + --</td>
       <td>His6-tagged ACE2 and RBD purified from cell culture medium supernatant</td>
     </tr>

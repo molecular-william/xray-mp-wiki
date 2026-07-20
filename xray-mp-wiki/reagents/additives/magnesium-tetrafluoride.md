@@ -1,5 +1,5 @@
 ---
-title: Magnesium Tetrafluoride (MgF₄²⁻)
+title: "Magnesium Tetrafluoride (MgF₄²⁻)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature07939]
-verified: false
+verified: regex
 ---
 
 # Magnesium Tetrafluoride (MgF₄²⁻)

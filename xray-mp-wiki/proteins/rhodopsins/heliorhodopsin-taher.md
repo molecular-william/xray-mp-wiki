@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-019-1604-6, doi/10.1038##s41598-022-17716-9]
-verified: regex
+verified: agent
 uniprot_id: A0A151EDA9
 ---
 
@@ -41,7 +41,7 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6is6">6IS6</a></td>
-      <td>2.4 A</td>
+      <td>2.4</td>
       <td>P212121</td>
       <td>Full-length TaHeR with N-terminal 6x His tag, expressed in E. coli C41(Rosetta)</td>
       <td>all-trans retinal (covalently bound via Schiff base to Lys238)</td>
@@ -90,10 +90,10 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
       <td>0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>ged TaHeR purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>ged TaHeR purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
     </tr>
   </tbody>
 </table>
@@ -447,7 +447,7 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7u55">7U55</a></td>
-      <td>1.97 A</td>
+      <td>1.97</td>
       <td>P21212</td>
       <td>Full-length TaHeR with N-terminal 6x His tag</td>
       <td>all-trans retinal, chloride ion</td>
@@ -481,21 +481,21 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 300 mM NaCl, 1% OG + 1% OG (octylglucoside)</td>
-      <td>Purification carried out in OG detergent</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 300 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> (octylglucoside)</td>
+      <td>Purification carried out in <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> detergent</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td>HisTrap 1 mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column (GE Healthcare)</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 300 mM NaCl, 1% OG, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a> + 1% OG</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td>HisTrap 1 mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) column (GE Healthcare)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 300 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Elution with 20-500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a> gradient over 30 CV</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> 10/300 GL (Cytiva)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 300 mM NaCl, 1% OG + 1% OG</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 300 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Fractions with A550/A280 > 0.7 combined for crystallization</td>
     </tr>
   </tbody>

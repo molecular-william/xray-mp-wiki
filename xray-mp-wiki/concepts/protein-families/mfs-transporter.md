@@ -1,5 +1,5 @@
 ---
-title: Major Facilitator Superfamily (MFS)
+title: "Major Facilitator Superfamily (MFS)"
 created: 2026-06-08
 updated: 2026-06-16
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1016##j.jbc.2021.100479, doi/10.1016##j.jmb.2018.02.026, doi/10.1016##j.str.2014.06.008, doi/10.1016##j.str.2014.12.012, doi/10.1038##EMBOJ.2010.309, doi/10.1038##nature03692, doi/10.1038##nature13306, doi/10.1038##nature14655, doi/10.1038##ncomms5521, doi/10.1038##ncomms8097, doi/10.1038##ncomms8177, doi/10.1038##s41467-023-42073-0, doi/10.1038##s41594-020-0425-5, doi/10.1126##science.1087619, doi/10.26508##lsa.202000858, doi/10.7554##eLife.34995]
-verified: false
+verified: none
 ---
 
 # Major Facilitator Superfamily (MFS)

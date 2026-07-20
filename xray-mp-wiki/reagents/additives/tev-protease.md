@@ -1,13 +1,13 @@
 ---
-title: TEV Protease (Tobacco Etch Virus Protease)
+title: "TEV Protease (Tobacco Etch Virus Protease)"
 created: 2026-06-22
 updated: 2026-06-22
 type: reagent
 category: reagents
 layout: default
 tags: [additive-protease-inhibitor, subdirectory-additives]
-sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.cell.2015.04.011, doi/10.1038##nature06325, doi/10.1038##nature08650, doi/10.1038##ncomms7112, doi/10.1038##nsmb.1788, doi/10.1038##nsmb.3049, doi/10.1073##pnas.92.7.2658, doi/10.7554##eLife.60724]
-verified: false
+sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.cell.2015.04.011, doi/10.1038##nature06325, doi/10.1038##nature08650, doi/10.1038##ncomms7112, doi/10.1038##nsmb.1788, doi/10.1038##nsmb.3049, doi/10.7554##eLife.60724]
+verified: none
 ---
 
 # TEV Protease (Tobacco Etch Virus Protease)

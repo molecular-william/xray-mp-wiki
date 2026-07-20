@@ -1,5 +1,5 @@
 ---
-title: n-Octyl-beta-D-maltoside (OM)
+title: "n-Octyl-beta-D-maltoside (OM)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1038##nature08558]
-verified: false
+verified: regex
 ---
 
 # n-Octyl-beta-D-maltoside (OM)

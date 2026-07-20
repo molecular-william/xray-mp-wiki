@@ -1,5 +1,5 @@
 ---
-title: Monoolein
+title: "Monoolein"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1006##jmbi.1999.3027, doi/10.1016##S0022-2836(03)00751-4, doi/10.1021##bi900545e]
-verified: false
+verified: none
 ---
 
 # Monoolein

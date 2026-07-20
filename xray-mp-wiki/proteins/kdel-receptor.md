@@ -1,13 +1,14 @@
 ---
 title: "Human KDEL Receptor"
 created: 2026-05-26
-updated: 2026-06-29
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.jmb.2012.05.064]
-verified: false
+sources: [doi/10.1126##science.aaw2859]
+verified: agent
+uniprot_id: P24390
 ---
 
 # Human KDEL Receptor
@@ -15,13 +16,17 @@ verified: false
 <div class="expr-badges"><span class="expr-badge expr-sf9">Sf9</span></div>
 
 
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P24390">UniProt: P24390</a>
+
+<span class="expr-badge">Homo sapiens</span>
+
 ## Overview
 
 The human KDEL receptor is a seven-pass transmembrane receptor that retrieves escaped endoplasmic reticulum (ER) resident proteins from the Golgi apparatus by recognizing the C-terminal KDEL (Lys-Asp-Glu-Leu) retrieval signal. This paper presents the first crystal structure of the human KDEL receptor in complex with a KDEL peptide, solved at 3.0 A resolution using the [lipidic cubic phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) method. The structure reveals the molecular basis for KDEL peptide recognition and provides insights into the receptor's role in retrograde transport and pH-dependent ligand binding.
 
 ## Publications
 
-### doi/10.1016##j.jmb.2012.05.064
+### doi/10.1126##science.aaw2859
 
 **Structures:**
 
@@ -35,8 +40,8 @@ The human KDEL receptor is a seven-pass transmembrane receptor that retrieves es
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3jmd">3JMD</a></td>
-      <td>3.0 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6i6h">6I6H</a></td>
+      <td>2.0</td>
       <td>P212121</td>
       <td>Human KDEL receptor (seven transmembrane domain construct with truncated N- and C-terminal extensions, expressed in Sf9 insect cells)</td>
       <td>KDEL peptide</td>

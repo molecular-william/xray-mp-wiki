@@ -1,13 +1,13 @@
 ---
-title: Helix Pi-Bulge in Membrane Proteins
+title: "Helix Pi-Bulge in Membrane Proteins"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1006##jmbi.1999.3027]
-verified: false
+verified: regex
 ---
 
 # Helix Pi-Bulge in Membrane Proteins

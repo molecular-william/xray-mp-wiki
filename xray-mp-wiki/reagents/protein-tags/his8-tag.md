@@ -5,9 +5,9 @@ updated: 2026-07-06
 type: reagent
 category: reagents
 layout: default
-tags: [protein-tag, subdirectory-additives]
+tags: [protein-tag, subdirectory-protein-tags]
 sources: []
-verified: none
+verified: agent
 ---
 
 # His8 Tag (Octahistidine Tag)

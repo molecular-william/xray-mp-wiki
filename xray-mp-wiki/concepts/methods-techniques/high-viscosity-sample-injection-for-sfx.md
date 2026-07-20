@@ -1,13 +1,13 @@
 ---
-title: High-Viscosity Sample Injection for Serial Femtosecond Crystallography
+title: "High-Viscosity Sample Injection for Serial Femtosecond Crystallography"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, subdirectory-concepts]
+tags: [concept-crystallography-principle, subdirectory-methods-techniques]
 sources: [doi/10.1107##S1600576719012846]
-verified: false
+verified: none
 ---
 
 # High-Viscosity Sample Injection for Serial Femtosecond Crystallography

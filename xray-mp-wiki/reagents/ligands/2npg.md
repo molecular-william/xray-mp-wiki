@@ -1,5 +1,5 @@
 ---
-title: 4-Nitrophenyl-alpha-D-galactopyranoside (2NPG)
+title: "4-Nitrophenyl-alpha-D-galactopyranoside (2NPG)"
 created: 2026-06-04
 updated: 2026-06-04
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##ncomms4009]
-verified: false
+verified: agent
 ---
 
 # 4-Nitrophenyl-alpha-D-galactopyranoside (2NPG)

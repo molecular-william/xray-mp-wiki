@@ -1,13 +1,13 @@
 ---
-title: Cork-in-Bottle Occlusion
+title: "Cork-in-Bottle Occlusion"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1016##j.str.2018.02.004, doi/10.1038##NATURE14981]
-verified: false
+verified: none
 ---
 
 # Cork-in-Bottle Occlusion

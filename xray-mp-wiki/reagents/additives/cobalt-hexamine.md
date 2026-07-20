@@ -1,5 +1,5 @@
 ---
-title: Hexaamminecobalt(III) (Cobalt Hexamine)
+title: "Hexaamminecobalt(III) (Cobalt Hexamine)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1016##j.str.2017.05.024]
-verified: false
+verified: regex
 ---
 
 # Hexaamminecobalt(III) (Cobalt Hexamine)

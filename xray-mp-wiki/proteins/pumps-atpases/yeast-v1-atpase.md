@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.15252##embj.201593447]
-verified: regex
-uniprot_id: P32610
+verified: agent
+uniprot_id: ['P16140', 'P17255', 'P22203', 'P32610', 'P39111', 'P41807', 'P48836']
 ---
 
 # Yeast V1-ATPase from Saccharomyces cerevisiae
@@ -16,7 +16,7 @@ uniprot_id: P32610
 <div class="expr-badges"><span class="expr-badge expr-s-cerevisiae">S. cerevisiae</span> <span class="expr-badge expr-native-tissue">Native tissue</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P32610">UniProt: P32610</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P16140">UniProt: P16140</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P17255">UniProt: P17255</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P22203">UniProt: P22203</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P32610">UniProt: P32610</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P39111">UniProt: P39111</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P41807">UniProt: P41807</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P48836">UniProt: P48836</a>
 
 <span class="expr-badge">Saccharomyces cerevisiae</span>
 
@@ -98,9 +98,9 @@ open catalytic site, stabilizing an ADP-inhibited state.
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography (SEC)</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography ([SEC</a>)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
-      <td>SEC buffer</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> buffer</td>
       <td>Final polishing step; V1 elutes as monodisperse ~600 kDa complex</td>
     </tr>
   </tbody>

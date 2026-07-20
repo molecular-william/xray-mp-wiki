@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1021##acs.jmedchem.5b00330]
-verified: none
+verified: regex
 ---
 
 # Differential Static Light Scattering (DSLS)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NATURE12179, doi/10.1038##NCOMMS10140]
-verified: regex
+verified: agent
 uniprot_id: P0ABN1
 ---
 
@@ -70,7 +70,7 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
       <td>Auto-induction or <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> induction in E. coli</td>
       <td>--</td>
       <td>-- + --</td>
-      <td>DgkA proteins expressed and purified as described with an additional <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> step; Se-Met labelling performed using methionine auxotroph B893(DE3) in M9 minimal media</td>
+      <td>DgkA proteins expressed and purified as described with an additional <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) step; Se-Met labelling performed using methionine auxotroph B893(DE3) in M9 minimal media</td>
     </tr>
   </tbody>
 </table>
@@ -462,7 +462,7 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
       <td>Auto-induction in E. coli</td>
       <td>--</td>
       <td>-- + --</td>
-      <td>Delta4-DgkA expressed and purified as previously described (Nature 2012); co-crystallized with 9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> host lipid in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>; zinc-ACP soaked into crystals</td>
+      <td>Delta4-DgkA expressed and purified as previously described (Nature 2012); co-crystallized with 9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> host lipid in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/); zinc-ACP soaked into crystals</td>
     </tr>
   </tbody>
 </table>

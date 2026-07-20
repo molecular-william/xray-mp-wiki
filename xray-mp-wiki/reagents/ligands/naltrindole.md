@@ -1,5 +1,5 @@
 ---
-title: Naltrindole
+title: "Naltrindole"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature11111, doi/10.1038##nature12944, doi/10.1038##nature08282]
-verified: false
+verified: none
 ---
 
 # Naltrindole

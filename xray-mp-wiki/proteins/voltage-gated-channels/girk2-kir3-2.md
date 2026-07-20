@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [membrane-protein, xray-crystallography, ion-channel]
 sources: [doi/10.1016##j.cell.2011.07.046, doi/10.1038##nature12241]
-verified: regex
+verified: agent
 uniprot_id: ['P48542', 'P59768', 'P62873']
 ---
 
@@ -85,29 +85,29 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
       <td>Cell lysis and solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, pH 7.35, 150 mM KCl + 4% (w/v) DM (DM)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, pH 7.35, 150 mM KCl + 4% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (DM)</td>
       <td>Frozen cells lysed in mixer mill, then solubilized for 1 h at RT with <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> <a href="/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/">G907 (Quinoline MsbA Inhibitor)</a> (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> resin</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, pH 7.0, 150 mM KCl + 0.4% (w/v) DM</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, pH 7.0, 150 mM KCl + 0.4% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Incubated with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> resin for 1 h at RT. Washed with 40 mM and 80 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>. Eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/">si-Face Cleavage in Rhomboid Proteases</a> in Rhomboid Proteases in Rhomboid Proteases</td>
       <td>Enzymatic <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/">si-Face Cleavage in Rhomboid Proteases</a> in Rhomboid Proteases in Rhomboid Proteases</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, pH 7.0, 150 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 3 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 0.4% (w/v) DM</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, pH 7.0, 150 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 3 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 0.4% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Cleaved with <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> for 2 h at RT or overnight at 4 C.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane)-HCl, pH 7.5, 150 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 0.2% (w/v) DM (anagrade)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a>-200 gel filtration column. Peak tetramer fractions pooled and concentrated to 6-7 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/imisx-in-situ-crystallization/">IMISX In-Situ Serial Crystallography</a>.</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane)-HCl, pH 7.5, 150 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (anagrade)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/)-200 gel filtration column. Peak tetramer fractions pooled and concentrated to 6-7 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/imisx-in-situ-crystallization/">IMISX In-Situ Serial Crystallography</a>.</td>
     </tr>
   </tbody>
 </table>

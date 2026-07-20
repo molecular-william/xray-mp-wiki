@@ -1,13 +1,13 @@
 ---
-title: PIP2 Activation of Inward Rectifier K+ Channels
+title: "PIP2 Activation of Inward Rectifier K+ Channels"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature10370]
-verified: false
+verified: regex
 ---
 
 # PIP2 Activation of Inward Rectifier K+ Channels

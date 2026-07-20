@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, pump, xray-crystallography]
 sources: [doi/10.1016##j.str.2019.04.007, doi/10.1038##s41586-018-0083-5]
-verified: regex
+verified: agent
 uniprot_id: ['P63359', 'Q8FJB1']
 ---
 
@@ -94,8 +94,8 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td></td>
       <td>Column washed with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in buffer containing 0.1% <a href="/xray-mp-wiki/reagents/detergents/udm/">UDM</a></td>
     </tr>
@@ -108,7 +108,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td></td>
       <td>Polishing step in buffer containing <a href="/xray-mp-wiki/reagents/detergents/fa-3/">FA-3 (Facade-EM Facial Amphiphile)</a></td>
@@ -731,7 +731,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
       <td>G247</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bpm">6BPM</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bpl">6BPL</a></td>
       <td></td>
       <td></td>
       <td>E. coli MsbA in complex with G592 and LPS</td>

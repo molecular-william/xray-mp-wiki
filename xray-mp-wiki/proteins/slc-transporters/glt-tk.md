@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.7554##eLife.45286, doi/10.1038##ncomms13420]
-verified: regex
+verified: agent
 uniprot_id: Q5JID0
 ---
 
@@ -95,7 +95,7 @@ uniprot_id: Q5JID0
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> KOH, pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/potassium-chloride/">KCl</a> + 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>

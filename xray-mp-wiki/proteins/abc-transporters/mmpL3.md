@@ -100,49 +100,49 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
       <td>Cell lysis</td>
       <td><a href="/xray-mp-wiki/methods/cell-lysis/french-press/">French press</a> at 1,200 bar</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
       <td>Cell debris removed by centrifugation at 8,000 rpm for 15 min at 4 C</td>
     </tr>
     <tr>
       <td>Membrane fractionation</td>
       <td>Ultra-centrifugation at 150,000 g for 1 h</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Detergent extraction at 4 C for 1.5 h</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Affinity capture</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose incubation for 2 h at 4 C</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose incubation for 2 h at 4 C</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wash</td>
       <td>Column wash</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Elution</td>
       <td><a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> elution</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on Superose-6 increase</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on Superose-6 increase</td>
       <td>Superose-6 increase (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Concentrated to ~15 mg/mL for crystallization</td>
     </tr>
   </tbody>
@@ -158,7 +158,7 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, ~15 mg/mL</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, ~15 mg/mL</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -1557,49 +1557,49 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
       <td>Cell lysis</td>
       <td><a href="/xray-mp-wiki/methods/cell-lysis/french-press/">French press</a> at 1,200 bar</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
       <td>Cell debris removed by centrifugation at 8,000 rpm for 15 min at 4 C</td>
     </tr>
     <tr>
       <td>Membrane fractionation</td>
       <td>Ultra-centrifugation at 150,000 g for 1 h</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Detergent extraction at 4 C for 1.5 h</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Affinity capture</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose incubation for 2 h at 4 C</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose incubation for 2 h at 4 C</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Wash</td>
       <td>Column wash</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Elution</td>
       <td><a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> elution</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on Superose-6 increase</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on Superose-6 increase</td>
       <td>Superose-6 increase (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 6-n-dodecyl-alpha,alpha-<a href="/xray-mp-wiki/reagents/additives/trehalose">Trehalose</a> (<a href="/xray-mp-wiki/reagents/lipids/6-ddtre">6-n-Dodecyl-alpha,alpha-trehalose</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 6-n-dodecyl-alpha,alpha-<a href="/xray-mp-wiki/reagents/additives/trehalose">Trehalose</a> (<a href="/xray-mp-wiki/reagents/lipids/6-ddtre">6-n-Dodecyl-alpha,alpha-trehalose</a>)</td>
       <td>Peak fractions pooled and concentrated to 15 mg/mL for crystallization</td>
     </tr>
   </tbody>

@@ -1,13 +1,13 @@
 ---
-title: Tiotropium
+title: "Tiotropium"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1016##j.str.2014.08.022, doi/10.1021##jm4013227, doi/10.1038##nature10867, doi/10.1038##nature17188]
-verified: false
+sources: [doi/10.1016##j.str.2014.08.022, doi/10.1038##nature10867, doi/10.1038##nature17188]
+verified: agent
 ---
 
 # Tiotropium

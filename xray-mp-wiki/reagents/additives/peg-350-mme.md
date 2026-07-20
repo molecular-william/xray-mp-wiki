@@ -1,5 +1,5 @@
 ---
-title: Polyethylene Glycol 350 Monomethyl Ether (PEG 350 MME)
+title: "Polyethylene Glycol 350 Monomethyl Ether (PEG 350 MME)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1038##nature17975]
-verified: false
+verified: regex
 ---
 
 # Polyethylene Glycol 350 Monomethyl Ether (PEG 350 MME)

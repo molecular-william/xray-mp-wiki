@@ -29,6 +29,6 @@ In the inactive state of class A GPCRs, the PIF motif adopts a specific conforma
 
 ## Cross-References
 - [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — The PIF motif is a key activation microswitch in class A GPCRs
-- [DRY Motif](/xray-mp-wiki/concepts/signaling-receptors/dry-motif/) — The PIF motif signals to the DRY motif during activation
-- [NPxxY Motif](/xray-mp-wiki/concepts/signaling-receptors/npxxy-motif/) — The PIF motif is one of three conserved GPCR microswitches along with NPxxY
+- [DRY Motif](/xray-mp-wiki/concepts/structural-mechanisms/dry-motif/) — The PIF motif signals to the DRY motif during activation
+- [NPxxY Motif](/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/) — The PIF motif is one of three conserved GPCR microswitches along with NPxxY
 - [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) — The PIF motif connects to the polar activation network

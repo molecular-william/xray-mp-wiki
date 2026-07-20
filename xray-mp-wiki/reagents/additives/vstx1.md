@@ -1,5 +1,5 @@
 ---
-title: VSTX1 Tarantula Toxin
+title: "VSTX1 Tarantula Toxin"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature01580]
-verified: false
+verified: regex
 ---
 
 # VSTX1 Tarantula Toxin

@@ -1,13 +1,13 @@
 ---
-title: CLC Chloride Channel Glutamate Gating
+title: "CLC Chloride Channel Glutamate Gating"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, subdirectory-concepts]
+tags: [concept-structural, concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1126##science.1082708]
-verified: false
+verified: regex
 ---
 
 # CLC Chloride Channel Glutamate Gating

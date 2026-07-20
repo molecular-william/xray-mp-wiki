@@ -1,13 +1,13 @@
 ---
-title: Modal Gating in K+ Channels
+title: "Modal Gating in K+ Channels"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, subdirectory-concepts]
+tags: [concept-structural, concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nsmb.1968]
-verified: false
+verified: regex
 ---
 
 # Modal Gating in K+ Channels

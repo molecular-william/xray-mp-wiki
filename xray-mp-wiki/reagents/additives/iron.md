@@ -1,5 +1,5 @@
 ---
-title: Iron (Fe)
+title: "Iron (Fe)"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##nsmb.3049]
-verified: false
+verified: regex
 ---
 
 # Iron (Fe)

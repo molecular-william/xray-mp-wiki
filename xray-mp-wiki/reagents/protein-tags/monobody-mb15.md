@@ -1,5 +1,5 @@
 ---
-title: MB-15 Monobody
+title: "MB-15 Monobody"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##nature25439]
-verified: false
+verified: regex
 ---
 
 # MB-15 Monobody

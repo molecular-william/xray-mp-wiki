@@ -1,5 +1,5 @@
 ---
-title: Zinc Chloride
+title: "Zinc Chloride"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##NSMB.1933]
-verified: false
+verified: none
 ---
 
 # Zinc Chloride

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41594-018-0068-y]
-verified: pdb-check
+verified: agent
 uniprot_id: P25105
 ---
 
@@ -83,35 +83,35 @@ The human platelet-activating factor receptor (PAFR) is a class A [G Protein](/x
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM MgCl2, 10 mM KCl, 7.5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 25 uM ligand (SR 27417 or ABT-491), 1 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">iodoacetamide</a>, EDTA-free <a href="/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/">protease inhibitor cocktail</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesterol hemisuccinate (CHS)</a></td>
-      <td>Membranes solubilized at 0.5% DDM + 0.1% CHS</td>
+      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM MgCl2, 10 mM KCl, 7.5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 25 uM ligand (SR 27417 or ABT-491), 1 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">iodoacetamide</a>, EDTA-free <a href="/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/">protease inhibitor cocktail</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesterol hemisuccinate ([CHS</a>)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Membranes solubilized at 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
-      <td>Same as solubilization buffer with ligand + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Same as solubilization buffer with ligand + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Imidazole removed via PD MiniTrap G-25 column after elution</td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
       <td><a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission protease</a> cleavage (overnight)</td>
       <td>--</td>
-      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Histidine-tagged PreScission protease (30 ul) treated overnight to remove C-terminal His tag</td>
     </tr>
     <tr>
       <td>Negative purification</td>
-      <td>Negative <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> superflow resin (Qiagen)</td>
-      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Cleaved His tag and PreScission protease removed by passage through Ni-NTA resin</td>
+      <td>Negative <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) purification</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) superflow resin (Qiagen)</td>
+      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Cleaved His tag and PreScission protease removed by passage through <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
     </tr>
     <tr>
       <td>Concentration</td>
       <td>Concentration by ultrafiltration</td>
       <td>--</td>
-      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>PAFR-flavodoxin concentrated to 30-40 mg/ml; PAFR-mT4L concentrated to 40-45 mg/ml; Vivaspin concentrator with 100 kDa MWCO</td>
     </tr>
   </tbody>

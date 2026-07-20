@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, channel, membrane-protein]
 sources: [doi/10.1074##jbc.RA118.003876]
-verified: regex
+verified: agent
 uniprot_id: P0AC98
 ---
 
@@ -89,14 +89,14 @@ shown to be critical for  translocation activity.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
       <td>—</td>
       <td></td>
       <td>Eluted with 270 mM  in 25 mM  pH 7.0, 150 mM NaCl, 0.05% </td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> Increase 10/300</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300</td>
       <td>—</td>
       <td>25 mM  pH 7.0, 150 mM NaCl, 0.05% (w/v) </td>
       <td>N-terminal His tag removed using DrICE prior to crystallization</td>

@@ -1,5 +1,5 @@
 ---
-title: Alafosfalin
+title: "Alafosfalin"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##embor.2013.107]
-verified: false
+verified: agent
 ---
 
 # Alafosfalin

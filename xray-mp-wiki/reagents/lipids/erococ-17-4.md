@@ -1,5 +1,5 @@
 ---
-title: EROCOC17+4 (Isoprenoid-Chained Lipid)
+title: "EROCOC17+4 (Isoprenoid-Chained Lipid)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1038##s41598-020-76277-x]
-verified: false
+verified: regex
 ---
 
 # EROCOC17+4 (Isoprenoid-Chained Lipid)

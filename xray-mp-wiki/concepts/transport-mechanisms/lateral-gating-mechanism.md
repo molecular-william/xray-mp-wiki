@@ -1,13 +1,13 @@
 ---
-title: Lateral Gating Mechanism in Rhomboid Proteases
+title: "Lateral Gating Mechanism in Rhomboid Proteases"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, subdirectory-concepts]
+tags: [concept-enzyme-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature05255, doi/10.1073##pnas.0609773104, doi/10.1073##pnas.0611080104, doi/10.1016##j.jmb.2011.01.029, doi/10.1038##nsmb1179]
-verified: false
+verified: regex
 ---
 
 # Lateral Gating Mechanism in Rhomboid Proteases

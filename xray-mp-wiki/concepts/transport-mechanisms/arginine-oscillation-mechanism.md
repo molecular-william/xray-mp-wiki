@@ -1,13 +1,13 @@
 ---
-title: Arginine Oscillation Mechanism in LeuT-Type Transporters
+title: "Arginine Oscillation Mechanism in LeuT-Type Transporters"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.1309071110]
-verified: false
+verified: regex
 ---
 
 # Arginine Oscillation Mechanism in LeuT-Type Transporters

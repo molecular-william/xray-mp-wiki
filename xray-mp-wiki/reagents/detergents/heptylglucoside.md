@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1002##anie.201302374, doi/10.7554##eLife.09375]
-verified: false
+verified: none
 ---
 
 # Heptylglucoside (HpG)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12045]
-verified: regex
+verified: agent
 uniprot_id: ['Q03NM0', 'Q03PY5', 'Q03PY6', 'Q03PY7']
 ---
 
@@ -97,8 +97,8 @@ rigid-body rotation of the S component.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
-      <td>Ni-NTA (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
       <td>25 mM Tris-HCl pH 8.0, 150 mM NaCl, 20-250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>

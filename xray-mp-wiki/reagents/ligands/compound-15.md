@@ -1,5 +1,5 @@
 ---
-title: Cmpd-15 (Compound-15)
+title: "Cmpd-15 (Compound-15)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature23652, doi/10.1073##pnas.1618130114]
-verified: false
+verified: none
 ---
 
 # Cmpd-15 (Compound-15)

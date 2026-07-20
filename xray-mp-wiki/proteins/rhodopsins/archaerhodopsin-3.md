@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-020-20596-0]
-verified: regex
+verified: agent
 uniprot_id: P96787
 ---
 
@@ -79,7 +79,7 @@ Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H
     </tr>
     <tr>
       <td>Crystallization</td>
-      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a> (LCP) crystallization without detergents</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>) crystallization without detergents</td>
       <td>--</td>
       <td>Not applicable + --</td>
       <td>Purification and crystallization performed in absence of detergents. AR3 mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> at 40:60 volume ratio. Crystals grown in 30% <a href="/xray-mp-wiki/reagents/additives/peg-600/">PEG 600</a>, 100 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES Buffer</a> pH 5.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>, 150 mM Ca2+ at 20 C.</td>

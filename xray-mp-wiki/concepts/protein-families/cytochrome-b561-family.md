@@ -1,13 +1,13 @@
 ---
-title: Cytochrome b561 (Cyt b561) Protein Family
+title: "Cytochrome b561 (Cyt b561) Protein Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1073##pnas.1323931111]
-verified: false
+verified: regex
 ---
 
 # Cytochrome b561 (Cyt b561) Protein Family

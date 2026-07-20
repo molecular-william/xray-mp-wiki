@@ -1,5 +1,5 @@
 ---
-title: Double Electron Electron Resonance (DEER) Spectroscopy
+title: "Double Electron Electron Resonance (DEER) Spectroscopy"
 created: 2026-06-03
 updated: 2026-06-03
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1038##nature14656]
-verified: false
+verified: regex
 ---
 
 # Double Electron Electron Resonance (DEER) Spectroscopy

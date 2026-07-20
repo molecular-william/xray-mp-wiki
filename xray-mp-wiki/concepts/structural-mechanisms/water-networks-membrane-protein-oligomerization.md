@@ -1,13 +1,13 @@
 ---
-title: Water Networks in Membrane Protein Oligomerization
+title: "Water Networks in Membrane Protein Oligomerization"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1186##s12915-021-01102-4]
-verified: false
+verified: regex
 ---
 
 # Water Networks in Membrane Protein Oligomerization

@@ -1,5 +1,5 @@
 ---
-title: t-ACBD (trans-1-Aminocyclobutane-1,3-dicarboxylic Acid)
+title: "t-ACBD (trans-1-Aminocyclobutane-1,3-dicarboxylic Acid)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature13548]
-verified: true
+verified: agent
 ---
 
 # t-ACBD (trans-1-Aminocyclobutane-1,3-dicarboxylic Acid)

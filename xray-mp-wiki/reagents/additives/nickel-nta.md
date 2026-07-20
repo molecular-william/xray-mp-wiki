@@ -1,5 +1,5 @@
 ---
-title: Ni-NTA Agarose Resin
+title: "Ni-NTA Agarose Resin"
 created: 2026-05-18
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##1873-3468.14136, doi/10.1002##anie.202115545, doi/10.1016##j.jbc.2021.100479, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature11524, doi/10.1038##ncomms11673, doi/10.1038##ncomms5355, doi/10.1038##ncomms5521, doi/10.1038##ncomms7112, doi/10.1038##ncomms7874, doi/10.1038##ncomms8097, doi/10.1038##ncomms8947, doi/10.1038##ncomms8995, doi/10.1038##nsmb.2417, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109]
-verified: false
+verified: regex
 ---
 
 # Ni-NTA Agarose Resin

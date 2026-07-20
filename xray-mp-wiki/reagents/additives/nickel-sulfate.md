@@ -1,5 +1,5 @@
 ---
-title: Nickel Sulfate (NiSO₄)
+title: "Nickel Sulfate (NiSO₄)"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1186##s12915-023-01689-w]
-verified: false
+verified: regex
 ---
 
 # Nickel Sulfate (NiSO₄)

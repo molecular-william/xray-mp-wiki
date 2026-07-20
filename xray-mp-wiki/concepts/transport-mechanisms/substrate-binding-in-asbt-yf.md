@@ -1,13 +1,13 @@
 ---
-title: Substrate Binding in ASBT_Yf
+title: "Substrate Binding in ASBT_Yf"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1107##s2059798320015004]
-verified: false
+verified: regex
 ---
 
 # Substrate Binding in ASBT_Yf

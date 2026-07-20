@@ -1,13 +1,13 @@
 ---
-title: Serial Millisecond Crystallography (SMX)
+title: "Serial Millisecond Crystallography (SMX)"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, xray-crystallography]
+tags: [concept-crystallography-principle, xray-crystallography, subdirectory-methods-techniques]
 sources: [doi/10.1038##s41467-017-00630-4]
-verified: false
+verified: regex
 ---
 
 # Serial Millisecond Crystallography (SMX)

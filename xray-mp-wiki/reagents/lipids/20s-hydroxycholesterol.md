@@ -1,5 +1,5 @@
 ---
-title: 20(S)-Hydroxycholesterol (20S-OHC)
+title: "20(S)-Hydroxycholesterol (20S-OHC)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid-sterol, subdirectory-lipids]
 sources: [doi/10.1038##ncomms15383]
-verified: false
+verified: agent
 ---
 
 # 20(S)-Hydroxycholesterol (20S-OHC)

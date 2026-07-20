@@ -1,13 +1,13 @@
 ---
-title: O1 Water Channel of Photosystem II
+title: "O1 Water Channel of Photosystem II"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-021-26781-z]
-verified: false
+verified: regex
 ---
 
 # O1 Water Channel of Photosystem II

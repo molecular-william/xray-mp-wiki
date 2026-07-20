@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature17975, doi/10.1038##s41598-017-10993-9]
-verified: regex
+verified: agent
 uniprot_id: Q9R186
 ---
 
@@ -97,7 +97,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
       <td>Sonication</td>
       <td>--</td>
       <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 1 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-Mercaptoethanol</a>, 0.8 uM aprotinin, 2 ug/ml leupeptin, 2 mM pepstatin A, 1 mM PMSF + --</td>
-      <td>Misonix Sonicator, 12 x 15 <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>, power level 7</td>
+      <td>Misonix Sonicator, 12 x 15 <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/), power level 7</td>
     </tr>
     <tr>
       <td>Membrane collection</td>
@@ -129,7 +129,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superose 6 column</td>
       <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 1 mM betaME + 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Tetrameric channel fractions collected, 10 mM TCEP added</td>

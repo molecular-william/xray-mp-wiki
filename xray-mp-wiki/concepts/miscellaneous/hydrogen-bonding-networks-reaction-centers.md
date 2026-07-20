@@ -1,13 +1,13 @@
 ---
-title: Hydrogen-Bonding Networks in Photosynthetic Reaction Centers
+title: "Hydrogen-Bonding Networks in Photosynthetic Reaction Centers"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-miscellaneous]
 sources: [doi/10.1107##s2052252521013178]
-verified: false
+verified: regex
 ---
 
 # Hydrogen-Bonding Networks in Photosynthetic Reaction Centers

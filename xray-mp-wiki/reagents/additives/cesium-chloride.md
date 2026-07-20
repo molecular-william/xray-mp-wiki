@@ -1,5 +1,5 @@
 ---
-title: Cesium Chloride
+title: "Cesium Chloride"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##NSMB.1933, doi/10.1038##nature11375]
-verified: false
+verified: none
 ---
 
 # Cesium Chloride

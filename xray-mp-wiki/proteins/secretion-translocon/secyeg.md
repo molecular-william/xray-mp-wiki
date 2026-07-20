@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.celrep.2015.10.025, doi/10.1038##nature07421]
-verified: regex
+verified: agent
 uniprot_id: ['P38383', 'Q5SHE6', 'Q5SHQ8']
 ---
 
@@ -78,35 +78,35 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
       <td>Differential centrifugation</td>
       <td>--</td>
       <td>Not specified + --</td>
-      <td>Total membrane fraction from E. coli BL21(DE3) cells co-expressing <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YEG</td>
+      <td>Total membrane fraction from E. coli BL21(DE3) cells co-expressing <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)YEG</td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">n-dodecyl-beta-D-maltoside</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">n-dodecyl-beta-D-maltoside</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
       <td>1 hr at 4 C; ultracentrifugation at 138,000 x g for 30 min</td>
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA agarose</a></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His-tag</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> agarose](/xray-mp-wiki/reagents/additives/nickel-nta)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Equilibration with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; wash with 40 mM imidazole; elution with 300 mM imidazole</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-exclusion chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/resins/superdex-200">Superdex 200</a> 10/300 GL column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Concentrated to ~15 mg/ml using Amicon Ultra 50-kDa cutoff filter</td>
     </tr>
     <tr>
       <td>Ion-exchange chromatography</td>
       <td>Ion-exchange chromatography</td>
       <td>HiTrap SP HP column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.25% n-decyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm">DM</a>), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a></td>
-      <td>Elution with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>); final sample dialyzed against 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a> and 5% glycerol</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.25% n-decyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm">DM</a>), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a></td>
+      <td>Elution with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>); final sample dialyzed against 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a> and 5% glycerol</td>
     </tr>
   </tbody>
 </table>
@@ -861,28 +861,28 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
       <td>Differential centrifugation</td>
       <td>--</td>
       <td>Not specified + --</td>
-      <td>Total membrane fraction from E. coli cells overproducing <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YE</td>
+      <td>Total membrane fraction from E. coli cells overproducing <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)YE</td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
       <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">n-dodecyl-beta-D-maltoside</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YE complex solubilized from membrane fraction with <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)YE complex solubilized from membrane fraction with <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
     </tr>
     <tr>
       <td>Purification</td>
       <td>Column chromatography (three steps)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> + gel filtration</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) + gel filtration</td>
       <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>Three successive chromatography steps; His6-tag auto-cleaved after storage at 20 C for 2 weeks; re-chromatographed on <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a></td>
+      <td>Three successive chromatography steps; His6-tag auto-cleaved after storage at 20 C for 2 weeks; re-chromatographed on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta)</td>
     </tr>
     <tr>
       <td>Fab complex purification</td>
       <td>Gel filtration chromatography</td>
       <td>Gel filtration column</td>
       <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YE mixed with stoichiometric excess of Fab; complex isolated by gel filtration</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)YE mixed with stoichiometric excess of Fab; complex isolated by gel filtration</td>
     </tr>
   </tbody>
 </table>
@@ -1274,6 +1274,6 @@ Intermolecular disulfide cross-linking experiments identified the SecA-SecY inte
 - <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> — Affinity chromatography resin for His-tagged SecY purification
 - <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> — Size-exclusion chromatography for complex purification and monodispersity assessment
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method used for both SecYEG structures
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> — Main buffer component in purification
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> — Main buffer component in purification
 - <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/proteins/sece">SECE</a> — Related protein

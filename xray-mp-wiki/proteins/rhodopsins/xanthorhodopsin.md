@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.0807162105]
-verified: regex
+verified: agent
 uniprot_id: Q2S2F8
 ---
 
@@ -42,7 +42,7 @@ Xanthorhodopsin is a light-driven proton pump from the eubacterium Salinibacter 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ddl">3DDL</a></td>
-      <td>1.9 A</td>
+      <td>1.9</td>
       <td>P1</td>
       <td>Full-length xanthorhodopsin from Salinibacter ruber</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> and <a href="/xray-mp-wiki/reagents/ligands/salinixanthin/">Salinixanthin</a> (<a href="/xray-mp-wiki/reagents/ligands/carotenoid/">Carotenoid</a> antenna)</td>

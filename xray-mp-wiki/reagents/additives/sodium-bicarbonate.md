@@ -1,5 +1,5 @@
 ---
-title: Sodium Bicarbonate (NaHCO3)
+title: "Sodium Bicarbonate (NaHCO3)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt]
 sources: [doi/10.1038##nature10881]
-verified: false
+verified: regex
 ---
 
 # Sodium Bicarbonate (NaHCO3)

@@ -1,13 +1,13 @@
 ---
-title: C-type Inactivation
+title: "C-type Inactivation"
 created: 2026-06-10
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.2009624117, doi/10.1016##j.str.2012.03.027, doi/10.1038##nature22988, doi/10.1073##pnas.1314356110, doi/10.7554##eLife.28032, doi/10.1126##sciadv.abc9174, doi/10.1073##pnas.1800559115, doi/10.1085##jgp.201711884, doi/10.1016##j.jmb.2021.167296, doi/10.1038##nsmb.3457, doi/10.1126##sciadv.abm8804]
-verified: false
+verified: none
 ---
 
 # C-type Inactivation

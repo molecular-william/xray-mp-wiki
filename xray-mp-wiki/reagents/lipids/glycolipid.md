@@ -1,5 +1,5 @@
 ---
-title: Glycolipid
+title: "Glycolipid"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1016##j.jmb.2007.11.039]
-verified: false
+verified: agent
 ---
 
 # Glycolipid

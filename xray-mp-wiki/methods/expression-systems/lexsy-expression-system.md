@@ -1,5 +1,5 @@
 ---
-title: LEXSY Leishmania tarentolae Expression System
+title: "LEXSY Leishmania tarentolae Expression System"
 created: 2026-06-08
 updated: 2026-06-08
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [expression-system, subdirectory-expression-systems]
 sources: [doi/10.1038##s42003-021-02326-4, doi/10.1038##s41467-020-19457-7]
-verified: false
+verified: regex
 ---
 
 # LEXSY Leishmania tarentolae Expression System

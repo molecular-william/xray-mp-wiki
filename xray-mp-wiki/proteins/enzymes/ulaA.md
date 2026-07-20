@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.2975]
-verified: regex
+verified: agent
 uniprot_id: P04637
 ---
 
@@ -40,14 +40,14 @@ UlaA is the membrane-embedded transporter component of the phosphoenolpyruvate-d
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4rp7">4RP7</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4rp9">4RP9</a></td>
       <td>1.65 A</td>
       <td>C2</td>
       <td>Full-length E. coli UlaA (residues 1-441) with C-terminal His8 tag; limited <a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> proteolysis removed C-terminal 7 residues and His8 tag during crystallization; purified in <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (DM) and crystallized with <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">NG</a> (beta-NG) additive</td>
       <td>L-Ascorbic acid (vitamin C) bound at the core-domain substrate-binding site</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4rp6">4RP6</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4rp9">4RP9</a></td>
       <td>2.35 A</td>
       <td>P2_1</td>
       <td>Full-length E. coli UlaA (residues 1-441); same construct as C2 form; crystallized with beta-NG additive</td>
@@ -98,7 +98,7 @@ UlaA is the membrane-embedded transporter component of the phosphoenolpyruvate-d
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>25 mM Tris-Cl pH 8.0, 150 mM NaCl, 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.3% NM</td>
       <td>Protein eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; concentrated for gel filtration</td>
     </tr>

@@ -1,5 +1,5 @@
 ---
-title: AEA (Anandamide / N-Arachidonoylethanolamine)
+title: "AEA (Anandamide / N-Arachidonoylethanolamine)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2015.06.002]
-verified: false
+verified: agent
 ---
 
 # AEA (Anandamide / N-Arachidonoylethanolamine)

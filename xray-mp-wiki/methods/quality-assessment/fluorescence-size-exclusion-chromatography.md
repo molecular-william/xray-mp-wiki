@@ -1,13 +1,13 @@
 ---
-title: Fluorescence Size-Exclusion Chromatography (FSEC)
+title: "Fluorescence Size-Exclusion Chromatography (FSEC)"
 created: 2026-05-29
 updated: 2026-06-16
 type: method
 category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
-sources: [doi/10.1016##j.celrep.2015.12.087, doi/10.1038##NATURE11683, doi/10.1038##NATURE12179, doi/10.1038##nature06163, doi/10.1038##nature10737, doi/10.1038##nature12357, doi/10.1038##nmeth.1251, doi/10.1073##pnas.2024651118]
-verified: false
+sources: [doi/10.1016##j.celrep.2015.12.087, doi/10.1038##NATURE11683, doi/10.1038##NATURE12179, doi/10.1038##nature06163, doi/10.1038##nature10737, doi/10.1038##nature12357, doi/10.1073##pnas.2024651118]
+verified: none
 ---
 
 # Fluorescence Size-Exclusion Chromatography (FSEC)

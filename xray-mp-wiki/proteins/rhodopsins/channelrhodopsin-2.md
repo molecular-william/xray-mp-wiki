@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.aan8862]
-verified: pdb
+verified: agent
 uniprot_id: Q8RUT8
 ---
 
@@ -85,14 +85,14 @@ basis for ion conduction and gating regulation.
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> / HisPur Cobalt Resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) / HisPur Cobalt Resin</td>
       <td>—</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 0.2 M NaCl, 0.2 M L-Histidine, 2 mM 6-aminohexanoic acid, cOmplete protease inhibitor + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
       <td>—</td>
       <td>50 mM NaH2PO4/Na2HPO4 pH 5.2, 0.2 M NaCl, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 2 mM 6-aminohexanoic acid, cOmplete + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Fractions with A280/A470 absorbance ratio ~1.8 were pooled</td>

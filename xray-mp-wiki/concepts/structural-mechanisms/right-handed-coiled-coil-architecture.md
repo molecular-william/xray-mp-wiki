@@ -1,13 +1,13 @@
 ---
-title: Right-Handed Coiled-Coil Architecture in Rotary ATPases
+title: "Right-Handed Coiled-Coil Architecture in Rotary ATPases"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##ncomms1693, doi/10.1016##j.str.2012.08.020]
-verified: false
+verified: regex
 ---
 
 # Right-Handed Coiled-Coil Architecture in Rotary ATPases

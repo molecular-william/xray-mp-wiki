@@ -1,13 +1,13 @@
 ---
-title: Engineered Disulfide Bridge Conformational Trapping
+title: "Engineered Disulfide Bridge Conformational Trapping"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design, membrane-protein]
+tags: [concept-construct-design, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1107##s205979832001517x]
-verified: false
+verified: regex
 ---
 
 # Engineered Disulfide Bridge Conformational Trapping

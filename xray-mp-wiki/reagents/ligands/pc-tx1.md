@@ -1,5 +1,5 @@
 ---
-title: Pilidium Toxin 1 (PcTx1)
+title: "Pilidium Toxin 1 (PcTx1)"
 created: 2026-06-02
 updated: 2026-06-04
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature11375, doi/10.1038##ncomms1917]
-verified: false
+verified: regex
 ---
 
 # Pilidium Toxin 1 (PcTx1)

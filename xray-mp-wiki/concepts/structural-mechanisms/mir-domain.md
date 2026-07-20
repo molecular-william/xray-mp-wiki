@@ -1,13 +1,13 @@
 ---
-title: MIR Domain (Mannosyltransferase, IP3R, RyR)
+title: "MIR Domain (Mannosyltransferase, IP3R, RyR)"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-structural]
+tags: [concept-protein-family, concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.7554##eLife.61189]
-verified: false
+verified: none
 ---
 
 # MIR Domain (Mannosyltransferase, IP3R, RyR)

@@ -1,13 +1,13 @@
 ---
-title: Cation Diffusion Facilitator (CDF) Family
+title: "Cation Diffusion Facilitator (CDF) Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1126##science.1143748]
-verified: false
+verified: regex
 ---
 
 # Cation Diffusion Facilitator (CDF) Family

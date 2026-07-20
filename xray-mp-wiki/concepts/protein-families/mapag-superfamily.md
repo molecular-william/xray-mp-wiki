@@ -1,13 +1,13 @@
 ---
-title: MAPEG Superfamily
+title: "MAPEG Superfamily"
 created: 2026-06-08
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1073##pnas.1218504110, doi/10.1126##science.1144346, doi/10.1074##jbc.M113.534628]
-verified: false
+verified: none
 ---
 
 # MAPEG Superfamily

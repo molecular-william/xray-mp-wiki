@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1107##s1399004714017313, doi/10.1016##j.jmb.2007.11.039]
-verified: none
+verified: regex
 ---
 
 # Proton-Exit Channel
@@ -44,5 +44,5 @@ of transport.
 
 
 ## Cross-References
-- [Proton-Release Channel in Archaeal Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/proton-release-channel-archaeal-rhodopsins/) — The proton-exit channel includes the proton release complex mechanism
+- [Proton-Release Channel in Archaeal Rhodopsins](/xray-mp-wiki/concepts/transport-mechanisms/proton-release-channel-archaeal-rhodopsins/) — The proton-exit channel includes the proton release complex mechanism
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Model system for studying the proton-exit channel in light-driven proton pumps

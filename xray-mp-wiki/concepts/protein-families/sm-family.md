@@ -1,13 +1,13 @@
 ---
-title: SMR Family (Small Multidrug Resistance Family)
+title: "SMR Family (Small Multidrug Resistance Family)"
 created: 2026-06-03
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-transport-mechanism, membrane-protein]
+tags: [concept-protein-family, concept-transport-mechanism, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1038##nature17991, doi/10.1073##pnas.2403273121]
-verified: false
+verified: regex
 ---
 
 # SMR Family (Small Multidrug Resistance Family)

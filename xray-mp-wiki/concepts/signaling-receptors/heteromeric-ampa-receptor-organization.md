@@ -1,13 +1,13 @@
 ---
-title: Heteromeric AMPA Receptor Organization
+title: "Heteromeric AMPA Receptor Organization"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1126##science.aad3873]
-verified: false
+verified: regex
 ---
 
 # Heteromeric AMPA Receptor Organization

@@ -1,5 +1,5 @@
 ---
-title: L-Methionine
+title: "L-Methionine"
 created: 2026-05-28
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.str.2013.01.006]
-verified: false
+verified: regex
 ---
 
 # L-Methionine

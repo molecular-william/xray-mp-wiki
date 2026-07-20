@@ -1,5 +1,5 @@
 ---
-title: EMPA (N-ethyl-2-[(6-methoxy-pyridin-3-yl)-(toluene-2-sulfonyl)-amino]-N-pyridin-3-yl-methyl)
+title: "EMPA (N-ethyl-2-[(6-methoxy-pyridin-3-yl)-(toluene-2-sulfonyl)-amino]-N-pyridin-3-yl-methyl)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.str.2017.11.005, doi/10.1016##j.str.2022.11.001]
-verified: false
+verified: regex
 ---
 
 # EMPA (N-ethyl-2-[(6-methoxy-pyridin-3-yl)-(toluene-2-sulfonyl)-amino]-N-pyridin-3-yl-methyl)

@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [transporter, porin, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2017.03.019, doi/10.1038##s41564-017-0046-x]
-verified: regex
-uniprot_id: A0A0W8AQT6
+verified: agent
+uniprot_id: P02931
 ---
 
 # E. coli MlaA Outer Membrane Lipoprotein
@@ -16,9 +16,9 @@ uniprot_id: A0A0W8AQT6
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/A0A0W8AQT6">UniProt: A0A0W8AQT6</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P02931">UniProt: P02931</a>
 
-<span class="expr-badge">Klebsiella pneumoniae</span>
+<span class="expr-badge">Escherichia coli</span>
 
 ## Overview
 
@@ -96,14 +96,14 @@ MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membr
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5nup">5NUP</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5nuo">5NUO</a></td>
       <td>3.0</td>
       <td>Not specified</td>
       <td>Klebsiella pneumoniae MlaA (KpMlaA) in complex with E. coli OmpF trimer, full-length mature protein</td>
       <td>none</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5nuq">5NUQ</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5nuo">5NUO</a></td>
       <td>Not specified</td>
       <td>Not specified</td>
       <td>Serratia marcescens MlaA (SmMlaA) in complex with E. coli OmpF trimer, full-length mature protein</td>
@@ -150,14 +150,14 @@ MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membr
       <td>Membrane solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> buffered saline pH 7.5, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.5% DM + 0.5% DDM (for KpMlaA-syn), 1% DDM (for native complexes)</td>
+      <td><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> buffered saline pH 7.5, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (for KpMlaA-syn), 1% DDM (for native complexes)</td>
       <td>Stirred 1 hr at 4 C</td>
     </tr>
     <tr>
       <td>Nickel affinity chromatography</td>
-      <td>Ni-NTA</td>
-      <td>Ni-NTA (Qiagen)</td>
-      <td><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> buffered saline pH 7.5, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.15% DDM, 25 mM imidazole (wash), 250 mM imidazole (elution)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> buffered saline pH 7.5, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.15% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 25 mM imidazole (wash), 250 mM imidazole (elution)</td>
       <td>MlaA-OmpF complex eluted as stable complex</td>
     </tr>
     <tr>
@@ -165,14 +165,14 @@ MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membr
       <td>Amicon Ultra-15 concentrator (100 kDa cutoff)</td>
       <td>—</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.4% C8E4</td>
-      <td>For KpMlaA; SmMlaA further purified by SEC</td>
+      <td>For KpMlaA; SmMlaA further purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography (SmMlaA only)</td>
-      <td>HiLoad 26/600 Superdex 200</td>
+      <td>HiLoad 26/600 <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>—</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.4% C6H12</td>
-      <td>SmMlaA-OmpF complex purified by SEC</td>
+      <td>SmMlaA-OmpF complex purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>
@@ -236,7 +236,7 @@ the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) M
 ### Non-essential but critical for outer membrane integrity
 
 While individual MCE system components are non-essential for E. coli growth in rich
-media, mutations in mla genes result in increased sensitivity to [SDS](/xray-mp-wiki/reagents/additives/sds/) and [EDTA](/xray-mp-wiki/reagents/additives/edta/),
+media, mutations in mla genes result in increased sensitivity to [SDS](/xray-mp-wiki/reagents/detergents/sds/) and [EDTA](/xray-mp-wiki/reagents/additives/edta/),
 indicative of [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) defects. The MlaA-OmpC/OmpF complex is required for
 the complete Mla system to function, and its disruption leads to accumulation of
 phospholipids in the outer leaflet of the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/), disrupting [lipid asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/).

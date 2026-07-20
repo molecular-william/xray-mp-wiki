@@ -1,5 +1,5 @@
 ---
-title: Size-Exclusion Chromatography
+title: "Size-Exclusion Chromatography"
 created: 2026-05-04
 updated: 2026-06-08
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [purification-size-exclusion, subdirectory-purification]
 sources: [doi/10.1074##jbc.M113.534628, doi/10.1074##jbc.M114.622688, doi/10.1038##NATURE06717, doi/10.1002##1873-3468.14136, doi/10.1002##anie.202115545, doi/10.1016##j.cell.2010.05.003, doi/10.1016##J.FEBSLET.2005.09.061, doi/10.1016##j.str.2016.04.003, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##NATURE13293, doi/10.1038##nature12232, doi/10.1038##nature13306, doi/10.1038##ncomms3911, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109, doi/10.15252##embj.201489367, doi/10.15252##embj.201593285, doi/10.15252##embj.2020105164, doi/10.1126##science.1222505, doi/10.1128##mBio.03277-19]
-verified: false
+verified: none
 ---
 
 # Size-Exclusion Chromatography

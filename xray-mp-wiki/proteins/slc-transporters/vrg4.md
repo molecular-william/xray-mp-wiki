@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature24464, doi/10.1038##s41467-019-12673-w]
-verified: regex
+verified: agent
 uniprot_id: P40107
 ---
 
@@ -103,15 +103,15 @@ Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport
     <tr>
       <td>Affinity chromatography</td>
       <td>Immobilized metal-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta)</td>
       <td>-- + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>Standard <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a> protocols</td>
+      <td>Standard <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a> protocols</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> (10/300) <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> column</td>
-      <td>-- + 0.3% DM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> (10/300) <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) column</td>
+      <td>-- + 0.3% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Detergent exchanged for reconstitution</td>
     </tr>
   </tbody>

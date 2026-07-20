@@ -1,13 +1,13 @@
 ---
-title: Potassium Counter-Transport in P-type ATPases
+title: "Potassium Counter-Transport in P-type ATPases"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature07939]
-verified: false
+verified: regex
 ---
 
 # Potassium Counter-Transport in P-type ATPases

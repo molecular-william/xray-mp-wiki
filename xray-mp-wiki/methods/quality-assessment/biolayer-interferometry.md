@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1016##j.cell.2017.03.019]
-verified: none
+verified: regex
 ---
 
 # Biolayer Interferometry (BLI)

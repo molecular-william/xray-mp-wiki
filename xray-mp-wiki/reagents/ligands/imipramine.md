@@ -1,5 +1,5 @@
 ---
-title: Imipramine
+title: "Imipramine"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature06038]
-verified: false
+verified: agent
 ---
 
 # Imipramine

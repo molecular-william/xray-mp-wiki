@@ -1,5 +1,5 @@
 ---
-title: Fab21 Antibody Fragment
+title: "Fab21 Antibody Fragment"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1038##nature08201]
-verified: false
+verified: regex
 ---
 
 # Fab21 Antibody Fragment

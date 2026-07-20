@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [crystallization-vapor-diffusion, subdirectory-crystallization]
 sources: [doi/10.1107##s2052252519007395]
-verified: none
+verified: regex
 ---
 
 # Fixed-Target Serial Crystallography (On-Chip Crystallization)

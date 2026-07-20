@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1107##s1399004715000978, doi/10.1002##pro.2387, doi/10.1126##science.1168750, doi/10.1126##sciadv.1600001, doi/10.1107##S2052252520005709]
-verified: regex
+verified: agent
 uniprot_id: P21447
 ---
 
@@ -26,7 +26,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 
 ## Publications
 
-### doi/10.1107##s1399004715000978
+### doi/10.1107/S1399004715000978
 
 **Structures:**
 
@@ -41,35 +41,35 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4q9h">4Q9H</a></td>
-      <td>3.4 A</td>
+      <td>3.4</td>
       <td>P2_12_12_1</td>
       <td>Mouse P-gp/Mdr1a (ABCB1), reductively methylated, C-terminal His6 tag</td>
       <td>None (drug-free, apo)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4q9i">4Q9I</a></td>
-      <td>3.8 A</td>
+      <td>3.8</td>
       <td>P2_12_12_1</td>
       <td>Mouse P-gp/Mdr1a cocrystallized with QZ-Ala</td>
       <td>QZ-Ala (Se-labeled homotrimeric cyclopeptide)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4q9j">4Q9J</a></td>
-      <td>3.6 A</td>
+      <td>3.6</td>
       <td>P2_12_12_1</td>
       <td>Mouse P-gp/Mdr1a cocrystallized with QZ-Val</td>
       <td>QZ-Val (Se-labeled homotrimeric cyclopeptide, formerly QZ59-SSS)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4q9k">4Q9K</a></td>
-      <td>3.8 A</td>
+      <td>3.8</td>
       <td>P2_12_12_1</td>
       <td>Mouse P-gp/Mdr1a cocrystallized with QZ-Leu</td>
       <td>QZ-Leu (Se-labeled homotrimeric cyclopeptide)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4q9l">4Q9L</a></td>
-      <td>3.8 A</td>
+      <td>3.8</td>
       <td>P2_12_12_1</td>
       <td>Mouse P-gp/Mdr1a cocrystallized with QZ-Phe</td>
       <td>QZ-Phe (Se-labeled homotrimeric cyclopeptide)</td>
@@ -103,13 +103,13 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA Superflow</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow</td>
       <td>20 mM HEPES pH 8.0, 100 mM NaCl, 0.2 mM TCEP, 0.04% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a>, 0.065% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
       <td>Protein eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60</td>
       <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.2 mM TCEP, 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a>, 0.035% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Followed by reductive methylation (borane dimethylamine/formaldehyde) for crystallography</td>
@@ -1409,7 +1409,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 </div>
 
 </div>
-### doi/10.1002##pro.2387
+### doi/10.1002/pro.2387
 
 **Structures:**
 
@@ -1424,28 +1424,28 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3g5u">3G5U</a></td>
-      <td>3.8 A</td>
+      <td>3.8</td>
       <td>C2</td>
       <td>Mouse P-gp (ABCB1a), original structure by MAD phasing</td>
       <td>None (drug-free)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4m1m">4M1M</a></td>
-      <td>3.8 A</td>
+      <td>3.8</td>
       <td>C2</td>
       <td>Mouse P-gp, improved model with corrected TM registry</td>
       <td>None (drug-free)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4m2s">4M2S</a></td>
-      <td>4.4 A</td>
+      <td>4.4</td>
       <td>C2</td>
       <td>Mouse P-gp cocrystallized with QZ59-RRR</td>
       <td>QZ59-RRR (cyclic hexapeptide, selenium-labeled)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4m2t">4M2T</a></td>
-      <td>4.35 A</td>
+      <td>4.35</td>
       <td>C2</td>
       <td>Mouse P-gp cocrystallized with QZ59-SSS</td>
       <td>QZ59-SSS (cyclic hexapeptide, selenium-labeled)</td>
@@ -2488,7 +2488,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 </div>
 
 </div>
-### doi/10.1126##science.1168750
+### doi/10.1126/science.1168750
 
 **Structures:**
 
@@ -2503,21 +2503,21 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3gsu">3GSU</a></td>
-      <td>3.8 A</td>
+      <td>3.8</td>
       <td>C2</td>
       <td>Mouse P-gp (ABCB1a), drug-free inward-facing conformation</td>
       <td>None (drug-free)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3g60">3G60</a></td>
-      <td>4.4 A</td>
+      <td>4.4</td>
       <td>C2</td>
       <td>Mouse P-gp cocrystallized with QZ59-RRR</td>
       <td>QZ59-RRR (cyclic hexapeptide)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3g61">3G61</a></td>
-      <td>4.35 A</td>
+      <td>4.35</td>
       <td>C2</td>
       <td>Mouse P-gp cocrystallized with QZ59-SSS</td>
       <td>QZ59-SSS (cyclic hexapeptide)</td>
@@ -3082,7 +3082,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 </div>
 
 </div>
-### doi/10.1126##sciadv.1600001
+### doi/10.1126/sciadv.1600001
 
 **Structures:**
 
@@ -3097,7 +3097,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xwk">4XWK</a></td>
-      <td>3.5 A</td>
+      <td>3.5</td>
       <td>P2_12_12_1</td>
       <td>Mouse P-gp N83Q/N87Q/N90Q mutant, expressed in P. pastoris</td>
       <td>PBDE-100</td>
@@ -3375,7 +3375,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6unj">6UNJ</a></td>
-      <td>3.98 A</td>
+      <td>3.98</td>
       <td>P2_12_12_1</td>
       <td>Mouse P-gp C952A mutant (parent control)</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/bde-100/">BDE-100 (2,2',4,4'-Tetrabromodiphenyl Ether)</a></td>

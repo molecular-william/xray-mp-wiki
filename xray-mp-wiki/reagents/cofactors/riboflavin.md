@@ -1,5 +1,5 @@
 ---
-title: Riboflavin (Vitamin B2)
+title: "Riboflavin (Vitamin B2)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [cofactor, subdirectory-cofactors]
 sources: [doi/10.1038##nature09488]
-verified: true
+verified: agent
 ---
 
 # Riboflavin (Vitamin B2)

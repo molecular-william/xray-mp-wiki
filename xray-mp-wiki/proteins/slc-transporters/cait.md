@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.1788, doi/10.1038##NATURE09310, doi/10.1073##pnas.1309071110]
-verified: regex
+verified: agent
 uniprot_id: ['B4EY22', 'P31553']
 ---
 
@@ -78,14 +78,14 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
       <td>Detergent solubilization</td>
       <td>not applicable</td>
       <td>not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (1% w/v)</td>
-      <td>Membranes solubilized with 1% (w/v) n-dodecyl beta-D-maltoside (DDM)</td>
+      <td>Membranes solubilized with 1% (w/v) n-dodecyl beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
     </tr>
     <tr>
       <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (first pass)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>GFP-CaiT eluted from <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column; contains C-terminal GFP-His10 tag</td>
+      <td>GFP-CaiT eluted from <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) column; contains C-terminal GFP-His10 tag</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease cleavage</td>
@@ -96,17 +96,17 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
     </tr>
     <tr>
       <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (second pass)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>not specified + not specified</td>
       <td>Second Ni-column separates CaiT from <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a>-His and GFP-His; CaiT flows through</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL column (GE Healthcare)</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>-NaOH pH 7.5, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> purification; concentrated to 10 mg/ml using 100-kDa Amicon Ultra-4 tube at 4 C</td>
+      <td>Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) purification; concentrated to 10 mg/ml using 100-kDa Amicon Ultra-4 tube at 4 C</td>
     </tr>
   </tbody>
 </table>

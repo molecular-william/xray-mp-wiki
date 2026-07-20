@@ -94,13 +94,13 @@ ions, potentially increasing net ammonia permeation.
     <tr>
       <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>100 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> wash + 0.05% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
       <td>0.05% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td></td>

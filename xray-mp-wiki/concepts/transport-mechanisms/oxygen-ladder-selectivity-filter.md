@@ -1,13 +1,13 @@
 ---
-title: Oxygen Ladder in Selectivity Filters
+title: "Oxygen Ladder in Selectivity Filters"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature08558]
-verified: false
+verified: regex
 ---
 
 # Oxygen Ladder in Selectivity Filters

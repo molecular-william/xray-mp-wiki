@@ -1,5 +1,5 @@
 ---
-title: cis-22a (PCHPD TRPV6 Inhibitor)
+title: "cis-22a (PCHPD TRPV6 Inhibitor)"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##sciadv.abe1508]
-verified: false
+verified: regex
 ---
 
 # cis-22a (PCHPD TRPV6 Inhibitor)

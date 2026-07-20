@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##J.MOLCEL.2016.05.037]
-verified: regex
+verified: agent
 uniprot_id: ['Q37695', 'Q6C326', 'Q6C338', 'Q6C877', 'Q6CFT7']
 ---
 

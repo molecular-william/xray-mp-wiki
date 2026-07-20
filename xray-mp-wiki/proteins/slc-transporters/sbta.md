@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, transporter, xray-crystallography]
 sources: [doi/10.1073##pnas.2101632118]
-verified: regex
+verified: agent
 uniprot_id: ['P73953', 'P73954']
 ---
 
@@ -96,9 +96,9 @@ SbtA is a high-affinity, sodium-dependent bicarbonate (HCO3-) transporter found 
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>100 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 0.18% DM, 2 mM AMP + 0.18% DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">n-Decyl-β-D-maltoside</a>)</td>
+      <td>100 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 0.18% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 2 mM AMP + 0.18% DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">n-Decyl-β-D-maltoside</a>)</td>
       <td>Peak fractions concentrated to ~5 mg/mL for crystallization</td>
     </tr>
   </tbody>

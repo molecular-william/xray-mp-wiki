@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1215759]
-verified: regex
+verified: agent
 uniprot_id: Q57556
 ---
 
@@ -89,7 +89,7 @@ NCX_Mj is a sodium/calcium exchanger (NCX) from the archaeon Methanococcus janna
       <td>Not detailed in main text</td>
       <td>—</td>
       <td></td>
-      <td>Purification details in Supporting Online Material. Protein used for both LCP and conventional crystallization.</td>
+      <td>Purification details in Supporting Online Material. Protein used for both <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> and conventional crystallization.</td>
     </tr>
   </tbody>
 </table>

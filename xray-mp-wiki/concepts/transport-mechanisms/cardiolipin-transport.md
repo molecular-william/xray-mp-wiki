@@ -1,13 +1,13 @@
 ---
-title: Cardiolipin Transport in Gram-Negative Bacteria
+title: "Cardiolipin Transport in Gram-Negative Bacteria"
 created: 2026-06-08
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##srep30815, doi/10.1128##mBio.03277-19]
-verified: false
+verified: none
 ---
 
 # Cardiolipin Transport in Gram-Negative Bacteria

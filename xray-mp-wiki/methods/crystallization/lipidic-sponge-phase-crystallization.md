@@ -1,13 +1,13 @@
 ---
-title: Lipidic Sponge Phase Crystallization
+title: "Lipidic Sponge Phase Crystallization"
 created: 2026-06-16
 updated: 2026-06-16
 type: method
 category: methods
 layout: default
 tags: [crystallization-lcp, subdirectory-crystallization]
-sources: [doi/10.1021##bi900545e, doi/10.1038##nature09410, doi/10.1038##ncomms3911, doi/10.1073##pnas.1213006109, doi/10.1107##s2052252520012142, doi/10.1107##s2052252521013178]
-verified: false
+sources: [doi/10.1021##bi900545e, doi/10.1038##ncomms3911, doi/10.1107##s2052252520012142, doi/10.1107##s2052252521013178]
+verified: regex
 ---
 
 # Lipidic Sponge Phase Crystallization

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # Ryanodine Receptor Type 3 (RyR3)

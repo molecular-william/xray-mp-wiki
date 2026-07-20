@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature22309]
-verified: regex
+verified: agent
 uniprot_id: ['O35433', 'P0CH43']
 ---
 
@@ -39,7 +39,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5irv">5IRV</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ndd">5NDD</a></td>
       <td>2.80</td>
       <td>P1</td>
       <td>Human PAR2-StaR (nine thermostabilizing mutations: G89A, H108A, G157A, M166L, Y174A, V176E, M268A, I289A, T293A) with N-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> (residues 1-54 replaced by T4 lysozyme inserted before F58), ICL3 cytochrome b562RIL insertion (between L269 and E276), glycosylation mutation N222Q, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> after K377, C-terminal His6 tag. Bound to antagonist <a href="/xray-mp-wiki/reagents/ligands/az8838/">AZ8838 (PAR2 Antagonist)</a>.
@@ -47,7 +47,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
       <td><a href="/xray-mp-wiki/reagents/ligands/az8838/">AZ8838 (PAR2 Antagonist)</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5irw">5IRW</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ndd">5NDD</a></td>
       <td>3.59</td>
       <td>P1</td>
       <td>Same PAR2-StaR <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> fusion construct as above. Bound to antagonist <a href="/xray-mp-wiki/reagents/ligands/az3451/">AZ3451 (PAR2 Antagonist)</a>.
@@ -55,7 +55,7 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
       <td><a href="/xray-mp-wiki/reagents/ligands/az3451/">AZ3451 (PAR2 Antagonist)</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5irx">5IRX</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ndd">5NDD</a></td>
       <td>4.00</td>
       <td>P212121</td>
       <td>Human PAR2-StaR (nine thermostabilizing mutations) with N-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> (residues 1-54 removed, first residue V55), ICL3 cytochrome b562RIL insertion (between L269 and E276), glycosylation mutation N222Q, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> after K377, C-terminal His6 tag (PAR2-StaR NDelta54/CDelta20 N222Q b562RIL-C04). Bound to weak antagonist AZ7188 and Fab fragment of <a href="/xray-mp-wiki/reagents/antibodies/mab3949/">MAB3949 Monoclonal Antibody (PAR2-specific)</a> blocking antibody.

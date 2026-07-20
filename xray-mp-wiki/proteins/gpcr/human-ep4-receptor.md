@@ -1,13 +1,13 @@
 ---
 title: "Human Prostaglandin E Receptor EP4"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41589-018-0131-3]
-verified: regex
+verified: agent
 uniprot_id: P35408
 ---
 
@@ -41,14 +41,14 @@ The prostaglandin E2 receptor EP4 (EP4) is a class A G protein-coupled receptor 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ywy">5YWY</a></td>
-      <td>3.2 A</td>
+      <td>3.2</td>
       <td>C2221</td>
       <td>Human EP4 with ICL3 deletion (residues 243-263 replaced by GG), thermostabilizing mutations A62L (2.47) and G106R (3.39), N-terminal HA signal peptide and <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>, C-terminal octa-histidine tag, complexed with Fab001 antibody fragment</td>
       <td>ONO-AE3-208 (antagonist)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5yfi">5YFI</a></td>
-      <td>1.85 A</td>
+      <td>1.85</td>
       <td>P212121</td>
       <td>Fab001 antibody fragment alone</td>
       <td>--</td>
@@ -88,8 +88,8 @@ The prostaglandin E2 receptor EP4 (EP4) is a class A G protein-coupled receptor 
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td></td>
       <td>C-terminal octa-histidine tag used for affinity capture</td>
     </tr>

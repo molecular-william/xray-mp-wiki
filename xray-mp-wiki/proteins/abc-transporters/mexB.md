@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##J.JMB.2009.04.001, doi/10.1038##nature12300]
-verified: regex
+verified: agent
 uniprot_id: P52002
 ---
 
@@ -70,28 +70,28 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
       <td>Cell lysis</td>
       <td><a href="/xray-mp-wiki/methods/cell-lysis/french-press/">French press</a></td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, <a href="/xray-mp-wiki/reagents/additives/dnase/">DNase</a> I, complete protease inhibitor cocktail + --</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, <a href="/xray-mp-wiki/reagents/additives/dnase/">DNase</a> I, complete protease inhibitor cocktail + --</td>
       <td>Membranes collected by centrifugation at 100,000g for 1 h</td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 1% (wt/vol) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (D310LA Anagrade; Anatrace)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 1% (wt/vol) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (D310LA Anagrade; Anatrace)</td>
       <td>Solubilized for 2 h at 4 deg.C; insoluble material removed by centrifugation at 100,000g for 1 h</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity column (Qiagen)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (equilibration); 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (wash); 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (elution) + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/))</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity column (Qiagen)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (equilibration); 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (wash); 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (elution) + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td><a href="/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/">C-terminal</a> <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">hexahistidine</a> tag purification; column equilibrated with buffer A containing 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
       <td>Tricorn <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column (Amersham Biosciences)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Further purification and buffer exchange for crystallization</td>
     </tr>
   </tbody>
@@ -107,7 +107,7 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>-purified MexB in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; concentrated prior to crystallization</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>-purified MexB in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; concentrated prior to crystallization</td>
     </tr>
     <tr>
       <td>Reservoir</td>
@@ -938,28 +938,28 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
   </tr></thead>
   <tbody>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3w9h">3W9H</a></td>
       <td>3.15 A</td>
       <td>P1</td>
       <td>MexB from P. aeruginosa with <a href="/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/">C-terminal</a> polyhistidine tag, complexed with <a href="/xray-mp-wiki/reagents/ligands/abi-pp">ABI-PP</a> inhibitor</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/abi-pp">ABI-PP</a> (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine)</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3w9h">3W9H</a></td>
       <td>2.70 A</td>
       <td>P1</td>
       <td>Drug-free MexB from P. aeruginosa with <a href="/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/">C-terminal</a> polyhistidine tag</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (n-dodecyl-beta-D-maltoside) bound in distal pocket</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3w9h">3W9H</a></td>
       <td>3.30 A</td>
       <td>P1</td>
       <td>Drug-free MexB(F178W) mutant with <a href="/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/">C-terminal</a> polyhistidine tag</td>
       <td>None (drug-free)</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3w9h">3W9H</a></td>
       <td>3.00 A</td>
       <td>P1</td>
       <td>MexB(F178W) mutant with <a href="/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/">C-terminal</a> polyhistidine tag, complexed with <a href="/xray-mp-wiki/reagents/ligands/abi-pp">ABI-PP</a> inhibitor</td>
@@ -995,21 +995,21 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
       <td>Solubilization</td>
       <td>Membrane solubilization</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> (pH 7.5), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (D316, Dojindo)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> (pH 7.5), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (D316, Dojindo)</td>
       <td>Membrane fractions solubilized in 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; solubilized mixture centrifuged for 1 h at 172,000g</td>
     </tr>
     <tr>
       <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (Ni Sepharose Fast Flow)</td>
       <td>Ni Sepharose Fast Flow (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> (pH 7.5), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (equilibration); 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (wash); 140 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (wash); 350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (elution) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> (pH 7.5), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (equilibration); 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (wash); 140 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (wash); 350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (elution) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Column pre-equilibrated with buffer A containing 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; washed with 25 mM and 140 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>; MexB eluted with 350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a></td>
     </tr>
     <tr>
       <td>Concentration and buffer exchange</td>
       <td>Concentration-dilution using Amicon stirred cell (Model 8010, Millipore)</td>
       <td>--</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> (pH 7.5), 50 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> (pH 7.5), 50 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Three concentration-dilution steps; final protein concentration approximately 30 mg/mL</td>
     </tr>
   </tbody>

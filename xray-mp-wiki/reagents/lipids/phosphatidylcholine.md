@@ -1,5 +1,5 @@
 ---
-title: Phosphatidylcholine
+title: "Phosphatidylcholine"
 created: 2026-05-29
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1038##35015017, doi/10.1038##nature13419, doi/10.1038##ncomms9004]
-verified: false
+verified: agent
 ---
 
 # Phosphatidylcholine

@@ -1,5 +1,5 @@
 ---
-title: Magnesium Sulfate (MgSO4)
+title: "Magnesium Sulfate (MgSO4)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##nature11900]
-verified: false
+verified: regex
 ---
 
 # Magnesium Sulfate (MgSO4)

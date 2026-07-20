@@ -1,5 +1,5 @@
 ---
-title: Polyethylene Glycol 4000 (PEG 4000)
+title: "Polyethylene Glycol 4000 (PEG 4000)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1038##nature05076]
-verified: false
+verified: regex
 ---
 
 # Polyethylene Glycol 4000 (PEG 4000)

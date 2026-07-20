@@ -1,13 +1,13 @@
 ---
-title: NPC1-C Luminal Domain
+title: "NPC1-C Luminal Domain"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-functional, membrane-protein, xray-crystallography]
+tags: [concept-protein-family, concept-functional, membrane-protein, xray-crystallography, subdirectory-structural-mechanisms]
 sources: [doi/10.1107##s2053230x23000705, doi/10.1073##pnas.1711716114]
-verified: false
+verified: regex
 ---
 
 # NPC1-C Luminal Domain

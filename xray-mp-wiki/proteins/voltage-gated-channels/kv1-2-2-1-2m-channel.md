@@ -1,13 +1,13 @@
 ---
 title: "Kv1.2-2.1-2m Chimeric Channel (W362F, S367T)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##sciadv.abm8804]
-verified: regex
+verified: agent
 uniprot_id: ['P62483', 'P63142']
 ---
 
@@ -41,7 +41,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7siz">7SIZ</a></td>
-      <td>Not specified (∼3.5 A range)</td>
+      <td>3.5</td>
       <td>—</td>
       <td>Kv1.2-2.1 chimera with W362F, S367T, co-expressed with rat Kv beta2 subunit</td>
       <td>K+</td>

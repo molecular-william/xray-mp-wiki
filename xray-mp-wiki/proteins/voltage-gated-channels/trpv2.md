@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41594-018-0059-z]
-verified: regex
+verified: agent
 uniprot_id: G1SNM3
 ---
 
@@ -89,26 +89,26 @@ TRPV2 is a transient receptor potential vanilloid channel belonging to the TRPV 
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>--</td>
-      <td>Buffer A supplemented with 40 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> and 4 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 40 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 4 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Buffer A supplemented with 40 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> and 4 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 40 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 4 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>1 hour at 4°C. Insoluble material removed by centrifugation (8,000g, 30 min).</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Anti-FLAG resin</td>
+      <td>Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> resin</td>
       <td><a href="/xray-mp-wiki/reagents/antibodies/anti-flag/">Anti-FLAG</a> resin</td>
-      <td>Buffer B (50 mM TRIS pH 8, 150 mM NaCl, 2 mM CaCl₂, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.1 mg/ml <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>) + 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Wash with Buffer B, elute with Buffer C containing 0.1 mg/ml FLAG peptide</td>
+      <td>Buffer B (50 mM TRIS pH 8, 150 mM NaCl, 2 mM CaCl₂, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.1 mg/ml <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>) + 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Wash with Buffer B, elute with Buffer C containing 0.1 mg/ml <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide</td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
       <td><a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> cleavage</td>
       <td>--</td>
-      <td>50 mM TRIS pH 8, 150 mM NaCl, 2 mM CaCl₂, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.1 mg/ml <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 3 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a> + 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM TRIS pH 8, 150 mM NaCl, 2 mM CaCl₂, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.1 mg/ml <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 3 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a> + 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Overnight incubation at 4°C with <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> and 3 mM TCEP</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superose-6/">Superose 6</a> column (GE Healthcare)</td>
       <td>-- + --</td>
       <td>Protein peak collected and concentrated to 8-10 mg/ml</td>

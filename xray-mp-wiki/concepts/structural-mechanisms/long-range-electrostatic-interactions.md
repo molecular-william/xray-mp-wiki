@@ -28,6 +28,6 @@ Long-range electrostatic interactions propagate through the low-dielectric envir
 
 
 ## Cross-References
-- [Electrostatic Gating in Sodium Pump](/xray-mp-wiki/concepts/structural-mechanisms/electrostatic-gating-sodium-pump/) — Long-range electrostatic interactions control ion access in P-type ATPases
-- [Selectivity Filter](/xray-mp-wiki/concepts/structural-mechanisms/selectivity-filter/) — Electrostatic interactions within the selectivity filter determine ion selectivity
+- [Electrostatic Gating in Sodium Pump](/xray-mp-wiki/concepts/transport-mechanisms/electrostatic-gating-sodium-pump/) — Long-range electrostatic interactions control ion access in P-type ATPases
+- [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — Electrostatic interactions within the selectivity filter determine ion selectivity
 - [Intramolecular Salt Bridge](/xray-mp-wiki/concepts/structural-mechanisms/intramolecular-salt-bridge/) — Salt bridges are the strongest form of electrostatic interaction in proteins

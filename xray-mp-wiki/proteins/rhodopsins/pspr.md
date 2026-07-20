@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jbc.2022.101722]
-verified: regex
+verified: agent
 uniprot_id: A0A8X6EH36
 ---
 
@@ -76,21 +76,21 @@ PspR is a light-driven outward proton-pumping microbial rhodopsin from Pseudomon
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>50 mM MES-NaOH pH 6.5, 300 mM NaCl, 5 mM imidazole, 5 mM MgCl2 + 3% n-dodecyl-beta-D-maltopyranoside (DDM)</td>
+      <td>50 mM MES-NaOH pH 6.5, 300 mM NaCl, 5 mM imidazole, 5 mM MgCl2 + 3% n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Insoluble fractions removed by ultracentrifugation at 142,000g for 1 h</td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td>Co-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>HiTrap TALON crude</td>
-      <td>50 mM Tris-HCl pH 7.0, 300 mM NaCl, 300 mM imidazole, 5 mM MgCl2, 0.1% DDM + 0.1% DDM</td>
-      <td>Wash with 50 mM MES-NaOH pH 6.5, 300 mM NaCl, 50 mM imidazole, 0.1% DDM; elution with 300 mM imidazole</td>
+      <td>HiTrap <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> crude</td>
+      <td>50 mM Tris-HCl pH 7.0, 300 mM NaCl, 300 mM imidazole, 5 mM MgCl2, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Wash with 50 mM MES-NaOH pH 6.5, 300 mM NaCl, 50 mM imidazole, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; elution with 300 mM imidazole</td>
     </tr>
     <tr>
       <td>Dialysis</td>
       <td>Dialysis</td>
       <td>--</td>
-      <td>20 mM Hepes-NaOH pH 7.0, 100 mM NaCl, 0.05% DDM + 0.05% DDM</td>
+      <td>20 mM Hepes-NaOH pH 7.0, 100 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Dialysis to remove imidazole; final concentration 34 mg/ml protein for crystallization</td>
     </tr>
   </tbody>

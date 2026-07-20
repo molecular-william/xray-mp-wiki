@@ -1,13 +1,13 @@
 ---
-title: Acetate Buffer (Sodium Acetate)
+title: "Acetate Buffer (Sodium Acetate)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
 tags: [buffer-acetate, subdirectory-buffers]
-sources: [doi/10.1016##j.jmb.2013.01.029, doi/10.1016##j.jmb.2018.02.026, doi/10.1038##emboj.2013.17, doi/10.1038##NSMB.1678, doi/10.1038##ncomms8995, doi/10.1038##ncomms9004, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109, doi/10.1371##journal.pbio.1000443]
-verified: false
+sources: [doi/10.1016##j.jmb.2018.02.026, doi/10.1038##emboj.2013.17, doi/10.1038##NSMB.1678, doi/10.1038##ncomms8995, doi/10.1038##ncomms9004, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109, doi/10.1371##journal.pbio.1000443]
+verified: none
 ---
 
 # Acetate Buffer (Sodium Acetate)

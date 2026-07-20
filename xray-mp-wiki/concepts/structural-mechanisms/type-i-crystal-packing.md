@@ -1,13 +1,13 @@
 ---
-title: Type I Crystal Packing
+title: "Type I Crystal Packing"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, subdirectory-concepts]
+tags: [concept-crystallography-principle, subdirectory-structural-mechanisms]
 sources: [doi/10.1016##S0022-2836(03)00751-4]
-verified: false
+verified: none
 ---
 
 # Type I Crystal Packing

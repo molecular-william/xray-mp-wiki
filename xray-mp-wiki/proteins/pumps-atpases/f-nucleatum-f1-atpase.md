@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1098##rsob.190066]
-verified: pdb
-uniprot_id: Q8RGE1
+verified: agent
+uniprot_id: ['Q8RGE0', 'Q8RGE1', 'Q8RGE2', 'Q8RGE3']
 ---
 
 # F1-ATPase from Fusobacterium nucleatum
@@ -16,7 +16,7 @@ uniprot_id: Q8RGE1
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8RGE1">UniProt: Q8RGE1</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8RGE0">UniProt: Q8RGE0</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8RGE1">UniProt: Q8RGE1</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8RGE2">UniProt: Q8RGE2</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8RGE3">UniProt: Q8RGE3</a>
 
 <span class="expr-badge">Fusobacterium nucleatum subsp. nucleatum ATCC 25586</span>
 
@@ -90,7 +90,7 @@ The hydrolytic activity is likely regulated by  concentration, as in mitochondri
     <tr>
       <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>50 mM  Hcl]] pH 8.0, 100 mM NaCl, 20-250 mM , 10% , 2 mM </td>
       <td>His10-tagged <a href="/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/">F1-ATPase from Trypanosoma brucei</a> bound and eluted with  gradient</td>
     </tr>
@@ -99,7 +99,7 @@ The hydrolytic activity is likely regulated by  concentration, as in mitochondri
       <td>On-column or dialysis cleavage</td>
       <td>—</td>
       <td></td>
-      <td>His10 tag removed by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a>; further polishing by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>His10 tag removed by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a>; further polishing by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>

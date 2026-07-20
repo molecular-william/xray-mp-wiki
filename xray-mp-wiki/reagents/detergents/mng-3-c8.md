@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1021##jacs.9b02196]
-verified: false
+verified: regex
 ---
 
 # Maltose Neopentyl Glycol 3-C8 (MNG-3-C8)

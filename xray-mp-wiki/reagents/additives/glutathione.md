@@ -1,5 +1,5 @@
 ---
-title: Glutathione (GSH)
+title: "Glutathione (GSH)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1073##pnas.1218504110, doi/10.1126##science.1246489, doi/10.1126##science.1246729]
-verified: false
+verified: regex
 ---
 
 # Glutathione (GSH)

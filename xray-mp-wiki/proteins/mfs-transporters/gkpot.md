@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1301079110]
-verified: regex
+verified: agent
 uniprot_id: Q5KYD1
 ---
 
@@ -93,7 +93,7 @@ GPCR Inactive Conformation.
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-sulfate/">Nickel Sulfate (NiSO₄)</a> (NiSO₄) (NiSO₄)-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Purification to homogeneity</td>
     </tr>

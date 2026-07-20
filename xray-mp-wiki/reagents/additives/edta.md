@@ -1,5 +1,5 @@
 ---
-title: Ethylenediaminetetraacetic Acid (EDTA)
+title: "Ethylenediaminetetraacetic Acid (EDTA)"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-metal, subdirectory-additives]
 sources: [doi/10.1038##ncomms5169]
-verified: false
+verified: regex
 ---
 
 # Ethylenediaminetetraacetic Acid (EDTA)

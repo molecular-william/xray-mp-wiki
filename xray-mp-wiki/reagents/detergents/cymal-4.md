@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1038##NSMB.1678]
-verified: false
+verified: none
 ---
 
 # Cymal-4 (4-Cyclohexyl-1-butyl-beta-D-maltoside)

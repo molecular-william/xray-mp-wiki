@@ -1,13 +1,13 @@
 ---
-title: DUF3413 (PF11893) Protein Family
+title: "DUF3413 (PF11893) Protein Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1128##mBio.03277-19]
-verified: false
+verified: none
 ---
 
 # DUF3413 (PF11893) Protein Family

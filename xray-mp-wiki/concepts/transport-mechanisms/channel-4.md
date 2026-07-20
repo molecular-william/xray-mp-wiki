@@ -1,13 +1,13 @@
 ---
-title: Channel 4 (CH4) - PN2/PC1 Drug Transport Pathway in AcrB
+title: "Channel 4 (CH4) - PN2/PC1 Drug Transport Pathway in AcrB"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.jmb.2019.12.025]
-verified: false
+verified: regex
 ---
 
 # Channel 4 (CH4) - PN2/PC1 Drug Transport Pathway in AcrB

@@ -24,7 +24,7 @@ Tripartite drug efflux systems are macromolecular assemblies in Gram-negative ba
 
 ## Related Concepts
 - [RND Transporter Family](/xray-mp-wiki/concepts/protein-families/rnd-transporter-family/) — RND transporters like AcrB are the most common inner membrane component of tripartite efflux systems
-- [Multidrug Resistance](/xray-mp-wiki/concepts/structural-mechanisms/multidrug-resistance/) — Tripartite efflux systems are major contributors to multidrug resistance in Gram-negative pathogens
+- [Multidrug Resistance](/xray-mp-wiki/concepts/miscellaneous/multidrug-resistance/) — Tripartite efflux systems are major contributors to multidrug resistance in Gram-negative pathogens
 
 ## Cross-References
 - [RND Transporter Family](/xray-mp-wiki/concepts/protein-families/rnd-transporter-family/) — AcrB and MexB are members of the Resistance-Nodulation-cell Division (RND) transporter family

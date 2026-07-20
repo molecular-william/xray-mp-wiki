@@ -1,5 +1,5 @@
 ---
-title: Rimonabant
+title: "Rimonabant"
 created: 2026-05-27
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2019.01.003, doi/10.1038##nature20613]
-verified: true
+verified: agent
 ---
 
 # Rimonabant

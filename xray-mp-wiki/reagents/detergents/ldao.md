@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-zwitterionic, subdirectory-detergents, detergent-mild]
 sources: [doi/10.1107##s2059798322004144, doi/10.1126##science.280.5360.69, doi/10.1073##pnas.1403097111, doi/10.1006##jmbi.1994.0097, doi/10.1016##j.jmb.2018.02.026, doi/10.1016##j.str.2016.04.003, doi/10.1038##cr.2015.94, doi/10.1038##nature11524, doi/10.1038##nature11744, doi/10.1038##ncomms3911, doi/10.1038##nature10917]
-verified: false
+verified: regex
 ---
 
 # n-Dodecyl-N,N-dimethylamine-N-oxide (LDAO)

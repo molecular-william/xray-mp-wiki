@@ -1,5 +1,5 @@
 ---
-title: Lamotrigine
+title: "Lamotrigine"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1073##pnas.1406855111]
-verified: false
+verified: agent
 ---
 
 # Lamotrigine

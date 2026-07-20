@@ -1,5 +1,5 @@
 ---
-title: Tamoxifen
+title: "Tamoxifen"
 created: 2026-05-28
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.molcel.2020.12.048, doi/10.1038##s41467-019-10279-w]
-verified: false
+verified: agent
 ---
 
 # Tamoxifen

@@ -1,5 +1,5 @@
 ---
-title: Apelin-13
+title: "Apelin-13"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.str.2017.04.008]
-verified: true
+verified: agent
 ---
 
 # Apelin-13

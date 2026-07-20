@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
 sources: [doi/10.1038##ncomms8947]
-verified: regex
-uniprot_id: P11716
+verified: agent
+uniprot_id: E9Q401
 ---
 
 # Mouse RyR2 SPRY1 Domain
@@ -16,9 +16,9 @@ uniprot_id: P11716
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P11716">UniProt: P11716</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/E9Q401">UniProt: E9Q401</a>
 
-<span class="expr-badge">Oryctolagus cuniculus</span>
+<span class="expr-badge">Mus musculus</span>
 
 ## Overview
 

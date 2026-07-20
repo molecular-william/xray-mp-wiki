@@ -1,13 +1,13 @@
 ---
-title: Ago-Allosteric Modulator
+title: "Ago-Allosteric Modulator"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature13494]
-verified: false
+verified: regex
 ---
 
 # Ago-Allosteric Modulator

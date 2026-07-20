@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # Gs Protein Beta Subunit (Gbeta1)

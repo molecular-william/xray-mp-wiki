@@ -1,13 +1,13 @@
 ---
-title: Low-Barrier Hydrogen Bond
+title: "Low-Barrier Hydrogen Bond"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-transport-mechanism]
+tags: [concept-functional, concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s41594-022-00762-2]
-verified: false
+verified: regex
 ---
 
 # Low-Barrier Hydrogen Bond

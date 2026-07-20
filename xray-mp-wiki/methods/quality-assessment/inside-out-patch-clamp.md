@@ -1,5 +1,5 @@
 ---
-title: Inside-Out Patch Clamp Electrophysiology
+title: "Inside-Out Patch Clamp Electrophysiology"
 created: 2026-06-16
 updated: 2026-06-16
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1038##nature10370]
-verified: false
+verified: regex
 ---
 
 # Inside-Out Patch Clamp Electrophysiology

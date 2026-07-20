@@ -1,5 +1,5 @@
 ---
-title: 1,6-Hexanediol
+title: "1,6-Hexanediol"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##SJ.EMBOJ.7601028]
-verified: false
+verified: none
 ---
 
 # 1,6-Hexanediol

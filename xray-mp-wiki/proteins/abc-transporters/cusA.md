@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2009.08.029, doi/10.1038##nature09743]
-verified: regex
+verified: agent
 uniprot_id: ['P38054', 'P77239']
 ---
 
@@ -83,21 +83,21 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
       <td>Solubilization</td>
       <td>Membrane protein solubilized in 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>; insoluble material removed by ultracentrifugation at 370,000g</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>-NaOH (pH 7.5) + 1% DDM</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>-NaOH (pH 7.5) + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Ultracentrifugation at 370,000g to remove insoluble material</td>
     </tr>
     <tr>
       <td>Ni2+ affinity chromatography</td>
       <td>Ni2+-affinity column chromatography</td>
       <td>Ni2+-affinity resin</td>
-      <td>20 mM Hepes-NaOH (pH 7.5) + 1% DDM</td>
+      <td>20 mM Hepes-NaOH (pH 7.5) + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>His-tagged CusA captured on Ni2+ column</td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
       <td>G-200 sizing column chromatography</td>
-      <td>Superdex 200</td>
-      <td>20 mM Na-Hepes (pH 7.5) + 0.05% DDM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>20 mM Na-Hepes (pH 7.5) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Purity >95% by 10% SDS-PAGE stained with Coomassie Brilliant Blue; concentrated to 20 mg/ml</td>
     </tr>
   </tbody>

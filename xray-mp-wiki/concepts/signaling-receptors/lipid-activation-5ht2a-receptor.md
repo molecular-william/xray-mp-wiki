@@ -1,13 +1,13 @@
 ---
-title: Lipid Activation of 5-HT2A Receptor
+title: "Lipid Activation of 5-HT2A Receptor"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1126##science.abl8615]
-verified: false
+verified: regex
 ---
 
 # Lipid Activation of 5-HT2A Receptor

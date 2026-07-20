@@ -1,13 +1,13 @@
 ---
-title: Thermal Shift Assay (Fluorescent CPM)
+title: "Thermal Shift Assay (Fluorescent CPM)"
 created: 2026-05-29
 updated: 2026-05-29
 type: method
 category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
-sources: [doi/10.1186##s12915-021-01102-4, doi/10.1038##s41467-021-27726-2, doi/10.1016##j.str.2017.12.013, doi/10.1016##j.str.2008.04.013, doi/10.1016##j.str.2018.01.005]
-verified: false
+sources: [doi/10.1186##s12915-021-01102-4, doi/10.1038##s41467-021-27726-2, doi/10.1016##j.str.2017.12.013, doi/10.1016##j.str.2018.01.005]
+verified: regex
 ---
 
 # Thermal Shift Assay (Fluorescent CPM)

@@ -1,13 +1,13 @@
 ---
-title: Dual Drug-Binding Sites in MFS Multidrug Transporters
+title: "Dual Drug-Binding Sites in MFS Multidrug Transporters"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s42003-019-0446-y]
-verified: false
+verified: regex
 ---
 
 # Dual Drug-Binding Sites in MFS Multidrug Transporters

@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1016##j.str.2005.11.015]
-verified: regex
-uniprot_id: P54302
+verified: agent
+uniprot_id: P54300
 ---
 
 # AcrA multidrug efflux pump periplasmic protein
@@ -16,7 +16,7 @@ uniprot_id: P54302
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P54302">UniProt: P54302</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P54300">UniProt: P54300</a>
 
 <span class="expr-badge">Vibrio harveyi</span>
 
@@ -40,7 +40,7 @@ AcrA is a periplasmic membrane fusion protein from Escherichia coli that partner
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2hj9">2HJ9</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2f1m">2F1M</a></td>
       <td>2.71 A</td>
       <td>C222</td>
       <td>AcrA(45-312) quadruple methionine mutant (F223M/L224M/L287M/L288M)</td>
@@ -73,9 +73,9 @@ AcrA is a periplasmic membrane fusion protein from Escherichia coli that partner
       <td>Cytoplasmic expression of soluble <a href="/xray-mp-wiki/proteins/acra/">AcrA</a> fragment</td>
     </tr>
     <tr>
-      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a></td>
       <td>Ni2+ chelation chromatography</td>
-      <td>Poros MC (<a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a>)</td>
+      <td>Poros MC (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta))</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> (pH 8.0), 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + --</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>ged AcrA purified from soluble fraction</td>
     </tr>
@@ -88,7 +88,7 @@ AcrA is a periplasmic membrane fusion protein from Escherichia coli that partner
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a></td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> (pH 8.0) + --</td>
       <td>Purified to homogeneity, concentrated to 30 mg/mL</td>

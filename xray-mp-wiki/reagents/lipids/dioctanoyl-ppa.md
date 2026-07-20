@@ -1,5 +1,5 @@
 ---
-title: Dioctanoyl Glycerol Pyrophosphatidic Acid (PPA)
+title: "Dioctanoyl Glycerol Pyrophosphatidic Acid (PPA)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-analog, subdirectory-lipids]
 sources: [doi/10.1038##nature10370]
-verified: false
+verified: agent
 ---
 
 # Dioctanoyl Glycerol Pyrophosphatidic Acid (PPA)

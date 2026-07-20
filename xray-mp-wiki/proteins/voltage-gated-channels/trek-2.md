@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1261512, doi/10.1038##s41467-024-48536-2]
-verified: regex
+verified: agent
 uniprot_id: P57789
 ---
 
@@ -40,7 +40,7 @@ that serve as binding sites for state-dependent inhibitors including
 
 ## Publications
 
-### doi/10.1126##science.1261512
+### doi/10.1126/SCIENCE.1261512
 
 **Structures:**
 
@@ -1476,7 +1476,7 @@ that serve as binding sites for state-dependent inhibitors including
 </div>
 
 </div>
-### doi/10.1038##s41467-024-48536-2
+### doi/10.1038/s41467-024-48536-2
 
 **Structures:**
 

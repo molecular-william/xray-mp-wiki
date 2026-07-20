@@ -1,5 +1,5 @@
 ---
-title: SANT1
+title: "SANT1"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##ncomms5355]
-verified: false
+verified: agent
 ---
 
 # SANT1

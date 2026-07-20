@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.7554##ELIFE.03583]
-verified: regex
+verified: agent
 uniprot_id: Q60362
 ---
 

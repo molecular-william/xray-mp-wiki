@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-zwitterionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1016##j.jmb.2011.01.029]
-verified: false
+verified: agent
 ---
 
 # CHAPSO

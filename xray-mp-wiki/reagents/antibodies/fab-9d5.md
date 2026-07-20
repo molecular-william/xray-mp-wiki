@@ -1,5 +1,5 @@
 ---
-title: Fab 9D5
+title: "Fab 9D5"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-antibody, subdirectory-antibodies]
 sources: [doi/10.1038##nsmb.3029, doi/10.1038##nsmb.1662]
-verified: false
+verified: regex
 ---
 
 # Fab 9D5

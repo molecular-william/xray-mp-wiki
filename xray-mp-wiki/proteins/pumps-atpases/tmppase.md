@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, enzyme, membrane-protein]
 sources: [doi/10.1038##ncomms13596, doi/10.1126##science.1222505]
-verified: regex
+verified: agent
 uniprot_id: Q9S5X0
 ---
 
@@ -25,7 +25,7 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
 
 ## Publications
 
-### doi/10.1038##ncomms13596
+### doi/10.1038/ncomms13596
 
 **Structures:**
 
@@ -39,28 +39,28 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
   </tr></thead>
   <tbody>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gpj">5GPJ</a></td>
       <td>Not specified (supplementary only)</td>
       <td>Not specified (supplementary only)</td>
       <td></td>
       <td><a href="/xray-mp-wiki/reagents/ligands/idp/">IDP</a> (inositol pyrophosphate)</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gpj">5GPJ</a></td>
       <td>Not specified (supplementary only)</td>
       <td>Not specified (supplementary only)</td>
       <td></td>
       <td>Ca:Mg</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gpj">5GPJ</a></td>
       <td>Not specified (supplementary only)</td>
       <td>Not specified (supplementary only)</td>
       <td></td>
       <td>WO4 (<a href="/xray-mp-wiki/reagents/ligands/tungstate/">Tungstate (WO4 2-)</a>)</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gpj">5GPJ</a></td>
       <td>Not specified (supplementary only)</td>
       <td>Not specified (supplementary only)</td>
       <td></td>
@@ -69,7 +69,7 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
   </tbody>
 </table>
 
-### doi/10.1126##science.1222505
+### doi/10.1126/SCIENCE.1222505
 
 **Structures:**
 

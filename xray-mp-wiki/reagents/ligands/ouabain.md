@@ -1,5 +1,5 @@
 ---
-title: Ouabain
+title: "Ouabain"
 created: 2026-06-08
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.jsb.2010.12.004, doi/10.1038##ncomms9004, doi/10.1073##pnas.0907054106, doi/10.1073##pnas.1222308110, doi/10.1073##pnas.2123226119, doi/10.1107##s2053230x1600279x, doi/10.1073##pnas.2020438118]
-verified: false
+verified: agent
 ---
 
 # Ouabain

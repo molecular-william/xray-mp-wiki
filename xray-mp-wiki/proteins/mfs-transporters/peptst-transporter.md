@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1371##journal.pone.0173126]
-verified: regex
+verified: agent
 uniprot_id: Q5M4H8
 ---
 
@@ -119,19 +119,19 @@ PepTSt is a proton-dependent oligopeptide transporter (POT) from the Major Facil
       <td>Detergent solubilization</td>
       <td>--</td>
       <td>Buffer with 1% detergent + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, or <a href="/xray-mp-wiki/reagents/detergents/nm/">NM</a> at 1%</td>
-      <td>Four detergents tested: <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, DDM, DM, NM. For NM, protein was purified in DM up to IMAC step, then exchanged to NM in SEC step.</td>
+      <td>Four detergents tested: <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, NM. For NM, protein was purified in DM up to IMAC step, then exchanged to NM in <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> step.</td>
     </tr>
     <tr>
-      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td>IMAC resin</td>
-      <td>Buffer with appropriate detergent + DDM (0.03%), DM (0.2%), NM (0.4%), or LMNG (0.01%)</td>
+      <td>Buffer with appropriate detergent + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (0.03%), <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (0.2%), NM (0.4%), or <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> (0.01%)</td>
       <td>Elution by passing <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> over beads to cleave His tag</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size Exclusion Chromatography</a></td>
-      <td>SEC column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column</td>
       <td>Buffer with appropriate detergent + As above</td>
       <td>Final purification step to obtain monodisperse PepTSt</td>
     </tr>

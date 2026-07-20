@@ -1,13 +1,13 @@
 ---
-title: Calcium as a Cofactor for GPCR Ligand Binding
+title: "Calcium as a Cofactor for GPCR Ligand Binding"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-structural, xray-crystallography]
+tags: [concept-functional, concept-structural, xray-crystallography, subdirectory-signaling-receptors]
 sources: [doi/10.1126##science.aaz8995]
-verified: false
+verified: regex
 ---
 
 # Calcium as a Cofactor for GPCR Ligand Binding

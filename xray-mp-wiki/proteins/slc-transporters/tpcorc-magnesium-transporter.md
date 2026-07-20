@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##sciadv.abe6140]
-verified: regex
+verified: agent
 uniprot_id: A0A109QFA5
 ---
 
@@ -123,8 +123,8 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (Ni-NTA)</td>
-      <td>Ni-NTA agarose</td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>Buffer B: 150 mM NaCl, 50 mM Tris pH 8.0, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Column washed with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; protein eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
@@ -137,7 +137,7 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> (SEC)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
       <td>150 mM NaCl, 50 mM Tris pH 8.0, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted in buffer C</td>

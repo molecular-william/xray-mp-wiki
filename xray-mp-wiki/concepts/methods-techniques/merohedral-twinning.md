@@ -1,13 +1,13 @@
 ---
-title: Merohedral Twinning in Protein Crystallography
+title: "Merohedral Twinning in Protein Crystallography"
 created: 2026-06-11
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, subdirectory-concepts]
+tags: [concept-crystallography-principle, subdirectory-methods-techniques]
 sources: [doi/10.1107##S0907444908017162, doi/10.1126##science.280.5371.1934]
-verified: false
+verified: none
 ---
 
 # Merohedral Twinning in Protein Crystallography

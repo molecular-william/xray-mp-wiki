@@ -1,5 +1,5 @@
 ---
-title: Digitoxin
+title: "Digitoxin"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1073##pnas.2020438118]
-verified: false
+verified: agent
 ---
 
 # Digitoxin

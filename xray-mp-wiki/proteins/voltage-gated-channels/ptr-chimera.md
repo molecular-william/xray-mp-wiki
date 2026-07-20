@@ -41,7 +41,7 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2r9r">2R9R</a></td>
-      <td>2.8 A</td>
+      <td>2.8</td>
       <td>P212121</td>
       <td>KvAP paddle-chimera with S3b-S4 motif from Kv1.2, residues 1-261</td>
       <td>Not specified</td>
@@ -75,13 +75,13 @@ The Paddle-Chimera (PTR) is an engineered voltage-gated potassium channel create
     <tr>
       <td>Ni-NTA affinity chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> agarose resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) agarose resin</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (wash), 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (elution) + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>His-tagged protein eluted and pooled</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Monodisperse peak fractions concentrated to 10 mg/mL</td>

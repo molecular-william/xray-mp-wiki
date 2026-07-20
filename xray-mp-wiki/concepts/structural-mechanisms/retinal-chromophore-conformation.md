@@ -1,13 +1,13 @@
 ---
-title: Retinal Chromophore Conformation
+title: "Retinal Chromophore Conformation"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##ncomms8177]
-verified: false
+verified: regex
 ---
 
 # Retinal Chromophore Conformation

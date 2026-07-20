@@ -1,5 +1,5 @@
 ---
-title: Misoprostol
+title: "Misoprostol"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41589-018-0160-y]
-verified: false
+verified: agent
 ---
 
 # Misoprostol

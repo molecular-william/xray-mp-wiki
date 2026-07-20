@@ -1,13 +1,13 @@
 ---
-title: TREX1 RNase Activity and DNA/RNA Hybrid Processing
+title: "TREX1 RNase Activity and DNA/RNA Hybrid Processing"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, subdirectory-concepts]
+tags: [concept-enzyme-mechanism, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1093##nar##gkad910]
-verified: false
+verified: regex
 ---
 
 # TREX1 RNase Activity and DNA/RNA Hybrid Processing

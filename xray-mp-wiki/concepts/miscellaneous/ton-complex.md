@@ -1,13 +1,13 @@
 ---
-title: Ton Complex
+title: "Ton Complex"
 created: 2026-06-03
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein, subdirectory-concepts]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-miscellaneous]
 sources: [doi/10.1038##nature19757]
-verified: false
+verified: regex
 ---
 
 # Ton Complex

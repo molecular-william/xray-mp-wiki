@@ -1,13 +1,13 @@
 ---
-title: TRIC Channel Gating Mechanism
+title: "TRIC Channel Gating Mechanism"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, concept-functional]
+tags: [concept-transport-mechanism, concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature19767]
-verified: false
+verified: regex
 ---
 
 # TRIC Channel Gating Mechanism

@@ -1,5 +1,5 @@
 ---
-title: Muraymycin D2 (MD2)
+title: "Muraymycin D2 (MD2)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature17636]
-verified: false
+verified: agent
 ---
 
 # Muraymycin D2 (MD2)

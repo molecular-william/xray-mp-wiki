@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.3362]
-verified: regex
+verified: agent
 uniprot_id: Q9GZU1
 ---
 
@@ -92,7 +92,7 @@ Human TRPML1 is a Ca2+-release channel primarily located in lysosomes, belonging
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA His-Bind resin (Novagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> His-Bind resin (Novagen)</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">Sodium Phosphate</a>, pH 8.0, 300 mM NaCl, 2.5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
       <td>Eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in solution A</td>
     </tr>
@@ -112,7 +112,7 @@ Human TRPML1 is a Ca2+-release channel primarily located in lysosomes, belonging
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>10 mM HEPES, 150 mM NaCl, pH 7.5</td>
       <td>Removed MBP tag; peak fractions of tetrameric I-II linker collected and concentrated to 4 mg/ml</td>

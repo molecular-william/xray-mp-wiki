@@ -1,5 +1,5 @@
 ---
-title: BPTU
+title: "BPTU"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature14287]
-verified: false
+verified: agent
 ---
 
 # BPTU

@@ -1,13 +1,13 @@
 ---
-title: SNARE Complex
+title: "SNARE Complex"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature08156]
-verified: false
+verified: regex
 ---
 
 # SNARE Complex

@@ -1,13 +1,13 @@
 ---
-title: Extended Selectivity Filter
+title: "Extended Selectivity Filter"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1371##journal.pbio.1002411]
-verified: false
+verified: regex
 ---
 
 # Extended Selectivity Filter

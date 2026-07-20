@@ -1,5 +1,5 @@
 ---
-title: Lysophosphatidylcholine (LPC)
+title: "Lysophosphatidylcholine (LPC)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid-monoacyl, subdirectory-lipids]
 sources: [doi/10.1038##nsmb.3120]
-verified: false
+verified: regex
 ---
 
 # Lysophosphatidylcholine (LPC)

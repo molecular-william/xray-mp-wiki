@@ -1,13 +1,13 @@
 ---
-title: GXGD Proteases
+title: "GXGD Proteases"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1038##nature10218]
-verified: false
+verified: regex
 ---
 
 # GXGD Proteases

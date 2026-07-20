@@ -29,5 +29,5 @@ Folded protein translocation systems face the unique challenge of moving large, 
 
 ## Cross-References
 - [Tat Pathway](/xray-mp-wiki/concepts/transport-mechanisms/tat-pathway/) — The Tat pathway is the primary bacterial system for folded protein translocation
-- [BCS1 Folded Protein Translocation](/xray-mp-wiki/concepts/enzyme-mechanisms/bcs1-folded-protein-translocation/) — Describes the BCS1 mechanism for folded protein translocation in mitochondria
+- [BCS1 Folded Protein Translocation](/xray-mp-wiki/concepts/transport-mechanisms/bcs1-folded-protein-translocation/) — Describes the BCS1 mechanism for folded protein translocation in mitochondria
 - [Protein Translocation Across Membranes](/xray-mp-wiki/concepts/transport-mechanisms/protein-translocation-across-membranes/) — Broader category of protein transport that includes both unfolded (Sec) and folded mechanisms

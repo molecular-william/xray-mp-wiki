@@ -1,5 +1,5 @@
 ---
-title: Taniborbactam (VNRX-5133)
+title: "Taniborbactam (VNRX-5133)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand]
 sources: [doi/10.1021##acs.jmedchem.9b01518]
-verified: false
+verified: agent
 ---
 
 # Taniborbactam (VNRX-5133)

@@ -1,13 +1,13 @@
 ---
-title: Inverse Agonism in GPCR Signaling
+title: "Inverse Agonism in GPCR Signaling"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1016##j.bcp.2022.115291, doi/10.1126##scisignal.ado8741, doi/10.1124##molpharm.122.000633]
-verified: false
+verified: regex
 ---
 
 # Inverse Agonism in GPCR Signaling

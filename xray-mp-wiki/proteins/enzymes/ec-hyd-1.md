@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2012.11.010, doi/10.1073##pnas.1119806109]
-verified: regex
+verified: agent
 uniprot_id: ['P0AAM1', 'P0ACD8', 'P69739']
 ---
 
@@ -41,7 +41,7 @@ Hydrogenase 1 (EcHyd-1) is a membrane-bound, O2-tolerant [NiFe]-hydrogenase from
   </tr></thead>
   <tbody>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a></td>
       <td>1.47</td>
       <td>not specified</td>
       <td>EcHyd-1 (SL)2 heterodimer</td>
@@ -79,7 +79,7 @@ Hydrogenase 1 (EcHyd-1) is a membrane-bound, O2-tolerant [NiFe]-hydrogenase from
     <tr>
       <td>Gel filtration</td>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>-- + 0.02% Triton X-100</td>
       <td>Performed in anaerobic glove box; cytochrome b co-eluted in second peak</td>
     </tr>

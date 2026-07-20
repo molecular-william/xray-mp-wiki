@@ -1,13 +1,13 @@
 ---
-title: Nitrilase Superfamily
+title: "Nitrilase Superfamily"
 created: 2026-06-11
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1038##ncomms15948, doi/10.1126##sciadv.adf5799]
-verified: false
+verified: regex
 ---
 
 # Nitrilase Superfamily

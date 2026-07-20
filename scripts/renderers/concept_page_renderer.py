@@ -5,8 +5,10 @@ Shared rendering functions for concept wiki pages.
 Used by generate_concept_page.py to render complete pages from YAML data.
 """
 
-import sys, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from _base import render_frontmatter as _base_render_frontmatter
 
 
@@ -39,7 +41,9 @@ def generate_page(yaml_data: dict) -> str:
 
     # Convert cross_references[] list to markdown link list
     cross_refs = yaml_data.get("cross_references", [])
-    cross_refs_text = _bullet_list(cross_refs, lambda cr: f"[{cr.get('title', '')}]({cr.get('path', '')}) — {cr.get('reason', '')}")
+    cross_refs_text = _bullet_list(
+        cross_refs, lambda cr: f"[{cr.get('title', '')}]({cr.get('path', '')}) — {cr.get('reason', '')}"
+    )
     if not cross_refs_text:
         cross_refs_text = yaml_data.get("cross_refs_text", "")
 
@@ -51,10 +55,12 @@ def generate_page(yaml_data: dict) -> str:
 
     # Render related_concepts[] list to markdown bullets
     related = yaml_data.get("related_concepts", [])
+
     def _fmt_rc(rc):
         if isinstance(rc, dict):
             return f"[{rc.get('name', '')}]({rc.get('path', '')}) — {rc.get('relationship', '')}"
         return str(rc)
+
     related_text = _bullet_list(related, _fmt_rc)
     if not related_text:
         related_text = yaml_data.get("related_concepts_text", "")

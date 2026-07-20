@@ -1,13 +1,13 @@
 ---
 title: "KtrB (Potassium Transporter Membrane Subunit from Bacillus subtilis)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12055]
-verified: regex
+verified: agent
 uniprot_id: O32081
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: Cacodylate (Sodium Dimethylarsenate)
+title: "Cacodylate (Sodium Dimethylarsenate)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
 tags: [buffer-cacodylate, subdirectory-buffers]
-sources: [doi/10.1016##J.JMB.2008.04.017, doi/10.1038##ncomms4110]
-verified: false
+sources: [doi/10.1038##ncomms4110]
+verified: regex
 ---
 
 # Cacodylate (Sodium Dimethylarsenate)

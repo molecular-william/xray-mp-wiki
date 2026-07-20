@@ -1,5 +1,5 @@
 ---
-title: Phosphatidylethanolamine
+title: "Phosphatidylethanolamine"
 created: 2026-06-02
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1073##pnas.1901346116, doi/10.1016##j.cell.2017.03.019, doi/10.1038##nsmb.3120, doi/10.1038##nature13419, doi/10.1038##nature13984]
-verified: false
+verified: agent
 ---
 
 # Phosphatidylethanolamine

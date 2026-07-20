@@ -1,13 +1,13 @@
 ---
-title: Type II Phosphatidic Acid Phosphatase (PAP2) Family
+title: "Type II Phosphatidic Acid Phosphatase (PAP2) Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1073##pnas.1403097111, doi/10.1038##s41467-018-03547-8]
-verified: false
+verified: regex
 ---
 
 # Type II Phosphatidic Acid Phosphatase (PAP2) Family

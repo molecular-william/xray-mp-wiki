@@ -1,5 +1,5 @@
 ---
-title: Benzyl-Hydantoin
+title: "Benzyl-Hydantoin"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1164440]
-verified: false
+verified: agent
 ---
 
 # Benzyl-Hydantoin

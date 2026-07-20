@@ -1,13 +1,13 @@
 ---
-title: Ping-Pong Catalytic Mechanism
+title: "Ping-Pong Catalytic Mechanism"
 created: 2026-06-11
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1038##ncomms15948, doi/10.1126##sciadv.adf5799]
-verified: false
+verified: regex
 ---
 
 # Ping-Pong Catalytic Mechanism

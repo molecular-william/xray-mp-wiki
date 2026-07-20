@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature08610, doi/10.1038##nsmb.1740]
-verified: regex
+verified: agent
 uniprot_id: ['P0AC25', 'Q9KRE7']
 ---
 
@@ -48,7 +48,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
       <td>Not specified</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3kcv">3KCV</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3kcu">3KCU</a></td>
       <td>3.2</td>
       <td>Not specified</td>
       <td>E. coli FocA</td>
@@ -1653,7 +1653,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC (Sephadex 200)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (Sephadex 200)</td>
       <td>Sephadex 200 (Akta FPLC, GE Healthcare)</td>
       <td>Elution buffer from affinity step</td>
       <td>Peak fractions collected and concentrated to ~8 mg/mL</td>
@@ -1675,7 +1675,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>32% (v/v) <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> 550 monomethyl ether + 25 mM <a href="/xray-mp-wiki/reagents/additives/mgcl2">MGCL2</a></td>
+      <td>32% (v/v) <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> 550 monomethyl ether + 25 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MGCL2</a></td>
     </tr>
     <tr>
       <td>Mixing ratio</td>

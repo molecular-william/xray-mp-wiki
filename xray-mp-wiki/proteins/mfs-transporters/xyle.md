@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11524, doi/10.1038##ncomms5521, doi/10.1038##nsmb.2569]
-verified: regex
+verified: agent
 uniprot_id: P0AGF4
 ---
 
@@ -41,14 +41,14 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gbz">4GBZ</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gby">4GBY</a></td>
       <td>2.8</td>
       <td>unknown</td>
       <td>Full-length wild-type XylE from E. coli O157:H7</td>
       <td>D-xylose</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gbx">4GBX</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gby">4GBY</a></td>
       <td>2.9</td>
       <td>unknown</td>
       <td>Full-length wild-type XylE from E. coli O157:H7</td>
@@ -97,28 +97,28 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
       <td>Cell harvest and homogenization</td>
       <td>French press cell lysis</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
       <td>Two passes at 10,000-15,000 lb/in2</td>
     </tr>
     <tr>
       <td>Membrane preparation</td>
       <td>Ultracentrifugation</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
       <td>150,000g for 1 h; membrane fraction harvested</td>
     </tr>
     <tr>
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + 1.5% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + 1.5% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>1 h incubation at 4 C</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; elute with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
     </tr>
     <tr>
@@ -130,9 +130,9 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> (GE Healthcare)</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, various detergents + various</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) (GE Healthcare)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, various detergents + various</td>
       <td></td>
     </tr>
   </tbody>
@@ -717,29 +717,29 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
       <td>Cell harvest and homogenization</td>
       <td>Microfluidizer M110-P cell lysis</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
       <td>20,000 psi</td>
     </tr>
     <tr>
       <td>Membrane preparation</td>
       <td>Ultracentrifugation</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
       <td>10,000g for 30 min at 4C, then 1 h at 4C</td>
     </tr>
     <tr>
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5 + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5 + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>5% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> added, rotated 2 h at 4C; centrifuged 150,000g for 45 min at 4C</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 0.2% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
-      <td>Wash with 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> then 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> in 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Wash with 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> then 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> in 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
     </tr>
     <tr>
       <td>Tag removal</td>
@@ -750,9 +750,9 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>Superdex S200</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, various detergents + various (screened for optimal detergent)</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, various detergents + various (screened for optimal detergent)</td>
       <td></td>
     </tr>
   </tbody>
@@ -1127,8 +1127,8 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
     <tr>
       <td>IMAC purification</td>
-      <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (IMAC) with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> beads</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> beads</td>
+      <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (IMAC) with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) beads</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) beads</td>
       <td>20 mM Na-P pH 7.5, 300 mM NaCl, 15-30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Beads incubated with supernatant for 1 h; column washed with 15-30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> wash buffer</td>
     </tr>
@@ -1141,7 +1141,7 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on HiLoad <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 GL column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on HiLoad <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 GL column</td>
       <td>HiLoad <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 GL (ÄKTAexplorer 10)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>, 150 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Peak fractions collected, concentrated to 8-18 mg/ml</td>

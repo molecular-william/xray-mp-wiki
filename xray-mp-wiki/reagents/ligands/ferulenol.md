@@ -1,5 +1,5 @@
 ---
-title: Ferulenol
+title: "Ferulenol"
 created: 2026-06-02
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature08720]
-verified: false
+verified: agent
 ---
 
 # Ferulenol

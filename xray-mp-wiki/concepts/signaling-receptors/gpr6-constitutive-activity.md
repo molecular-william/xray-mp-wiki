@@ -1,13 +1,13 @@
 ---
-title: GPR6 High Constitutive Activity and Orphan Receptor Signaling
+title: "GPR6 High Constitutive Activity and Orphan Receptor Signaling"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1126##scisignal.ado8741]
-verified: false
+verified: regex
 ---
 
 # GPR6 High Constitutive Activity and Orphan Receptor Signaling

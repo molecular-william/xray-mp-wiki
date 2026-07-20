@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein]
 sources: [doi/10.1038##nature18934]
-verified: regex
+verified: agent
 uniprot_id: Q99835
 ---
 
@@ -47,7 +47,7 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
       <td>Cholesterol (CRD site)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5l7i">5L7I</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5l7d">5L7D</a></td>
       <td>3.70</td>
       <td>P212121</td>
       <td>Human SMO residues 32-555 (SMOΔC) with ICL3 (429-440) replaced by BRIL fusion; C-terminal Rho1D4 epitope tag</td>
@@ -76,7 +76,7 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
       <td>1. Membrane solubilization</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> extraction</td>
       <td>—</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> / 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> / 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>2 h at 4°C; removal of insoluble material by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> (100,000g, 30 min)</td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
     </tr>
     <tr>
       <td>3. LCP reconstitution</td>
-      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a> mixing</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) mixing</td>
       <td>—</td>
       <td>Protein mixed with 10% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">cholesterol</a> / 90% <a href="/xray-mp-wiki/reagents/lipids/monoolein/">monoolein</a> (60:40 ratio)</td>
       <td>Protein at 30 mg/ml; with or without 10 mM vismodegib</td>

@@ -1,5 +1,5 @@
 ---
-title: ICA38
+title: "ICA38"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2019.01.003]
-verified: true
+verified: agent
 ---
 
 # ICA38

@@ -1,5 +1,5 @@
 ---
-title: S-Cys-Gly-3M3SH (Malodour Precursor Peptide)
+title: "S-Cys-Gly-3M3SH (Malodour Precursor Peptide)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.7554##eLife.34995]
-verified: false
+verified: none
 ---
 
 # S-Cys-Gly-3M3SH (Malodour Precursor Peptide)

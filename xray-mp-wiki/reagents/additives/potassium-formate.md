@@ -1,5 +1,5 @@
 ---
-title: Potassium Formate
+title: "Potassium Formate"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, additive-precipitant, subdirectory-additives]
 sources: [doi/10.1038##nature22035]
-verified: false
+verified: agent
 ---
 
 # Potassium Formate

@@ -1,5 +1,5 @@
 ---
-title: Ultracentrifugation
+title: "Ultracentrifugation"
 created: 2026-06-22
 updated: 2026-06-22
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [subdirectory-purification, purification-fractionation]
 sources: [doi/10.1016##j.jbc.2021.100479]
-verified: false
+verified: regex
 ---
 
 # Ultracentrifugation

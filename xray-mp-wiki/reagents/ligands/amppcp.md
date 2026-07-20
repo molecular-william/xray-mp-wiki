@@ -1,5 +1,5 @@
 ---
-title: Adenylyl Methylenediphosphonate (AMP-PCP / AMPPCP)
+title: "Adenylyl Methylenediphosphonate (AMP-PCP / AMPPCP)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.celrep.2019.03.106]
-verified: agent
+verified: regex
 ---
 
 # Adenylyl Methylenediphosphonate (AMP-PCP / AMPPCP)

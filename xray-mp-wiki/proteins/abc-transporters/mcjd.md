@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1320506111, doi/10.15252##embj.201797278, doi/10.1107##S2052252520012312]
-verified: regex
+verified: agent
 uniprot_id: ['P04191', 'Q9X2W0']
 ---
 
@@ -94,8 +94,8 @@ severe anisotropy.
       <td>Affinity chromatography</td>
       <td>Ni Sepharose <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>—</td>
-      <td>0.03% n-Dodecyl-beta-D-maltopyranoside (DDM)</td>
-      <td>GFP-tag removed by TEV protease before crystallization</td>
+      <td>0.03% n-Dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>GFP-tag removed by <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease before crystallization</td>
     </tr>
     <tr>
       <td>Exchange into crystallization detergent</td>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature20606]
-verified: regex
+verified: agent
 uniprot_id: P51686
 ---
 
@@ -42,7 +42,7 @@ CC Chemokine Receptor 9 (CCR9) is a G-protein-coupled receptor (GPCR) activated 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5lwe">5LWE</a></td>
-      <td>2.8 A</td>
+      <td>2.8</td>
       <td>P1</td>
       <td>Human CCR9-StaR(25-340) — N- and C-terminally truncated thermostabilized receptor with eight stabilizing mutations (T77A, V79A, M82A, S141C, T216A, V255A, N294A, T304A) and mutations to remove post-translational modification sites (C337A, T34E); no fusion partner</td>
       <td><a href="/xray-mp-wiki/reagents/additives/vercirnon/">Vercirnon (GSK1605786, CCX282-B)</a> (GSK1605786, CCX282-B) — 4-tert-butyl-N-[4-chloro-2-[(1-oxidopyridin-4-yl)carbonyl]phenyl]benzenesulfonamide</td>

@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1038##s41594-018-0068-y]
-verified: none
+verified: regex
 ---
 
 # Single-Molecule Fluorescence Resonance Energy Transfer (smFRET)

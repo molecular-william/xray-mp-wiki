@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature22800, doi/10.1038##nature22378, doi/10.1107##S2052252519013496, doi/10.1038##s41467-020-14934-5]
-verified: regex
+verified: agent
 uniprot_id: P43220
 ---
 
@@ -86,7 +86,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
       <td>Detergent solubilization</td>
       <td>--</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 150 mM NaCl + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
-      <td>StaR generated using scanning mutagenesis approach. Solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> supplemented with <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)
+      <td>StaR generated using scanning mutagenesis approach. Solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> supplemented with <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)
 </td>
     </tr>
   </tbody>
@@ -359,7 +359,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 500 mM NaCl, 5% <a href="/xray-mp-wiki/proteins/other-ion-channels/glpf/">GlpF</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>) + <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 500 mM NaCl, 5% <a href="/xray-mp-wiki/proteins/other-ion-channels/glpf/">GlpF</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>) + <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL (Thermostabilized Apocytochrome b562RIL)</a> (Thermostabilized Apocytochrome b562RIL) (Thermostabilized Apocytochrome b562RIL) <a href="/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/">SMO-FLA Fusion Construct (SMO-Flavodoxin)</a> (<a href="/xray-mp-wiki/proteins/gpcr/human-smoothened-hsmo/">SMO</a>-Flavodoxin) (<a href="/xray-mp-wiki/proteins/gpcr/human-smoothened-hsmo/">SMO</a>-Flavodoxin) removed by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a> (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/">si-Face Cleavage in Rhomboid Proteases</a> in Rhomboid Proteases in Rhomboid Proteases during purification</td>
     </tr>
   </tbody>

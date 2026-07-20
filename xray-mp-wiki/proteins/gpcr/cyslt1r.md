@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##sciadv.aax2518]
-verified: regex
+verified: agent
 uniprot_id: Q9Y271
 ---
 
@@ -83,14 +83,14 @@ Cysteinyl leukotriene receptor type 1 (CysLT1R) is a class A G protein-coupled r
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>Not specified</td>
-      <td>25 uM antagonist (zafirlukast or pranlukast), <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a> (2 mg/ml), PIC + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 uM antagonist (zafirlukast or pranlukast), <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a> (2 mg/ml), PIC + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilization for 3.5 h at 4 C with continuous stirring</td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal affinity chromatography (<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a>)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> IMAC resin (Clontech)</td>
-      <td>Wash 1: 100 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 250 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, PIC, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 8 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a>; Wash 2: 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 250 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, PIC + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (after buffer exchange)</td>
+      <td>Wash 1: 100 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 250 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, PIC, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 8 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a>; Wash 2: 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 250 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, PIC + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (after buffer exchange)</td>
       <td>Overnight batch binding; 6 CV washes; elution performed after buffer exchange to lower <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
   </tbody>

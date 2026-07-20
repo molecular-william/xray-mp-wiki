@@ -1,5 +1,5 @@
 ---
-title: Fucoxanthin
+title: "Fucoxanthin"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands, lipid]
 sources: [doi/10.1126##science.aav0365]
-verified: false
+verified: agent
 ---
 
 # Fucoxanthin

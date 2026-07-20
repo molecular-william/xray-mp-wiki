@@ -75,9 +75,7 @@ def main():
                 if not bd or not isinstance(bd, list):
                     continue
                 # Check if any buffer component already has pH
-                already_has_ph = any(
-                    isinstance(c, dict) and c.get("ph") is not None for c in bd
-                )
+                already_has_ph = any(isinstance(c, dict) and c.get("ph") is not None for c in bd)
                 if already_has_ph:
                     continue
                 # Try the free-text buffer field

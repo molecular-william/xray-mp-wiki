@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature07335]
-verified: regex
+verified: agent
 uniprot_id: ['B1L914', 'P35874', 'Q9X1I9', 'Q9X1R4']
 ---
 
@@ -41,7 +41,7 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3din">3DIN</a></td>
-      <td>4.5 A</td>
+      <td>4.5</td>
       <td>not specified</td>
       <td>Thermotoga maritima SecA (residues 1-816) with C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a>, bound to T. maritima <a href="/xray-mp-wiki/proteins/secretion-translocon/secyeg/">SECYEG</a> complex; ADP-<a href="/xray-mp-wiki/reagents/ligands/bef3/">BeF3 (Beryllium Fluoride)</a> bound</td>
       <td>ADP-<a href="/xray-mp-wiki/reagents/ligands/bef3/">BeF3 (Beryllium Fluoride)</a> (transition state analog); beta-D-Octylglucoside (OG)</td>
@@ -75,7 +75,7 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (His-tag)</td>
-      <td>Ni-NTA Sepharose (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Sepharose (Qiagen)</td>
       <td>HS buffer with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + --</td>
       <td>Washed with 200 ml HS buffer + 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, then 200 ml HS buffer + 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 6 M guanidine-HCl</td>
     </tr>

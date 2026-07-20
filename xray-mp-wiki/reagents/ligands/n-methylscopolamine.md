@@ -1,5 +1,5 @@
 ---
-title: N-methylscopolamine (NMS)
+title: "N-methylscopolamine (NMS)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.str.2014.08.022]
-verified: false
+verified: regex
 ---
 
 # N-methylscopolamine (NMS)

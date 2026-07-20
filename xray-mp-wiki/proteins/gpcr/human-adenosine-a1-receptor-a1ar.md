@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2017.01.042, doi/10.1016##j.str.2017.06.012]
-verified: regex
+verified: agent
 uniprot_id: P30542
 ---
 
@@ -77,14 +77,14 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>10 mM HEPES pH 7.5, 150 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% sodium cholate, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM HEPES pH 7.5, 150 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% sodium cholate, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilized for 2 hr at 4C in presence of 0.2 uM DU172</td>
     </tr>
     <tr>
       <td>TALON IMAC</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin</td>
-      <td>10 mM HEPES pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% sodium cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 50 mM imidazole + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% sodium cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM HEPES pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% sodium cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 50 mM imidazole + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% sodium cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Eluted with 200 mM imidazole; 0.2 uM DU172 present throughout</td>
     </tr>
     <tr>
@@ -96,10 +96,10 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
     </tr>
     <tr>
       <td>SEC</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.2 uM DU172 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Concentrated to ~50 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> crystallization</td>
+      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.2 uM DU172 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Concentrated to ~50 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization</td>
     </tr>
   </tbody>
 </table>
@@ -338,7 +338,7 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/--">--</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5mzj">5MZJ</a></td>
       <td>3.3 A</td>
       <td>C22222</td>
       <td>Human A1R-StaR-Delta3-b562RIL thermostabilized mutant (A57L, T91A, Y205A, L236A, L240A, T277A) with C-terminal truncation, b562RIL fusion</td>
@@ -380,8 +380,8 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
-      <td>Batch binding to 5 ml <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> superflow cartridge; washed with 5 CV of 8 mM imidazole, 25 CV of 68 mM imidazole; eluted with 272 mM imidazole</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> superflow cartridge (Qiagen)</td>
+      <td>Batch binding to 5 ml <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) superflow cartridge; washed with 5 CV of 8 mM imidazole, 25 CV of 68 mM imidazole; eluted with 272 mM imidazole</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) superflow cartridge (Qiagen)</td>
       <td>40 mM Tris-HCl pH 7.4, 400 mM NaCl, 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 5 uM PSB36 (binding); 8 mM imidazole (wash); 272 mM imidazole (elution)
  + 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>All buffers contained 5 uM PSB36</td>

@@ -1,13 +1,13 @@
 ---
-title: P-type ATPase Mechanism
+title: "P-type ATPase Mechanism"
 created: 2026-06-05
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1073##pnas.2006027117, doi/10.1038##ncomms9004, doi/10.1126##science.1099366, doi/10.1073##pnas.2014896117, doi/10.1126##science.1243352, doi/10.1038##nature02981, doi/10.1038##nature07939]
-verified: false
+verified: regex
 ---
 
 # P-type ATPase Mechanism

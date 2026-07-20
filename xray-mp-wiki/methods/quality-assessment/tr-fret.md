@@ -1,5 +1,5 @@
 ---
-title: Time-Resolved Fluorescence Resonance Energy Transfer (TR-FRET)
+title: "Time-Resolved Fluorescence Resonance Energy Transfer (TR-FRET)"
 created: 2026-05-27
 updated: 2026-05-27
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1016##j.immuni.2020.02.004]
-verified: false
+verified: regex
 ---
 
 # Time-Resolved Fluorescence Resonance Energy Transfer (TR-FRET)

@@ -1,13 +1,13 @@
 ---
-title: CDP-Alcohol Phosphotransferase Family
+title: "CDP-Alcohol Phosphotransferase Family"
 created: 2026-06-05
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1038##ncomms5169, doi/10.1038##ncomms5068, doi/10.1038##ncomms9505]
-verified: false
+verified: regex
 ---
 
 # CDP-Alcohol Phosphotransferase Family

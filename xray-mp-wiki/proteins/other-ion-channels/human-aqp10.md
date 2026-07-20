@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-018-07176-z]
-verified: pdb
+verified: agent
 uniprot_id: Q96PS8
 ---
 
@@ -89,7 +89,7 @@ of aquaporin regulation important for controlling body fat mass.
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
       <td>Standard His-tag purification buffer</td>
       <td>Purified via C-terminal His tag</td>
     </tr>
@@ -102,9 +102,9 @@ of aquaporin regulation important for controlling body fat mass.
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
-      <td>SEC buffer with detergent</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> buffer with detergent</td>
       <td>Final polishing step</td>
     </tr>
   </tbody>

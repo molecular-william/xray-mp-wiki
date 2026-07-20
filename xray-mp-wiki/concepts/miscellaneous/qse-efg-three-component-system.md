@@ -1,13 +1,13 @@
 ---
-title: QseE/F/G Three-Component System
+title: "QseE/F/G Three-Component System"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-miscellaneous]
 sources: [doi/10.1107##s2053230x23009123]
-verified: false
+verified: regex
 ---
 
 # QseE/F/G Three-Component System

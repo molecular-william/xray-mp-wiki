@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NATURE01109]
-verified: regex
+verified: agent
 uniprot_id: ['P42196', 'P42259']
 ---
 
@@ -78,7 +78,7 @@ unimpaired complex with SRII.
   <tbody>
     <tr>
       <td>Affinity purification</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
       <td>Imidazole-containing buffer</td>
       <td>His-tagged HtrII_114 purified via C-terminal His tag</td>

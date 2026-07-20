@@ -1,13 +1,13 @@
 ---
-title: Positive Allosteric Modulation
+title: "Positive Allosteric Modulation"
 created: 2026-05-27
 updated: 2026-05-27
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1016##j.ejmech.2023.116036, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature12735]
-verified: false
+verified: regex
 ---
 
 # Positive Allosteric Modulation

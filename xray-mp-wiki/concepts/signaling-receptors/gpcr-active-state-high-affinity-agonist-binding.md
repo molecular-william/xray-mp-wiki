@@ -1,13 +1,13 @@
 ---
-title: GPCR Active State High-Affinity Agonist Binding
+title: "GPCR Active State High-Affinity Agonist Binding"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1126##science.aau5595]
-verified: false
+verified: regex
 ---
 
 # GPCR Active State High-Affinity Agonist Binding

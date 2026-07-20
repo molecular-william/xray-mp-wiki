@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-022-32751-w]
-verified: regex
+verified: agent
 uniprot_id: W0UUV5
 ---
 
@@ -119,7 +119,7 @@ In the E1 conformation, C380 and C382 of the conserved CPC motif in M4 are surfa
 - <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> — Additive used in purification or crystallization buffers
 - <a href="/xray-mp-wiki/reagents/additives/superose-6-increase">Superose 6 Increase SEC Resin</a> — Additive used in purification or crystallization buffers
 - <a href="/xray-mp-wiki/reagents/detergents/c12e8">C12E8</a> — Detergent used for membrane protein solubilization
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris Hcl</a> — Buffer component in purification and crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris Hcl</a> — Buffer component in purification and crystallization
 - <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">Beta-Mercaptoethanol</a> — Additive used in purification or crystallization buffers
 - <a href="/xray-mp-wiki/reagents/additives/iptg">Iptg</a> — Additive used in purification or crystallization buffers
 - <a href="/xray-mp-wiki/reagents/additives/tev-protease">Tev Protease</a> — Additive used in purification or crystallization buffers

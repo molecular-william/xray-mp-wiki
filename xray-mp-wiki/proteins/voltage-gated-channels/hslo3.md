@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
 sources: [doi/10.1073##pnas.1215078109]
-verified: regex
+verified: agent
 uniprot_id: A8MYU2
 ---
 
@@ -86,7 +86,7 @@ hSLO3 (KCNU1) is a pH- and voltage-gated potassium channel from the SLO family, 
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superose 6 (GE Life Sciences)</td>
       <td>500 mM KCl, 20 mM K-phosphate, 20 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1.5 mM TCEP, pH 8.5 (K-OH)</td>
       <td>Protein concentrated to ~5 mg/mL for crystallization</td>

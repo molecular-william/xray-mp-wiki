@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2020.03.045, doi/10.1038##s41586-020-2180-5, doi/10.1038##s41586-020-2179-y]
-verified: regex
+verified: agent
 uniprot_id: P0DTC2
 ---
 
@@ -42,7 +42,7 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6lzg">6LZG</a></td>
-      <td>2.50 A</td>
+      <td>2.50</td>
       <td>P41212</td>
       <td>SARS-CoV-2 spike protein CTD residues 319-541, in complex with <a href="/xray-mp-wiki/proteins/slc-transporters/hace2/">Human Angiotensin-Converting Enzyme 2 (hACE2)</a></td>
       <td><a href="/xray-mp-wiki/proteins/slc-transporters/hace2/">Human Angiotensin-Converting Enzyme 2 (hACE2)</a> (human ACE2 residues 19-615)</td>
@@ -139,7 +139,7 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6m0j">6M0J</a></td>
-      <td>2.45 A</td>
+      <td>2.45</td>
       <td>P4₁2₁2</td>
       <td>SARS-CoV-2 RBD residues Arg319-Phe541, in complex with ACE2 (residues Ser19-Asp615)</td>
       <td><a href="/xray-mp-wiki/proteins/slc-transporters/hace2/">Human Angiotensin-Converting Enzyme 2 (hACE2)</a> N-terminal peptidase domain, zinc ion</td>
@@ -172,8 +172,8 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA affinity</td>
-      <td>Ni-NTA resin (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (GE Healthcare)</td>
       <td>HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + --</td>
       <td>Eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in HBS buffer</td>
     </tr>
@@ -182,7 +182,7 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
       <td>Gel filtration</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column (GE Healthcare)</td>
       <td>HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + --</td>
-      <td>Pre-equilibrated with HBS; complex formed by mixing with ACE2 before SEC; concentrated to 13 mg/ml</td>
+      <td>Pre-equilibrated with HBS; complex formed by mixing with ACE2 before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>; concentrated to 13 mg/ml</td>
     </tr>
   </tbody>
 </table>
@@ -236,7 +236,7 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6vw1">6VW1</a></td>
-      <td>2.68 A</td>
+      <td>2.68</td>
       <td>P 21 21 21</td>
       <td>SARS-CoV-2 chimeric RBD (SARS-CoV-2 core + SARS-CoV side loop) in complex with human ACE2 (residues 1-615)</td>
       <td>human ACE2 (residues 1-615), zinc ion</td>
@@ -269,8 +269,8 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA affinity</td>
-      <td>Ni-NTA column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column</td>
       <td>20 mM Tris pH 7.2, 200 mM NaCl + --</td>
       <td>His6-tagged proteins purified from cell culture medium</td>
     </tr>

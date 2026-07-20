@@ -1,13 +1,13 @@
 ---
-title: Proton Release Complex in Microbial Rhodopsins
+title: "Proton Release Complex in Microbial Rhodopsins"
 created: 2026-06-08
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, concept-functional, subdirectory-concepts]
+tags: [concept-transport-mechanism, concept-functional, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1038##s41467-020-20596-0, doi/10.1038##s41594-022-00762-2, doi/10.1126##science.280.5371.1934]
-verified: false
+verified: regex
 ---
 
 # Proton Release Complex in Microbial Rhodopsins

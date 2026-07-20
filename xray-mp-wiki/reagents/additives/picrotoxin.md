@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##emboj.2013.17]
-verified: none
+verified: regex
 ---
 
 # Picrotoxin

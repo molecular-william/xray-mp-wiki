@@ -1,13 +1,13 @@
 ---
-title: Neurotransmitter/Sodium Symporter (NSS) Family
+title: "Neurotransmitter/Sodium Symporter (NSS) Family"
 created: 2026-06-02
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-protein-family, concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature04224, doi/10.1038##nature12179, doi/10.1038##nature12863, doi/10.1038##NSMB.2894, doi/10.1002##1873-3468.14136, doi/10.1038##nature17629, doi/10.1073##pnas.0811322106, doi/10.15252##embj.2022110735, doi/10.15252##embj.2020105164]
-verified: false
+verified: none
 ---
 
 # Neurotransmitter/Sodium Symporter (NSS) Family

@@ -1,13 +1,13 @@
 ---
-title: Anion Channel Gating via Phenylalanine Gate
+title: "Anion Channel Gating via Phenylalanine Gate"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature09487]
-verified: false
+verified: regex
 ---
 
 # Anion Channel Gating via Phenylalanine Gate

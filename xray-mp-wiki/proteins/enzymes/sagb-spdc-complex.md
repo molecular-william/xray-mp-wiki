@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1038##s41564-020-00808-5]
-verified: regex
+verified: agent
 uniprot_id: ['Q2FXF4', 'Q2YYX7']
 ---
 
@@ -95,20 +95,20 @@ The SagB-SpdC complex from Staphylococcus aureus is a membrane protein complex t
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 300 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Wash with 10 mM and 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; elute with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 2 mM CaCl2</td>
     </tr>
     <tr>
       <td>Anti-Flag <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>M1 anti-Flag resin</td>
+      <td>M1 anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> resin</td>
       <td>50 mM HEPES pH 7.5, 300 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 2 mM CaCl2 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted with 20 mM HEPES pH 7.5, 500 mM NaCl, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Sephadex S200 Increase 10/300 GL</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 300 mM NaCl + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Final polishing step</td>

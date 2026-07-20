@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##nature05076]
-verified: none
+verified: regex
 ---
 
 # Glutaraldehyde

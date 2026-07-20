@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, enzyme]
 sources: [doi/10.1038##nsmb.3346]
-verified: regex
+verified: agent
 uniprot_id: B7IE18
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: M-PPase Ion Pumping Mechanism
+title: "M-PPase Ion Pumping Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1126##science.1222505, doi/10.1038##ncomms13596]
-verified: false
+verified: regex
 ---
 
 # M-PPase Ion Pumping Mechanism

@@ -1,5 +1,5 @@
 ---
-title: Ion-Exchange Chromatography
+title: "Ion-Exchange Chromatography"
 created: 2026-06-02
 updated: 2026-06-03
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [purification-ion-exchange, subdirectory-purification]
 sources: [doi/10.1038##nature08156, doi/10.1038##nature12232]
-verified: false
+verified: regex
 ---
 
 # Ion-Exchange Chromatography

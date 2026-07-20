@@ -1,5 +1,5 @@
 ---
-title: Outward-Facing Conformation of ABC Transporters
+title: "Outward-Facing Conformation of ABC Transporters"
 created: 2026-06-08
 updated: 2026-06-16
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.febslet.2007.01.073, doi/10.1038##ncomms13411, doi/10.1038##nsmb.2417]
-verified: false
+verified: regex
 ---
 
 # Outward-Facing Conformation of ABC Transporters

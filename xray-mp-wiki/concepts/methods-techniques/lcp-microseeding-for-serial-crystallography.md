@@ -1,13 +1,13 @@
 ---
-title: LCP Microseeding for Serial Crystallography
+title: "LCP Microseeding for Serial Crystallography"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, membrane-protein]
+tags: [concept-crystallography-principle, membrane-protein, subdirectory-methods-techniques]
 sources: [doi/10.1107##s2059798322004144]
-verified: false
+verified: regex
 ---
 
 # LCP Microseeding for Serial Crystallography

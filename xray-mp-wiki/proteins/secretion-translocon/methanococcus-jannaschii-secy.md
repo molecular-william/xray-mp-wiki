@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature02218, doi/10.1016##j.molcel.2007.05.002]
-verified: regex
+verified: agent
 uniprot_id: ['P60460', 'Q57817', 'Q60175']
 ---
 
@@ -39,7 +39,7 @@ uniprot_id: ['P60460', 'Q57817', 'Q60175']
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1rhz">1RHZ</a></td>
-      <td>3.2 A</td>
+      <td>3.2</td>
       <td>P21212</td>
       <td>M. jannaschii <a href="/xray-mp-wiki/proteins/secretion-translocon/secy/">SECY</a> complex (SecY-alpha, SecB-beta, SecE-gamma heterotrimer); wild-type Lys422Arg and Val423Thr (Y1) double mutant used for final structure</td>
       <td>None</td>
@@ -442,14 +442,14 @@ uniprot_id: ['P60460', 'Q57817', 'Q60175']
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1rh5">1RH5</a></td>
-      <td>3.5 A</td>
+      <td>3.5</td>
       <td>P21212</td>
       <td>M. jannaschii <a href="/xray-mp-wiki/proteins/secretion-translocon/secy/">SECY</a> half-plug deletion mutant (Delta60-65); part of <a href="/xray-mp-wiki/proteins/secretion-translocon/secyeg/">SECYEG</a> complex</td>
       <td>None</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1rh5">1RH5</a></td>
-      <td>3.6 A</td>
+      <td>3.6</td>
       <td>P21212</td>
       <td>M. jannaschii <a href="/xray-mp-wiki/proteins/secretion-translocon/secy/">SECY</a> full-plug deletion mutant (Delta57-67); part of <a href="/xray-mp-wiki/proteins/secretion-translocon/secyeg/">SECYEG</a> complex</td>
       <td>None</td>

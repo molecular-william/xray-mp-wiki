@@ -1,13 +1,13 @@
 ---
-title: ABC Transporter Family
+title: "ABC Transporter Family"
 created: 2026-06-02
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein, xray-crystallography]
+tags: [concept-protein-family, membrane-protein, xray-crystallography, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature11448, doi/10.1038##nsmb.2267, doi/10.1038##nsmb.2417, doi/10.1038##s41467-017-02741-4, doi/10.1073##pnas.0709388104, doi/10.1073##pnas.1108858108, doi/10.1126##science.1071142, doi/10.1038##nature17666, doi/10.1126##science.1200767]
-verified: false
+verified: regex
 ---
 
 # ABC Transporter Family

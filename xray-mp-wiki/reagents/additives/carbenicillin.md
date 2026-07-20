@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, subdirectory-additives]
 sources: [doi/10.1073##pnas.1901346116]
-verified: none
+verified: regex
 ---
 
 # Carbenicillin

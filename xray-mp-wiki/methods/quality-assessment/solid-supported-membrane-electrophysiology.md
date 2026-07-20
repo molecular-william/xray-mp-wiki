@@ -1,5 +1,5 @@
 ---
-title: Solid-Supported Membrane Electrophysiology
+title: "Solid-Supported Membrane Electrophysiology"
 created: 2026-06-11
 updated: 2026-06-11
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1073##pnas.2403273121]
-verified: false
+verified: regex
 ---
 
 # Solid-Supported Membrane Electrophysiology

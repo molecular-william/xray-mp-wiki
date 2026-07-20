@@ -1,13 +1,13 @@
 ---
-title: GPCR Inactive Conformation
+title: "GPCR Inactive Conformation"
 created: 2026-05-29
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1038##NATURE07101, doi/10.1038##nature12357, doi/10.1038##nature20605, doi/10.1038##nature10750]
-verified: false
+verified: none
 ---
 
 # GPCR Inactive Conformation

@@ -1,5 +1,5 @@
 ---
-title: Polyhistidine Tag (His6)
+title: "Polyhistidine Tag (His6)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1016##j.str.2014.06.008, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109]
-verified: false
+verified: regex
 ---
 
 # Polyhistidine Tag (His6)

@@ -1,5 +1,5 @@
 ---
-title: Polyethylene Glycol 5000 Monomethyl Ether (PEG 5000 MME)
+title: "Polyethylene Glycol 5000 Monomethyl Ether (PEG 5000 MME)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1038##nature21400]
-verified: false
+verified: regex
 ---
 
 # Polyethylene Glycol 5000 Monomethyl Ether (PEG 5000 MME)

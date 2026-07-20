@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2016.12.033, doi/10.1126##science.1244142]
-verified: regex
+verified: agent
 uniprot_id: P41595
 ---
 
@@ -41,7 +41,7 @@ The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5tvn">5TVN</a></td>
-      <td>2.9 A</td>
+      <td>2.9</td>
       <td>C2221</td>
       <td>Human 5-HT2B receptor, N-terminal residues 1-35 truncated, C-terminal residues 406-481 truncated, thermostabilizing M144W mutation, ICL3 replaced by BRIL fusion (A1-L106 of apocytochrome b562 RIL), N-terminal HA signal sequence and <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag">FLAG Tag</a>, C-terminal PreScission site and 10xHis tag</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/lsd">LSD</a></td>
@@ -67,10 +67,10 @@ The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril
   <tbody>
     <tr>
       <td>Cell culture and membrane preparation</td>
-      <td>Baculovirus expression in <a href="/xray-mp-wiki/methods/expression-systems/sf9-insect-cells">Sf9 Cells</a></td>
+      <td>Baculovirus expression in <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system">Sf9 Cells</a></td>
       <td>--</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/potassium-chloride-kcl/">KCl</a>, 150 mM NaCl + --</td>
-      <td>High-titer recombinant <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression">Baculovirus</a> used to infect Sf9 cells. Cells harvested 48 hr post-infection, washed in PBS, flash-frozen at -80C</td>
+      <td>High-titer recombinant <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system">Baculovirus</a> used to infect Sf9 cells. Cells harvested 48 hr post-infection, washed in PBS, flash-frozen at -80C</td>
     </tr>
     <tr>
       <td>Membrane solubilization</td>
@@ -81,15 +81,15 @@ The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a> resin</td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His Tag</a> on <a href="/xray-mp-wiki/concepts/c-terminus/">C-terminus</a> used for affinity capture via <a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> resin</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His Tag</a> on <a href="/xray-mp-wiki/concepts/c-terminus/">C-terminus</a> used for affinity capture via <a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> resin</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) column</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Final purification step to obtain monodisperse 5-HT2B-R-<a href="/xray-mp-wiki/reagents/ligands/lsd/">LSD</a>-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> complex</td>
     </tr>
@@ -393,5 +393,5 @@ The residue L362^7.35 at the bottom of the orthosteric binding pocket acts as a 
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase Crystallization</a> — Crystallization method used
 - <a href="/xray-mp-wiki/proteins/5ht2a-receptor">Human 5-HT2A Receptor</a> — Homology model based on 5-HT2B-R/LSD structure; functional assays performed
 - <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> — Purification method used in protein preparation
-- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression">Baculovirus</a> — Expression system used for protein production
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system">Baculovirus</a> — Expression system used for protein production
 - <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography">Serial Femtosecond Crystallography</a> — SFX method used to obtain room-temperature 2.8 A structure of 5-HT2B-ergotamine complex

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-020-19820-8, doi/10.1073##pnas.2403273121]
-verified: regex
+verified: agent
 uniprot_id: U2EQ00
 ---
 
@@ -41,21 +41,21 @@ Gdx-Clo is a small multidrug resistance (SMR) family transporter from *Clostrida
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xgq">6XGQ</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wk5">6WK5</a></td>
       <td>3.50</td>
       <td>C121</td>
       <td>Full-length Gdx-Clo (residues 1-108) with Clo-L10 monobody</td>
       <td>None (apo)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xgr">6XGR</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wk5">6WK5</a></td>
       <td>2.30</td>
       <td>C121</td>
       <td>Full-length Gdx-Clo with Clo-L10 monobody</td>
       <td>Phenylguanidinium (phenylGdm⁺)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xgs">6XGS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wk5">6WK5</a></td>
       <td>2.30</td>
       <td>C121</td>
       <td>Full-length Gdx-Clo with Clo-L10 monobody</td>
@@ -103,14 +103,14 @@ Gdx-Clo is a small multidrug resistance (SMR) family transporter from *Clostrida
       <td>Membrane extraction</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>100 mM NaCl, 20 mM imidazole + 2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/decyl-maltoside">Decyl Maltoside (DM)</a></td>
-      <td>Cell lysate extracted with DM</td>
+      <td>100 mM NaCl, 20 mM imidazole + 2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">Decyl Maltoside ([DM</a>)](/xray-mp-wiki/reagents/detergents/decyl-maltoside)</td>
+      <td>Cell lysate extracted with <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
       <td>Immobilized metal-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (IMAC)</td>
       <td>Cobalt affinity column</td>
-      <td>100 mM NaCl, 20 mM imidazole (wash); 400 mM imidazole (elution) + 5 mM DM</td>
+      <td>100 mM NaCl, 20 mM imidazole (wash); 400 mM imidazole (elution) + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>His6-tag purification</td>
     </tr>
     <tr>
@@ -123,8 +123,8 @@ Gdx-Clo is a small multidrug resistance (SMR) family transporter from *Clostrida
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200</td>
-      <td>100 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES Buffer</a>-NaOH, pH 8.1 + 5 mM DM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>100 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES Buffer</a>-NaOH, pH 8.1 + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Final purification step</td>
     </tr>
   </tbody>

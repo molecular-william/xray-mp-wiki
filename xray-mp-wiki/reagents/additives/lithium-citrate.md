@@ -1,5 +1,5 @@
 ---
-title: Lithium Citrate
+title: "Lithium Citrate"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1016##j.str.2014.08.022, doi/10.1038##nature11542]
-verified: false
+verified: agent
 ---
 
 # Lithium Citrate

@@ -1,13 +1,13 @@
 ---
 title: "LeuBAT (LeuT Engineered for Antidepressant Pharmacology)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12648]
-verified: regex
+verified: agent
 uniprot_id: O67854
 ---
 
@@ -74,7 +74,7 @@ LeuBAT is an engineered mutant of the bacterial leucine transporter [LEUT](/xray
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>--</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0 150 mM NaCl 40 mM <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> + 40 mM <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Buffer exchanged into <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> for crystallization</td>

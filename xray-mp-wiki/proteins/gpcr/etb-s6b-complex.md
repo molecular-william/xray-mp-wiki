@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.bbrc.2019.12.091]
-verified: regex
+verified: agent
 uniprot_id: ['P13208', 'P24530']
 ---
 
@@ -76,19 +76,19 @@ The human endothelin ETB receptor (ETBR) is a class A GPCR that binds endothelin
       <td>Solubilization</td>
       <td>Membrane solubilization</td>
       <td>--</td>
-      <td>20 mM Tris-HCl, pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">ddm</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesterol-hydrogen-succinate</a> (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>) + 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">iodoacetamide</a></td>
+      <td>20 mM Tris-HCl, pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">ddm</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesterol-hydrogen-succinate</a> (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)) + 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">iodoacetamide</a></td>
       <td>Solubilized for 1 h at 4 C. Supernatant separated by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 180,000g for 20 min.</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> on <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt affinity resin (Clontech)</td>
-      <td>20 mM Tris-HCl, pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">lmng</a> (wash) / 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">lmng</a> (elution) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (wash) / 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (elution)</td>
+      <td>20 mM Tris-HCl, pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">lmng</a> (wash) / 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">lmng</a> (elution) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (wash) / 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (elution)</td>
       <td>Incubated with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin for 30 min. Washed with 10 column volumes. Eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>.</td>
     </tr>
     <tr>
       <td>TEV protease cleavage and tag removal</td>
-      <td>TEV protease cleavage followed by <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> depletion</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage followed by <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> depletion</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt affinity resin (Clontech)</td>
       <td>20 mM Tris-HCl, pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + --</td>
       <td>Eluate treated with <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> and dialyzed. Cleaved GFP-His10 tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> removed with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin.</td>

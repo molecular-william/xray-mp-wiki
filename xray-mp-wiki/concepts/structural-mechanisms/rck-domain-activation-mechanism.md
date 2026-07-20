@@ -1,13 +1,13 @@
 ---
-title: RCK Domain Activation Mechanism
+title: "RCK Domain Activation Mechanism"
 created: 2026-05-28
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-transport-mechanism]
+tags: [concept-functional, concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1016##j.str.2012.09.014, doi/10.1126##science.1190414]
-verified: false
+verified: regex
 ---
 
 # RCK Domain Activation Mechanism

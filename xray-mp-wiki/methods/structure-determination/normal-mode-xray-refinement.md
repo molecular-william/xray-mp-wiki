@@ -1,5 +1,5 @@
 ---
-title: Normal-Mode-Based X-Ray Crystallographic Refinement
+title: "Normal-Mode-Based X-Ray Crystallographic Refinement"
 created: 2026-06-08
 updated: 2026-06-08
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-refinement, subdirectory-structure-determination]
 sources: [doi/10.1073##pnas.1000142107]
-verified: false
+verified: regex
 ---
 
 # Normal-Mode-Based X-Ray Crystallographic Refinement

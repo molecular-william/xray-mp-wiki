@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11701]
-verified: regex
+verified: agent
 uniprot_id: B6YXQ1
 ---
 
@@ -39,7 +39,7 @@ Human Protease-Activated Receptor 1 (PAR1) is a class A G protein-coupled recept
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mb0">4MB0</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3vw7">3VW7</a></td>
       <td>2.20</td>
       <td>P212121</td>
       <td>Human PAR1 with N-terminal FLAG epitope, TEV cleavage site between P85 and A86 (N-terminus before P85 removed), T4 lysozyme inserted between A301 and A303 in ICL3, 10xHis tag after S395, glycosylation mutations N250G and N259S in ECL2. Truncated at residue 395.

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1712153114]
-verified: regex
+verified: agent
 uniprot_id: Q2EHL8
 ---
 
@@ -93,7 +93,7 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
     </tr>
     <tr>
       <td>Purification</td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td>Lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (<a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>)</td>
       <td>Purified in lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (<a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>) as a stabilizing detergent</td>

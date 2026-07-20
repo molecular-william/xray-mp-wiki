@@ -1,5 +1,5 @@
 ---
-title: Agitoxin-2 (AgTx2)
+title: "Agitoxin-2 (AgTx2)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nsmb.3457]
-verified: false
+verified: agent
 ---
 
 # Agitoxin-2 (AgTx2)

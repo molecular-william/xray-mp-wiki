@@ -1,13 +1,13 @@
 ---
-title: P2Y Receptor Family
+title: "P2Y Receptor Family"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein, xray-crystallography]
+tags: [concept-protein-family, membrane-protein, xray-crystallography, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature13083]
-verified: false
+verified: regex
 ---
 
 # P2Y Receptor Family

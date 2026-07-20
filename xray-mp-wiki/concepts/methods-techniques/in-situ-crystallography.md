@@ -1,13 +1,13 @@
 ---
-title: In situ X-ray Crystallography
+title: "In situ X-ray Crystallography"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, subdirectory-concepts]
+tags: [concept-crystallography-principle, subdirectory-methods-techniques]
 sources: [doi/10.1107##s139900471500423x, doi/10.1107##S1399004715005210, doi/10.1016##j.str.2018.10.027, doi/10.1107##s2052252519007395]
-verified: false
+verified: none
 ---
 
 # In situ X-ray Crystallography

@@ -1,5 +1,5 @@
 ---
-title: Selenomethionine Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing
+title: "Selenomethionine Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing"
 created: 2026-06-02
 updated: 2026-06-02
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-sad, structure-refinement, subdirectory-structure-determination]
 sources: [doi/10.1038##nature09487, doi/10.1038##ncomms8947, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109, doi/10.1128##mBio.03277-19]
-verified: false
+verified: none
 ---
 
 # Selenomethionine Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing

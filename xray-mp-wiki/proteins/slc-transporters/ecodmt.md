@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.51913, doi/10.1038##ncomms14033]
-verified: regex
+verified: agent
 uniprot_id: E4KPW4
 ---
 
@@ -22,7 +22,7 @@ uniprot_id: E4KPW4
 
 ## Overview
 
-EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola belonging to the SLC11/NRAMP family. It catalyzes H+-coupled Mn2+ symport and serves as a structural homologue of human DMT1 (SLC11A2), the primary transporter of dietary ferrous  in enterocytes. EcoDMT adopts the  fold characteristic of the [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/apc-superfamily/), consisting of two topologically related units of five transmembrane helices arranged with opposite orientation. The crystal structure of EcoDMT in complex with the brominated bis-isothiourea inhibitor Br-BIT (PDB 6TL2, 3.8 A) reveals the inhibitor bound to the outward-facing aqueous cavity at the base of a funnel-shaped pocket, with the proximal isothiourea group positioned in direct contact with the metal ion coordination site. This structural characterization, combined with functional studies on both EcoDMT and human DMT1, provides the first detailed mechanistic insight into the pharmacology of SLC11/NRAMP transporters.
+EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola belonging to the SLC11/NRAMP family. It catalyzes H+-coupled Mn2+ symport and serves as a structural homologue of human DMT1 (SLC11A2), the primary transporter of dietary ferrous  in enterocytes. EcoDMT adopts the fold characteristic of the [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/apc-superfamily/), consisting of two topologically related units of five transmembrane helices arranged with opposite orientation. The crystal structure of EcoDMT in complex with the brominated bis-isothiourea inhibitor Br-BIT (PDB 6TL2, 3.8 A) reveals the inhibitor bound to the outward-facing aqueous cavity at the base of a funnel-shaped pocket, with the proximal isothiourea group positioned in direct contact with the metal ion coordination site. This structural characterization, combined with functional studies on both EcoDMT and human DMT1, provides the first detailed mechanistic insight into the pharmacology of SLC11/NRAMP transporters.
 
 ## Publications
 
@@ -96,7 +96,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
     <tr>
       <td>SEC</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>Superdex 200 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>20 mM  pH 7.5, 150 mM NaCl, 8.7% (w/v) , 0.1% (w/v)  + 0.1% (w/v) </td>
       <td>Final purification step. Peak fractions pooled and concentrated.</td>
     </tr>

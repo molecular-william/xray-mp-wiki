@@ -1,13 +1,13 @@
 ---
-title: PAQR Family (Progesterone and AdipoQ Receptor Family)
+title: "PAQR Family (Progesterone and AdipoQ Receptor Family)"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature21714]
-verified: false
+verified: regex
 ---
 
 # PAQR Family (Progesterone and AdipoQ Receptor Family)

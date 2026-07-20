@@ -6,17 +6,17 @@ type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##SJ.EMBOJ.7600585]
-verified: regex
-uniprot_id: Q29411
+sources: [doi/10.1038##sj.emboj.7600585]
+verified: agent
+uniprot_id: P07371
 ---
 
 # Pea Light-Harvesting Complex II (LHC-II)
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q29411">UniProt: Q29411</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P07371">UniProt: P07371</a>
 
-<span class="expr-badge">Sus scrofa</span>
+<span class="expr-badge">Pisum sativum</span>
 
 ## Overview
 
@@ -25,7 +25,7 @@ The pea light-harvesting complex II (LHC-II) is the major light-harvesting pigme
 
 ## Publications
 
-### doi/10.1038##SJ.EMBOJ.7600585
+### doi/10.1038##sj.emboj.7600585
 
 **Structures:**
 
@@ -39,7 +39,7 @@ The pea light-harvesting complex II (LHC-II) is the major light-harvesting pigme
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1zbc">1ZBC</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2bhw">2BHW</a></td>
       <td>2.5</td>
       <td>C2</td>
       <td></td>

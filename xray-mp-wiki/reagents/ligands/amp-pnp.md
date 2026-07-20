@@ -1,5 +1,5 @@
 ---
-title: AMP-PNP
+title: "AMP-PNP"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent

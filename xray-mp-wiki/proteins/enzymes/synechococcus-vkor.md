@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature08720, doi/10.1038##ncomms4110]
-verified: regex
+verified: agent
 ---
 
 # VKOR from Synechococcus sp.
@@ -36,14 +36,14 @@ VKOR ([Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) Epoxide Reductase
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not reported in supplementary information">NOT REPORTED IN SUPPLEMENTARY INFORMATION</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3kp9">3KP9</a></td>
       <td>3.6 A</td>
       <td>P61</td>
       <td>Full-length VKOR from Synechococcus sp. fused with thioredoxin (Trx)-like domain</td>
       <td><a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a> (UQ) in active site</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not reported in supplementary information">NOT REPORTED IN SUPPLEMENTARY INFORMATION</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3kp9">3KP9</a></td>
       <td>1.7 A</td>
       <td>P42121</td>
       <td>Isolated Trx-like domain of VKOR from Synechococcus sp.</td>
@@ -137,21 +137,21 @@ VKOR ([Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) Epoxide Reductase
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not reported">NOT REPORTED</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4nv5">4NV5</a></td>
       <td>3.6 A</td>
       <td>Not specified</td>
       <td>Cys56Ala mutant of VKOR from Synechococcus sp. fused with Trx-like domain (State II)</td>
       <td>None</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not reported">NOT REPORTED</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4nv5">4NV5</a></td>
       <td>4.2 A</td>
       <td>P21</td>
       <td>Cys212Ala mutant of VKOR from Synechococcus sp. fused with Trx-like domain (State III)</td>
       <td>None</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not reported">NOT REPORTED</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4nv5">4NV5</a></td>
       <td>2.8 A</td>
       <td>C2221</td>
       <td>Cys50Ala mutant of VKOR from Synechococcus sp. fused with Trx-like domain (State IV)</td>
@@ -193,7 +193,7 @@ VKOR ([Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) Epoxide Reductase
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td>Gel filtration chromatography</td>
-      <td>SEC column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column</td>
       <td>20 mM Tris/HCl pH 7.5, 0.1 M NaCl, 0.04% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.04% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted without <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; concentrated to approximately 20 mg/ml</td>
     </tr>

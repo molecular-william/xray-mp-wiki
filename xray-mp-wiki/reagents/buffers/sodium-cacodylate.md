@@ -1,5 +1,5 @@
 ---
-title: Sodium Cacodylate
+title: "Sodium Cacodylate"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-cacodylate, subdirectory-buffers]
 sources: [doi/10.1371##journal.pbio.0000072]
-verified: false
+verified: agent
 ---
 
 # Sodium Cacodylate

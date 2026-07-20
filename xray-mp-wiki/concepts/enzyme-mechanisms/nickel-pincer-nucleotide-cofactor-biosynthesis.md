@@ -1,13 +1,13 @@
 ---
-title: Nickel-Pincer Nucleotide Cofactor Biosynthesis
+title: "Nickel-Pincer Nucleotide Cofactor Biosynthesis"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1021##acs.biochem.3c00242]
-verified: false
+verified: regex
 ---
 
 # Nickel-Pincer Nucleotide Cofactor Biosynthesis

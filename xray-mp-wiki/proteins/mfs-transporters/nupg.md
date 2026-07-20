@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jbc.2021.100479, doi/10.1016##j.jbc.2025.108357]
-verified: regex
+verified: agent
 uniprot_id: P0AFF4
 ---
 
@@ -74,14 +74,14 @@ NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity resin (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity resin (Qiagen)</td>
       <td>25 mM MES pH 6.0, 150 mM NaCl, 20-250 mM imidazole + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (wash), 0.4% NG (elution)</td>
       <td>Eluted with 250 mM imidazole in 0.4% NG</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 Increase (GE Healthcare)</td>
       <td>25 mM MES pH 6.0, 150 mM NaCl + 0.4% NG</td>
       <td>Peak fractions concentrated to 30 mg/ml for crystallization</td>

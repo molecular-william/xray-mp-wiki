@@ -1,5 +1,5 @@
 ---
-title: Potassium Chloride (KCl)
+title: "Potassium Chloride (KCl)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##SJ.EMBOJ.7601135, doi/10.1038##nature11900, doi/10.1038##ncomms11673, doi/10.1038##ncomms15383, doi/10.1038##nsmb.1531]
-verified: false
+verified: none
 ---
 
 # Potassium Chloride (KCl)

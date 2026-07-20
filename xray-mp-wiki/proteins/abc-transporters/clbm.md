@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nmicrobiol.2015.9]
-verified: regex
+verified: agent
 uniprot_id: Q0P7K3
 ---
 
@@ -40,14 +40,14 @@ ClbM is a MATE (Multidrug and Toxic Compound Extrusion) family transporter from 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4z3n">4Z3N</a></td>
-      <td>2.7 A</td>
+      <td>2.7</td>
       <td>P 31 2 1</td>
       <td>Full-length ClbM from E. coli</td>
       <td>none (apo state)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4z3p">4Z3P</a></td>
-      <td>3.3 A</td>
+      <td>3.3</td>
       <td>P 31 2 1</td>
       <td>Full-length ClbM from E. coli</td>
       <td>Rb+ (rubidium-bound)</td>

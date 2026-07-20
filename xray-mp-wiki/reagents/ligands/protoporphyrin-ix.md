@@ -1,5 +1,5 @@
 ---
-title: Protoporphyrin IX (PpIX)
+title: "Protoporphyrin IX (PpIX)"
 created: 2026-06-10
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1260590, doi/10.1126##science.aaa1534]
-verified: false
+verified: regex
 ---
 
 # Protoporphyrin IX (PpIX)

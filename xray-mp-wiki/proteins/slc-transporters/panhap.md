@@ -6,7 +6,7 @@ type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.7554##ELIFE.03579]
+sources: [doi/10.7554##elife.03579]
 verified: regex
 uniprot_id: Q9UZ55
 ---
@@ -27,7 +27,7 @@ PaNhaP is an electroneutral Na+/H+ antiporter from the hyperthermophilic archaeo
 
 ## Publications
 
-### doi/10.7554##ELIFE.03579
+### doi/10.7554/elife.03579
 
 **Structures:**
 
@@ -105,7 +105,7 @@ PaNhaP is an electroneutral Na+/H+ antiporter from the hyperthermophilic archaeo
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>10 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> pH 4.0, 300 mM NaCl, 0.15% Cymal-5</td>
       <td>Concentrated to 5 mg/ml. Pooled fractions diluted 1:4 with buffer containing 100 mM NaCl and re-concentrated</td>

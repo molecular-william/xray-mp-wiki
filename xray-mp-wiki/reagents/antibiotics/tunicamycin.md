@@ -1,5 +1,5 @@
 ---
-title: Tunicamycin
+title: "Tunicamycin"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, additive-ligand, subdirectory-antibiotics]
 sources: [doi/10.1038##nchembio.2270]
-verified: false
+verified: agent
 ---
 
 # Tunicamycin

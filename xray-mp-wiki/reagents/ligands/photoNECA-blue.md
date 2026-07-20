@@ -1,5 +1,5 @@
 ---
-title: trans-photoNECA (blue)
+title: "trans-photoNECA (blue)"
 created: 2026-05-19
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.bbrc.2023.149393]
-verified: false
+verified: agent
 ---
 
 # trans-photoNECA (blue)

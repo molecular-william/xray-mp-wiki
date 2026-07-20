@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1038##s41594-020-0373-0]
-verified: regex
+verified: agent
 uniprot_id: Q9CZP5
 ---
 
@@ -102,8 +102,8 @@ Bcs1 is a mitochondrial membrane-bound [AAA](/xray-mp-wiki/reagents/ligands/aaa/
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Nickel-nitrilotriacetic acid (Ni-NTA) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA resin (Qiagen)</td>
+      <td>Nickel-nitrilotriacetic acid (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (Qiagen)</td>
       <td>25 mM Tris, pH 8, 300 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.1% CHAPS</td>
       <td>Bound protein washed and eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient.</td>
     </tr>

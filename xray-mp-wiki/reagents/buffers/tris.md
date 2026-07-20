@@ -1,5 +1,5 @@
 ---
-title: Tris (Tris-HCl Buffer)
+title: "Tris (Tris-HCl Buffer)"
 created: 2026-06-08
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-tris, subdirectory-buffers]
 sources: [doi/10.1038##nature03692, doi/10.1038##nature10917, doi/10.1038##ncomms7112, doi/10.1038##ncomms13411, doi/10.1038##ncomms4110, doi/10.1038##ncomms5355, doi/10.1038##ncomms5521, doi/10.1038##ncomms8097, doi/10.1038##ncomms8895, doi/10.1038##ncomms8947, doi/10.1038##ncomms9004, doi/10.1038##nsmb.3049, doi/10.1038##nature11801, doi/10.1038##nsmb.3417, doi/10.1038##s41421-018-0037-y, doi/10.1038##nsmb.3346, doi/10.1038##nature12233, doi/10.1038##s41467-017-00887-9, doi/10.1126##science.280.5360.69, doi/10.1073##pnas.1303333110, doi/10.7554##eLife.09375, doi/10.7554##eLife.31259, doi/10.1038##nature11524, doi/10.1038##nature12232, doi/10.1038##nature12357, doi/10.1038##nature14656, doi/10.1038##nature22309, doi/10.1038##ncomms11673, doi/10.1038##nsmb.2417]
-verified: false
+verified: none
 ---
 
 # Tris (Tris-HCl Buffer)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41594-019-0245-7]
-verified: regex
+verified: agent
 uniprot_id: Q99808
 ---
 
@@ -89,10 +89,10 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>FLAG M2 affinity</td>
-      <td>FLAG M2 affinity resin</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> M2 affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> M2 affinity resin</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.5 mM TCEP, 1.0 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 1.0 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>High salt wash (500 mM NaCl) then low salt wash, elution with 0.2 mg/mL FLAG peptide. 10 uM <a href="/xray-mp-wiki/reagents/ligands/dilazep/">Dilazep</a> or <a href="/xray-mp-wiki/reagents/ligands/nbmpr/">NBMPR</a> included throughout.</td>
+      <td>High salt wash (500 mM NaCl) then low salt wash, elution with 0.2 mg/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide. 10 uM <a href="/xray-mp-wiki/reagents/ligands/dilazep/">Dilazep</a> or <a href="/xray-mp-wiki/reagents/ligands/nbmpr/">NBMPR</a> included throughout.</td>
     </tr>
     <tr>
       <td>Tag cleavage and deglycosylation</td>
@@ -103,10 +103,10 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.5 mM TCEP + 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>10 uM <a href="/xray-mp-wiki/reagents/ligands/dilazep/">Dilazep</a> or 1.0 uM <a href="/xray-mp-wiki/reagents/ligands/nbmpr/">NBMPR</a> included in gel filtration buffer. For apo (proteoliposome), 5 mM DM used in final step.</td>
+      <td>10 uM <a href="/xray-mp-wiki/reagents/ligands/dilazep/">Dilazep</a> or 1.0 uM <a href="/xray-mp-wiki/reagents/ligands/nbmpr/">NBMPR</a> included in gel filtration buffer. For apo (proteoliposome), 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> used in final step.</td>
     </tr>
   </tbody>
 </table>

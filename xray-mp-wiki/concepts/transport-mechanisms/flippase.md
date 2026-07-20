@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-023-42073-0, doi/10.1038##s41594-020-0425-5]
-verified: none
+verified: regex
 ---
 
 # Flippase

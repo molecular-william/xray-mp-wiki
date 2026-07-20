@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12014, doi/10.1073##pnas.1904210116]
-verified: regex
+verified: agent
 uniprot_id: Q8U2X0
 ---
 
@@ -2031,7 +2031,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>—</td>
       <td></td>
       <td>Standard His-tag purification</td>
@@ -2045,7 +2045,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
       <td>20 mM Hepes-NaOH pH 8.0, 15 mM NaCl, 0.06% (wt/vol) <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a></td>
       <td>Copurified with P. furiosus lipids to capture inward-facing conformation</td>

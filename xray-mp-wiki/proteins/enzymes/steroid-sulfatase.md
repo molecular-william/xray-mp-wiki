@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1074##jbc.M211497200, doi/10.1016##j.jsbmb.2022.106228]
-verified: regex
+verified: agent
 uniprot_id: P08842
 ---
 
@@ -270,7 +270,7 @@ Steroid sulfatase (hSTS) from human placenta is an integral membrane enzyme of t
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>100 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> (pH 8.5), 0.10-0.20 M ammonium phosphate (monobasic), 0.3% BOG</td>
+      <td>100 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> (pH 8.5), 0.10-0.20 M ammonium phosphate (monobasic), 0.3% BOG</td>
     </tr>
     <tr>
       <td>Temperature</td>

@@ -1,5 +1,5 @@
 ---
-title: KAAD-cyclopamine
+title: "KAAD-cyclopamine"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##ncomms5355]
-verified: false
+verified: agent
 ---
 
 # KAAD-cyclopamine

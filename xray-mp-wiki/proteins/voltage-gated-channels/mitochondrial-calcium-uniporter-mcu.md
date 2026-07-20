@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-018-0330-9]
-verified: regex
+verified: agent
 uniprot_id: Q21121
 ---
 
@@ -41,21 +41,14 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5id3">5ID3</a></td>
-      <td>3.50</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6c5w">6C5W</a></td>
+      <td>3.10</td>
       <td>P2_1_2_1_2</td>
-      <td>MaMCU-Rub (Metarhizium acridum MCU residues 62-484 with <a href="/xray-mp-wiki/reagents/protein-tags/rubredoxin/">Rubredoxin Fusion Protein</a> fusion, truncations 62-98, 190-205, 427-484, mutations H327W, M330F)</td>
+      <td>MaMCU-Rub (Metarhizium acridum MCU residues 62-484 with Rubredoxin fusion, truncations 62-98, 190-205, 427-484, mutations H327W, M330F) in complex with nanobody</td>
       <td>Ca2+</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5id5">5ID5</a></td>
-      <td>3.70</td>
-      <td>C222_1</td>
-      <td>MaMCU with <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a></td>
-      <td>Ca2+</td>
-    </tr>
-    <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5idg">5IDG</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6c5r">6C5R</a></td>
       <td>3.10</td>
       <td>C2</td>
       <td>MaMCU soluble domain (NTD only, residues 62-294 with TM domain deleted)</td>
@@ -115,7 +108,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase)</td>
       <td>—</td>
       <td>20 mM Tris pH 8.0, 150 mM NaCl, 2 mM CaCl2, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Peak fractions concentrated to 10-15 mg/mL</td>
@@ -153,7 +146,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 **Sequences (PDBTM):**
 
 <div class="sequence-entry" markdown="1">
-**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5id3">5ID3</a> — Chain A (2 TMs, alpha)**
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6c5w">6C5W</a> — Chain A (2 TMs, alpha)**
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -220,7 +213,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 </div>
 
 <div class="sequence-entry" markdown="1">
-**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5id3">5ID3</a> — Chain B (2 TMs, alpha)**
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6c5w">6C5W</a> — Chain B (2 TMs, alpha)**
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -287,7 +280,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 </div>
 
 <div class="sequence-entry" markdown="1">
-**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5id3">5ID3</a> — Chain C (2 TMs, alpha)**
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6c5w">6C5W</a> — Chain C (2 TMs, alpha)**
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -354,7 +347,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 </div>
 
 <div class="sequence-entry" markdown="1">
-**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5id3">5ID3</a> — Chain D (2 TMs, alpha)**
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6c5w">6C5W</a> — Chain D (2 TMs, alpha)**
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -421,7 +414,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 </div>
 
 <div class="sequence-entry" markdown="1">
-**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5id3">5ID3</a> — Chain E (2 TMs, alpha)**
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6c5w">6C5W</a> — Chain E (2 TMs, alpha)**
 
 <div class="sequence-display">
 <div class="topo-legend">

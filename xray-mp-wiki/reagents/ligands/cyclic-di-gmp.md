@@ -1,5 +1,5 @@
 ---
-title: Cyclic-di-GMP (Bis-(3'-5')-Cyclic Diguanylic Acid)
+title: "Cyclic-di-GMP (Bis-(3'-5')-Cyclic Diguanylic Acid)"
 created: 2026-06-11
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature11744]
-verified: false
+verified: regex
 ---
 
 # Cyclic-di-GMP (Bis-(3'-5')-Cyclic Diguanylic Acid)

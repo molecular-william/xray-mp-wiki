@@ -1,13 +1,13 @@
 ---
-title: pH-Dependent Gating in Membrane Proteins
+title: "pH-Dependent Gating in Membrane Proteins"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-018-07176-z]
-verified: false
+verified: regex
 ---
 
 # pH-Dependent Gating in Membrane Proteins

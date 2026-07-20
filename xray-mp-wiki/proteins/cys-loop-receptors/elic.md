@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.51511, doi/10.1074##jbc.M112.424507, doi/10.1038##ncomms1703, doi/10.1038##s41589-019-0369-4]
-verified: regex
+verified: agent
 uniprot_id: P0C7B7
 ---
 
@@ -27,7 +27,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 
 ## Publications
 
-### doi/10.7554##eLife.51511
+### doi/10.7554/eLife.51511
 
 **Structures:**
 
@@ -94,13 +94,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>IMAC</td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td></td>
       <td>Referenced to Spurny et al. 2012 for standard ELIC purification protocol</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td></td>
       <td>ELIC purified in detergent solution prior to  complex formation</td>
@@ -1361,7 +1361,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 </div>
 
 </div>
-### doi/10.1074##jbc.M112.424507
+### doi/10.1074/JBC.M112.424507
 
 **Structures:**
 
@@ -1935,7 +1935,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 </div>
 
 </div>
-### doi/10.1038##ncomms1703
+### doi/10.1038/NATURE06717
 
 **Structures:**
 
@@ -2523,7 +2523,7 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 </div>
 
 </div>
-### doi/10.1038##s41589-019-0369-4
+### doi/10.1038/s41589-019-0369-4
 
 **Structures:**
 
@@ -2611,8 +2611,8 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
-      <td>Superdex 200 10/300 GL</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
       <td>10 mM Na-phosphate pH 8.0, 150 mM NaCl, 0.15% </td>
       <td>Final purification step; concentrated protein (10 mg/mL) supplemented with 0.5 mg/mL E. coli lipids</td>
     </tr>

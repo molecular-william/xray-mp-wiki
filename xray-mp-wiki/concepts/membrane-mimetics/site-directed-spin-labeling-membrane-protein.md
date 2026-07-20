@@ -1,13 +1,13 @@
 ---
-title: Site-Directed Spin Labeling on Membrane Protein alpha-Helical Sites
+title: "Site-Directed Spin Labeling on Membrane Protein alpha-Helical Sites"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-membrane-mimetics]
 sources: [doi/10.1021##bi101148w]
-verified: false
+verified: regex
 ---
 
 # Site-Directed Spin Labeling on Membrane Protein alpha-Helical Sites

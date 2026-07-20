@@ -1,5 +1,5 @@
 ---
-title: Cyclopiazonic Acid (CPA)
+title: "Cyclopiazonic Acid (CPA)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1073##pnas.0700979104, doi/10.1074##jbc.M611653200]
-verified: false
+verified: none
 ---
 
 # Cyclopiazonic Acid (CPA)

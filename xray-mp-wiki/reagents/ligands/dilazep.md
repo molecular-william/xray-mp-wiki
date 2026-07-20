@@ -1,5 +1,5 @@
 ---
-title: Dilazep
+title: "Dilazep"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41594-019-0245-7, doi/10.1074##jbc.M105324200]
-verified: false
+verified: none
 ---
 
 # Dilazep

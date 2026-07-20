@@ -1,13 +1,13 @@
 ---
-title: BCCT Family (Betaine/Carnitine/Choline Transporter Family)
+title: "BCCT Family (Betaine/Carnitine/Choline Transporter Family)"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein, xray-crystallography]
+tags: [concept-protein-family, membrane-protein, xray-crystallography, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##NATURE07819, doi/10.1038##nsmb.1788]
-verified: false
+verified: none
 ---
 
 # BCCT Family (Betaine/Carnitine/Choline Transporter Family)

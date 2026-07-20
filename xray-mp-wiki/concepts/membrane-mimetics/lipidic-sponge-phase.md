@@ -1,13 +1,13 @@
 ---
-title: Lipidic Sponge Phase (LSP)
+title: "Lipidic Sponge Phase (LSP)"
 created: 2026-06-09
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, concept-membrane-mimetic]
+tags: [concept-crystallography-principle, concept-membrane-mimetic, subdirectory-membrane-mimetics]
 sources: [doi/10.1107##s2052252521013178, doi/10.1107##S2052252519013137, doi/10.1107##s2052252520012142]
-verified: false
+verified: none
 ---
 
 # Lipidic Sponge Phase (LSP)

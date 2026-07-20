@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1308127110]
-verified: regex
+verified: agent
 ---
 
 # YajR Transporter (E. coli MFS Drug Efflux Transporter)
@@ -47,7 +47,7 @@ subfamily and shares highest sequence homology with [EMRD](/xray-mp-wiki/protein
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3wdo">3WDO</a></td>
-      <td>3.15 A</td>
+      <td>3.15</td>
       <td>TBD</td>
       <td>Full-length YajR (residues 1-454) from E. coli, including YAM domain (residues 389-454)</td>
       <td>None</td>
@@ -81,7 +81,7 @@ subfamily and shares highest sequence homology with [EMRD](/xray-mp-wiki/protein
     <tr>
       <td>Purification</td>
       <td>Standard affinity purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> (presumed, based on His-tag immunoblot)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) (presumed, based on His-tag immunoblot)</td>
       <td>Not explicitly reported in main text + Not explicitly reported</td>
       <td>Purification details in SI Appendix</td>
     </tr>

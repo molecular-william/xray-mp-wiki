@@ -4,7 +4,9 @@
 Heuristic: a file is usable if it has a Methods section AND ends naturally
 (period, bracket, or empty line).  Otherwise it may be truncated mid-flow.
 """
-import json, re, sys
+
+import json
+import re
 from pathlib import Path
 
 results = json.loads(Path("scripts/raw_completeness_cache.json").read_text())
@@ -21,20 +23,20 @@ for fname in score2:
     if not p.exists():
         verdict[fname] = (0, "file_missing")
         continue
-    
+
     text = p.read_text("utf-8", errors="replace")
     lines = text.splitlines()
     n = len(lines)
-    
+
     if n < 30:
         verdict[fname] = (0, "too_short")
         continue
-    
+
     has_methods = bool(METHOD_HEADER.search(text))
-    last_content = next((l for l in reversed(lines) if l.strip()), "")
+    last_content = next((line for line in reversed(lines) if line.strip()), "")
     ends_naturally = bool(NATURAL_END.match(last_content))
     has_doi_refs = bool(DOI_NEAR_END.search("\n".join(lines[-100:])))
-    
+
     if has_methods and (ends_naturally or has_doi_refs or n > 400):
         verdict[fname] = (1, "ok")
     elif has_methods and not ends_naturally and not has_doi_refs and n < 200:
@@ -47,9 +49,7 @@ for fname in score2:
         verdict[fname] = (1, "ok_borderline")
 
 # Write cache
-Path("scripts/score2_ocr_verdict.json").write_text(
-    json.dumps({k: v[0] for k, v in verdict.items()}, indent=2)
-)
+Path("scripts/score2_ocr_verdict.json").write_text(json.dumps({k: v[0] for k, v in verdict.items()}, indent=2))
 
 # Summary
 counts = {0: 0, 1: 0}

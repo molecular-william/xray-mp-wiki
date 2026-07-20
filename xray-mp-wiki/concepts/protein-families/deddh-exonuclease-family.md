@@ -1,13 +1,13 @@
 ---
-title: DEDDh Exonuclease Family
+title: "DEDDh Exonuclease Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1093##nar##gkad910]
-verified: false
+verified: regex
 ---
 
 # DEDDh Exonuclease Family

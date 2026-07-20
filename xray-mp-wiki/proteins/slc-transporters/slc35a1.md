@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature24464, doi/10.7554##eLife.45221]
-verified: regex
+verified: agent
 uniprot_id: Q61420
 ---
 
@@ -40,7 +40,7 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/homology model (based on vrg4, pdb 5oge)">HOMOLOGY MODEL (BASED ON VRG4, PDB 5OGE)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5oge">5OGE</a></td>
       <td>N/A</td>
       <td>N/A</td>
       <td>Full-length SLC35A1 homology model</td>
@@ -117,7 +117,7 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
     <tr>
       <td>IMAC</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>25 mM HEPES pH 7.5, 150 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Batch binding for 1.5 hr. Washed with 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, then 20 mM, then 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>. Eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
@@ -133,7 +133,7 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>25 mM HEPES pH 7.5, 150 mM NaCl, 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Concentrated in 50 K MWCO concentrator before SEC</td>
+      <td>Concentrated in 50 K MWCO concentrator before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>

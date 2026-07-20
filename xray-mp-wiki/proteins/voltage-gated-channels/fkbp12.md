@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # FKBP12 (FK506 Binding Protein 12)

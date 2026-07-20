@@ -1,5 +1,5 @@
 ---
-title: Superdex 200 Increase SEC Resin
+title: "Superdex 200 Increase SEC Resin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.jbc.2021.100479, doi/10.1016##j.jmb.2018.02.026, doi/10.1016##j.str.2017.07.009, doi/10.1016##j.str.2019.12.003, doi/10.1038##nature06325, doi/10.1038##nature11524, doi/10.1038##ncomms5355, doi/10.1038##ncomms5521, doi/10.1038##ncomms7874, doi/10.1038##ncomms8947, doi/10.1038##ncomms8995, doi/10.1038##nsmb.3029, doi/10.1038##nsmb.3049]
-verified: false
+verified: regex
 ---
 
 # Superdex 200 Increase SEC Resin

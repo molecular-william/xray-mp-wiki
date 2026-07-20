@@ -1,5 +1,5 @@
 ---
-title: Cytidine Diphosphate Diacylglycerol
+title: "Cytidine Diphosphate Diacylglycerol"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1016##j.crstbi.2021.11.005]
-verified: false
+verified: regex
 ---
 
 # Cytidine Diphosphate Diacylglycerol

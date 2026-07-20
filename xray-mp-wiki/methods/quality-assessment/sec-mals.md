@@ -1,5 +1,5 @@
 ---
-title: Size Exclusion Chromatography with Multi-Angle Light Scattering (SEC-MALS)
+title: "Size Exclusion Chromatography with Multi-Angle Light Scattering (SEC-MALS)"
 created: 2026-06-03
 updated: 2026-06-03
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1038##nature17391, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109]
-verified: false
+verified: regex
 ---
 
 # Size Exclusion Chromatography with Multi-Angle Light Scattering (SEC-MALS)

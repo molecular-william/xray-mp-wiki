@@ -1273,7 +1273,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a> (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) and MBP-<a href="/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/">SMO-FLA Fusion Construct (SMO-Flavodoxin)</a> (SMO-Flavodoxin) (SMO-Flavodoxin) endoglycosidase digestion</td>
       <td>Not specified</td>
       <td>Not specified</td>
-      <td>Digested overnight At 4 C; EGFP and endoglycosidase removed by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> and amylose resin, respectively</td>
+      <td>Digested overnight At 4 C; EGFP and endoglycosidase removed by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) and amylose resin, respectively</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>

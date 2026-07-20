@@ -1,13 +1,13 @@
 ---
-title: Knock-off Mechanism of Ion Permeation
+title: "Knock-off Mechanism of Ion Permeation"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature17975]
-verified: false
+verified: regex
 ---
 
 # Knock-off Mechanism of Ion Permeation

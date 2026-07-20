@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-020-19376-7]
-verified: regex
+verified: agent
 uniprot_id: F2TZN0
 ---
 
@@ -112,14 +112,14 @@ concentrations.
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>20 mM Tris pH 8.0, 200 mM NaCl, 10 mM MgCl2, 20% glycerol + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM Tris pH 8.0, 200 mM NaCl, 10 mM MgCl2, 20% glycerol + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>1 h at 4°C</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> metal affinity</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> Metal Affinity Resin (Clontech)</td>
-      <td>20 mM Tris pH 8.0, 500 mM NaCl, 10 mM MgCl2, 15 mM imidazole, 10% glycerol + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM Tris pH 8.0, 500 mM NaCl, 10 mM MgCl2, 15 mM imidazole, 10% glycerol + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>30 min incubation at 4°C</td>
     </tr>
     <tr>
@@ -138,9 +138,9 @@ concentrations.
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase column</td>
-      <td>20 mM Tris pH 8.0, 150 mM NaCl + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM Tris pH 8.0, 150 mM NaCl + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td></td>
     </tr>
   </tbody>
@@ -169,8 +169,8 @@ concentrations.
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin (Qiagen)</td>
       <td>50 mM Tris pH 8.0, 100 mM NaCl, 10 mM MgCl2, 200 mM imidazole (elution)</td>
       <td>Wash with buffer A, elute with 200 mM imidazole</td>
     </tr>
@@ -183,14 +183,14 @@ concentrations.
     </tr>
     <tr>
       <td>Reverse affinity</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (flow-through)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (flow-through)</td>
       <td>—</td>
       <td></td>
       <td>Remove <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease and His8 tag</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>HiLoad 16/600 <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> pg (GE Healthcare)</td>
       <td>50 mM Tris pH 8.0, 100 mM NaCl, 10 mM MgCl2</td>
       <td></td>

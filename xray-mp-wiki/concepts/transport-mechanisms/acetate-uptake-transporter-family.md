@@ -1,13 +1,13 @@
 ---
-title: Acetate Uptake Transporter (AceTr) Family
+title: "Acetate Uptake Transporter (AceTr) Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1074##jbc.RA118.003876]
-verified: false
+verified: none
 ---
 
 # Acetate Uptake Transporter (AceTr) Family

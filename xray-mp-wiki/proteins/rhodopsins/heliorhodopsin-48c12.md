@@ -7,18 +7,13 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1915888117]
-verified: regex
-uniprot_id: Q6P2Q9
+verified: agent
 ---
 
 # Heliorhodopsin 48C12 from actinobacterial fosmid (Lake Kinneret)
 
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
-
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q6P2Q9">UniProt: Q6P2Q9</a>
-
-<span class="expr-badge">Homo sapiens</span>
 
 ## Overview
 
@@ -41,14 +36,14 @@ HeR-48C12 is a bacterial heliorhodopsin (HeR) discovered in an actinobacterial f
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6s9h">6S9H</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6su3">6SU3</a></td>
       <td>1.5 A</td>
       <td>P2_1</td>
       <td>Full-length HeR-48C12 with C-terminal 6x His tag, expressed in E. coli</td>
       <td>all-trans retinal (covalently bound via Schiff base to Lys238)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6s9i">6S9I</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6su3">6SU3</a></td>
       <td>1.5 A</td>
       <td>P2_1</td>
       <td>Full-length HeR-48C12 with C-terminal 6x His tag</td>
@@ -87,27 +82,27 @@ HeR-48C12 is a bacterial heliorhodopsin (HeR) discovered in an actinobacterial f
       <td>Ultracentrifugation</td>
       <td>—</td>
       <td>30 mM Tris-HCl pH 8.0, 0.3 M NaCl</td>
-      <td>Total lysate centrifuged at 120,000 rcf. Membranes isolated and dispensed in buffer with 1% <a href="/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltoside/">DDM</a> and 5 mM all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>.</td>
+      <td>Total lysate centrifuged at 120,000 rcf. Membranes isolated and dispensed in buffer with 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">[DDM</a>](/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltoside/) and 5 mM all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>.</td>
     </tr>
     <tr>
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>30 mM Tris-HCl pH 8.0, 0.3 M NaCl, 1% DDM</td>
+      <td>30 mM Tris-HCl pH 8.0, 0.3 M NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Membranes stirred overnight at 4 C. Insoluble fraction removed by ultracentrifugation at 120,000 rcf for 1 h.</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose (Cube Biotech)</td>
-      <td>30 mM Tris-HCl pH 8.0, 0.3 M NaCl, 0.05% Triton, 0.2% DDM + 0.2% DDM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose (Cube Biotech)</td>
+      <td>30 mM Tris-HCl pH 8.0, 0.3 M NaCl, 0.05% Triton, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Washed with 3 CV WB1 (10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>), then WB2 (50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>). Eluted with 250 mM L-histidine in buffer pH 7.8.</td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superdex200 Increase 10/300 GL (GE Healthcare)</td>
-      <td>30 mM Tris-HCl, 50 mM NaPi pH 7.8, 300 mM NaCl, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 2 mM 6-aminohexanoic acid, 0.075% DDM + 0.075% DDM</td>
+      <td>30 mM Tris-HCl, 50 mM NaPi pH 7.8, 300 mM NaCl, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 2 mM 6-aminohexanoic acid, 0.075% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.075% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Fractions with peak ratio ~1.25 collected and concentrated to 20 mg/mL</td>
     </tr>
   </tbody>

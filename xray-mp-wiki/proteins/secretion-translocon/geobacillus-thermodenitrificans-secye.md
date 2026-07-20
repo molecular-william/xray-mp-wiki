@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature17163]
-verified: regex
+verified: agent
 uniprot_id: ['A4IJH4', 'A4IJK8', 'P28366']
 ---
 
@@ -106,13 +106,13 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
       <td><a href="/xray-mp-wiki/proteins/slc-transporters/human-ae1-anion-exchanger/">Human AE1 Anion Exchanger (Band 3) - C-Terminal Membrane Domain</a> (Band 3) - C-Terminal Membrane Domain (Band 3) - C-Terminal Membrane Domain <a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a> <a href="/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/">FSEC</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/detergents/octaethylene-glycol-mono-n-dodecylether/">C12E6</a> Q 10/100 column</td>
-      <td>Gradient 15%-35% <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) F (20 mM Tris-HCl Buffer Ph 7.5, 1 M NaCl, 10% GlpF, 0.02% DDM, 5 mM Magnesium Chloride (MgCl₂)) + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Gradient 15%-35% <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) F (20 mM Tris-HCl Buffer Ph 7.5, 1 M NaCl, 10% GlpF, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 5 mM Magnesium Chloride (MgCl₂)) + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Peak fractions collected; 0.1 mg/ml E. coli Polar Lipids and 1 mM <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>/BeFx added</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> 10/300 column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 column</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>-KOH Ph 7.0, 100 mM NaCl, 10% GlpF, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a> (MgCl₂), 1 mM <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>/BeFx + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Concentrated to ~12 mg/ml via 100 kD MWCO Amicon <a href="/xray-mp-wiki/concepts/transport-mechanisms/gas-selectivity-filter/">GAS Selectivity Filter</a></td>
     </tr>

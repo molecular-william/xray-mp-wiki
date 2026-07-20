@@ -1,5 +1,5 @@
 ---
-title: NBD-Phosphatidylserine (NBD-PS)
+title: "NBD-Phosphatidylserine (NBD-PS)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, lipid-analog, subdirectory-lipids]
 sources: [doi/10.1038##nature13984]
-verified: false
+verified: agent
 ---
 
 # NBD-Phosphatidylserine (NBD-PS)

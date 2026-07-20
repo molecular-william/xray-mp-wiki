@@ -1,5 +1,5 @@
 ---
-title: VHH15 Nanobody
+title: "VHH15 Nanobody"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1038##nature13552]
-verified: false
+verified: regex
 ---
 
 # VHH15 Nanobody

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature14909]
-verified: regex
+verified: agent
 ---
 
 # GLUT5 Fructose Transporter
@@ -88,7 +88,7 @@ GLUT5 is a fructose-specific facilitated-diffusion transporter belonging to the 
     </tr>
     <tr>
       <td>Solubilization and purification</td>
-      <td>Affinity chromatography and SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>--</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 150 mM NaCl + 0.03% n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; monodisperse peak assessed by gel filtration</td>

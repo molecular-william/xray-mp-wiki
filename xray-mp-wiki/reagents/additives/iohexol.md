@@ -1,5 +1,5 @@
 ---
-title: Iohexol (Histodenz)
+title: "Iohexol (Histodenz)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##nature22357]
-verified: false
+verified: regex
 ---
 
 # Iohexol (Histodenz)

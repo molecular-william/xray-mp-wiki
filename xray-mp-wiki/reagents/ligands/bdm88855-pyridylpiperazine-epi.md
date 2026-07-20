@@ -1,5 +1,5 @@
 ---
-title: BDM88855 (Pyridylpiperazine Efflux Pump Inhibitor)
+title: "BDM88855 (Pyridylpiperazine Efflux Pump Inhibitor)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, antibiotic]
 sources: [doi/10.1038##s41467-021-27726-2]
-verified: false
+verified: regex
 ---
 
 # BDM88855 (Pyridylpiperazine Efflux Pump Inhibitor)

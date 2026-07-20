@@ -1,13 +1,13 @@
 ---
-title: Cardiotonic Steroids
+title: "Cardiotonic Steroids"
 created: 2026-05-27
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-structural]
+tags: [concept-functional, concept-structural, subdirectory-miscellaneous]
 sources: [doi/10.1016##j.jsb.2010.12.004, doi/10.1073##pnas.2123226119, doi/10.1107##s2053230x1600279x, doi/10.1073##pnas.2020438118]
-verified: false
+verified: regex
 ---
 
 # Cardiotonic Steroids

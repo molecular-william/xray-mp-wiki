@@ -1,5 +1,5 @@
 ---
-title: Thermolysin
+title: "Thermolysin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2012.03.020]
-verified: false
+verified: agent
 ---
 
 # Thermolysin

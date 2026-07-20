@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jsb.2015.06.003]
-verified: regex
+verified: agent
 uniprot_id: P9WJD9
 ---
 
@@ -97,9 +97,9 @@ EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit
     <tr>
       <td>Affinity purification</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) column</td>
       <td>20 mM Tris pH 8.5, 300 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> (wash); gradient to 250 mM imidazole (elution) + --</td>
-      <td>Lysate applied to pre-equilibrated Ni-NTA column; EspB eluted in gradient with <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
+      <td>Lysate applied to pre-equilibrated <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column; EspB eluted in gradient with <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
@@ -110,7 +110,7 @@ EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td>Superdex200 16/30 column</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 100 mM NaCl + --</td>
       <td>Protein concentrated to 10 mg/mL; purity >90%</td>
@@ -132,7 +132,7 @@ EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>0.2 M calcium acetate, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a>, 20% PEG3000</td>
+      <td>0.2 M calcium acetate, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a>, 20% PEG3000</td>
     </tr>
     <tr>
       <td>Temperature</td>

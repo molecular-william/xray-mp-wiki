@@ -1,13 +1,13 @@
 ---
-title: P-glycoprotein Induced-Fit Binding
+title: "P-glycoprotein Induced-Fit Binding"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein, xray-crystallography]
+tags: [concept-functional, membrane-protein, xray-crystallography, subdirectory-miscellaneous]
 sources: [doi/10.1107##s1399004715000978]
-verified: false
+verified: regex
 ---
 
 # P-glycoprotein Induced-Fit Binding

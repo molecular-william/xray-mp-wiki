@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##nsmb.1788]
-verified: none
+verified: regex
 ---
 
 # PGS (Pyrococcus abyssi Glycogen Synthase) Fusion

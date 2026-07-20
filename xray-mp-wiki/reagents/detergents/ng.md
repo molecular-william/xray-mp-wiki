@@ -21,6 +21,7 @@ n-Nonyl-beta-D-glucopyranoside (NG) is a nonionic alkyl glucoside detergent with
 
 - **Chemical name**: n-nonyl-beta-D-glucopyranoside
 - **Class**: nonionic alkyl glucoside
+- **CMC**: 6.5
 
 ## Use in Membrane Protein Work
 

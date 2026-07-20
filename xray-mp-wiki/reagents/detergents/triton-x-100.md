@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1016##j.jmb.2007.10.014, doi/10.1016##j.str.2012.11.010, doi/10.1016##j.str.2016.04.003, doi/10.1038##nature11744]
-verified: false
+verified: agent
 ---
 
 # Triton X-100
@@ -23,6 +23,7 @@ Triton X-100 is a nonionic octylphenyl polyethoxylate detergent used for solubil
 - **Chemical formula**: C14H22O(C2H4O)n
 - **Molecular weight**: ~647 g/mol (n ~9.5)
 - **Class**: nonionic octylphenyl polyethoxylate
+- **CMC**: 0.010-0.016 % w/v
 - **Head group**: polyethylene glycol chain
 - **Tail length**: octylphenyl group
 

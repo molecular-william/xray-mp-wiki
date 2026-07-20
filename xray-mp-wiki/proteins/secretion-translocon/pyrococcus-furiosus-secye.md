@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1012556107]
-verified: regex
+verified: agent
 uniprot_id: ['Q8TZK2', 'Q8U019']
 ---
 
@@ -97,7 +97,7 @@ E. coli strain, confirming the essential role of this helix in protein targeting
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (His-tag)</td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>--</td>
     </tr>

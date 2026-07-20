@@ -1,5 +1,5 @@
 ---
-title: 8B6 Monoclonal Antibody (SERT-specific)
+title: "8B6 Monoclonal Antibody (SERT-specific)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1038##nature17629]
-verified: false
+verified: agent
 ---
 
 # 8B6 Monoclonal Antibody (SERT-specific)

@@ -1,5 +1,5 @@
 ---
-title: Iodoacetamide
+title: "Iodoacetamide"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.bbrc.2019.12.091, doi/10.1016##j.str.2019.12.003, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature08650]
-verified: false
+verified: agent
 ---
 
 # Iodoacetamide

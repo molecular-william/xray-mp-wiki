@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, transporter, membrane-protein]
 sources: [doi/10.1038##s41586-020-2307-8]
-verified: pdb-pass
+verified: agent
 uniprot_id: N0DKS8
 ---
 
@@ -116,28 +116,28 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     </tr>
     <tr>
       <td>2. Membrane solubilization</td>
-      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/CHS extraction</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> extraction</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> pH 8.0, 300 mM NaCl, 1.0% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% CHS</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> pH 8.0, 300 mM NaCl, 1.0% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Overnight stirring at 4°C</td>
     </tr>
     <tr>
       <td>3. <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized metal affinity chromatography</a> (IMAC)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> pH 8.0, 150 mM NaCl, 100-500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.04% CHS</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> pH 8.0, 150 mM NaCl, 100-500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.04% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a> step gradient</td>
     </tr>
     <tr>
       <td>4. <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> cleavage and dialysis</td>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> + dialysis</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> pH 8.0, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.04% CHS</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> pH 8.0, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.04% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Overnight dialysis in 8 kDa MWCO membrane</td>
     </tr>
     <tr>
       <td>5. Reverse IMAC</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> flow-through</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) flow-through</td>
       <td>—</td>
       <td></td>
       <td>Cleaved His tag removed; flow-through collected</td>
@@ -146,7 +146,7 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
       <td>6. <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td>HiLoad Superdex 75 prep grade 16/600</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> pH 8.0, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.04% CHS</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> pH 8.0, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.04% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Final purification step</td>
     </tr>
   </tbody>

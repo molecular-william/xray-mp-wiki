@@ -1,5 +1,5 @@
 ---
-title: 5-Aminolevulinic Acid
+title: "5-Aminolevulinic Acid"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1073##pnas.1813715116]
-verified: false
+verified: agent
 ---
 
 # 5-Aminolevulinic Acid

@@ -28,6 +28,6 @@ Mycolic acids are synthesized by the type II fatty acid synthase system (FAS-II)
 
 
 ## Cross-References
-- [MmpL3](/xray-mp-wiki/proteins/multidrug-efflux-pumps/mmpl3/) — MmpL3 is the essential mycolic acid flippase/transporter
+- [MmpL3](/xray-mp-wiki/proteins/mmpl3/) — MmpL3 is the essential mycolic acid flippase/transporter
 - [MmpL3 Lipid Transport Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/mmpl3-lipid-transport-mechanism/) — Describes the mechanism of mycolic acid transport by MmpL3
-- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/miscellaneous/antibiotic-efflux-pump/) — Mycolic acid barrier contributes to intrinsic antibiotic resistance
+- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — Mycolic acid barrier contributes to intrinsic antibiotic resistance

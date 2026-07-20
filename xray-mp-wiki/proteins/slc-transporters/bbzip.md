@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-023-36048-4]
-verified: regex
+verified: agent
 uniprot_id: A0A0H3LM39
 ---
 
@@ -93,7 +93,7 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superdex Increase 200 (GE Healthcare)</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.3, 300 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.25 mM CdCl2, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>For cysteine variants, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a> added during purification but excluded in gel filtration buffer</td>

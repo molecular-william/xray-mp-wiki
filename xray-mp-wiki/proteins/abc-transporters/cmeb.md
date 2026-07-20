@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-017-00217-z]
-verified: regex
+verified: agent
 uniprot_id: Q0PBE4
 ---
 
@@ -88,15 +88,15 @@ CmeB is the inner membrane Resistance-Nodulation-Division (RND) multidrug efflux
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>20 mM Na-HEPES (pH 7.5), <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>N-terminal 6xHis tag purification</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
-      <td>Superdex 200</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM Na-HEPES (pH 7.5) + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Final polishing step; protein then concentrated to 20 µM for labeling</td>
     </tr>

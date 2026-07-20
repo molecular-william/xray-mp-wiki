@@ -1,5 +1,5 @@
 ---
-title: Nanobody
+title: "Nanobody"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##nature09648, doi/10.1016##j.cell.2018.11.025, doi/10.1126##science.aau5595]
-verified: false
+verified: agent
 ---
 
 # Nanobody

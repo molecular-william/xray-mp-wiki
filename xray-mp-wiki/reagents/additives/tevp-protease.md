@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [enzyme, protease, subdirectory-additives]
 sources: []
-verified: none
+verified: agent
 ---
 
 # TEV Protease (alternate spelling)

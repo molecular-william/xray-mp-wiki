@@ -1,13 +1,13 @@
 ---
-title: Alternating Access Mechanism
+title: "Alternating Access Mechanism"
 created: 2026-06-08
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature03018, doi/10.1186##s12915-021-01102-4, doi/10.1085##jgp.201411219, doi/10.1073##pnas.2006526117, doi/10.1073##pnas.2006027117, doi/10.1038##s41594-020-0425-5, doi/10.1038##nature12233, doi/10.1073##pnas.0709388104, doi/10.1126##science.aah3497, doi/10.1016##j.molcel.2009.01.035, doi/10.1038##nature05155, doi/10.1038##nature14655]
-verified: false
+verified: regex
 ---
 
 # Alternating Access Mechanism

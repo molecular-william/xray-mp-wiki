@@ -1,5 +1,5 @@
 ---
-title: Glycerol 3-Phosphate
+title: "Glycerol 3-Phosphate"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-additives]
 sources: [doi/10.1016##j.crstbi.2021.11.005]
-verified: false
+verified: agent
 ---
 
 # Glycerol 3-Phosphate

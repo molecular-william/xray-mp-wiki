@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # hGLUT1 (Human Glucose Transporter 1)

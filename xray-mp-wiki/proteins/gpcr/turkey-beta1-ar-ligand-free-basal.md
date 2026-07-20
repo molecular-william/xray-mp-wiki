@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.2504]
-verified: regex
+verified: agent
 uniprot_id: Q8N3J5
 ---
 
@@ -41,7 +41,7 @@ Turkey beta1-adrenergic receptor (beta1-AR) in its ligand-free basal state, dete
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4da1">4DA1</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gpo">4GPO</a></td>
       <td>3.5 A</td>
       <td>unknown (highly anisotropic)</td>
       <td>Turkey beta1-AR(H0) with deletions of residues 3-32, 249-283, 366-483; mutations C116L and C358A; C-terminal His6 tag</td>
@@ -71,14 +71,14 @@ Turkey beta1-adrenergic receptor (beta1-AR) in its ligand-free basal state, dete
       <td>Cell harvest and membrane preparation</td>
       <td>Cells broken by sonication, membranes pelleted by ultracentrifugation at 45,000 r.p.m. for 1 h at 4 C.</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> (initial); 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8, 0.35 M NaCl, 0.2 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> (final) + --</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> (initial); 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8, 0.35 M NaCl, 0.2 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> (final) + --</td>
       <td>Membranes resuspended at 10-20 mg protein/ml and flash frozen in liquid nitrogen.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> solubilization</td>
       <td>Detergent solubilization of membrane pellets</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8, 0.35 M NaCl, 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> (n-dodecyl-beta-D-maltopyranoside)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8, 0.35 M NaCl, 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> (n-dodecyl-beta-D-maltopyranoside)</td>
       <td>Solubilized at 10 mg/ml protein in ice-cold buffer.</td>
     </tr>
     <tr>
@@ -90,8 +90,8 @@ Turkey beta1-adrenergic receptor (beta1-AR) in its ligand-free basal state, dete
     </tr>
     <tr>
       <td>Nickel-affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>Buffer containing <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Third purification step using His6 tag.</td>
     </tr>

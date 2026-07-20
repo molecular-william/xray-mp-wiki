@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature07461, doi/10.1038##nature07462, doi/10.1016##j.str.2012.08.009, doi/10.1016##j.str.2016.02.014, doi/10.1085##jgp.201711803, doi/10.1038##emboj.2013.17, doi/10.1073##pnas.1314997111, doi/10.1073##pnas.1813378116, doi/10.1074##jbc.M116.766964, doi/10.7554##eLife.23886, doi/10.1038##NSMB.1933]
-verified: regex
+verified: agent
 uniprot_id: Q7NDN8
 ---
 
@@ -42,7 +42,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ghg">3GHG</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ehz">3EHZ</a></td>
       <td>3.1</td>
       <td>C2</td>
       <td>Full-length GLIC wild-type</td>
@@ -74,7 +74,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ehz">3EHZ</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3eam">3EAM</a></td>
       <td>2.9</td>
       <td>C2</td>
       <td>Full-length GLIC residues 6-315 (MBP fusion cleaved)</td>
@@ -120,14 +120,14 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
     <tr>
       <td>Amylose affinity chromatography</td>
-      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Amylose resin</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (0.02%)</td>
       <td></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography (first)</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (0.02%)</td>
       <td></td>
@@ -141,7 +141,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
     <tr>
       <td>Size-exclusion chromatography (second)</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (0.02%)</td>
       <td></td>
@@ -696,7 +696,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
     <tr>
       <td>Mixing ratio</td>
-      <td>1:1</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -9980,7 +9980,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
     <tr>
       <td>Amylose affinity chromatography</td>
-      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Amylose resin</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (0.5 mM)</td>
       <td>Eluted with 20 mM maltose</td>
@@ -9994,7 +9994,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>100 mM NaCl, 20 mM Tris-HCl pH 7.4 + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (0.5 mM)</td>
       <td></td>
@@ -10021,7 +10021,7 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
     <tr>
       <td>Mixing ratio</td>
-      <td>1:1</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -10568,8 +10568,8 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
@@ -10578,11 +10578,11 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
       <td>HRV 3C protease cleavage</td>
       <td>—</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>MBP cleaved off, removed by rebinding to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td>MBP cleaved off, removed by rebinding to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>10 mM Tris pH 7.5, 150 mM NaCl + 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>

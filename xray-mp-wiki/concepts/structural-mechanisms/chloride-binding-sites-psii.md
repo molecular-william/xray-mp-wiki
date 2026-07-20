@@ -1,13 +1,13 @@
 ---
-title: Chloride-Binding Sites in Photosystem II
+title: "Chloride-Binding Sites in Photosystem II"
 created: 2026-06-17
 updated: 2026-06-17
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-crystallography-principle, subdirectory-concepts]
+tags: [concept-functional, concept-crystallography-principle, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.0812797106]
-verified: false
+verified: regex
 ---
 
 # Chloride-Binding Sites in Photosystem II

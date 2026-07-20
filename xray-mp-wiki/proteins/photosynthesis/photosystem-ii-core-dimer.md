@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##35055589, doi/10.1038##nature13453, doi/10.1038##nature20161]
-verified: regex
+verified: agent
 uniprot_id: ['D0VWR1', 'D0VWR2', 'D0VWR3', 'D0VWR4', 'D0VWR5', 'D0VWR7', 'D0VWR8', 'P0A386', 'P0A387', 'P0A431', 'P0A444', 'P0DM37', 'P12238', 'P12239', 'P12240', 'P12241', 'P12312', 'P12313', 'P19052', 'P19054', 'P51765', 'P56152', 'P59087', 'Q7DGD4', 'Q8CM25', 'Q8DHA7', 'Q8DHJ2', 'Q8DIF8', 'Q8DIN8', 'Q8DIN9', 'Q8DIP0', 'Q8DIQ0', 'Q8DIQ1', 'Q8DJ43', 'Q8DJI1', 'Q8DJZ6', 'Q9F1K9', 'Q9F1L5', 'Q9F1R6']
 ---
 
@@ -41,7 +41,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1s5l">1S5L</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1fe1">1FE1</a></td>
       <td>3.5</td>
       <td>P212121</td>
       <td>PSII core dimer from Thermosynechococcus elongatus, comprising D1, D2, CP43, CP47, cytochrome b-559 (alpha and beta), PsbI, PsbX, PsbH, PsbK, PsbL, and extrinsic proteins PsbO, PsbV, PsbU, and cytochrome c-550</td>
@@ -5490,21 +5490,21 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gth">5GTH</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kaf">5KAF</a></td>
       <td>2.35</td>
       <td>P212121</td>
       <td>PSII core dimer from Thermosynechococcus elongatus, room temperature dark-adapted S1 state, <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">Serial Femtosecond Crystallography</a> at LCLS</td>
       <td>Chlorophyll a, beta-carotene, pheophytin a, <a href="/xray-mp-wiki/reagents/ligands/plastoquinone/">Plastoquinone</a> (QA, QB), haem, bicarbonate, Mn4CaO5 cluster, non-haem <a href="/xray-mp-wiki/reagents/additives/iron/">IRON</a>, Cl-</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gti">5GTI</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kaf">5KAF</a></td>
       <td>2.35</td>
       <td>P212121</td>
       <td>PSII core dimer from Thermosynechococcus elongatus, room temperature two-flash illuminated S3-enriched state, <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">Serial Femtosecond Crystallography</a> at LCLS</td>
       <td>Chlorophyll a, beta-carotene, pheophytin a, <a href="/xray-mp-wiki/reagents/ligands/plastoquinone/">Plastoquinone</a> (QA, QB), haem, bicarbonate, Mn4CaO5 cluster, non-haem <a href="/xray-mp-wiki/reagents/additives/iron/">IRON</a>, Cl-</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gtj">5GTJ</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kaf">5KAF</a></td>
       <td>2.8</td>
       <td>P212121</td>
       <td>PSII core dimer from Thermosynechococcus elongatus, room temperature two-flash illuminated S3-enriched state with 100 mM (NH4)2SO4, <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">Serial Femtosecond Crystallography</a> at LCLS</td>

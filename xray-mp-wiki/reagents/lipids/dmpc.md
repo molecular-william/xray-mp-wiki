@@ -1,5 +1,5 @@
 ---
-title: DMPC (Dimyristoyl Phosphatidylcholine)
+title: "DMPC (Dimyristoyl Phosphatidylcholine)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1016##j.jmb.2011.01.029]
-verified: false
+verified: regex
 ---
 
 # DMPC (Dimyristoyl Phosphatidylcholine)

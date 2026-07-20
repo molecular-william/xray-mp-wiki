@@ -1,5 +1,5 @@
 ---
-title: FLAG Tag
+title: "FLAG Tag"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##nature17391, doi/10.1038##s41422-020-00424-2]
-verified: false
+verified: regex
 ---
 
 # FLAG Tag

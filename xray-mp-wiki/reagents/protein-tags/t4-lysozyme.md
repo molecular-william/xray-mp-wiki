@@ -1,5 +1,5 @@
 ---
-title: T4 Lysozyme (T4L)
+title: "T4 Lysozyme (T4L)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1021##acs.jmedchem.5b00892, doi/10.1021##acs.jmedchem.7b01722, doi/10.1038##nature10867, doi/10.1038##nature11111, doi/10.1038##nature11558, doi/10.1038##nature11701, doi/10.1038##nature12357, doi/10.1038##nature14656, doi/10.1038##nature22309, doi/10.1038##nchembio.2547, doi/10.1038##ncomms8895, doi/10.1038##s41422-020-00424-2]
-verified: false
+verified: regex
 ---
 
 # T4 Lysozyme (T4L)

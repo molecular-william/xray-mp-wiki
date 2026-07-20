@@ -47,7 +47,7 @@ Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco
 **Expression:**
 
 - **Expression system**: Escherichia coli (recombinant expression as GST fusion)
-- **Construct**: PorB fused to glutathione S-transferase (GST), cleaved with [factor Xa](/xray-mp-wiki/reagents/enzymes/factor-xa/) protease; 3 additional N-terminal linker residues (Gly, Ile, Leu) retained
+- **Construct**: PorB fused to glutathione S-transferase (GST), cleaved with [factor Xa](/xray-mp-wiki/reagents/additives/factor-xa/) protease; 3 additional N-terminal linker residues (Gly, Ile, Leu) retained
 
 **Purification:**
 
@@ -91,7 +91,7 @@ Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>Multiple crystal forms with different conditions (see Tables in paper); screens from <a href="/xray-mp-wiki/reagents/crystallization-hampton-research/">Hampton Research</a>, Jena Bioscience, and Emerald</td>
+      <td>Multiple crystal forms with different conditions (see Tables in paper); screens from <a href="/xray-mp-wiki/reagents/additives/crystallization-hampton-research/">Hampton Research</a>, Jena Bioscience, and Emerald</td>
     </tr>
     <tr>
       <td>Temperature</td>

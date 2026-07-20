@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature08277]
-verified: regex
+verified: agent
 ---
 
 # Staphylococcus aureus MscL (Mechanosensitive Channel of Large Conductance)
@@ -35,7 +35,7 @@ SaMscL is the mechanosensitive channel of large conductance from Staphylococcus 
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/(deposited; referenced pdb 2oar for mtmscl comparison)">(DEPOSITED; REFERENCED PDB 2OAR FOR MTMSCL COMPARISON)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3hzq">3HZQ</a></td>
       <td>3.8 A</td>
       <td>Tetragonal (four-fold crystallographic axis coincides with molecular symmetry)</td>
       <td>SaMscL C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> mutant (CΔ26, residues 1-94); one subunit per asymmetric unit</td>
@@ -69,8 +69,8 @@ SaMscL is the mechanosensitive channel of large conductance from Staphylococcus 
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA gravity column</td>
-      <td>2 ml Ni-NTA (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> gravity column</td>
+      <td>2 ml <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a>, 300 mM NaCl, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, pH 7.5 (high salt wash); 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a>, 20 mM NaCl, 75 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, pH 7.5 (low <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> wash); 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a>, 20 mM NaCl, 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, pH 7.5 (elution)</td>
       <td>Protein concentrated to ~15 mg/ml</td>
     </tr>

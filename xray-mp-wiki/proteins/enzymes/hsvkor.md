@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.abc5667]
-verified: regex
+verified: agent
 uniprot_id: Q9BQB6
 ---
 
@@ -130,7 +130,7 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>Size-exclusion chromatography (SEC)</td>
+      <td>Size-exclusion chromatography (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>150 mM NaCl, 20 mM Tris pH 8.0 + 0.05% Lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (<a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>)</td>
       <td>Peak fractions collected; concentrated to 40 mg/mL for crystallization</td>

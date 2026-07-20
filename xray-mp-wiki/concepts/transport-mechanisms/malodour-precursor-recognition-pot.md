@@ -1,13 +1,13 @@
 ---
-title: Malodour Precursor Recognition by POT Transporters
+title: "Malodour Precursor Recognition by POT Transporters"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.7554##eLife.34995]
-verified: false
+verified: none
 ---
 
 # Malodour Precursor Recognition by POT Transporters

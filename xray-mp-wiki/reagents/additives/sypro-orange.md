@@ -1,5 +1,5 @@
 ---
-title: SYPRO Orange Fluorescent Dye
+title: "SYPRO Orange Fluorescent Dye"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##ncomms8947]
-verified: false
+verified: regex
 ---
 
 # SYPRO Orange Fluorescent Dye

@@ -1,5 +1,5 @@
 ---
-title: Capuramycin
+title: "Capuramycin"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1126##science.1236501]
-verified: false
+verified: agent
 ---
 
 # Capuramycin

@@ -1,5 +1,5 @@
 ---
-title: BAPTA (1,2-Bis(o-aminophenoxy)ethane-N,N,N,N,-tetraacetic Acid)
+title: "BAPTA (1,2-Bis(o-aminophenoxy)ethane-N,N,N,N,-tetraacetic Acid)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##SJ.EMBOJ.7601135]
-verified: false
+verified: none
 ---
 
 # BAPTA (1,2-Bis(o-aminophenoxy)ethane-N,N,N,N,-tetraacetic Acid)

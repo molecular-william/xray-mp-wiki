@@ -1,13 +1,13 @@
 ---
-title: Phototaxis Signaling in Microbial Rhodopsins
+title: "Phototaxis Signaling in Microbial Rhodopsins"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1016##j.jmb.2011.11.025]
-verified: false
+verified: regex
 ---
 
 # Phototaxis Signaling in Microbial Rhodopsins

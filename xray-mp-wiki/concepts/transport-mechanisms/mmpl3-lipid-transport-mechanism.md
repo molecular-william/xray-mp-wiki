@@ -1,13 +1,13 @@
 ---
-title: MmpL3 Lipid Transport Mechanism
+title: "MmpL3 Lipid Transport Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.1901346116]
-verified: false
+verified: regex
 ---
 
 # MmpL3 Lipid Transport Mechanism

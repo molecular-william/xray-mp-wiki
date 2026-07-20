@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11558, doi/10.1073##PNAS.1317903111, doi/10.1126##sciadv.abe5504]
-verified: regex
+verified: agent
 uniprot_id: P20789
 ---
 
@@ -746,7 +746,7 @@ The rat [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) receptor 1 (N
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (n-dodecyl-beta-D-maltopyranoside) + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (n-dodecyl-beta-D-maltopyranoside) + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Incubated 1 hour while stirring, followed by 30 min sonication</td>
     </tr>
     <tr>
@@ -772,9 +772,9 @@ The rat [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) receptor 1 (N
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/))</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL (GE Healthcare)</td>
-      <td>SEC Buffer (10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 2 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> Buffer (10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 2 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>)</td>
       <td></td>
     </tr>
   </tbody>

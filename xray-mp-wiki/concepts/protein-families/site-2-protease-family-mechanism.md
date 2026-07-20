@@ -1,13 +1,13 @@
 ---
-title: Site-2 Protease Family Mechanism
+title: "Site-2 Protease Family Mechanism"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1126##sciadv.abp9011]
-verified: false
+verified: regex
 ---
 
 # Site-2 Protease Family Mechanism

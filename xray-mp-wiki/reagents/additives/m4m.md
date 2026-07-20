@@ -1,5 +1,5 @@
 ---
-title: M4M (Bis-(3-Sulfanylpropionyl)disulfide, 4-Carbon Linker MTS Reagent)
+title: "M4M (Bis-(3-Sulfanylpropionyl)disulfide, 4-Carbon Linker MTS Reagent)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature17679]
-verified: true
+verified: agent
 ---
 
 # M4M (Bis-(3-Sulfanylpropionyl)disulfide, 4-Carbon Linker MTS Reagent)

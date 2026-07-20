@@ -1,5 +1,5 @@
 ---
-title: Cobalamin (Vitamin B12)
+title: "Cobalamin (Vitamin B12)"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.7554##eLife.35828]
-verified: false
+verified: none
 ---
 
 # Cobalamin (Vitamin B12)

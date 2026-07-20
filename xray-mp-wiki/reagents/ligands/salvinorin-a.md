@@ -1,5 +1,5 @@
 ---
-title: Salvinorin A
+title: "Salvinorin A"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2017.12.011]
-verified: false
+verified: agent
 ---
 
 # Salvinorin A

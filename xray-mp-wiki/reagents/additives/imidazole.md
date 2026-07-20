@@ -1,5 +1,5 @@
 ---
-title: Imidazole
+title: "Imidazole"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ph, subdirectory-additives]
 sources: [doi/10.1371##journal.pbio.1002411]
-verified: false
+verified: agent
 ---
 
 # Imidazole

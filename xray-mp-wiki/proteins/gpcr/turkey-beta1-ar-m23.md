@@ -41,14 +41,14 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G protein-coupled re
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4lde">4LDE</a></td>
-      <td>2.9 A</td>
+      <td>2.9</td>
       <td>P 21 21 21</td>
       <td>Turkey beta1AR-M23 with BRIL fusion on ICL3</td>
       <td>None (apo form)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ldf">4LDF</a></td>
-      <td>3.0 A</td>
+      <td>3.0</td>
       <td>P 21 21 21</td>
       <td>Turkey beta1AR-M23 with BRIL fusion on ICL3</td>
       <td>Carvedilol</td>
@@ -81,16 +81,16 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G protein-coupled re
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a> using <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA agarose</a> resin</td>
-      <td>Ni-NTA agarose</td>
-      <td>50 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.05% DDM + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Column was washed with buffer containing 0.05% DDM and eluted with 250 mM imidazole.</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a> using <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> agarose](/xray-mp-wiki/reagents/additives/nickel-nta/) resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td>50 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Column was washed with buffer containing 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> and eluted with 250 mM imidazole.</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a> on a Superdex 200 column</td>
-      <td>Superdex 200</td>
-      <td>20 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.05% DDM + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a> on a <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>20 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted fractions containing monodisperse protein were pooled and concentrated.</td>
     </tr>
   </tbody>
@@ -342,35 +342,35 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G protein-coupled re
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/iso327">ISO327</a></td>
-      <td>2.85 A</td>
+      <td>2.85</td>
       <td>P21</td>
       <td>Turkey beta1AR-M23 with carmoterol</td>
       <td>Isoprenaline</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/car7">CAR7</a></td>
-      <td>2.6 A</td>
+      <td>2.6</td>
       <td>P21</td>
       <td>Turkey beta1AR-M23 with carmoterol</td>
       <td>Carmoterol</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/dob92">DOB92</a></td>
-      <td>2.5 A</td>
+      <td>2.5</td>
       <td>P21</td>
       <td>Turkey beta1AR-M23 with dobutamine</td>
       <td>Dobutamine (R-isomer)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/dob102">DOB102</a></td>
-      <td>2.6 A</td>
+      <td>2.6</td>
       <td>P21</td>
       <td>Turkey beta1AR-M23 with dobutamine</td>
       <td>Dobutamine (R-isomer)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/sal109">SAL109</a></td>
-      <td>3.05 A</td>
+      <td>3.05</td>
       <td>P21</td>
       <td>Turkey beta1AR-M23 with salbutamol</td>
       <td>Salbutamol (R-isomer)</td>

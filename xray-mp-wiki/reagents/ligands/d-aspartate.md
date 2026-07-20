@@ -1,5 +1,5 @@
 ---
-title: D-Aspartic Acid (D-Aspartate)
+title: "D-Aspartic Acid (D-Aspartate)"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.7554##eLife.45286]
-verified: false
+verified: none
 ---
 
 # D-Aspartic Acid (D-Aspartate)

@@ -1,13 +1,13 @@
 ---
-title: ESX-1 Secretion System
+title: "ESX-1 Secretion System"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.jsb.2015.06.003]
-verified: false
+verified: regex
 ---
 
 # ESX-1 Secretion System

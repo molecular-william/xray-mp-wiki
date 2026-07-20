@@ -1,13 +1,13 @@
 ---
-title: Microbial Rhodopsins
+title: "Microbial Rhodopsins"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1107##S0907444913017575, doi/10.1126##science.1062977, doi/10.1073##pnas.2016328118]
-verified: false
+verified: none
 ---
 
 # Microbial Rhodopsins

@@ -1,13 +1,13 @@
 ---
-title: GAS Selectivity Filter
+title: "GAS Selectivity Filter"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.cell.2014.01.011]
-verified: false
+verified: regex
 ---
 
 # GAS Selectivity Filter

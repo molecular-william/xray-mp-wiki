@@ -1,5 +1,5 @@
 ---
-title: 1,4-Butanediol
+title: "1,4-Butanediol"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.str.2017.05.022]
-verified: false
+verified: agent
 ---
 
 # 1,4-Butanediol

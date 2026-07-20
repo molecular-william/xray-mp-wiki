@@ -1,13 +1,13 @@
 ---
-title: Apolar Side-Chain Packing in Membrane Proteins
+title: "Apolar Side-Chain Packing in Membrane Proteins"
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design, membrane-protein]
+tags: [concept-construct-design, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1126##science.aav7541]
-verified: false
+verified: regex
 ---
 
 # Apolar Side-Chain Packing in Membrane Proteins

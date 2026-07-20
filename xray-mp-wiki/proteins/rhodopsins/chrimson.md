@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-018-06421-9]
-verified: pdb
+verified: agent
 uniprot_id: Q8L435
 ---
 
@@ -76,21 +76,21 @@ Chrimson is a red light-activated channelrhodopsin from the algae *Chlamydomonas
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a> + 2.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a> + 2.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Insoluble material removed by ultracentrifugation at 208,000 x g</td>
     </tr>
     <tr>
       <td>FLAG affinity purification</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">ANTI-FLAG M2 Agarose</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>ANTI-FLAG M2 Agarose Affinity Gel (Sigma)</td>
-      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Binding for 1.5 h; EGFP-FLAG tag cleaved by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> (homemade) on resin</td>
+      <td>ANTI-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> M2 Agarose Affinity Gel (Sigma)</td>
+      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Binding for 1.5 h; EGFP-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> tag cleaved by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> (homemade) on resin</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td>Not specified</td>
-      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.0, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Peak fractions pooled and concentrated to 7.0 mg/ml for crystallization</td>
     </tr>
   </tbody>

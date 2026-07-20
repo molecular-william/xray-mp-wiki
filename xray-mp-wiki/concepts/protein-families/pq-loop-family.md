@@ -1,13 +1,13 @@
 ---
-title: PQ-Loop Family
+title: "PQ-Loop Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1038##ncomms7112, doi/10.1038##nature12056, doi/10.1016##j.cell.2017.03.010]
-verified: false
+verified: regex
 ---
 
 # PQ-Loop Family

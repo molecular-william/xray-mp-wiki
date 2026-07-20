@@ -1,5 +1,5 @@
 ---
-title: Doxorubicin - Anthracycline Anticancer Drug
+title: "Doxorubicin - Anthracycline Anticancer Drug"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature09408, doi/10.1038##nature05076]
-verified: false
+verified: regex
 ---
 
 # Doxorubicin - Anthracycline Anticancer Drug

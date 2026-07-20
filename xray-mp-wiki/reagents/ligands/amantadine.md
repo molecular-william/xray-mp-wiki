@@ -1,5 +1,5 @@
 ---
-title: Amantadine
+title: "Amantadine"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##jacs.8b06741, doi/10.1021##jacs.9b02196]
-verified: false
+verified: agent
 ---
 
 # Amantadine

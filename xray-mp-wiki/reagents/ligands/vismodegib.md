@@ -1,5 +1,5 @@
 ---
-title: Vismodegib (GDC-0449)
+title: "Vismodegib (GDC-0449)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##ncomms15383]
-verified: false
+verified: agent
 ---
 
 # Vismodegib (GDC-0449)

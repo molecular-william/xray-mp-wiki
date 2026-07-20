@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.289.5480.739, doi/10.1073##pnas.0608022103, doi/10.1016##J.JMB.2004.08.090, doi/10.1038##NATURE09795, doi/10.1038##s41586-023-05863-6, doi/10.1073##pnas.1718084115, doi/10.1038##s41467-023-40911-9, doi/10.1073##pnas.082666399, doi/10.1073##pnas.1114089108, doi/10.1107##S0907444908017162, doi/10.1073##pnas.1617446114]
-verified: regex
+verified: agent
 uniprot_id: P02699
 ---
 
@@ -301,14 +301,14 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
       <td>All-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> (deprotonated Schiff base, covalently bound to Lys296)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2i36">2I36</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2i37">2I37</a></td>
       <td>4.10</td>
       <td>P3(1)12</td>
       <td>Highly delipidated bovine rhodopsin (ground state, same crystal form)</td>
       <td>11-cis <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> (protonated Schiff base)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2i35">2I35</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2i37">2I37</a></td>
       <td>3.80</td>
       <td>R32</td>
       <td>Highly delipidated bovine rhodopsin (ground state, rhombohedral form)</td>
@@ -3886,7 +3886,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
     <tr>
       <td>Nb2 expression and purification</td>
-      <td>Periplasmic expression in <a href="/xray-mp-wiki/concepts/methods-techniques/c41-e-coli-expression-strain/">E. coli</a> WK6 cells; <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity followed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Periplasmic expression in <a href="/xray-mp-wiki/concepts/methods-techniques/c41-e-coli-expression-strain/">E. coli</a> WK6 cells; <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity followed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
       <td></td>
       <td>Nb2 with C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a> expressed in <a href="/xray-mp-wiki/concepts/methods-techniques/c41-e-coli-expression-strain/">E. coli</a> WK6; induced with 1 mM <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG (Isopropyl-beta-D-thiogalactopyranoside)</a> overnight at 28 C; periplasmic fraction extracted with <a href="/xray-mp-wiki/reagents/buffers/tes/">TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid)</a> buffer</td>

@@ -1,13 +1,13 @@
 ---
-title: Conformational Change
+title: "Conformational Change"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural]
+tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1016##j.jmb.2021.167226]
-verified: false
+verified: regex
 ---
 
 # Conformational Change

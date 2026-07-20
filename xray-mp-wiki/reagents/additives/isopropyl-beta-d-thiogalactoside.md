@@ -1,5 +1,5 @@
 ---
-title: Isopropyl beta-D-1-Thiogalactopyranoside (IPTG)
+title: "Isopropyl beta-D-1-Thiogalactopyranoside (IPTG)"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##ncomms5169, doi/10.1038##ncomms5521, doi/10.1038##ncomms8097]
-verified: false
+verified: regex
 ---
 
 # Isopropyl beta-D-1-Thiogalactopyranoside (IPTG)

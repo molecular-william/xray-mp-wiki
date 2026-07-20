@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.aav0365]
-verified: pdb
+verified: agent
 uniprot_id: B7FRW2
 ---
 
@@ -45,7 +45,7 @@ uniprot_id: B7FRW2
       <td>1.8</td>
       <td>TBD</td>
       <td>Lhcf4 (residues 1-166 of 167 total); native FCP dimer from Phaeodactylum tricornutum</td>
-      <td>Chl a (x7), Chl c (x2), Fx (x7), Ddx (x1), phosphatidyl- (x1),  (x1), <a href="/xray-mp-wiki/reagents/detergents/og/">OTG</a>, a-, Ca2+ (x2)</td>
+      <td>Chl a (x7), Chl c (x2), Fx (x7), Ddx (x1), phosphatidyl- (x1), (x1), <a href="/xray-mp-wiki/reagents/detergents/og/">OTG</a>, a-, Ca2+ (x2)</td>
     </tr>
   </tbody>
 </table>

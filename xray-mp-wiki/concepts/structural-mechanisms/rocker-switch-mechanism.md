@@ -1,13 +1,13 @@
 ---
-title: Rocker-Switch Mechanism
+title: "Rocker-Switch Mechanism"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature12139, doi/10.1126##science.1160406]
-verified: false
+verified: regex
 ---
 
 # Rocker-Switch Mechanism

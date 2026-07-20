@@ -1,5 +1,5 @@
 ---
-title: 6-Aminohexanoic Acid (6-AHA)
+title: "6-Aminohexanoic Acid (6-AHA)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.str.2014.06.008]
-verified: false
+verified: agent
 ---
 
 # 6-Aminohexanoic Acid (6-AHA)

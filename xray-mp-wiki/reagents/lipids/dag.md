@@ -1,5 +1,5 @@
 ---
-title: Diacylglycerol (DAG)
+title: "Diacylglycerol (DAG)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1126##science.aab1091]
-verified: false
+verified: regex
 ---
 
 # Diacylglycerol (DAG)

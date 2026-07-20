@@ -1,5 +1,5 @@
 ---
-title: Green Fluorescent Protein (GFP)
+title: "Green Fluorescent Protein (GFP)"
 created: 2026-06-22
 updated: 2026-06-22
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1126##science.295.5560.1669]
-verified: false
+verified: none
 ---
 
 # Green Fluorescent Protein (GFP)

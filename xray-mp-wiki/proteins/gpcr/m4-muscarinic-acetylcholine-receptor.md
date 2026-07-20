@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature17188]
-verified: regex
+verified: agent
 uniprot_id: P08173
 ---
 
@@ -84,8 +84,8 @@ The human M4 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
     </tr>
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin</td>
       <td>-- + --</td>
       <td>First purification step via C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His tag</a></td>
     </tr>
@@ -101,7 +101,7 @@ The human M4 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td>Size exclusion column</td>
       <td>-- + --</td>
-      <td>N-terminus cleaved with <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> (2% w/w) during concentration prior to SEC (~2hr at 4 degrees C). Purified receptor concentrated to 85 AU (~50 mg/mL) and flash frozen in small aliquots using <a href="/xray-mp-wiki/concepts/methods-techniques/cryocooling/">liquid nitrogen</a>.</td>
+      <td>N-terminus cleaved with <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> (2% w/w) during concentration prior to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (~2hr at 4 degrees C). Purified receptor concentrated to 85 AU (~50 mg/mL) and flash frozen in small aliquots using <a href="/xray-mp-wiki/concepts/methods-techniques/cryocooling/">liquid nitrogen</a>.</td>
     </tr>
   </tbody>
 </table>

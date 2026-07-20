@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature19767]
-verified: regex
+verified: agent
 uniprot_id: Q9NA73
 ---
 
@@ -92,14 +92,14 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
       <td>Cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Affinity purification</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt affinity beads (BD Science), 1 ml resin/30 g cell pellet</td>
-      <td>150 mM KCl, 25 mM HEPES (pH 7.5), 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.5% beta-DM + 0.5% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (beta-DM, Anatrace)</td>
+      <td>150 mM KCl, 25 mM HEPES (pH 7.5), 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.5% beta-<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (beta-DM, Anatrace)</td>
       <td>Pre-equilibrated resin, 1-h incubation at room temperature, washed with 5 column volumes of buffer A (150 mM KCl, 25 mM HEPES pH 7.5)</td>
     </tr>
     <tr>
       <td>Elution</td>
       <td>Affinity elution</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> beads</td>
-      <td>150 mM KCl, 25 mM HEPES (pH 7.5), <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient + 0.5% beta-DM</td>
+      <td>150 mM KCl, 25 mM HEPES (pH 7.5), <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient + 0.5% beta-<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Elution via <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient</td>
     </tr>
   </tbody>

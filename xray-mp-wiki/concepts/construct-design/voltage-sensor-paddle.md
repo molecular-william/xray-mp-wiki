@@ -1,13 +1,13 @@
 ---
-title: Voltage-Sensor Paddle
+title: "Voltage-Sensor Paddle"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-construct-design]
 sources: [doi/10.1038##nature01580, doi/10.1038##nature06265]
-verified: false
+verified: regex
 ---
 
 # Voltage-Sensor Paddle

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.3029, doi/10.1038##s41467-021-22385-9]
-verified: regex
+verified: agent
 uniprot_id: ['P0A334', 'Q7K4Y6']
 ---
 
@@ -83,21 +83,21 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
       <td>2</td>
       <td>cobalt-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>cobalt-charged metal-affinity resin</td>
-      <td>1x TBS with 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2 mM CHS, 100 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">IMIDAZOLE</a>, pH 8.0 + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>1x TBS with 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 100 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">IMIDAZOLE</a>, pH 8.0 + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>GFP-His8 tag captured on cobalt resin and eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole">IMIDAZOLE</a></td>
     </tr>
     <tr>
       <td>3</td>
       <td>thrombin cleavage</td>
       <td></td>
-      <td>1x TBS with 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2 mM CHS + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>1x TBS with 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>GFP-His8 tag removed by overnight thrombin digestion at 4 C</td>
     </tr>
     <tr>
       <td>4</td>
       <td>size-exclusion chromatography</td>
-      <td>Superdex 200 10/300 column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 300 mM NaCl, 4 mM decyl-beta-D-maltoside, 0.2 mM CHS, 0.001% <a href="/xray-mp-wiki/reagents/lipids/pope">POPE</a> + 4 mM decyl-beta-D-maltoside</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 300 mM NaCl, 4 mM decyl-beta-D-maltoside, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.001% <a href="/xray-mp-wiki/reagents/lipids/pope">POPE</a> + 4 mM decyl-beta-D-maltoside</td>
       <td>Peak fractions pooled; all procedures at 4 C</td>
     </tr>
   </tbody>

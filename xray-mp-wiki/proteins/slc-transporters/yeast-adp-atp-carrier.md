@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1320692111]
-verified: regex
+verified: agent
 uniprot_id: P18239
 ---
 
@@ -39,7 +39,7 @@ conversion to the m-state without substrate binding.
 
 ## Publications
 
-### doi/10.1073##pnas.1320692111
+### doi/10.1073/PNAS.1320692111
 
 **Structures:**
 

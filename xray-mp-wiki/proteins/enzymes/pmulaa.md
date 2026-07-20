@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1038##s41421-018-0037-y]
-verified: regex
+verified: agent
 uniprot_id: Q9CMQ1
 ---
 
@@ -86,7 +86,7 @@ pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate-
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>25 mM Tris-Cl pH 8.0, 150 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 2 mM ascorbic acid, 0.56% NM</td>
       <td>Eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient, detergent exchanged from <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> to NM during elution</td>
     </tr>

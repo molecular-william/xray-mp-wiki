@@ -1,5 +1,5 @@
 ---
-title: IT1t
+title: "IT1t"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1194396]
-verified: false
+verified: agent
 ---
 
 # IT1t

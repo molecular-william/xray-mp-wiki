@@ -1,13 +1,13 @@
 ---
-title: Interdigitated Inverted Topology Repeat (IITR)
+title: "Interdigitated Inverted Topology Repeat (IITR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s41467-018-03477-5, doi/10.1038##s41467-018-03547-8]
-verified: false
+verified: regex
 ---
 
 # Interdigitated Inverted Topology Repeat (IITR)

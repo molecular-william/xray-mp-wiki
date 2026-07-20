@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms4009, doi/10.1038##s42003-021-02462-x]
-verified: regex
+verified: agent
 uniprot_id: P30878
 ---
 
@@ -42,7 +42,7 @@ uniprot_id: P30878
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4m64">4M64</a></td>
-      <td>3.35 A</td>
+      <td>3.35</td>
       <td>P3221</td>
       <td>Full-length MelBSt, Leu5->Met mutation, <a href="/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/">C-terminal</a> <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His10</a> tag</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/2npg">2NPG</a> (4-nitrophenyl-alpha-D-galactopyranoside)</td>
@@ -70,7 +70,7 @@ uniprot_id: P30878
       <td>Cell culture and membrane preparation</td>
       <td>Fermentation and membrane fractionation</td>
       <td>not specified</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + not specified</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + not specified</td>
       <td>Cells grown in LB broth with 50 mM KP(i), 45 mM (NH(4))(H(2)PO(4)), 0.5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 100 mg/L <a href="/xray-mp-wiki/reagents/antibiotics/ampicillin/">ampicillin</a> at 30 C. Membranes harvested by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 144,651 g for 3 h.</td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ uniprot_id: P30878
       <td>Concentration and dialysis</td>
       <td>Concentration and buffer exchange</td>
       <td>not specified</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.1, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + not specified</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.1, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + not specified</td>
       <td>Concentrated with VIVASPIN 20 (50 kDa cutoff), dialyzed twice against 1 L of buffer.</td>
     </tr>
   </tbody>
@@ -388,14 +388,14 @@ uniprot_id: P30878
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7l17">7L17</a></td>
-      <td>3.05 A</td>
+      <td>3.05</td>
       <td>P 31 2 1</td>
       <td>D59C MelB_St mutant with bound alpha-NPG</td>
       <td>alpha-NPG (4-nitrophenyl-alpha-D-galactopyranoside)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7l16">7L16</a></td>
-      <td>3.15 A</td>
+      <td>3.15</td>
       <td>P 31 2 1</td>
       <td>D59C MelB_St mutant with bound DDMB (dodecyl-beta-D-melibioside)</td>
       <td>DDMB (dodecyl-beta-D-melibioside)</td>

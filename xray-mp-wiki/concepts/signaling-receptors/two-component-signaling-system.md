@@ -1,13 +1,13 @@
 ---
-title: Two-Component Signaling System (TCS) in Membrane Sensors
+title: "Two-Component Signaling System (TCS) in Membrane Sensors"
 created: 2026-06-10
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1126##science.aah6345, doi/10.1038##NATURE01109, doi/10.1128##mBio.03277-19]
-verified: false
+verified: none
 ---
 
 # Two-Component Signaling System (TCS) in Membrane Sensors

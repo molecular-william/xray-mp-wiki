@@ -1,13 +1,13 @@
 ---
-title: GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2)
+title: "GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2)"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-signaling-receptors]
 sources: [doi/10.1126##science.1261064]
-verified: false
+verified: regex
 ---
 
 # GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2)

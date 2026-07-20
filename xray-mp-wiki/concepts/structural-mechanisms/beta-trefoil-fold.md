@@ -6,8 +6,8 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-structural, subdirectory-structural-mechanisms]
-sources: [doi/10.1016##s0969-2126(01)00593-0, doi/10.1002##prot.20853]
-verified: none
+sources: []
+verified: regex
 ---
 
 # Beta-Trefoil Fold

@@ -1,13 +1,13 @@
 ---
-title: CyanoRhodopsin (CyR)
+title: "CyanoRhodopsin (CyR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1038##s41598-020-73606-y]
-verified: false
+verified: regex
 ---
 
 # CyanoRhodopsin (CyR)

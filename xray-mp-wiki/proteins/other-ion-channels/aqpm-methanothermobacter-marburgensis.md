@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.0509469102]
-verified: regex
+verified: agent
 uniprot_id: Q9C4Z5
 ---
 
@@ -85,22 +85,22 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
       <td>Solubilization</td>
       <td>Solubilization in octyl-β-D-glucoside (<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>)</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 300 mM NaCl, 1 mM PMSF, 5.0% OG</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 300 mM NaCl, 1 mM PMSF, 5.0% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Incubated at 4°C for 3 h with stirring</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized metal affinity chromatography</a> (Co²⁺-Sepharose)</td>
       <td>Co²⁺-Sepharose</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 300 mM NaCl, 1.2% OG, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 50 mM (wash) / 300 mM (elution) <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 300 mM NaCl, 1.2% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 50 mM (wash) / 300 mM (elution) <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a></td>
       <td>Batch binding overnight at 4°C; elution with <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> gradient</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>Size-exclusion column</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.4, 100 mM NaCl, 1.2% OG</td>
-      <td>After tag cleavage by Factor Xa, another <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> step was performed</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.4, 100 mM NaCl, 1.2% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
+      <td>After tag cleavage by Factor Xa, another <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) step was performed</td>
     </tr>
   </tbody>
 </table>

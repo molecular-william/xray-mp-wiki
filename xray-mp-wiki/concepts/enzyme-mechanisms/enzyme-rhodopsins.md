@@ -1,13 +1,13 @@
 ---
-title: Enzyme Rhodopsins
+title: "Enzyme Rhodopsins"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1038##s41467-020-19376-7]
-verified: false
+verified: regex
 ---
 
 # Enzyme Rhodopsins

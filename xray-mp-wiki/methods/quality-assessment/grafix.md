@@ -1,5 +1,5 @@
 ---
-title: GraFix (Glycerol-Glutaraldehyde Gradient Fixation)
+title: "GraFix (Glycerol-Glutaraldehyde Gradient Fixation)"
 created: 2026-06-16
 updated: 2026-06-16
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1038##nature13205]
-verified: false
+verified: regex
 ---
 
 # GraFix (Glycerol-Glutaraldehyde Gradient Fixation)

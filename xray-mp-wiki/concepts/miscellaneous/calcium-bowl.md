@@ -1,13 +1,13 @@
 ---
-title: Ca2+ Bowl
+title: "Ca2+ Bowl"
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-miscellaneous]
 sources: [doi/10.1038##nature09252]
-verified: false
+verified: regex
 ---
 
 # Ca2+ Bowl

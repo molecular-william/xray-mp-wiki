@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.7554##eLife.35828]
-verified: regex
+verified: agent
 uniprot_id: ['Q1G7W0', 'Q1GBI8', 'Q1GBI9', 'Q1GBJ0']
 ---
 
@@ -88,14 +88,14 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>BioRad PolyPrep column, 0.5 mL Ni2+ resin</td>
       <td>50 mM KPi, pH 7.5, 300 mM NaCl, 10%  + 0.05% </td>
       <td></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td>50 mM KPi, pH 7.5, 150 mM NaCl + 0.05% </td>
       <td></td>

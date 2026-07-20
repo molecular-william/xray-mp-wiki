@@ -1,5 +1,5 @@
 ---
-title: Diacylglycerol
+title: "Diacylglycerol"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1021##bi900545e]
-verified: false
+verified: agent
 ---
 
 # Diacylglycerol

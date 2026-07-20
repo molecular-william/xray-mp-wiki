@@ -1,5 +1,5 @@
 ---
-title: POPC (1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine)
+title: "POPC (1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1126##sciadv.aba9854]
-verified: false
+verified: regex
 ---
 
 # POPC (1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine)

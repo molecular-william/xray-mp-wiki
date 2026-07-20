@@ -1,5 +1,5 @@
 ---
-title: N,N'-Dimethylurea (DMU)
+title: "N,N'-Dimethylurea (DMU)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature08558]
-verified: false
+verified: regex
 ---
 
 # N,N'-Dimethylurea (DMU)

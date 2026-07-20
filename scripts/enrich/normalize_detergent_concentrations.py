@@ -29,9 +29,11 @@ for yf in sorted(rd.glob("*.yaml")):
     slug = yf.stem
     try:
         data = yaml.safe_load(yf.read_text())
-        if not isinstance(data, dict): continue
+        if not isinstance(data, dict):
+            continue
         tags = data.get("tags", []) or []
-        if not any("detergent" in (t or "") for t in tags): continue
+        if not any("detergent" in (t or "") for t in tags):
+            continue
         title = data.get("title", slug)
         DETERGENT_SLUGS.add(slug)
         DETERGENT_NAME_MAP[title.lower().strip()] = slug
@@ -45,14 +47,22 @@ for yf in sorted(rd.glob("*.yaml")):
         continue
 
 ADDITIONAL = {
-    "dodecylmaltoside": "ddm", "lauryl maltose neopentyl glycol": "lmng",
-    "chaps": "chapso", "triton": "triton-x-100", "triton x-100": "triton-x-100",
-    "nonylglucoside": "ng", "n-nonyl-beta-d-glucoside": "ng",
-    "beta-dodecyl maltoside": "ddm", "beta-decylmaltoside": "dm",
-    "decylmaltoside": "dm", "octylglucoside": "og",
-    "n-octyl-beta-d-glucopyranoside": "og", "n-octyl-beta-d-thioglucoside": "otg",
+    "dodecylmaltoside": "ddm",
+    "lauryl maltose neopentyl glycol": "lmng",
+    "chaps": "chapso",
+    "triton": "triton-x-100",
+    "triton x-100": "triton-x-100",
+    "nonylglucoside": "ng",
+    "n-nonyl-beta-d-glucoside": "ng",
+    "beta-dodecyl maltoside": "ddm",
+    "beta-decylmaltoside": "dm",
+    "decylmaltoside": "dm",
+    "octylglucoside": "og",
+    "n-octyl-beta-d-glucopyranoside": "og",
+    "n-octyl-beta-d-thioglucoside": "otg",
     "octylthioglucoside": "otg",
-    "n-dodecyl-n,n-(dimethylammonio)butyrate": "ddmab", "ddmab": "ddmab",
+    "n-dodecyl-n,n-(dimethylammonio)butyrate": "ddmab",
+    "ddmab": "ddmab",
 }
 DETERGENT_NAME_MAP.update(ADDITIONAL)
 
@@ -119,8 +129,17 @@ def parse_detergent(det_text):
     if isinstance(det_text, list):
         det_text = " ".join(str(x) for x in det_text)
     det_text = str(det_text).strip()
-    skip_words = {"not specified", "n/a", "-", "--", "none", "not applicable",
-                  "see supplementary", "see supplementary materials", "see supplementary information"}
+    skip_words = {
+        "not specified",
+        "n/a",
+        "-",
+        "--",
+        "none",
+        "not applicable",
+        "see supplementary",
+        "see supplementary materials",
+        "see supplementary information",
+    }
     if not det_text or det_text.lower() in skip_words:
         return []
     results, seen_slugs = [], set()
@@ -129,28 +148,37 @@ def parse_detergent(det_text):
         slug = m.group(2).lower().strip()
         if slug not in DETERGENT_SLUGS:
             continue
-        ctx = det_text[max(0, m.start() - 40): m.end() + 20]
+        ctx = det_text[max(0, m.start() - 40) : m.end() + 20]
         cm = CONC_RE.search(ctx)
         conc_val = cm.group(1) if cm else None
         conc_unit = cm.group(2).strip() if cm else None
         if conc_unit:
             conc_unit = re.sub(r"\s+", "", conc_unit)
         if slug not in seen_slugs:
-            results.append({"reagent": f"/xray-mp-wiki/reagents/detergents/{slug}/",
-                            "concentration": str(conc_val) if conc_val is not None else None,
-                            "unit": conc_unit})
+            results.append(
+                {
+                    "reagent": f"/xray-mp-wiki/reagents/detergents/{slug}/",
+                    "concentration": str(conc_val) if conc_val is not None else None,
+                    "unit": conc_unit,
+                }
+            )
             seen_slugs.add(slug)
     # Second pass: split on separators, resolve each part
     text_plain = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", det_text)
     text_plain = PAREN_QUALIFIER.sub(" ", text_plain)
     for part in MULTI_SEP.split(text_plain):
         part = part.strip()
-        if not part: continue
+        if not part:
+            continue
         slug, conc_val, conc_unit = slug_from_text(part)
         if slug and slug not in seen_slugs:
-            results.append({"reagent": f"/xray-mp-wiki/reagents/detergents/{slug}/",
-                            "concentration": str(conc_val) if conc_val is not None else None,
-                            "unit": conc_unit})
+            results.append(
+                {
+                    "reagent": f"/xray-mp-wiki/reagents/detergents/{slug}/",
+                    "concentration": str(conc_val) if conc_val is not None else None,
+                    "unit": conc_unit,
+                }
+            )
             seen_slugs.add(slug)
     return results
 
@@ -164,16 +192,19 @@ def main():
             data = yaml.safe_load(yf.read_text())
         except Exception:
             continue
-        if not isinstance(data, dict): continue
+        if not isinstance(data, dict):
+            continue
         modified = False
         purif_sources = list(data.get("purifications", []) or [])
         for pub in data.get("publications", []) or []:
             if isinstance(pub, dict):
                 purif_sources.extend(pub.get("purifications", []) or [])
         for p in purif_sources:
-            if not isinstance(p, dict): continue
+            if not isinstance(p, dict):
+                continue
             for s in p.get("steps", []) or []:
-                if not isinstance(s, dict): continue
+                if not isinstance(s, dict):
+                    continue
                 total_steps += 1
                 dt = s.get("detergent", "") or ""
                 existing_dd = s.get("detergent_details")
@@ -191,7 +222,11 @@ def main():
                         merged = list(existing_dd) if isinstance(existing_dd, list) else [existing_dd]
                         updated = False
                         for existing in merged:
-                            e_slug = existing.get("reagent", "").rstrip("/").split("/")[-1] if existing.get("reagent") else ""
+                            e_slug = (
+                                existing.get("reagent", "").rstrip("/").split("/")[-1]
+                                if existing.get("reagent")
+                                else ""
+                            )
                             for pe in details:
                                 p_slug = pe.get("reagent", "").rstrip("/").split("/")[-1] if pe.get("reagent") else ""
                                 if e_slug == p_slug:
@@ -214,7 +249,9 @@ def main():
                     n = len(details)
                     if n == 1:
                         type_counter["single-detergent"] += 1
-                        type_counter["with-concentration" if details[0]["concentration"] is not None else "name-only"] += 1
+                        type_counter[
+                            "with-concentration" if details[0]["concentration"] is not None else "name-only"
+                        ] += 1
                     else:
                         type_counter["multi-detergent"] += 1
                 else:
@@ -225,7 +262,9 @@ def main():
                 raw = yaml.dump(data, default_flow_style=False, allow_unicode=True, sort_keys=False)
                 yf.write_text(raw)
     mode = "DRY RUN" if DRY_RUN else "LIVE"
-    print(f"{mode}: {parsed} new steps, {type_counter.get('conc-filled',0)} conc-filled, {empty} empty, {skipped} skipped")
+    print(
+        f"{mode}: {parsed} new steps, {type_counter.get('conc-filled', 0)} conc-filled, {empty} empty, {skipped} skipped"
+    )
     print(f"  ({len(changes)} files modified)")
     for t, c in type_counter.most_common():
         print(f"  {c:5} | {t}")

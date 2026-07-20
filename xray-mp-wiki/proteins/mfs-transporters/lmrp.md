@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41594-020-0464-y]
-verified: regex
+verified: agent
 uniprot_id: Q48658
 ---
 
@@ -92,8 +92,8 @@ hydrophobic component to accommodate diverse substrates.
     </tr>
     <tr>
       <td>3. <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA affinity</td>
-      <td>Ni-NTA (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
       <td>50 mM HEPES pH 7, 150 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> for binding; 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> wash; 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> elution</td>
     </tr>

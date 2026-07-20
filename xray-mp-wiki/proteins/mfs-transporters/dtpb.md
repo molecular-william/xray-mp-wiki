@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.celrep.2023.112831]
-verified: regex
+verified: agent
 uniprot_id: P36837
 ---
 
@@ -138,7 +138,7 @@ DtpB is a proton-dependent oligopeptide transporter (POT) from the Major Facilit
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Not specified</td>
       <td>Not specified</td>
       <td>Purified prior to <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> complex formation</td>
@@ -148,7 +148,7 @@ DtpB is a proton-dependent oligopeptide transporter (POT) from the Major Facilit
       <td>Size-exclusion chromatography</td>
       <td>Not specified</td>
       <td>Not specified</td>
-      <td>DtpB-Nb132 complex purified by SEC</td>
+      <td>DtpB-Nb132 complex purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>

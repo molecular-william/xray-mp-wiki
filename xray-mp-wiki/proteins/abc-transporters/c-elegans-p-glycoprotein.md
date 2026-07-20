@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11448]
-verified: regex
+verified: agent
 uniprot_id: Q13627
 ---
 
@@ -41,7 +41,7 @@ P-glycoprotein (P-gp) from Caenorhabditis elegans is an [ATP](/xray-mp-wiki/reag
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mq1">4MQ1</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4f4c">4F4C</a></td>
       <td>3.4</td>
       <td>P212121</td>
       <td>C. elegans P-glycoprotein, full-length, N125 glycosylated</td>
@@ -89,10 +89,10 @@ P-glycoprotein (P-gp) from Caenorhabditis elegans is an [ATP](/xray-mp-wiki/reag
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a> (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a> (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/))</td>
       <td>--</td>
       <td>Not specified + Not specified</td>
-      <td>Final polishing step; <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> used for sample homogeneity assessment</td>
+      <td>Final polishing step; <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) used for sample homogeneity assessment</td>
     </tr>
   </tbody>
 </table>

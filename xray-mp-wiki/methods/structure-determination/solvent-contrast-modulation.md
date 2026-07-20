@@ -1,5 +1,5 @@
 ---
-title: X-ray Solvent Contrast Modulation
+title: "X-ray Solvent Contrast Modulation"
 created: 2026-06-16
 updated: 2026-06-16
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-xray, subdirectory-structure-determination]
 sources: [doi/10.1038##nature22357]
-verified: false
+verified: regex
 ---
 
 # X-ray Solvent Contrast Modulation

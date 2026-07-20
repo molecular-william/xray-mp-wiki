@@ -85,21 +85,21 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
       <td>Detergent solubilization screen</td>
       <td>--</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8, 200 mM NaCl + 2% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (n-Dodecyl-N,N-Dimethylamine-N-Oxide)</td>
-      <td><a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> selected as most efficient detergent after screening CHAPS, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, FC12, <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, MNG, NG, β-OG.</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> selected as most efficient detergent after screening CHAPS, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, FC12, <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, MNG, NG, β-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized metal affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose (Qiagen)</td>
       <td>Wash: 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.0, 200 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.4% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; Elution: 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.4% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> added before loading. 50 mg of AtPIP2;4-FL obtained from 90 g cells.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> for buffer exchange and polishing</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) for buffer exchange and polishing</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex200</a> Increase 10/300 GL (GE Healthcare)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.0, 200 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> (n-Octyl-β-D-Glucopyranoside) or 0.145% OGNPG (Octyl <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> Neopentyl Glycol)</td>
-      <td>For crystallization, β-OG and OGNPG gave monodisperse peaks for FL. For truncated variant, β-OG, <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> and <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> gave monodisperse peaks.</td>
+      <td>For crystallization, β-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> and OGNPG gave monodisperse peaks for FL. For truncated variant, β-OG, <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> and <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> gave monodisperse peaks.</td>
     </tr>
   </tbody>
 </table>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature05076, doi/10.1126##science.1131542, doi/10.1371##journal.pbio.0050007, doi/10.1038##nature13205, doi/10.1038##s41467-021-24151-3, doi/10.1038##nature01050, doi/10.1007##s10969-013-9154-x, doi/10.1016##j.jsb.2011.01.014, doi/10.1016##j.str.2007.09.023, doi/10.1038##ncomms13819, doi/10.7554##eLife.03145]
-verified: regex
+verified: agent
 uniprot_id: ['P0AAW9', 'P0ADZ7', 'P31224']
 ---
 
@@ -2726,7 +2726,7 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
       <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td></td>
       <td></td>
     </tr>
@@ -3575,8 +3575,8 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 7.5, 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Wash with 50 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a>; elute with 200 mM imidazole</td>
     </tr>
@@ -4522,7 +4522,7 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>—</td>
       <td></td>
       <td>AcrBZ complex enriched by IMAC before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">size-exclusion chromatography</a></td>
@@ -16365,22 +16365,22 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2jbs">2JBS</a></td>
       <td>2.54</td>
       <td>P2$_{1}$2$_{1}$2$_{1}$</td>
-      <td>AcrB in complex with <a href="/xray-mp-wiki/concepts/darpin">DARPin</a>#1 crystallization chaperone</td>
-      <td><a href="/xray-mp-wiki/concepts/darpin">DARPin</a>#1</td>
+      <td>AcrB in complex with <a href="/xray-mp-wiki/reagents/protein-tags/darpin">DARPin</a>#1 crystallization chaperone</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/darpin">DARPin</a>#1</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3noc">3NOC</a></td>
       <td>2.70</td>
       <td>P2$_{1}$2$_{1}$2$_{1}$</td>
-      <td>AcrB in complex with <a href="/xray-mp-wiki/concepts/darpin">DARPin</a>#2 crystallization chaperone</td>
-      <td><a href="/xray-mp-wiki/concepts/darpin">DARPin</a>#2</td>
+      <td>AcrB in complex with <a href="/xray-mp-wiki/reagents/protein-tags/darpin">DARPin</a>#2 crystallization chaperone</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/darpin">DARPin</a>#2</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3nog">3NOG</a></td>
       <td>3.34</td>
       <td>P2$_{1}$2$_{1}$2$_{1}$</td>
-      <td>AcrB in complex with <a href="/xray-mp-wiki/concepts/darpin">DARPin</a>#3 crystallization chaperone</td>
-      <td><a href="/xray-mp-wiki/concepts/darpin">DARPin</a>#3</td>
+      <td>AcrB in complex with <a href="/xray-mp-wiki/reagents/protein-tags/darpin">DARPin</a>#3 crystallization chaperone</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/darpin">DARPin</a>#3</td>
     </tr>
   </tbody>
 </table>
@@ -18150,7 +18150,7 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
       <td>3.5</td>
       <td>P3221</td>
       <td>AcrB in complex with endogenous <a href="/xray-mp-wiki/proteins/yajc">YajC</a> transmembrane subunit</td>
-      <td><a href="/xray-mp-wiki/reagents/ligands/ampicillin">Ampicillin</a></td>
+      <td><a href="/xray-mp-wiki/reagents/antibiotics/ampicillin">Ampicillin</a></td>
     </tr>
   </tbody>
 </table>
@@ -19295,8 +19295,8 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4dx5">4DX5</a></td>
       <td>2.5</td>
       <td>P2$_{1}$2$_{1}$2$_{1}$</td>
-      <td>Wild-type AcrB in complex with <a href="/xray-mp-wiki/concepts/darpin">DARPin</a> crystallization chaperone</td>
-      <td><a href="/xray-mp-wiki/reagents/ligands/fusidic-acid">Fusidic Acid</a></td>
+      <td>Wild-type AcrB in complex with <a href="/xray-mp-wiki/reagents/protein-tags/darpin">DARPin</a> crystallization chaperone</td>
+      <td><a href="/xray-mp-wiki/reagents/antibiotics/fusidic-acid">Fusidic Acid</a></td>
     </tr>
   </tbody>
 </table>

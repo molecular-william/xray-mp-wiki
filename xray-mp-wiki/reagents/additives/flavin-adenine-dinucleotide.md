@@ -1,5 +1,5 @@
 ---
-title: Flavin Adenine Dinucleotide (FAD)
+title: "Flavin Adenine Dinucleotide (FAD)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1073##pnas.0904165106]
-verified: false
+verified: regex
 ---
 
 # Flavin Adenine Dinucleotide (FAD)

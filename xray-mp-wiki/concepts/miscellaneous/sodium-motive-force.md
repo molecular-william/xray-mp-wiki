@@ -1,13 +1,13 @@
 ---
-title: Sodium-Motive Force (SMF)
+title: "Sodium-Motive Force (SMF)"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-miscellaneous]
 sources: [doi/10.1016##j.jmb.2009.05.082]
-verified: false
+verified: regex
 ---
 
 # Sodium-Motive Force (SMF)

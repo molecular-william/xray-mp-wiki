@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12484, doi/10.1038##nsmb.3164]
-verified: regex
+verified: agent
 uniprot_id: ['Q5SIA2', 'Q72IM4']
 ---
 
@@ -42,7 +42,7 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4bwz">4BWZ</a></td>
-      <td>3.0 A</td>
+      <td>\'3.0\'</td>
       <td>C222_1</td>
       <td>Full-length NapA from Thermus thermophilus (Uniprot Q72IM4), GFP-His8 fusion with TEV cleavage site</td>
       <td>zinc (2 ions per monomer)</td>
@@ -83,15 +83,15 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity capture</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin</td>
       <td>1x PBS, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">Imidazole</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Washed with 20 mM and 50 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Elution</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity elution</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity elution</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin</td>
       <td>1x PBS, 150 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">Imidazole</a>, 0.6% NM + 0.6% NM</td>
       <td>Eluted in NM-containing buffer</td>
     </tr>
@@ -104,8 +104,8 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
     <tr>
       <td>Second <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> His-Trap column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) His-Trap column</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.5% NM + 0.5% NM</td>
       <td>Cleaved NapA collected in flow-through</td>
     </tr>
@@ -400,14 +400,14 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5bz2">5BZ2</a></td>
-      <td>3.7 A</td>
+      <td>\'3.7\'</td>
       <td>C222_1</td>
       <td>Full-length NapA V31C I130C mutant (Uniprot Q72IM4), TEV-cleaved</td>
       <td>none</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5bz3">5BZ3</a></td>
-      <td>2.3 A</td>
+      <td>\'2.3\'</td>
       <td>C222_1</td>
       <td>Full-length NapA wild-type (Uniprot Q72IM4), TEV-cleaved</td>
       <td>LCP lipid MAG7.7 modeled at core-dimer interface</td>
@@ -460,15 +460,15 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity capture</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin</td>
       <td>1x PBS, 150 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Washed with 10, 20, 45 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">Imidazole</a> (3 x 10 CV each)</td>
     </tr>
     <tr>
       <td>Elution</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity elution</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity elution</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin</td>
       <td>1x PBS, 150 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">Imidazole</a>, 0.6% NM + 0.6% NM</td>
       <td>Eluted in NM-containing buffer</td>
     </tr>
@@ -481,8 +481,8 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
     </tr>
     <tr>
       <td>Second <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> His-Trap column (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) His-Trap column (GE Healthcare)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.5% NM + 0.5% NM</td>
       <td>Cleaved NapA collected in flow-through</td>
     </tr>
@@ -491,14 +491,14 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Pre-incubated with 1 mM CuSO4 for 30 min for reoxidation; <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Pre-incubated with 1 mM CuSO4 for 30 min for reoxidation; <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>
     <tr>
       <td>Gel filtration (structural studies)</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.6% NM + 0.6% NM</td>
-      <td>No CuSO4 treatment; <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> in NM</td>
+      <td>No CuSO4 treatment; <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) in NM</td>
     </tr>
   </tbody>
 </table>

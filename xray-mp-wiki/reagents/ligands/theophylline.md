@@ -1,5 +1,5 @@
 ---
-title: Theophylline
+title: "Theophylline"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.str.2017.06.012, doi/10.1021##acs.jmedchem.0c01856]
-verified: false
+verified: agent
 ---
 
 # Theophylline

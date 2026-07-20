@@ -1,5 +1,5 @@
 ---
-title: Bacterioruberin
+title: "Bacterioruberin"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids, additive-ligand]
 sources: [doi/10.1016##j.jmb.2007.11.039, doi/10.1371##journal.pone.0108362]
-verified: false
+verified: agent
 ---
 
 # Bacterioruberin

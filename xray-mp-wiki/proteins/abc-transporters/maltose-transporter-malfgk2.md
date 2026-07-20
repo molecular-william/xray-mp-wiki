@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1108858108, doi/10.1073##pnas.1311407110, doi/10.1016##j.molcel.2009.01.035, doi/10.1126##science.1200767, doi/10.1038##nature12232]
-verified: regex
+verified: agent
 uniprot_id: ['C9QV42', 'C9QV46', 'P02916', 'P0AEX9', 'P68183', 'P68187', 'P69783']
 ---
 

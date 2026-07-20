@@ -1,13 +1,13 @@
 ---
-title: Glycine-Gating Hinge
+title: "Glycine-Gating Hinge"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature01580]
-verified: false
+verified: regex
 ---
 
 # Glycine-Gating Hinge

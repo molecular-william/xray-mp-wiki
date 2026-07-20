@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41586-018-0003-8]
-verified: none
+verified: agent
 ---
 
 # Vonoprazan
@@ -32,7 +32,7 @@ Vonoprazan is used as a potassium-competitive acid blocker for treating gastroes
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Gastric H+,K+-ATPase](/xray-mp-wiki/proteins/pumps-atpases/gastric-h-k-atpase/) | 0.1 mM in crystallization | Co-crystallized at 2.8 Å resolution (PDB 5YLU) in luminal-open E2P state | Blocks K+ binding by occupying the luminal conduit to the cation-binding site |
+| [Gastric H+,K+-ATPase](/xray-mp-wiki/proteins/pumps-atpases/gastric-hk-atpase/) | 0.1 mM in crystallization | Co-crystallized at 2.8 Å resolution (PDB 5YLU) in luminal-open E2P state | Blocks K+ binding by occupying the luminal conduit to the cation-binding site |
 
 ## Advantages and Disadvantages
 
@@ -44,5 +44,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Gastric H+,K+-ATPase](/xray-mp-wiki/proteins/pumps-atpases/gastric-h-k-atpase/) — Target; co-crystallized in luminal-open E2P state
+- [Gastric H+,K+-ATPase](/xray-mp-wiki/proteins/pumps-atpases/gastric-hk-atpase/) — Target; co-crystallized in luminal-open E2P state
 - [SCH28080](/xray-mp-wiki/reagents/ligands/sch28080/) — Related P-CAB with partially overlapping binding mode

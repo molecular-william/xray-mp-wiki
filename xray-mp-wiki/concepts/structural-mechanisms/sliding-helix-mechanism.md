@@ -1,13 +1,13 @@
 ---
-title: Sliding Helix Mechanism
+title: "Sliding Helix Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1016##j.cell.2019.06.031]
-verified: false
+verified: regex
 ---
 
 # Sliding Helix Mechanism

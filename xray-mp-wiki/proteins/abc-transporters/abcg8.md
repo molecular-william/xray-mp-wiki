@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature17666, doi/10.1016##j.jmb.2022.167795]
-verified: regex
+verified: agent
 uniprot_id: ['Q9H221', 'Q9H222']
 ---
 
@@ -543,17 +543,17 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     </tr>
     <tr>
       <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
-      <td>20-mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/))</td>
+      <td>20-mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) column</td>
       <td>Not specified + Not specified</td>
-      <td>Peak fractions from <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> elua<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> collected</td>
+      <td>Peak fractions from <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) elua<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> collected</td>
     </tr>
     <tr>
       <td>Calmodulin-binding peptide (CBP) chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> (CBP)</td>
       <td>5-mL CBP column</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM NaCl, 0.1% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.1 mM TCEP, 1 mM CaCl2, 1 mM MgCl2 + beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> elua<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> mixed with CBP wash buffer and loaded onto CBP column</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM NaCl, 0.1% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.1 mM TCEP, 1 mM CaCl2, 1 mM MgCl2 + beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) elua<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> mixed with CBP wash buffer and loaded onto CBP column</td>
     </tr>
     <tr>
       <td>Detergent exchange</td>
@@ -566,7 +566,7 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
       <td>Elution from CBP column</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td>CBP column</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM NaCl, 2 mM EGTA, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 1 mM TCEP + <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM NaCl, 2 mM EGTA, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 mM TCEP + <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td><a href="/xray-mp-wiki/proteins/abcg5">ABCG5/G8</a> proteins eluted from CBP column</td>
     </tr>
     <tr>
@@ -578,17 +578,17 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     </tr>
     <tr>
       <td>Gel filtration chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> 30/100 GL column</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>CBP tag-free proteins purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a>; peak fractions pooled</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/cholate">Cholate</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>CBP tag-free proteins purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography); peak fractions pooled</td>
     </tr>
     <tr>
       <td>Reductive methylation and cysteine alkylation</td>
       <td>Chemical modification</td>
-      <td>2-mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> column</td>
+      <td>2-mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) column</td>
       <td>Not specified + Not specified</td>
-      <td>Methylated proteins relipidated with <a href="/xray-mp-wiki/reagents/lipids/dopc/">DOPC</a>:<a href="/xray-mp-wiki/reagents/lipids/dope/">DOPE</a> (3:1, w/w), purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>, treated with <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a></td>
+      <td>Methylated proteins relipidated with <a href="/xray-mp-wiki/reagents/lipids/dopc/">DOPC</a>:<a href="/xray-mp-wiki/reagents/lipids/dope/">DOPE</a> (3:1, w/w), purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/), treated with <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> incubation</td>

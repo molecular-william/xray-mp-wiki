@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-019-09658-0, doi/10.1016##j.str.2022.05.008, doi/10.1073##pnas.1802192115]
-verified: regex
+verified: agent
 uniprot_id: ['A0A979HMS2', 'B7IE18', 'P0AF16']
 ---
 
@@ -47,28 +47,28 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6nbl">6NBL</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6nc6">6NC6</a></td>
       <td>3.2</td>
       <td>Not specified</td>
       <td>MurJ_TA inward-closed</td>
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6nbm">6NBM</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6nc6">6NC6</a></td>
       <td>3.0</td>
       <td>Not specified</td>
       <td>MurJ_TA inward-open</td>
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6nbn">6NBN</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6nc6">6NC6</a></td>
       <td>2.6</td>
       <td>Not specified</td>
       <td>MurJ_TA inward-occluded</td>
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6nbo">6NBO</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6nc6">6NC6</a></td>
       <td>1.8</td>
       <td>Not specified</td>
       <td>MurJ_TA outward-facing</td>
@@ -117,10 +117,10 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     </tr>
     <tr>
       <td>Buffer exchange and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300</td>
       <td>20 mM HEPES-NaOH pH 8.0, 150 mM Na acetate, 2 mM DTT, 0.3 mM decyl maltose neopentyl glycol (<a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>)</td>
-      <td>Exchanged into <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a> by 15-fold dilution prior to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Exchanged into <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a> by 15-fold dilution prior to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>
@@ -489,13 +489,13 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Immobilized metal-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5% glycerol, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-ME</a></td>
       <td>Eluted with 100-300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient. GFP-His8 tag cleaved by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease at 4 C for 16 h.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase</a> 10/30 GL</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-ME</a></td>
       <td></td>

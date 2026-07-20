@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, channel, membrane-protein]
 sources: [doi/10.1073##pnas.1210076109]
-verified: regex
+verified: agent
 ---
 
 # MjCorA — CorA Mg2+ Transporter from Methanocaldococcus jannaschii
@@ -36,7 +36,7 @@ CorA is the primary Mg2+ transport system in most prokaryotes and is conserved t
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not in raw text">NOT IN RAW TEXT</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ev6">4EV6</a></td>
       <td>3.20</td>
       <td>—</td>
       <td>Full-length MjCorA</td>

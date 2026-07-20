@@ -1,5 +1,5 @@
 ---
-title: Cell-Free Protein Synthesis for Membrane Proteins
+title: "Cell-Free Protein Synthesis for Membrane Proteins"
 created: 2026-06-11
 updated: 2026-06-11
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [expression-system, subdirectory-expression-systems]
 sources: [doi/10.1016##j.jmb.2011.06.028]
-verified: false
+verified: regex
 ---
 
 # Cell-Free Protein Synthesis for Membrane Proteins

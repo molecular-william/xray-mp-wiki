@@ -1,5 +1,5 @@
 ---
-title: Desipramine
+title: "Desipramine"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature06038, doi/10.1126##science.1147614]
-verified: false
+verified: agent
 ---
 
 # Desipramine

@@ -1,5 +1,5 @@
 ---
-title: Switch-Loop Gating in RND Multidrug Transporters
+title: "Switch-Loop Gating in RND Multidrug Transporters"
 created: 2026-06-11
 updated: 2026-06-16
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.2215072120, doi/10.1073##pnas.1114944109, doi/10.1038##s41467-021-24151-3]
-verified: false
+verified: regex
 ---
 
 # Switch-Loop Gating in RND Multidrug Transporters

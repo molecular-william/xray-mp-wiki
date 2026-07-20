@@ -122,8 +122,8 @@ The ligand-binding domain (LBD) of AvGluR1, an ionotropic glutamate receptor fro
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Resin](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>N/A</td>
       <td>N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a> purification</td>
     </tr>

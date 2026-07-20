@@ -1,13 +1,13 @@
 ---
-title: Mechanotransmission
+title: "Mechanotransmission"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-miscellaneous]
 sources: [doi/10.1073##pnas.1712153114]
-verified: false
+verified: regex
 ---
 
 # Mechanotransmission

@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms8177]
-verified: regex
-uniprot_id: Q8RUT8
+verified: agent
+uniprot_id: ['Q8L435', 'Q8RUT8']
 ---
 
 # C1C2GA (C1C2 T198G/G202A)
@@ -16,7 +16,7 @@ uniprot_id: Q8RUT8
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8RUT8">UniProt: Q8RUT8</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8L435">UniProt: Q8L435</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8RUT8">UniProt: Q8RUT8</a>
 
 <span class="expr-badge">Chlamydomonas reinhardtii</span>
 
@@ -41,7 +41,7 @@ C1C2GA is a blue-shifted mutant of the channelrhodopsin chimera C1C2, created by
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yzi">4YZI</a></td>
-      <td>2.5 A</td>
+      <td>2.5</td>
       <td>C2221</td>
       <td>C1C2 T198G/G202A mutant (C1C2GA)</td>
       <td>all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> (twisted 6-s-cis conformation)</td>
@@ -77,7 +77,7 @@ C1C2GA is a blue-shifted mutant of the channelrhodopsin chimera C1C2, created by
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> (pH 6.5), 1 M NaCl + n-dodecyl-beta-D-maltoside (DDM)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> (pH 6.5), 1 M NaCl + n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Cell membranes solubilized by <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>
     <tr>

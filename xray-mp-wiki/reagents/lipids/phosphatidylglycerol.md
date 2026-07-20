@@ -1,5 +1,5 @@
 ---
-title: Phosphatidylglycerol
+title: "Phosphatidylglycerol"
 created: 2026-06-02
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1016##j.cell.2017.03.019, doi/10.1038##nsmb.3120, doi/10.1038##SJ.EMBOJ.7600585, doi/10.1038##nature13419]
-verified: false
+verified: none
 ---
 
 # Phosphatidylglycerol

@@ -1,5 +1,5 @@
 ---
-title: Thiopental
+title: "Thiopental"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1074##jbc.M116.766964]
-verified: false
+verified: none
 ---
 
 # Thiopental

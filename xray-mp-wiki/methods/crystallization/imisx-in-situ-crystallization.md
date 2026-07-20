@@ -1,13 +1,13 @@
 ---
-title: IMISX In-Situ Serial Crystallography
+title: "IMISX In-Situ Serial Crystallography"
 created: 2026-05-29
 updated: 2026-06-08
 type: method
 category: methods
 layout: default
 tags: [crystallization-lcp, subdirectory-crystallization]
-sources: [doi/10.1016##j.str.2018.10.027, doi/10.1016##j.acr.2015.07.014, doi/10.1038##s41467-018-03477-5, doi/10.1107##S1399004715005210]
-verified: false
+sources: [doi/10.1016##j.str.2018.10.027, doi/10.1038##s41467-018-03477-5, doi/10.1107##S1399004715005210]
+verified: none
 ---
 
 # IMISX In-Situ Serial Crystallography

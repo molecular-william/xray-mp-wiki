@@ -1,13 +1,13 @@
 ---
-title: Bacteriorhodopsin Photocycle
+title: "Bacteriorhodopsin Photocycle"
 created: 2026-06-10
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
-sources: [doi/10.1107##S0907444913017575, doi/10.1126##science.286.5438.255, doi/10.1016##S0022-2836(02)00681-2, doi/10.1038##s41594-022-00762-2, doi/10.1006##jmbi.1999.3027]
-verified: false
+tags: [concept-functional, membrane-protein, subdirectory-rhodopsin-mechanisms]
+sources: [doi/10.1107##S0907444913017575, doi/10.1126##science.286.5438.255, doi/10.1016##S0022-2836(02)00681-2, doi/10.1038##s41594-022-00762-2, doi/10.1006##jmbi.1999.3027, doi/10.1038##s41467-019-10758-0]
+verified: none
 ---
 
 # Bacteriorhodopsin Photocycle

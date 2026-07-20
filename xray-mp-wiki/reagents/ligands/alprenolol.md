@@ -1,5 +1,5 @@
 ---
-title: Alprenolol
+title: "Alprenolol"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##ja105108q, doi/10.1038##nature06325, doi/10.1038##nature08650]
-verified: false
+verified: agent
 ---
 
 # Alprenolol

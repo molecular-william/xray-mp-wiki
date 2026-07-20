@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-022-34019-9]
-verified: regex
+verified: agent
 uniprot_id: A0A9X9ZA75
 ---
 
@@ -105,13 +105,13 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
     <tr>
       <td>IMAC purification</td>
       <td>Nickel-nitrilotriacetic acid <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA column (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column (Qiagen)</td>
       <td>50 mM NaH2PO4/Na2HPO4 pH 7.5, 0.2 M NaCl, 0.5 M <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted in imidazole-containing buffer</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> prep grade 125 mL column (GE Healthcare)</td>
       <td>50 mM NaH2PO4/Na2HPO4 pH 7.5, 0.2 M NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Protein-containing fractions pooled and concentrated to 60 mg/mL</td>

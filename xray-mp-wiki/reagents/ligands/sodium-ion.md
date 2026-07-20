@@ -1,5 +1,5 @@
 ---
-title: Sodium Ion (Na+)
+title: "Sodium Ion (Na+)"
 created: 2026-06-04
 updated: 2026-06-04
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature09580, doi/10.1038##nature05455, doi/10.1038##nature12944, doi/10.1038##ncomms4009]
-verified: false
+verified: regex
 ---
 
 # Sodium Ion (Na+)

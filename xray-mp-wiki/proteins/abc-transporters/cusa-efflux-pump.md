@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, pump, membrane-protein]
 sources: [doi/10.1038##nature09395]
-verified: regex
+verified: agent
 uniprot_id: P38054
 ---
 
@@ -84,7 +84,7 @@ CusA is the inner-membrane transporter component of the CusCBA tripartite efflux
       <td>Ni2+ <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>—</td>
       <td></td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6-tag</a>ged CusA purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6-tag</a>ged CusA purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity</td>
     </tr>
     <tr>
       <td>2. <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>

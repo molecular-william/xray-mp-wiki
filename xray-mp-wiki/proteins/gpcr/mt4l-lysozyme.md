@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, xray-crystallography, membrane-protein]
 sources: [doi/10.1016##j.str.2014.08.022]
-verified: regex
-uniprot_id: P08483
+verified: agent
+uniprot_id: P00720
 ---
 
 # mT4L (Minimal T4 Lysozyme)
@@ -16,9 +16,9 @@ uniprot_id: P08483
 <div class="expr-badges"><span class="expr-badge expr-sf9">Sf9</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P08483">UniProt: P08483</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P00720">UniProt: P00720</a>
 
-<span class="expr-badge">Rattus norvegicus</span>
+<span class="expr-badge">Enterobacteria phage T4</span>
 
 ## Overview
 
@@ -42,7 +42,7 @@ mT4L is a minimal variant of T4 lysozyme engineered for [GPCR](/xray-mp-wiki/con
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u15">4U15</a></td>
-      <td>2.8 A</td>
+      <td>2.8</td>
       <td>C2</td>
       <td>mT4L fused to M3 muscarinic receptor ICL3 (residues 259-482). N-terminal lobe deleted (amino acids 13-60 removed), GGSGG linker inserted between helices A and C.
 </td>
@@ -50,7 +50,7 @@ mT4L is a minimal variant of T4 lysozyme engineered for [GPCR](/xray-mp-wiki/con
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u16">4U16</a></td>
-      <td>3.7 A</td>
+      <td>3.7</td>
       <td>C2</td>
       <td>mT4L fused to M3 muscarinic receptor ICL3 (residues 259-482). N-terminal lobe deleted (amino acids 13-60 removed), GGSGG linker inserted between helices A and C.
 </td>
@@ -446,6 +446,6 @@ In M3-mT4L crystals, the receptor forms two distinct oligomerization interfaces,
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method used
 - <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — LCP lipid matrix
 - <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> — Entity mentioned in text
-- <a href="/xray-mp-wiki/concepts/gpcr">GPCR</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr">GPCR</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> — Entity mentioned in text

@@ -1,13 +1,13 @@
 ---
-title: Cross-Protomer Interactions in Proteorhodopsin Oligomers
+title: "Cross-Protomer Interactions in Proteorhodopsin Oligomers"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1107##S0907444913017575]
-verified: false
+verified: none
 ---
 
 # Cross-Protomer Interactions in Proteorhodopsin Oligomers

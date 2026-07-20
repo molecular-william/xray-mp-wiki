@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1038##s41421-018-0037-y, doi/10.1038##nature10917, doi/10.1038##nature12484, doi/10.1016##j.febslet.2008.07.063]
-verified: false
+verified: regex
 ---
 
 # n-Nonyl-beta-D-maltopyranoside (NM)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1073##pnas.1203219109]
-verified: regex
+verified: agent
 uniprot_id: A2RMJ9
 ---
 
@@ -103,8 +103,8 @@ BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) tran
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
-      <td>Superdex 200 10/300 GL</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
       <td>20 mM Na-Hepes pH 7.5, 150 mM NaCl + 0.35% (w/v) NG</td>
       <td>Peak fractions concentrated to 7 mg/mL using Vivaspin 30 kDa MWCO concentrator.</td>
     </tr>

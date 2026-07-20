@@ -1,5 +1,5 @@
 ---
-title: Pyrococcus abyssi Glycogen Synthase (PGS)
+title: "Pyrococcus abyssi Glycogen Synthase (PGS)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##nature14035]
-verified: false
+verified: regex
 ---
 
 # Pyrococcus abyssi Glycogen Synthase (PGS)

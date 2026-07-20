@@ -1,5 +1,5 @@
 ---
-title: Retosiban
+title: "Retosiban"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1126##sciadv.abb5419]
-verified: false
+verified: agent
 ---
 
 # Retosiban

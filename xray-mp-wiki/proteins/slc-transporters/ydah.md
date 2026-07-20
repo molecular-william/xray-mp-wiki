@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms7874]
-verified: regex
+verified: agent
 uniprot_id: Q0VR69
 ---
 
@@ -42,7 +42,7 @@ YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4r0c">4R0C</a></td>
-      <td>2.96 A</td>
+      <td>2.96</td>
       <td>P2$_{1}$</td>
       <td>Full-length A. borkumensis YdaH with N-terminal 6xHis tag</td>
       <td>None (apo structure)</td>
@@ -84,16 +84,16 @@ YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the
     </tr>
     <tr>
       <td>Ni-affinity chromatography</td>
-      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (Ni-NTA)</td>
-      <td>Ni-NTA agarose</td>
+      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>His-tag purification using Ni-NTA resin</td>
+      <td>His-tag purification using <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>Superdex 200 16/60 column (GE Healthcare) with mobile phase containing 20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> (pH 7.5) and 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>. Blue dextran used to determine column void volume.
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 column (GE Healthcare) with mobile phase containing 20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> (pH 7.5) and 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>. Blue dextran used to determine column void volume.
 </td>
-      <td>Superdex 200 16/60 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 (GE Healthcare)</td>
       <td>20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> (pH 7.5), 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Gel filtration suggested an average molecular weight of 107.0 +/- 8.8 kDa, in good agreement with the theoretical value of 105.6 kDa for two YdaH protomers (dimer).
 </td>

@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Rendering functions for protein wiki pages (publications-based)."""
 
+import os
+import sys
 from typing import Optional
 
-import sys, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from _base import normalize_hosts
 from _base import render_frontmatter as _base_render_frontmatter
 
@@ -148,9 +149,54 @@ def render_crystallization_table(c):
         rows.append(("Cryoprotection", c["cryoprotection"]))
     if c.get("notes"):
         rows.append(("Notes", c["notes"]))
-    if not rows:
+
+    # Append structured crystallization_details below the table
+    details = c.get("crystallization_details")
+    details_html = ""
+    if details:
+        d_rows = []
+        if details.get("method_lc"):
+            d_rows.append(("Method (structured)", details["method_lc"]))
+        if details.get("method_variant"):
+            d_rows.append(("Variant", details["method_variant"]))
+        if details.get("ph"):
+            d_rows.append(("pH", details["ph"]))
+        if details.get("temperature_value"):
+            t_unit = details.get("temperature_unit", "C")
+            d_rows.append(("Temperature (structured)", f"{details['temperature_value']} {t_unit}"))
+        if details.get("mixing_ratio"):
+            d_rows.append(("Mixing ratio", details["mixing_ratio"]))
+        if details.get("protein_to_lipid_ratio"):
+            d_rows.append(("Protein:lipid ratio", details["protein_to_lipid_ratio"]))
+        if details.get("lipid_note"):
+            d_rows.append(("Lipid", details["lipid_note"]))
+
+        # Reservoir components as a sub-table
+        comps = details.get("reservoir_components")
+        if comps:
+            comp_rows = []
+            for comp in comps:
+                name = comp.get("reagent", "").rstrip("/").split("/")[-1].replace("-", " ")
+                conc = comp.get("concentration", "")
+                unit = comp.get("unit", "")
+                role = comp.get("role", "")
+                note = comp.get("note", "")
+                comp_str = f"{conc} {unit}" if conc else ""
+                detail_str = f" ({note})" if note else ""
+                comp_rows.append(f"- {name.title()}: {comp_str} [{role}]{detail_str}")
+            if comp_rows:
+                d_rows.append(("Components", "  \n".join(comp_rows)))
+
+        if d_rows:
+            details_html = render_html_table(None, d_rows, "wiki-kv-table")
+
+    if not rows and not details_html:
         return ""
-    return render_html_table(None, rows, "wiki-kv-table")
+
+    table = render_html_table(None, rows, "wiki-kv-table")
+    if details_html:
+        return table + "\n" + details_html
+    return table
 
 
 def render_publication_crystallizations(crystallizations):

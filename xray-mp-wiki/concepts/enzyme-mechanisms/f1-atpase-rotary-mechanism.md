@@ -1,13 +1,13 @@
 ---
-title: F1-ATPase Rotary Catalytic Mechanism
+title: "F1-ATPase Rotary Catalytic Mechanism"
 created: 2026-06-08
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1073##pnas.1506465112, doi/10.1073##pnas.93.18.9420, doi/10.1073##pnas.93.14.6913, doi/10.1074##jbc.M700203200, doi/10.1098##rsob.190066, doi/10.1098##rsob.120164, doi/10.1126##science.286.5445.1700]
-verified: false
+verified: none
 ---
 
 # F1-ATPase Rotary Catalytic Mechanism

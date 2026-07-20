@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1038##s41467-023-42073-0]
-verified: none
+verified: regex
 ---
 
 # Triacylglyceride (TAG)

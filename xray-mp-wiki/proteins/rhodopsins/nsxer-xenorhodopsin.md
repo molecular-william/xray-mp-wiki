@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##sciadv.1603187]
-verified: regex
+verified: agent
 uniprot_id: G0QG75
 ---
 
@@ -81,8 +81,8 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (Ni-NTA)</td>
-      <td>Supernatant loaded onto Ni-NTA column. Eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>.</td>
-      <td>Ni-NTA (Qiagen)</td>
+      <td>Supernatant loaded onto <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column. Eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>.</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
       <td>50 mM NaH2PO4/Na2HPO4 pH 7.5, 0.1 M NaCl, 0.3 M <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluate dialyzed against 100 volumes of 50 mM NaH2PO4/Na2HPO4 pH 7.5, 0.1 M NaCl buffer twice for 2 h to remove <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>. Protein concentrated to 70 mg/mL for crystallization.</td>
     </tr>

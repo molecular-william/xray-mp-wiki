@@ -1,5 +1,5 @@
 ---
-title: TALON Cobalt Affinity Resin
+title: "TALON Cobalt Affinity Resin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.jmb.2018.02.026, doi/10.1016##j.str.2017.07.009, doi/10.1016##j.str.2019.12.003]
-verified: false
+verified: regex
 ---
 
 # TALON Cobalt Affinity Resin

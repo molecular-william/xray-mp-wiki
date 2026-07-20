@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # Epithelial Calcium Channel TRPV5

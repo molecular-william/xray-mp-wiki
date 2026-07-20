@@ -1,5 +1,5 @@
 ---
-title: Time-Resolved Serial Synchrotron Crystallography (TR-SMX)
+title: "Time-Resolved Serial Synchrotron Crystallography (TR-SMX)"
 created: 2026-06-08
 updated: 2026-06-08
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-xray, subdirectory-structure-determination]
 sources: [doi/10.1107##s2059798322004144, doi/10.1126##science.aaw8634]
-verified: false
+verified: regex
 ---
 
 # Time-Resolved Serial Synchrotron Crystallography (TR-SMX)

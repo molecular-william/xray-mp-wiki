@@ -1,13 +1,13 @@
 ---
-title: Ca2+:Cation Antiporter (CaCA) Superfamily
+title: "Ca2+:Cation Antiporter (CaCA) Superfamily"
 created: 2026-06-08
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature12233, doi/10.1126##science.1239002]
-verified: false
+verified: regex
 ---
 
 # Ca2+:Cation Antiporter (CaCA) Superfamily

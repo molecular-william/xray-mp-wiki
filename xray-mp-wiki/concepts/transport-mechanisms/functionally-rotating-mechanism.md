@@ -1,13 +1,13 @@
 ---
-title: Functionally Rotating Mechanism in Multidrug Transporters
+title: "Functionally Rotating Mechanism in Multidrug Transporters"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature05076]
-verified: false
+verified: regex
 ---
 
 # Functionally Rotating Mechanism in Multidrug Transporters

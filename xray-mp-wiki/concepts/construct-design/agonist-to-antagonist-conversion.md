@@ -1,13 +1,13 @@
 ---
-title: Agonist-to-Antagonist Conversion via C8 Modification
+title: "Agonist-to-Antagonist Conversion via C8 Modification"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-construct-design]
 sources: [doi/10.1021##acs.jmedchem.2c00462]
-verified: false
+verified: regex
 ---
 
 # Agonist-to-Antagonist Conversion via C8 Modification

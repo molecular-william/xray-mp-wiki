@@ -8,7 +8,7 @@ layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2017.04.008]
 verified: agent
-uniprot_id: P00268
+uniprot_id: P35414
 ---
 
 # Human Apelin Receptor (APJR)
@@ -16,9 +16,9 @@ uniprot_id: P00268
 <div class="expr-badges"><span class="expr-badge expr-sf9">Sf9</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P00268">UniProt: P00268</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P35414">UniProt: P35414</a>
 
-<span class="expr-badge">Clostridium pasteurianum</span>
+<span class="expr-badge">Homo sapiens</span>
 
 ## Overview
 
@@ -82,7 +82,7 @@ The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT
     </tr>
     <tr>
       <td>Solubilization</td>
-      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (N-Dodecyl-B-D-Maltoside, Anatrace D310) with <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (Cholesteryl hemisuccinate, Sigma C6512)</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (N-Dodecyl-B-D-Maltoside, Anatrace D310) with <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (Cholesteryl hemisuccinate, Sigma C6512)</td>
       <td>—</td>
       <td></td>
       <td></td>
@@ -96,7 +96,7 @@ The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> buffer</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) buffer</td>
       <td>—</td>
       <td></td>
       <td></td>

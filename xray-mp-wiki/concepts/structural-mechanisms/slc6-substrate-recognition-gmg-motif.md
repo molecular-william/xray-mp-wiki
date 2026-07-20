@@ -1,13 +1,13 @@
 ---
-title: SLC6 Substrate Recognition by the GMG Motif
+title: "SLC6 Substrate Recognition by the GMG Motif"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.15252##embj.2020105164]
-verified: false
+verified: regex
 ---
 
 # SLC6 Substrate Recognition by the GMG Motif

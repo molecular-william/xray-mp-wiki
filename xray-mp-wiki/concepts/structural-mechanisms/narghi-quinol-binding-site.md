@@ -1,13 +1,13 @@
 ---
-title: NarGHI Quinol Binding Site
+title: "NarGHI Quinol Binding Site"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, membrane-protein]
+tags: [concept-enzyme-mechanism, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1074##jbc.M410457200]
-verified: false
+verified: none
 ---
 
 # NarGHI Quinol Binding Site

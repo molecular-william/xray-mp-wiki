@@ -1,5 +1,5 @@
 ---
-title: Ammonium Acetate
+title: "Ammonium Acetate"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-ammonium-acetate, subdirectory-buffers]
 sources: [doi/10.1016##s0022-2836(03)00024-x]
-verified: agent
+verified: regex
 ---
 
 # Ammonium Acetate

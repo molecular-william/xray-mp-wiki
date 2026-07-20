@@ -1,13 +1,13 @@
 ---
-title: Leu25 Gatekeeper Mechanism in NSS Transporters
+title: "Leu25 Gatekeeper Mechanism in NSS Transporters"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein, xray-crystallography]
+tags: [concept-transport-mechanism, membrane-protein, xray-crystallography, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##ncomms11673]
-verified: false
+verified: regex
 ---
 
 # Leu25 Gatekeeper Mechanism in NSS Transporters

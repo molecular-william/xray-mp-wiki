@@ -1,13 +1,13 @@
 ---
-title: HME-RND Efflux Pump (Heavy-Metal Efflux RND)
+title: "HME-RND Efflux Pump (Heavy-Metal Efflux RND)"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature09395]
-verified: false
+verified: regex
 ---
 
 # HME-RND Efflux Pump (Heavy-Metal Efflux RND)

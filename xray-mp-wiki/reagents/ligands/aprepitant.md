@@ -1,5 +1,5 @@
 ---
-title: Aprepitant
+title: "Aprepitant"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent

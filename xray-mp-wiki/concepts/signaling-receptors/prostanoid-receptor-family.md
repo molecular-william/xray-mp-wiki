@@ -1,13 +1,13 @@
 ---
-title: Prostanoid Receptor Family
+title: "Prostanoid Receptor Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
-sources: [doi/10.1038##s41589-018-0160-y, doi/10.1038##s41589-018-0171-8, doi/10.1073##pnas.2102813118]
-verified: false
+tags: [concept-protein-family, subdirectory-signaling-receptors]
+sources: [doi/10.1038##s41589-018-0160-y, doi/10.1038##s41589-018-0171-8, doi/10.1073##pnas.2102813118, doi/10.1038##s41589-018-0170-9]
+verified: regex
 ---
 
 # Prostanoid Receptor Family

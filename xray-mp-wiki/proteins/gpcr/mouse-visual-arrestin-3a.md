@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature14656]
-verified: regex
-uniprot_id: P08100
+verified: agent
+uniprot_id: P20443
 ---
 
 # Mouse Visual Arrestin (3A)
@@ -16,9 +16,9 @@ uniprot_id: P08100
 <div class="expr-badges"><span class="expr-badge expr-hek293">HEK293</span> <span class="expr-badge expr-cell-free">Cell-free</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P08100">UniProt: P08100</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P20443">UniProt: P20443</a>
 
-<span class="expr-badge">Homo sapiens</span>
+<span class="expr-badge">Mus musculus</span>
 
 ## Overview
 

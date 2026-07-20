@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1038##nature10218, doi/10.1073##pnas.1612927114, doi/10.1126##science.1261172]
-verified: none
+verified: regex
 ---
 
 # Foscholine-12

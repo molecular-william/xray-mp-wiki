@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2017.07.009]
-verified: regex
+verified: agent
 uniprot_id: A0A2D0TCI5
 ---
 
@@ -42,7 +42,7 @@ CasMATE is a multidrug and toxic compound extrusion (MATE) family transporter fr
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5xjj">5XJJ</a></td>
-      <td>2.9 A</td>
+      <td>2.9</td>
       <td>P212121</td>
       <td>CasMATE residues 15-468 (N-terminal 1-14 and C-terminal 469-475 deleted), C-terminal GFP-His8 tag (TEV-cleaved)</td>
       <td>None (apo form)</td>
@@ -95,21 +95,21 @@ CasMATE is a multidrug and toxic compound extrusion (MATE) family transporter fr
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> cobalt affinity resin (Clontech)</td>
-      <td>300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">Sodium Chloride</a>, 20 mM HEPES-Na pH 7.0, 10% glycerol + 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a> (Anatrace), 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a> (Anatrace), 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
-      <td>Washed with LMNG/CHS buffer containing 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; eluted with 200 mM imidazole</td>
+      <td>300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">Sodium Chloride</a>, 20 mM HEPES-Na pH 7.0, 10% glycerol + 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a> (Anatrace), 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate) (Anatrace), 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
+      <td>Washed with <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> buffer containing 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; eluted with 200 mM imidazole</td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a> cleavage</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> cobalt affinity resin (Clontech)</td>
-      <td>300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">Sodium Chloride</a>, 20 mM HEPES-Na pH 7.0, 10% glycerol + 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a></td>
+      <td>300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">Sodium Chloride</a>, 20 mM HEPES-Na pH 7.0, 10% glycerol + 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate)</td>
       <td>GFP-His8 tag cleaved with <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a> at 4 C overnight; flow-through collected (tag-free protein)</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> 10/30 GL (GE Healthcare)</td>
-      <td>300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">Sodium Chloride</a>, 20 mM HEPES-Na pH 7.0, 1% glycerol, 0.03% LMNG, 0.003% CHS</td>
+      <td>300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">Sodium Chloride</a>, 20 mM HEPES-Na pH 7.0, 1% glycerol, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Major peak pooled and concentrated to 25 mg/mL</td>
     </tr>
   </tbody>

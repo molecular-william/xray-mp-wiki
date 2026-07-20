@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.73124]
-verified: regex
+verified: agent
 uniprot_id: A3T2G5
 ---
 
@@ -84,7 +84,7 @@ sCoaT is a PIB-4-type ATPase from Sulfitobacter sp. NAS14-1 (UniProt ID A3T2G5) 
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>20 mM Tris-HCl pH 7.6, 200 mM KCl, 1 mM MgCl2, 5 mM BME, 20% (vol/vol) glycerol + 1% (w/v) DDM</td>
+      <td>20 mM Tris-HCl pH 7.6, 200 mM KCl, 1 mM MgCl2, 5 mM BME, 20% (vol/vol) glycerol + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>3 mg/ml total protein, gentle stirring for 2 h at 4 C. Unsolubilized material removed by ultracentrifugation at 185,500 x g for 1 h. Supplemented with 30 mM imidazole and 500 mM KCl (final).</td>
     </tr>
     <tr>

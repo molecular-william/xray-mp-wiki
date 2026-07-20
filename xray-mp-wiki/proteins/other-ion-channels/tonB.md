@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature19757]
-verified: regex
-uniprot_id: Q8A5H8
+verified: agent
+uniprot_id: P02929
 ---
 
 # TonB (E. coli)
@@ -16,9 +16,9 @@ uniprot_id: Q8A5H8
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8A5H8">UniProt: Q8A5H8</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P02929">UniProt: P02929</a>
 
-<span class="expr-badge">Bacteroides THETAIOTAOMICRON</span>
+<span class="expr-badge">Escherichia coli</span>
 
 ## Overview
 
@@ -41,14 +41,14 @@ TonB is an integral polytopic membrane protein from Escherichia coli that serves
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5fq7">5FQ7</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5sv0">5SV0</a></td>
       <td>2.6 A</td>
       <td>P63</td>
       <td>ExbB-ExbD-TonB fully assembled complex</td>
       <td>calcium ion</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5fq6">5FQ6</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5sv0">5SV0</a></td>
       <td>3.5 A</td>
       <td>P212121</td>
       <td>ExbB-ExbD-TonB fully assembled complex</td>

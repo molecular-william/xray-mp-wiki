@@ -1,5 +1,5 @@
 ---
-title: L-Aspartate
+title: "L-Aspartate"
 created: 2026-05-28
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [substrate, subdirectory-substrates]
 sources: [doi/10.1016##j.str.2013.01.006, doi/10.1038##nature05455, doi/10.1038##nature14158]
-verified: false
+verified: regex
 ---
 
 # L-Aspartate

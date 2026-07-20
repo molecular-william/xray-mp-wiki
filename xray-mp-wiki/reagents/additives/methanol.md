@@ -1,5 +1,5 @@
 ---
-title: Methanol
+title: "Methanol"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##1873-3468.14136]
-verified: false
+verified: agent
 ---
 
 # Methanol

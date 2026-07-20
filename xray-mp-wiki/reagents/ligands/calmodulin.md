@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature09252]
-verified: none
+verified: regex
 ---
 
 # Calmodulin (CaM)

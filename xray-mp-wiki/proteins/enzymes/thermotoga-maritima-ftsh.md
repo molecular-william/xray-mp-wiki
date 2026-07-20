@@ -77,7 +77,7 @@ The conserved [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) residue Gly-404
 
 ## Cross-References
 
-- <a href="/xray-mp-wiki/proteins/enzymes/aquifex-aeolicus-ftsh/">FtsH from Aquifex aeolicus</a> — Homologous FtsH protein with ADP-bound structure showing different AAA ring arrangement
+- <a href="/xray-mp-wiki/proteins/aquifex-aeolicus-ftsh/">FtsH from Aquifex aeolicus</a> — Homologous FtsH protein with ADP-bound structure showing different AAA ring arrangement
 - <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/aaa-protease-mechanism/">AAA Protease Mechanism</a> — FtsH is the founding member of the AAA+ protease family; this structure provides key mechanistic insights
 - <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers
 - <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> — Additive used in purification or crystallization buffers

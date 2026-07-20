@@ -1,5 +1,5 @@
 ---
-title: Actinomycin D
+title: "Actinomycin D"
 created: 2026-06-02
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, subdirectory-antibiotics]
 sources: [doi/10.1038##nature11448]
-verified: false
+verified: agent
 ---
 
 # Actinomycin D

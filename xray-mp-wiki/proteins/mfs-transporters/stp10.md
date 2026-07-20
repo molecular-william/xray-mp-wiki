@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1038##s41477-021-00992-0, doi/10.1038##s41467-018-08176-9]
-verified: regex
+verified: agent
 uniprot_id: Q9LT15
 ---
 
@@ -93,13 +93,13 @@ A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) agarose</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 300 mM NaCl + 0.05% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a></td>
       <td>Wash with 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 300 mM NaCl + 0.05% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a></td>
       <td>Detergent exchanged to NG/<a href="/xray-mp-wiki/reagents/detergents/og">OG</a> for crystallization</td>

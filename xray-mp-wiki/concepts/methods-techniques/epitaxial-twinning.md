@@ -1,13 +1,13 @@
 ---
-title: Epitaxial Twinning
+title: "Epitaxial Twinning"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, xray-crystallography]
+tags: [concept-crystallography-principle, xray-crystallography, subdirectory-methods-techniques]
 sources: [doi/10.1038##nature10867]
-verified: false
+verified: regex
 ---
 
 # Epitaxial Twinning

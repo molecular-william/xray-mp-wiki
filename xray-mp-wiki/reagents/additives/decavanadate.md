@@ -1,5 +1,5 @@
 ---
-title: Decavanadate
+title: "Decavanadate"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##35015017]
-verified: false
+verified: agent
 ---
 
 # Decavanadate

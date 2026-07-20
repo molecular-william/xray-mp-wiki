@@ -1,5 +1,5 @@
 ---
-title: Benzamidine
+title: "Benzamidine"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##NATURE13293, doi/10.1038##nchembio.2547]
-verified: false
+verified: none
 ---
 
 # Benzamidine

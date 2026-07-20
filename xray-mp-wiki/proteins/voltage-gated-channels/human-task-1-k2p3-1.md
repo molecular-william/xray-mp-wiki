@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-020-2250-8]
-verified: pdb-check
+verified: agent
 uniprot_id: O14649
 ---
 
@@ -107,28 +107,28 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>50 mM HEPES pH 7.5, 200 mM KCl, 5% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 1% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (DM), 0.1% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> salt</td>
+      <td>50 mM HEPES pH 7.5, 200 mM KCl, 5% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 1% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (DM), 0.1% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> salt</td>
       <td>Rotated at 4 C for 1 h</td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin (0.5 ml resin per litre culture)</td>
-      <td>Wash buffer (50 mM HEPES pH 7.5, 200 mM KCl, 5% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> pH 8.0, 0.24% w/v DM, 0.024% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>); Elution buffer (same + 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>) + 0.24% w/v DM, 0.024% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Wash buffer (50 mM HEPES pH 7.5, 200 mM KCl, 5% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> pH 8.0, 0.24% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.024% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)); Elution buffer (same + 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>) + 0.24% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.024% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>30 column volumes wash; 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> added before loading</td>
     </tr>
     <tr>
       <td>Tag cleavage and deglycosylation</td>
-      <td>TEV protease + PNGaseF digestion</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease + PNGaseF digestion</td>
       <td>--</td>
-      <td>Desalting buffer (50 mM HEPES pH 7.5, 200 mM KCl, 5% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.24% w/v DM, 0.024% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>) + 0.24% w/v DM, 0.024% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>1:3 w/w TEV protease, 1:10 w/w PNGaseF, 12-16 h at 4 C</td>
+      <td>Desalting buffer (50 mM HEPES pH 7.5, 200 mM KCl, 5% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.24% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.024% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)) + 0.24% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.024% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>1:3 w/w <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease, 1:10 w/w PNGaseF, 12-16 h at 4 C</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superose 6 Increase 10/300 GL</td>
-      <td>20 mM HEPES pH 7.5, 200 mM KCl, 0.12% w/v DM, 0.012% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.12% w/v DM, 0.012% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 200 mM KCl, 0.12% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.012% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.12% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.012% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Concentrated to 12-30 mg/ml with 50 kDa MWCO spin concentrator</td>
     </tr>
   </tbody>

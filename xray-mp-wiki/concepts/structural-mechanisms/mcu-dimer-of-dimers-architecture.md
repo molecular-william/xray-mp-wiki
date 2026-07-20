@@ -1,13 +1,13 @@
 ---
-title: MCU Dimer-of-Dimers Architecture
+title: "MCU Dimer-of-Dimers Architecture"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, membrane-protein]
+tags: [concept-structural, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s41586-018-0330-9]
-verified: false
+verified: regex
 ---
 
 # MCU Dimer-of-Dimers Architecture

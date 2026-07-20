@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12139, doi/10.1038##ncomms8097]
-verified: regex
+verified: agent
 uniprot_id: P10903
 ---
 
@@ -87,22 +87,22 @@ movement of transmembrane helices and key residues in the substrate-binding site
       <td>2. Solubilization</td>
       <td>Detergent solubilization</td>
       <td>not applicable</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl + 1% n-decyl-beta-D-maltopyranoside (DM)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl + 1% n-decyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>4 C for 2 h. After addition of 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a>, clarified by centrifugation.</td>
     </tr>
     <tr>
       <td>3. <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl, 0.2% DM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Wash with 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a>, elution with 250 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> in same buffer.</td>
     </tr>
     <tr>
       <td>4. Thrombin cleavage and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Thrombin digestion + <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">gel filtration</a></td>
-      <td>Superdex-200</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl, 0.2% DM</td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a> removed by thrombin digestion at 1:1000 enzyme:protein molar ratio, 4 C overnight. Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">gel filtration</a> in Superdex-200.</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a> removed by thrombin digestion at 1:1000 enzyme:protein molar ratio, 4 C overnight. Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">gel filtration</a> in <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>.</td>
     </tr>
   </tbody>
 </table>
@@ -671,21 +671,21 @@ movement of transmembrane helices and key residues in the substrate-binding site
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a></td>
-      <td>2.35 A</td>
+      <td>\'2.35\'</td>
       <td>P2_12_12_1</td>
       <td>Full-length E. coli NarK (GI: 945783, residues 1-427) from strain K-12 MG1655, N-terminal His8-GFP tag cleaved</td>
       <td>none (apo inward-open state)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a></td>
-      <td>2.4 A</td>
+      <td>\'2.4\'</td>
       <td>P2_12_12_1</td>
       <td>Full-length E. coli NarK with nitrate bound</td>
       <td>nitrate ion (NO3-)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a></td>
-      <td>2.4 A</td>
+      <td>\'2.4\'</td>
       <td>P2_12_12_1</td>
       <td>Full-length E. coli NarK with nitrate bound</td>
       <td>nitrate ion (NO3-)</td>
@@ -714,7 +714,7 @@ movement of transmembrane helices and key residues in the substrate-binding site
       <td>Cell lysis</td>
       <td><a href="/xray-mp-wiki/methods/cell-lysis/french-press/">Microfluidizer</a> processor (Microfluidics) at 15,000 p.s.i., three passages</td>
       <td>not applicable</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 20 mM NaNO3, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 20 mM NaNO3, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a></td>
       <td>Centrifugation at 12,000g, 30 min, 4 C to remove debris</td>
     </tr>
     <tr>
@@ -728,28 +728,28 @@ movement of transmembrane helices and key residues in the substrate-binding site
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>not applicable</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 20 mM NaNO3, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a> + 2% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>), 0.4% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">cholesteryl hemisuccinate</a> (CHS)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 20 mM NaNO3, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a> + 2% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>), 0.4% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">cholesteryl hemisuccinate</a> (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
       <td>30 min at 4 C, <a href="/xray-mp-wiki/methods/purification/ultracentrifugation">ultracentrifugation</a> at 138,000g, 30 min</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Superflow</a> (Qiagen), 10 ml</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 25 mM NaNO3, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% CHS + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% CHS</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Superflow](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen), 10 ml</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 25 mM NaNO3, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Binding 2 h; wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; elution with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> at 4 C</td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
       <td>Protease cleavage</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column (10 ml)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) column (10 ml)</td>
       <td></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>ged tobacco etch virus protease (produced in-house) cleaved <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a>-His8 tag; protease retained on column</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>HiLoad 16/600 <a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> pg column (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 25 mM NaNO3, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% CHS + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% CHS</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 25 mM NaNO3, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Final sample concentrated to 15-20 mg/ml</td>
     </tr>
   </tbody>

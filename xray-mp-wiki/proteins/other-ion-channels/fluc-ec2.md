@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.31259, doi/10.7554##eLife.69482, doi/10.7554##eLife.18767]
-verified: regex
+verified: agent
 uniprot_id: ['B7LI20', 'Q6J5N4']
 ---
 
@@ -22,12 +22,11 @@ uniprot_id: ['B7LI20', 'Q6J5N4']
 
 ## Overview
 
-Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. coli virulence plasmid, belonging to the Fluc Family of Fluoride Ion Channels of F⁻ [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/). Fluc Family of Fluoride Ion Channels [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) protect bacteria from environmental Ec2 toxicity by allowing passive F⁻ transit down its electrochemical gradient. Fluc Family of Fluoride Ion Channels-Ec2 is a small (~120 residues per subunit), Dual-Topology Membrane Protein Architecture homodimeric Ec2 where the [TEVC](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) [Yeast V-ATPase Subunits D and F (ScDF Assembly)](/xray-mp-wiki/proteins/pumps-atpases/yeast-v-atpase-subunits-d-f-scdf/) (ScDF Assembly) (ScDF Assembly) span the Solid-Supported Membrane Electrophysiology In opposite orientations. The Ec2 exhibits exceptionally High F⁻/Cl⁻ [GAS Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/gas-selectivity-filter/) and has [TEVC](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) independent, [Antiparallel Dimerization in GPCR Crystallization](/xray-mp-wiki/concepts/signaling-receptors/antiparallel-dimerization/) in GPCR Crystallization in GPCR Crystallization Ion permeation pathways. The Pore is densely packed with Side chains, requiring a proposed 'channsporter' Allosteric Mechanism of Aspartate Carbamoyltransferase where F⁻ passage is accomplished by concomitant Side-[Apolar Side-Chain Packing in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/apolar-side-chain-packing/) in Membrane Proteins in Membrane Proteins rotamer movements.
-
+Ec2 is a fluoride ion channel from an E. coli virulence plasmid, belonging to the Fluc family. Fluc channels are small (~120 residues per subunit), dual-topology homodimeric membrane proteins that protect bacteria from environmental fluoride toxicity by allowing passive F- transit down its electrochemical gradient. Ec2 exhibits exceptionally high F-/Cl- selectivity and has two independent F- permeation pathways.
 
 ## Publications
 
-### doi/10.7554##eLife.31259
+### doi/10.7554/eLife.31259
 
 **Structures:**
 
@@ -114,17 +113,17 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/cobalt-hexamine/">Hexaamminecobalt(III) (Cobalt Hexamine)</a>(III) (Cobalt Hexamine)(III) (Cobalt Hexamine) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (TALON Cobalt Affinity Resin resin)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/cobalt-hexamine/">Hexaamminecobalt(III) (Cobalt Hexamine)</a>(III) (Cobalt Hexamine)(III) (Cobalt Hexamine) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> Cobalt Affinity Resin resin)</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) (Tris(hydroxymethyl)aminomethane) Ph 7.5, 100 mM NaCl, 5 mM Dm + 5 mM Dm</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) (Tris(hydroxymethyl)aminomethane) Ph 7.5, 100 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Wash with 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> Increase</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.0, 100 mM NaCl, 5 mM Dm + 5 mM Dm</td>
-      <td>For functional assays; for <a href="/xray-mp-wiki/methods/structure-determination/lcp-serial-millisecond-crystallography/">LCP-SMX</a>, use 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.0, 100 mM NaF, 5 mM Dm</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/) Increase</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.0, 100 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>For functional assays; for <a href="/xray-mp-wiki/methods/structure-determination/lcp-serial-millisecond-crystallography/">LCP-SMX</a>, use 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.0, 100 mM NaF, 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
     </tr>
   </tbody>
 </table>
@@ -956,7 +955,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 </div>
 
 </div>
-### doi/10.7554##eLife.69482
+### doi/10.7554/eLife.69482
 
 **Structures:**
 
@@ -1736,7 +1735,7 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 </div>
 
 </div>
-### doi/10.7554##eLife.18767
+### doi/10.7554/eLife.18767
 
 **Structures:**
 

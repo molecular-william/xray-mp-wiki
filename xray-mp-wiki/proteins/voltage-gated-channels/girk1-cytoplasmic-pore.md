@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##S0092-8674(02)01227-8, doi/10.1038##nsmb.1717]
-verified: regex
+verified: agent
 uniprot_id: P63251
 ---
 
@@ -90,7 +90,7 @@ The G Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea-Gated-Por
     <tr>
       <td>Gel filtration</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/)</td>
       <td>150 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane)-HCl (pH 8.5) + --</td>
       <td><a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> added to 10 mM just prior to <a href="/xray-mp-wiki/methods/crystallization/imisx-in-situ-crystallization/">IMISX In-Situ Serial Crystallography</a>. Apparent Molecular Docking size most consistent with tetramer or octamer.</td>
     </tr>

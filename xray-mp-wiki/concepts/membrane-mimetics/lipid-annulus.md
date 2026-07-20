@@ -1,13 +1,13 @@
 ---
-title: Lipid Annulus in Membrane Protein Structures
+title: "Lipid Annulus in Membrane Protein Structures"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-membrane-mimetics]
 sources: [doi/10.1016##j.jmb.2011.01.029]
-verified: false
+verified: regex
 ---
 
 # Lipid Annulus in Membrane Protein Structures

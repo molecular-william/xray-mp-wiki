@@ -1,5 +1,5 @@
 ---
-title: Nicotine
+title: "Nicotine"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1002##1873-3468.14136, doi/10.1038##nature19785]
-verified: false
+verified: agent
 ---
 
 # Nicotine

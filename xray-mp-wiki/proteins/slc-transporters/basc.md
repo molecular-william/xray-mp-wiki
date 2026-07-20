@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-019-09837-z]
-verified: regex
+verified: agent
 uniprot_id: A8UCQ5
 ---
 
@@ -89,16 +89,16 @@ BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Immobilized metal-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Superflow</a> beads</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>-Base, 150 mM NaCl, pH 7.4, 0.17% DM, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 20 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Superflow](/xray-mp-wiki/reagents/additives/nickel-nta/) beads</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>-Base, 150 mM NaCl, pH 7.4, 0.17% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 20 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a></td>
       <td>On-column cleavage with HRV-3C protease for 16 h. Cleaved BasC collected in flow-through.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> incubation and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">size-exclusion chromatography</a></td>
       <td>Gel filtration</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200</a> 10/300 GL</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>-Base, 150 mM NaCl, pH 7.4, 0.17% DM</td>
-      <td>BasC incubated with <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">nanobody</a> Nb74 at 1:1.2 molar ratio overnight before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>. For 2-AIB-bound protein, all buffers contained 100 mM 2-AIB.</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">[Superdex 200</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) 10/300 GL</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>-Base, 150 mM NaCl, pH 7.4, 0.17% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>BasC incubated with <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">nanobody</a> Nb74 at 1:1.2 molar ratio overnight before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/). For 2-AIB-bound protein, all buffers contained 100 mM 2-AIB.</td>
     </tr>
   </tbody>
 </table>

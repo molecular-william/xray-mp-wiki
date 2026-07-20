@@ -1,13 +1,13 @@
 ---
-title: Glutamate Transporter Family (SLC1/EAAT)
+title: "Glutamate Transporter Family (SLC1/EAAT)"
 created: 2026-06-10
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature03018, doi/10.7554##eLife.45286, doi/10.15252##embj.2021108341]
-verified: false
+verified: none
 ---
 
 # Glutamate Transporter Family (SLC1/EAAT)

@@ -1,5 +1,5 @@
 ---
-title: PEG (Polyethylene Glycol)
+title: "PEG (Polyethylene Glycol)"
 created: 2026-06-11
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##anie.202115545, doi/10.1016##j.cell.2017.03.010, doi/10.1016##j.celrep.2015.04.045, doi/10.1016##j.jbc.2021.100479, doi/10.1016##j.jmb.2018.02.026, doi/10.1016##j.jmb.2020.05.017, doi/10.1016##j.jsb.2011.01.014, doi/10.1016##j.neuron.2021.07.009, doi/10.1016##j.str.2016.04.003, doi/10.1016##j.str.2017.07.009, doi/10.1038##ncomms4110, doi/10.1038##ncomms9004, doi/10.1038##nsmb.3029]
-verified: false
+verified: regex
 ---
 
 # PEG (Polyethylene Glycol)

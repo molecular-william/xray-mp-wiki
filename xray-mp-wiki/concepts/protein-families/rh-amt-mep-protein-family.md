@@ -1,13 +1,13 @@
 ---
-title: Rh/Amt/MEP Protein Family
+title: "Rh/Amt/MEP Protein Family"
 created: 2026-06-08
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein, subdirectory-concepts]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1073##pnas.0709710104, doi/10.1073##pnas.1003587107, doi/10.1074##jbc.M608325200, doi/10.1038##ncomms11337]
-verified: false
+verified: none
 ---
 
 # Rh/Amt/MEP Protein Family

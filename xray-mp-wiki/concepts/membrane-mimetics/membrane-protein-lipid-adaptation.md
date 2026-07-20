@@ -1,13 +1,13 @@
 ---
-title: Membrane Protein-Lipid Bilayer Adaptation
+title: "Membrane Protein-Lipid Bilayer Adaptation"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, membrane-protein]
+tags: [concept-structural, membrane-protein, subdirectory-membrane-mimetics]
 sources: [doi/10.1038##ncomms1307]
-verified: false
+verified: regex
 ---
 
 # Membrane Protein-Lipid Bilayer Adaptation

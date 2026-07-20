@@ -6,8 +6,8 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-construct-design, subdirectory-construct-design]
-sources: [doi/10.1038##s41586-020-2777-1, doi/10.1126##science.abe0608]
-verified: none
+sources: []
+verified: regex
 ---
 
 # Chimeric Receptor-Binding Domain (RBD)

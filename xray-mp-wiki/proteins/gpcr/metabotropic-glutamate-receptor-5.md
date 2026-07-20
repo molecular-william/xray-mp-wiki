@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature13396, doi/10.1021##acs.jmedchem.7b01722]
-verified: regex
+verified: agent
 uniprot_id: P41594
 ---
 
@@ -42,7 +42,7 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4oo9">4OO9</a></td>
-      <td>2.6 A</td>
+      <td>2.6</td>
       <td>C 1 2 1</td>
       <td>mGlu5-StaR TMD (residues 569-836) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, six thermostabilizing mutations (E579A, N667Y, I669A, G675M, T742A, S753A). Complexed with <a href="/xray-mp-wiki/reagents/ligands/mavoglurant/">AFQ056</a>.
 </td>
@@ -91,8 +91,8 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
     </tr>
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Batch binding to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) beads, wash with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elution with histidine</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) beads</td>
+      <td>Batch binding to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/) beads, wash with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elution with histidine</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/) beads</td>
       <td>40 mM HEPES pH 7.5, 250 mM NaCl, 0.025% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (binding); 40 mM HEPES pH 7.5, 250 mM NaCl, 0.025% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 100 mM histidine (elution) + 0.025% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td><a href="/xray-mp-wiki/reagents/ligands/mavoglurant/">AFQ056</a> included in all buffers to maintain receptor-ligand complex</td>
     </tr>
@@ -348,7 +348,7 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ffi">6FFI</a></td>
-      <td>2.2 A</td>
+      <td>2.2</td>
       <td>C 1 2 1</td>
       <td>mGlu5-StaR TMD (residues 569-832) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, six thermostabilizing mutations. Complexed with <a href="/xray-mp-wiki/reagents/ligands/m-mpep/">M-MPEP</a>.
 </td>
@@ -356,7 +356,7 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ffh">6FFH</a></td>
-      <td>2.65 A</td>
+      <td>2.65</td>
       <td>C 1 2 1</td>
       <td>mGlu5-StaR TMD (residues 569-832) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, six thermostabilizing mutations. Complexed with <a href="/xray-mp-wiki/reagents/ligands/fenobam/">Fenobam</a>.
 </td>

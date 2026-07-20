@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.3091]
-verified: regex
+verified: agent
 uniprot_id: Q1J2S8
 ---
 
@@ -79,7 +79,7 @@ SLC26Dg is a prokaryotic fumarate transporter from the bacterium Deinococcus geo
       <td>Cell resuspension and lysis</td>
       <td>Osmotic shock and Emulsiflex C3 disruption</td>
       <td>--</td>
-      <td>50 mM potassium phosphate pH 7.5, 150 mM NaCl, 1 mM <a href="/xray-mp-wiki/reagents/additives/mgcl2">MGCL2</a>, 1 mg/ml lysozyme + --</td>
+      <td>50 mM potassium phosphate pH 7.5, 150 mM NaCl, 1 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MGCL2</a>, 1 mg/ml lysozyme + --</td>
       <td>Cells resuspended and incubated with lysozyme at 4 C for 1 h before disruption</td>
     </tr>
     <tr>
@@ -99,16 +99,16 @@ SLC26Dg is a prokaryotic fumarate transporter from the bacterium Deinococcus geo
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (IMAC)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin</td>
       <td>Buffer containing <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Solubilized SLC26Dg purified by IMAC; HRV 3C protease cleavage during dialysis against buffer without <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
     </tr>
     <tr>
       <td>Tag removal and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>Superdex S200 column (GE Healthcare)</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl + 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
-      <td>Histidine-tagged GFP and protease removed by IMAC; cleaved protein concentrated and subjected to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Histidine-tagged GFP and protease removed by IMAC; cleaved protein concentrated and subjected to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>
@@ -723,5 +723,5 @@ Transport experiments demonstrate that SLC26Dg functions as a proton-coupled fum
 - <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> — Nb5776 used as crystallization aid, binds STAS domain
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) method used to obtain improved crystals of SLC26Dg-Nb5776 complex
 - <a href="/xray-mp-wiki/methods/structure-determination/single-anomalous-dispersion/">Single Anomalous Dispersion (SAD)</a> — [SAD](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) phasing used from selenomethionine-derivatized SLC26Dg crystals
-- <a href="/xray-mp-wiki/reagents/additives/mgcl2">MGCL2</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MGCL2</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/proteins/uraA">URAA</a> — Related protein

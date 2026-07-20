@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##ncomms15383]
-verified: none
+verified: regex
 ---
 
 # Flavodoxin Fusion Tag

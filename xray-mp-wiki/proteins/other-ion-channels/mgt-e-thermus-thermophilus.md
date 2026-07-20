@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##emboj.2009.288, doi/10.1038##ncomms6374]
-verified: regex
+verified: agent
 uniprot_id: Q5SMG8
 ---
 
@@ -94,13 +94,13 @@ and regulate channel gating.
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
       <td>50 mM HEPES pH 7.0, 150 mM NaCl + 0.25% (w/v) n-nonyl-beta-D-thiomaltoside (NTM)</td>
       <td>Detergent exchanged from <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> to NTM during purification. Wash with 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>HiLoad 16/60 <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM HEPES pH 7.0, 150 mM NaCl + 0.25% (w/v) NTM</td>
       <td>Final purification step</td>

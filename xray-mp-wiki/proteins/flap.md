@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.bbagen.2020.129800, doi/10.1126##science.1144346]
-verified: regex
+verified: agent
 uniprot_id: P20292
 ---
 
@@ -41,21 +41,21 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
   </tr></thead>
   <tbody>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6vgc">6VGC</a></td>
       <td>2.4</td>
       <td>unknown</td>
       <td>Human FLAP (5-lipoxygenase activating protein) expressed in HEK cells, complexed with DG-031 (Bay X-1005)</td>
       <td>DG-031 (Bay X-1005)</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6vgc">6VGC</a></td>
       <td>4.0</td>
       <td>unknown</td>
       <td>Human FLAP complexed with </td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6vgc">6VGC</a></td>
       <td>unknown</td>
       <td>unknown</td>
       <td>Human FLAP complexed with MK-886</td>

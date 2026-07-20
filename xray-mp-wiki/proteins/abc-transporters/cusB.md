@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2009.08.029, doi/10.1038##nature09743]
-verified: regex
+verified: agent
 uniprot_id: ['P38054', 'P77239']
 ---
 
@@ -40,21 +40,21 @@ CusB is a periplasmic membrane fusion protein (MFP) from Escherichia coli, funct
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2l9p">2L9P</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ooc">3OOC</a></td>
       <td>3.40 A</td>
       <td>I222</td>
       <td>Full-length CusB with C-terminal 6xHis tag (residues 1-369)</td>
       <td>Apo</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2l9q">2L9Q</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ooc">3OOC</a></td>
       <td>3.78 A</td>
       <td>I222</td>
       <td>Full-length CusB with C-terminal 6xHis tag</td>
       <td>Copper(I) (Cu+)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2l9r">2L9R</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ooc">3OOC</a></td>
       <td>3.84 A</td>
       <td>I222</td>
       <td>Full-length CusB with C-terminal 6xHis tag</td>
@@ -97,28 +97,28 @@ CusB is a periplasmic membrane fusion protein (MFP) from Escherichia coli, funct
       <td>Solubilization</td>
       <td>Crude lysate supplemented with 0.5% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
       <td>--</td>
-      <td>20 mM Na-Hepes (pH 7.2), 100 mM NaCl + 0.5% DDM</td>
+      <td>20 mM Na-Hepes (pH 7.2), 100 mM NaCl + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Membrane fraction solubilized</td>
     </tr>
     <tr>
       <td>Ni2+ affinity chromatography</td>
       <td>Ni2+-affinity column chromatography</td>
       <td>Ni2+-affinity resin</td>
-      <td>20 mM Na-Hepes (pH 7.2), 100 mM NaCl + 0.5% DDM</td>
+      <td>20 mM Na-Hepes (pH 7.2), 100 mM NaCl + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>His-tagged CusB captured on Ni2+ column</td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
       <td>G-200 sizing column chromatography</td>
-      <td>Superdex 200</td>
-      <td>20 mM Na-Hepes (pH 7.2), 100 mM NaCl + 0.5% DDM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>20 mM Na-Hepes (pH 7.2), 100 mM NaCl + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Monodisperse fraction collected</td>
     </tr>
     <tr>
       <td>Concentration and storage</td>
       <td>Protein concentrated to 20 mg/ml</td>
       <td>--</td>
-      <td>20 mM Na-Hepes (pH 7.5), 0.04% DDM + 0.04% DDM</td>
+      <td>20 mM Na-Hepes (pH 7.5), 0.04% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.04% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Purity >95% by 10% SDS-PAGE stained with Coomassie Brilliant Blue</td>
     </tr>
   </tbody>

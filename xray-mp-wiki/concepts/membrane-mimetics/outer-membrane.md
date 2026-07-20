@@ -1,13 +1,13 @@
 ---
-title: Outer Membrane
+title: "Outer Membrane"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural]
+tags: [concept-structural, subdirectory-membrane-mimetics]
 sources: [doi/10.1038##nrmicro.2016.171]
-verified: false
+verified: none
 ---
 
 # Outer Membrane

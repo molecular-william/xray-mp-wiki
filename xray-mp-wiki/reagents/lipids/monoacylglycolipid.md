@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-monoacyl, subdirectory-lipids]
 sources: []
-verified: none
+verified: agent
 ---
 
 # Monoacylglycolipid

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # Somatostatin Receptor 4 (SSTR4)

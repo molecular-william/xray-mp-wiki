@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: []
-verified: none
+verified: agent
 ---
 
 # Dodecanoyl Sucrose

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein]
 sources: [doi/10.1126##science.1232808]
-verified: regex
+verified: agent
 ---
 
 # Human 5-HT2B Serotonin Receptor Bound to Ergotamine
@@ -63,14 +63,14 @@ The 5-HT2B receptor is a class A G protein-coupled receptor (GPCR) for [Serotoni
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>10 mM HEPES pH 7.5, 150 mM NaCl, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM HEPES pH 7.5, 150 mM NaCl, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>2h at 4C; unsolubilized material removed at 150,000xg for 30 min</td>
     </tr>
     <tr>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
-      <td>Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a>; Wash II: 50 mM HEPES pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a></td>
+      <td>Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a>; Wash II: 50 mM HEPES pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a></td>
       <td>Elution in Wash II + 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> removed via PD MiniTrap G-25</td>
     </tr>
     <tr>

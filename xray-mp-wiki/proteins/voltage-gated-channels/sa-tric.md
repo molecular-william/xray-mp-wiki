@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms15103]
-verified: regex
+verified: agent
 ---
 
 # SaTRIC Channel from Sulfolobus acidocaldarius
@@ -34,28 +34,28 @@ SaTRIC is a Trimeric Intracellular Cation (TRIC) channel from the archaeon Sulfo
   </tr></thead>
   <tbody>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5wuc">5WUC</a></td>
       <td>3.1 A</td>
       <td>P321</td>
       <td>SaTRIC residues 1-207, L148M/L180M double mutant, Se-Met labeled</td>
       <td>not specified</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5wuc">5WUC</a></td>
       <td>1.6 A</td>
       <td>P63</td>
       <td>SaTRIC residues 1-207, wild-type, Native</td>
       <td>Na+ bound</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5wuc">5WUC</a></td>
       <td>1.8 A</td>
       <td>P63</td>
       <td>SaTRIC residues 1-207, wild-type, Native</td>
       <td>Mg2+ bound</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5wuc">5WUC</a></td>
       <td>2.4 A</td>
       <td>R32</td>
       <td>SaTRIC residues 1-207, wild-type, Native</td>
@@ -85,7 +85,7 @@ SaTRIC is a Trimeric Intracellular Cation (TRIC) channel from the archaeon Sulfo
       <td>Protein solution</td>
       <td>not specified</td>
       <td>--</td>
-      <td>HEPES 20 mM pH 7.5, NaCl 200 mM + n-DM (n-dodecyl-beta-D-maltoside) 4 mM</td>
+      <td>HEPES 20 mM pH 7.5, NaCl 200 mM + n-<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (n-dodecyl-beta-D-maltoside) 4 mM</td>
       <td>Protein solution for Type 1, Type 2a, Type 2b crystallization; for Type 2b RbCl 200 mM replaced NaCl; for Type 3 NaBr 200 mM replaced NaCl</td>
     </tr>
   </tbody>

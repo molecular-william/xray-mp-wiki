@@ -8,7 +8,7 @@ layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1038##nature13167]
 verified: agent
-uniprot_id: Q9SZU7
+uniprot_id: ['Q9SZU7', 'O26232']
 ---
 
 # Bacillus halodurans YidC2 (BhYidC2)
@@ -16,9 +16,9 @@ uniprot_id: Q9SZU7
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q9SZU7">UniProt: Q9SZU7</a>
+<span class="badge badge-uniprot badge-uniprot-none" title="Bacillus halodurans">No UniProt</span> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q9SZU7" title="Arabidopsis thaliana">UniProt: Q9SZU7</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/O26232" title="Methanothermobacter thermautotrophicus">UniProt: O26232</a>
 
-<span class="expr-badge">Arabidopsis thaliana</span>
+<span class="expr-badge">Bacillus halodurans</span>
 
 ## Overview
 

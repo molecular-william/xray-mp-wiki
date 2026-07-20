@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, potassium-channel, membrane-protein]
 sources: [doi/10.1038##nature09252, doi/10.1038##nature10670]
-verified: regex
+verified: agent
 uniprot_id: Q12791
 ---
 
@@ -74,10 +74,10 @@ BK channels (also called MaxiK or Slo1, gene KCNMA1) are large-conductance Ca2+-
     </tr>
     <tr>
       <td>2. Tag removal</td>
-      <td>TEV protease cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage</td>
       <td>—</td>
       <td>Cleavage buffer</td>
-      <td>Overnight TEV cleavage at 4°C to remove His tag</td>
+      <td>Overnight <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> cleavage at 4°C to remove His tag</td>
     </tr>
     <tr>
       <td>3. Phosphatase treatment</td>

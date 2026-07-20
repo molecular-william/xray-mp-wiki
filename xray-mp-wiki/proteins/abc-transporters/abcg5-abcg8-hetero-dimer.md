@@ -5,9 +5,9 @@ updated: 2026-07-03
 type: protein
 category: proteins
 layout: default
-tags: [transporter, abc-transporter, membrane-protein, xray-crystallography]
+tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature17666, doi/10.1016##j.jmb.2022.167795]
-verified: regex
+verified: agent
 uniprot_id: ['Q9H221', 'Q9H222']
 ---
 
@@ -41,7 +41,7 @@ ABCG5 and ABCG8 form an obligate heterodimer that functions as a sterol efflux t
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5do7">5DO7</a></td>
-      <td>3.9 A</td>
+      <td>3.9</td>
       <td>I 2 2 2</td>
       <td>Human ABCG5/G8 heterodimer, nucleotide-free inward-facing state</td>
       <td><a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> (in sterol vestibules)</td>
@@ -81,23 +81,23 @@ ABCG5 and ABCG8 form an obligate heterodimer that functions as a sterol efflux t
     </tr>
     <tr>
       <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
-      <td>20-mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/))</td>
+      <td>20-mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) column</td>
       <td>Not specified + Not specified</td>
-      <td>Peak fractions from <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> elua<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> collected</td>
+      <td>Peak fractions from <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) elua<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> collected</td>
     </tr>
     <tr>
       <td>Calmodulin-binding peptide (CBP) chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a> (CBP)</td>
       <td>5-mL CBP column</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholate/">Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 1 mM CaCl2, 1 mM MgCl2</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> elua<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> mixed with CBP wash buffer and loaded onto CBP column</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholate/">Cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 1 mM CaCl2, 1 mM MgCl2</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) elua<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> mixed with CBP wash buffer and loaded onto CBP column</td>
     </tr>
     <tr>
       <td>Detergent exchange and concentration</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.0005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a>, 0.0005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a></td>
       <td>Exchanged to <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG</a> for final purification step</td>
     </tr>
   </tbody>
@@ -544,7 +544,7 @@ ABCG5 and ABCG8 form an obligate heterodimer that functions as a sterol efflux t
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/8cub">8CUB</a></td>
-      <td>4.05 A</td>
+      <td>4.05</td>
       <td>I 2 2 2</td>
       <td>Human ABCG5/G8 heterodimer in complex with cholesterol</td>
       <td><a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a></td>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10917]
-verified: regex
+verified: agent
 uniprot_id: P63235
 ---
 
@@ -84,20 +84,20 @@ GadC is a SLC1/EAAT/GATs antiporter from the Apc (JLK-6 acid-polyamine-organocat
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>not applicable</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">OG-Beta-D-NG</a> (<a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">Beta-Og</a>)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/og/">[OG</a>-Beta-D-NG](/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/) (<a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">Beta-Og</a>)</td>
       <td>2 h incubation At 4 C</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.4% <a href="/xray-mp-wiki/reagents/detergents/nm/">NM</a> (<a href="/xray-mp-wiki/reagents/detergents/nm/">Nm</a>) + 0.4% <a href="/xray-mp-wiki/reagents/detergents/nm/">Nm</a></td>
       <td>His-tag removed On column</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a>-200 10/30 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/)-200 10/30 (GE Healthcare)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, various Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography + 0.2% <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">Beta-ngHKA</a> or 0.023% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (for crystallization)</td>
       <td>Peak fractions collected</td>
     </tr>

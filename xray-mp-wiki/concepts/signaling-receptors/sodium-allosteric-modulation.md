@@ -1,13 +1,13 @@
 ---
-title: Sodium Ion Allosteric Modulation in GPCRs
+title: "Sodium Ion Allosteric Modulation in GPCRs"
 created: 2026-06-02
 updated: 2026-06-10
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature11558, doi/10.1038##nature12944, doi/10.1038##nchembio.2547, doi/10.1126##science.1219218]
-verified: false
+verified: regex
 ---
 
 # Sodium Ion Allosteric Modulation in GPCRs

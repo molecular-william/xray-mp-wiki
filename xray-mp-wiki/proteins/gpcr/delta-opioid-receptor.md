@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11111, doi/10.1038##nsmb.2965, doi/10.1126##sciadv.aax9115]
-verified: regex
+verified: agent
 uniprot_id: ['P32300', 'P41143']
 ---
 
@@ -91,22 +91,22 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
       <td>Membrane solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 0.5 M NaCl, 30% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a>, 1 μM <a href="/xray-mp-wiki/reagents/ligands/naltrindole/">Naltrindole</a> + 1.0% lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (MNG), 0.3% sodium cholate, 0.03% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 0.5 M NaCl, 30% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a>, 1 μM <a href="/xray-mp-wiki/reagents/ligands/naltrindole/">Naltrindole</a> + 1.0% lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (MNG), 0.3% sodium cholate, 0.03% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/))</td>
       <td>Membranes homogenized with glass dounce homogenizer, mixed at 4°C for 1 h, centrifuged at high speed</td>
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
       <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>—</td>
-      <td>0.1% MNG, 0.03% sodium cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 0.5 M NaCl, 1 μM <a href="/xray-mp-wiki/reagents/ligands/naltrindole/">Naltrindole</a></td>
+      <td>0.1% MNG, 0.03% sodium cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 0.5 M NaCl, 1 μM <a href="/xray-mp-wiki/reagents/ligands/naltrindole/">Naltrindole</a></td>
       <td>Resin washed 3x in batch, eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in washing buffer</td>
     </tr>
     <tr>
       <td>Anti-Flag M1 affinity chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> antibody <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>—</td>
-      <td>0.1% MNG, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 1 μM <a href="/xray-mp-wiki/reagents/ligands/naltrindole/">Naltrindole</a>; salt gradient from 0.5 M to 0.1 M NaCl</td>
-      <td>Eluted with 0.2 mg/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide and 2 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> in 0.01% MNG, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 0.1 M NaCl, 1 μM <a href="/xray-mp-wiki/reagents/ligands/naltrindole/">Naltrindole</a></td>
+      <td>0.1% MNG, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 1 μM <a href="/xray-mp-wiki/reagents/ligands/naltrindole/">Naltrindole</a>; salt gradient from 0.5 M to 0.1 M NaCl</td>
+      <td>Eluted with 0.2 mg/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide and 2 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> in 0.01% MNG, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 0.1 M NaCl, 1 μM <a href="/xray-mp-wiki/reagents/ligands/naltrindole/">Naltrindole</a></td>
     </tr>
     <tr>
       <td>TEV protease cleavage</td>

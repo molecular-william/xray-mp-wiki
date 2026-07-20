@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2016.12.004, doi/10.1074##jbc.M115.685065]
-verified: regex
+verified: agent
 uniprot_id: Q18DH8
 ---
 
@@ -106,7 +106,7 @@ identical to the detergent-based structure.
     <tr>
       <td>IMAC</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA Superflow (QIAGEN)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow (QIAGEN)</td>
       <td>50 mM Tris pH 8, 100 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + SMA (nanodisc-embedded)</td>
       <td>Double <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a> enabled efficient separation of HwBR-containing SMA nanodiscs from empty nanodiscs. Washed with 10 CV breakage buffer and 10 CV wash buffer. Eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>.</td>
     </tr>

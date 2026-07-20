@@ -23,9 +23,9 @@ Gram-negative bacteria are a major class of bacteria characterized by a cell env
 - BtuB (Vitamin B12 Transporter) — An E. coli outer membrane transporter that actively imports vitamin B12 using energy from the inner membrane TonB-ExbB-ExbD complex.
 
 ## Related Concepts
-- [Outer Membrane](/xray-mp-wiki/concepts/structural-mechanisms/outer-membrane/) — The defining feature of Gram-negative bacteria
-- [Lipopolysaccharide (LPS)](/xray-mp-wiki/concepts/structural-mechanisms/lipopolysaccharide/) — LPS is the major component of the Gram-negative outer membrane outer leaflet
+- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) — The defining feature of Gram-negative bacteria
+- [Lipopolysaccharide (LPS)](/xray-mp-wiki/concepts/membrane-mimetics/lipopolysaccharide/) — LPS is the major component of the Gram-negative outer membrane outer leaflet
 
 ## Cross-References
-- [Outer Membrane](/xray-mp-wiki/concepts/structural-mechanisms/outer-membrane/) — The outer membrane is a defining feature of Gram-negative cell envelope
-- [Lipopolysaccharide](/xray-mp-wiki/concepts/structural-mechanisms/lipopolysaccharide/) — LPS forms the outer leaflet of the Gram-negative outer membrane
+- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) — The outer membrane is a defining feature of Gram-negative cell envelope
+- [Lipopolysaccharide](/xray-mp-wiki/concepts/membrane-mimetics/lipopolysaccharide/) — LPS forms the outer leaflet of the Gram-negative outer membrane

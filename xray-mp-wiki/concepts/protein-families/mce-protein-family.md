@@ -1,13 +1,13 @@
 ---
-title: MCE Protein Family
+title: "MCE Protein Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1016##j.cell.2017.03.019]
-verified: false
+verified: regex
 ---
 
 # MCE Protein Family

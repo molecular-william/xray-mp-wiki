@@ -1,5 +1,5 @@
 ---
-title: MitTx Toxin
+title: "MitTx Toxin"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2014.01.011]
-verified: false
+verified: regex
 ---
 
 # MitTx Toxin

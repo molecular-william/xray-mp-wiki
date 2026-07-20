@@ -1,13 +1,13 @@
 ---
-title: Helical Recoil Model of P2X Receptor Desensitization
+title: "Helical Recoil Model of P2X Receptor Desensitization"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature19367]
-verified: false
+verified: regex
 ---
 
 # Helical Recoil Model of P2X Receptor Desensitization

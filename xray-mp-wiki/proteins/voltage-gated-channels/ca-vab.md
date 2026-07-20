@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12775, doi/10.1038##nature19102]
-verified: regex
+verified: agent
 uniprot_id: A8EVM5
 ---
 
@@ -42,14 +42,14 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ms2">4MS2</a></td>
-      <td>3.3 A</td>
+      <td>3.3</td>
       <td>C 1 21</td>
       <td>CaVAb 175TLDDWSD181 variant; homotetramer; selectivity filter sequence FQVMTLDDWSDG with key substitutions E177 (vs T in <a href="/xray-mp-wiki/proteins/navab">NavAb</a>), D178 (vs L), D181 (vs W); crystallized with 100 mM Cd2+ and 100 mM Mn2+ soaking</td>
       <td>Cd2+ (100 mM soaking), Mn2+ (100 mM soaking)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ms2">4MS2</a></td>
-      <td>3.3 A</td>
+      <td>3.3</td>
       <td>C 1 21</td>
       <td>CaVAb 175TLDDWSD181 variant; homotetramer; crystallized with 15 mM Ca2+ soaking</td>
       <td>Ca2+ (15 mM soaking)</td>
@@ -4404,9 +4404,9 @@ Phenylalkylamines (verapamil, [Br-Verapamil](/xray-mp-wiki/reagents/ligands/br-v
 - <a href="/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/">Ion Channel Selectivity Filter</a> — Paper provides detailed structural analysis of CaVAb selectivity filter
 - <a href="/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/">Intramembrane Ion Coordination</a> — Paper reveals Ca2+ coordination geometry at selectivity filter sites
 - <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a> — Crystallization method used for structure determination
-- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression">Baculovirus Expression System</a> — Expression system used for protein production
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system">Baculovirus Expression System</a> — Expression system used for protein production
 - <a href="/xray-mp-wiki/reagents/ligands/amlodipine">Amlodipine</a> — Ligand or small molecule used in this study
 - <a href="/xray-mp-wiki/reagents/additives/egta">Egta</a> — Additive used in purification or crystallization buffers
 - <a href="/xray-mp-wiki/reagents/ligands/br-verapamil">Br Verapamil</a> — Ligand or small molecule used in this study
 - <a href="/xray-mp-wiki/reagents/ligands/uk-59811">Uk 59811</a> — Ligand or small molecule used in this study
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris Hcl</a> — Buffer component in purification and crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris Hcl</a> — Buffer component in purification and crystallization

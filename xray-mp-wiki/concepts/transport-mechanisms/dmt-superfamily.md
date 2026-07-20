@@ -1,13 +1,13 @@
 ---
-title: DMT Superfamily (Drug/Metabolite Transporter Superfamily)
+title: "DMT Superfamily (Drug/Metabolite Transporter Superfamily)"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-transport-mechanism, membrane-protein]
+tags: [concept-protein-family, concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature17991, doi/10.1007##s10969-013-9154-x]
-verified: false
+verified: regex
 ---
 
 # DMT Superfamily (Drug/Metabolite Transporter Superfamily)

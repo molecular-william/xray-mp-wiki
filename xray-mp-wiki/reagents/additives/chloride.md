@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1021##bi800598h]
-verified: none
+verified: regex
 ---
 
 # Chloride Ion (Cl-)

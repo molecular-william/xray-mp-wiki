@@ -1,13 +1,13 @@
 ---
-title: POT Family Substrate Specificity by Electrostatic Interactions
+title: "POT Family Substrate Specificity by Electrostatic Interactions"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-protein-families]
 sources: [doi/10.7554##eLife.34995, doi/10.1186##s12915-015-0167-8]
-verified: false
+verified: none
 ---
 
 # POT Family Substrate Specificity by Electrostatic Interactions

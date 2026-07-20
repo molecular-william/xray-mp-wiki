@@ -1,5 +1,5 @@
 ---
-title: Trehalose
+title: "Trehalose"
 created: 2026-06-11
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2004.07.044, doi/10.1016##j.str.2016.04.003]
-verified: false
+verified: agent
 ---
 
 # Trehalose

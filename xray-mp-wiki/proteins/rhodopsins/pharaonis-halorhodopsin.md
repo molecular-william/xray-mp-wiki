@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2009.11.061]
-verified: regex
+verified: agent
 uniprot_id: Q3ITX1
 ---
 

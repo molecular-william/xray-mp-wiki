@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-crystallization]
 sources: []
-verified: none
+verified: agent
 ---
 
 # Hampton Research Crystallization Kit

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-020-19457-7]
-verified: regex
+verified: agent
 ---
 
 # VirChR1

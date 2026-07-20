@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-zwitterionic, subdirectory-detergents]
 sources: [doi/10.1021##jacs.9b02196]
-verified: false
+verified: regex
 ---
 
 # Lysophosphatidylcholine Phosphatidylglycerol (LPPG)

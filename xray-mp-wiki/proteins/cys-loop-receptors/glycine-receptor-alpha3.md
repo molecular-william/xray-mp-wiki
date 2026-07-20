@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature14972]
-verified: regex
+verified: agent
 ---
 
 # Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)
@@ -81,7 +81,7 @@ The human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha-3 su
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>--</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Hydroxymethyl) Aminomethane</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a>, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
       <td>Further purified by gel filtration, all steps at 4°C</td>

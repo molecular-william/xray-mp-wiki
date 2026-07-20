@@ -1,5 +1,5 @@
 ---
-title: Peptide:N-Glycosidase F (PNGase F)
+title: "Peptide:N-Glycosidase F (PNGase F)"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1016##j.immuni.2020.02.004, doi/10.1038##nature06325]
-verified: false
+verified: regex
 ---
 
 # Peptide:N-Glycosidase F (PNGase F)

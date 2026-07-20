@@ -1,5 +1,5 @@
 ---
-title: 1,2-Dioleoyl-sn-glycero-3-phosphocholine (DOPC)
+title: "1,2-Dioleoyl-sn-glycero-3-phosphocholine (DOPC)"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1038##ncomms4110]
-verified: false
+verified: regex
 ---
 
 # 1,2-Dioleoyl-sn-glycero-3-phosphocholine (DOPC)

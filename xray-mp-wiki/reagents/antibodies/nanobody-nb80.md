@@ -1,5 +1,5 @@
 ---
-title: Nanobody Nb80
+title: "Nanobody Nb80"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1126##science.aau5595]
-verified: false
+verified: regex
 ---
 
 # Nanobody Nb80

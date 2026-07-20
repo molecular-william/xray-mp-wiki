@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.molcel.2018.08.009, doi/10.1073##pnas.2102813118]
-verified: regex
+verified: agent
 uniprot_id: Q9Y5Y4
 ---
 
@@ -92,20 +92,20 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
       <td>Detergent solubilization</td>
       <td>--</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 500 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a></td>
-      <td>Membranes solubilized in 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>; supernatant after 1 h binding with ligand</td>
+      <td>Membranes solubilized in 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/); supernatant after 1 h binding with ligand</td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td>Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> M1 <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td>Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> M1 resin</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 500 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 500 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Bound in 2 mM CaCl2; eluted with 5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 200 ug/ml <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> peptide</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Final purification after concentrating eluted protein. Final sample buffer for crystallization.</td>
     </tr>
   </tbody>

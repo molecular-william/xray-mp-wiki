@@ -1,13 +1,13 @@
 ---
-title: Intramembrane Ion Coordination
+title: "Intramembrane Ion Coordination"
 created: 2026-05-27
 updated: 2026-05-27
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-crystallography-principle]
+tags: [concept-functional, concept-crystallography-principle, subdirectory-membrane-mimetics]
 sources: [doi/10.1016##j.celrep.2015.04.045, doi/10.1126##science.1243352]
-verified: false
+verified: regex
 ---
 
 # Intramembrane Ion Coordination

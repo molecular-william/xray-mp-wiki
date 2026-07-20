@@ -29,6 +29,6 @@ In the canonical implementation, the flexible ICL3 of the GPCR (typically 30-50 
 
 ## Cross-References
 - [Fusion Partners for Membrane Protein Crystallization](/xray-mp-wiki/concepts/construct-design/fusion-partners/) — T4L is the most widely used fusion partner, described in the broader fusion partner context
-- [N-Terminal T4 Lysozyme Fusion](/xray-mp-wiki/concepts/construct-design/n-terminal-t4-lysozyme-fusion/) — Alternative T4L fusion strategy for crystallizing GPCR signaling complexes
+- [N-Terminal T4 Lysozyme Fusion](/xray-mp-wiki/concepts/signaling-receptors/n-terminal-t4-lysozyme-fusion/) — Alternative T4L fusion strategy for crystallizing GPCR signaling complexes
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L is the fusion tag used in this strategy
 - [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Complementary construct design strategy often used alongside T4L fusion

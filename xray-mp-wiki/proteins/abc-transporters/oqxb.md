@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-021-25679-0]
-verified: regex
+verified: agent
 uniprot_id: ['P20789', 'P62873', 'P63096', 'P63211']
 ---
 
@@ -41,7 +41,7 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7l0q">7L0Q</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7cz9">7CZ9</a></td>
       <td>1.85</td>
       <td>P 65 2 2</td>
       <td>OqxB (residues 1-977) symmetric trimer</td>
@@ -71,21 +71,21 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
       <td>1</td>
       <td>Cell lysis by Microfluidizer</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.0, 0.5 mM Na-<a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/mgcl2">MGCL2</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.0, 0.5 mM Na-<a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MGCL2</a></td>
       <td>3 passes at 15,000 psi. Membrane fraction collected by ultracentrifugation</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Solubilization</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.0, 300 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.0, 300 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Solubilized from membrane fraction</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Affinity chromatography (Ni-NTA)</td>
-      <td>Ni-NTA Superflow (Qiagen)</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.0, 300 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow (Qiagen)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.0, 300 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">Polyhistidine Tag (His6)</a> purification</td>
     </tr>
     <tr>
@@ -112,7 +112,7 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 0.1 M Li2SO4, 0.1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/mgcl2">MGCL2</a>, 34% <a href="/xray-mp-wiki/reagents/additives/peg400">PEG400</a>, 5 mM <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a></td>
+      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 0.1 M Li2SO4, 0.1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MGCL2</a>, 34% <a href="/xray-mp-wiki/reagents/additives/peg-400">PEG400</a>, 5 mM <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a></td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -458,6 +458,6 @@ The OqxB gate loop (g-loop) is longer by two residues (16 vs. 14) than [ACRB](/x
 - <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">Polyhistidine Tag (His6)</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> — Entity mentioned in text
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a> — Entity mentioned in text
-- <a href="/xray-mp-wiki/reagents/additives/peg400">PEG400</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/peg-400">PEG400</a> — Entity mentioned in text

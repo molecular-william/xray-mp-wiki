@@ -1,13 +1,13 @@
 ---
-title: Embedded Lipid in the Binding Cavity
+title: "Embedded Lipid in the Binding Cavity"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s41594-020-0464-y]
-verified: false
+verified: regex
 ---
 
 # Embedded Lipid in the Binding Cavity

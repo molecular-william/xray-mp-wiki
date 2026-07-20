@@ -1,13 +1,13 @@
 ---
-title: Self-processing of Membrane Proteins
+title: "Self-processing of Membrane Proteins"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-membrane-mimetics]
 sources: [doi/10.1021##bi4011489]
-verified: false
+verified: regex
 ---
 
 # Self-processing of Membrane Proteins

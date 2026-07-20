@@ -1,5 +1,5 @@
 ---
-title: UDP-Glucose (UDP-Glc)
+title: "UDP-Glucose (UDP-Glc)"
 created: 2026-06-11
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [substrate, subdirectory-substrates]
 sources: [doi/10.1038##nature11744]
-verified: false
+verified: regex
 ---
 
 # UDP-Glucose (UDP-Glc)

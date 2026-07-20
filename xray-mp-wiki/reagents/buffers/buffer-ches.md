@@ -1,5 +1,5 @@
 ---
-title: CHES Buffer
+title: "CHES Buffer"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-ches, subdirectory-buffers]
 sources: [doi/10.7554##eLife.00184]
-verified: false
+verified: none
 ---
 
 # CHES Buffer

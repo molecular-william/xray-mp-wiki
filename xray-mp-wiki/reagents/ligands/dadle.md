@@ -1,5 +1,5 @@
 ---
-title: DADLE (D-Ala2-MePhe4-Glyol5-Enkephalin)
+title: "DADLE (D-Ala2-MePhe4-Glyol5-Enkephalin)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature12944]
-verified: false
+verified: regex
 ---
 
 # DADLE (D-Ala2-MePhe4-Glyol5-Enkephalin)

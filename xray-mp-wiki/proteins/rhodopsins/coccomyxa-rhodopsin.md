@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##scisignal.aav4203]
-verified: regex
+verified: agent
 uniprot_id: I0YUS5
 ---
 
@@ -87,14 +87,14 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
     <tr>
       <td>Ni-NTA affinity</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.0, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>C-terminal 8xHis tag used for purification</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
-      <td>HiLoad 16/600 Superdex 200 pg</td>
+      <td>HiLoad 16/600 <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> pg</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.0, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Purified CsR concentrated to 35 mg/ml for crystallization</td>
     </tr>

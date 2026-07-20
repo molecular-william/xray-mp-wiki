@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-zwitterionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1038##nature02373]
-verified: false
+verified: regex
 ---
 
 # N,N-Bis-(3-D-gluconamidopropyl)deoxycholamide (DBC)

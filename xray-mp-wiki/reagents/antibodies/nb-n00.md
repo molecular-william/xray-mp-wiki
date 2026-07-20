@@ -1,5 +1,5 @@
 ---
-title: N00 Conformation-Selective Nanobody
+title: "N00 Conformation-Selective Nanobody"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1021##jacs.8b11343]
-verified: false
+verified: regex
 ---
 
 # N00 Conformation-Selective Nanobody

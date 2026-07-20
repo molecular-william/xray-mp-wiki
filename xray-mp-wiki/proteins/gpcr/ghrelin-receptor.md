@@ -81,7 +81,7 @@ The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a cla
     </tr>
     <tr>
       <td>Solubilization</td>
-      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> with <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> with <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>—</td>
       <td></td>
       <td></td>
@@ -95,7 +95,7 @@ The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a cla
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC for purification of receptor-Fab-Compound 21 complex</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> for purification of receptor-Fab-Compound 21 complex</td>
       <td>—</td>
       <td></td>
       <td></td>

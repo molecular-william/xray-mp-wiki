@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1371##journal.pbio.1001911]
-verified: regex
+verified: agent
 uniprot_id: O28625
 ---
 
@@ -107,7 +107,7 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200</a> 10/300 GL</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">[Superdex 200</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) 10/300 GL</td>
       <td>—</td>
       <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> pH 7.5, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-Mercaptoethanol</a> + 40 mM <a href="/xray-mp-wiki/reagents/detergents/og/">n-octyl-beta-D-glucopyranoside</a> (OG)</td>
       <td></td>

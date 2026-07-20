@@ -1,5 +1,5 @@
 ---
-title: BeF3 (Beryllium Fluoride)
+title: "BeF3 (Beryllium Fluoride)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##NSMB.2721, doi/10.1038##nature06418]
-verified: false
+verified: none
 ---
 
 # BeF3 (Beryllium Fluoride)

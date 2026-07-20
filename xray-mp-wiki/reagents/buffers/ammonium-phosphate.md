@@ -1,5 +1,5 @@
 ---
-title: Ammonium Phosphate (Monobasic)
+title: "Ammonium Phosphate (Monobasic)"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-phosphate, subdirectory-buffers]
 sources: [doi/10.1016##j.jsbmb.2022.106228, doi/10.1021##acs.jmedchem.5b00892]
-verified: agent
+verified: regex
 ---
 
 # Ammonium Phosphate (Monobasic)

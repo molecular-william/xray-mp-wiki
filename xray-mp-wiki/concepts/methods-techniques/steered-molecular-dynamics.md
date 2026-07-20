@@ -1,13 +1,13 @@
 ---
-title: Steered Molecular Dynamics (SMD)
+title: "Steered Molecular Dynamics (SMD)"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-methods-techniques]
 sources: [doi/10.1038##ncomms5521]
-verified: false
+verified: regex
 ---
 
 # Steered Molecular Dynamics (SMD)

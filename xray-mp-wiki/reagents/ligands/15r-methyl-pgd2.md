@@ -1,5 +1,5 @@
 ---
-title: 15R-methyl-PGD2 (15mPGD2)
+title: "15R-methyl-PGD2 (15mPGD2)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1073##pnas.2102813118]
-verified: false
+verified: agent
 ---
 
 # 15R-methyl-PGD2 (15mPGD2)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.2016328118]
-verified: regex
+verified: agent
 ---
 
 # Schizorhodopsin SzR4 (AM_5_00977)
@@ -91,10 +91,10 @@ without being metastably trapped at E81, unlike other proton pumps.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Eluate from affinity step treated with TEV protease and dialyzed overnight. Cleaved GFP and protease removed with Co2+-NTA resin.</td>
+      <td>Eluate from affinity step treated with <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease and dialyzed overnight. Cleaved GFP and protease removed with Co2+-NTA resin.</td>
       <td>Co2+-NTA</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>TEV cleavage removed GFP-His10 tag</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> cleavage removed GFP-His10 tag</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>

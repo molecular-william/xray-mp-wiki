@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.3120]
-verified: regex
+verified: agent
 uniprot_id: P0C0S1
 ---
 
@@ -42,7 +42,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5aji">5AJI</a></td>
-      <td>3.0 A</td>
+      <td>3.0</td>
       <td>C2</td>
       <td>MscS D67R1 single-cysteine MTSSL spin-labeled mutant, heptameric assembly</td>
       <td>Phospholipid acyl chains in transmembrane pockets</td>

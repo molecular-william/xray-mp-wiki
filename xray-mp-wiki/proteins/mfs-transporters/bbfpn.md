@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms9545]
-verified: regex
+verified: agent
 uniprot_id: Q6MLJ0
 ---
 
@@ -85,7 +85,7 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
   <tbody>
     <tr>
       <td>Purification</td>
-      <td>Affinity chromatography (protocol A and protocol B)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (protocol A and protocol B)</td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> (protocol B final buffer) + 0.004% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> (protocol B)</td>
       <td>Two purification protocols used (A and B); protocol A for Hg-derivatized crystals, protocol B for form I and form II crystals</td>

@@ -1,13 +1,13 @@
 ---
-title: Non-Contact Atomic Force Microscopy (nc-AFM) with CO-Functionalized Tips
+title: "Non-Contact Atomic Force Microscopy (nc-AFM) with CO-Functionalized Tips"
 created: 2026-06-11
 updated: 2026-06-11
 type: method
 category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
-sources: [doi/10.1038##s41586-021-03432-3]
-verified: false
+sources: []
+verified: regex
 ---
 
 # Non-Contact Atomic Force Microscopy (nc-AFM) with CO-Functionalized Tips

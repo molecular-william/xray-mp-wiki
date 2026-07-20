@@ -5,12 +5,12 @@ Usage: python3 scripts/generate_wiki_figures.py
 Output: xray-mp-wiki/assets/fig-*.png
 """
 
-import json, os, sys
-from pathlib import Path
+import json
 from collections import Counter
-import re
+from pathlib import Path
 
 import matplotlib
+
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
@@ -41,6 +41,7 @@ _SHORT_FAM = {
     "cys loop receptor family": "Cys-loop receptors",
 }
 
+
 def _heatmap(data, row_labels, col_labels, xlabel, ylabel, title, cbar_label, out_name, figsize=(8, 7)):
     fig, ax = plt.subplots(figsize=figsize)
     im = ax.imshow(data, aspect="auto", cmap="YlOrRd")
@@ -63,9 +64,7 @@ def _heatmap(data, row_labels, col_labels, xlabel, ylabel, title, cbar_label, ou
 def fig_detergent_heatmap():
     matrix = D["detergent_matrix"]
     # Top 15 families by protein count
-    families = sorted(
-        D["family_coverage"], key=D["family_coverage"].get, reverse=True
-    )[:15]
+    families = sorted(D["family_coverage"], key=D["family_coverage"].get, reverse=True)[:15]
     # Top 10 detergents across these families
     det_totals = {}
     for fam in families:
@@ -119,19 +118,32 @@ def fig_detergent_heatmap():
 def fig_buffer_heatmap():
     """Count buffer reagent mentions per family from YAML buffer_details."""
     import yaml
+
     W = Path("xray-mp-wiki")
     buf_fam = Counter()
     fam_counter = Counter()
     yf_list = sorted((W / "proteins_yaml").glob("*.yaml"))
     # ponytail: slug → label for known buffer reagents
     _SHORT_BUF = {
-        "tris": "Tris", "hepes": "HEPES", "mes": "MES", "mops": "MOPS",
-        "sodium-citrate": "Na-citrate", "sodium-phosphate": "Na-phosphate",
-        "bis-tris": "Bis-Tris", "caps": "CAPS", "pbs": "PBS", "tbs": "TBS",
-        "potassium-phosphate": "K-phosphate", "imidazole": "Imidazole",
-        "citrate": "Citrate", "tricine": "Tricine", "acetate": "Acetate",
-        "sodium-acetate": "Na-acetate", "bicine": "Bicine",
-        "glycine": "Glycine", "hbs": "HBS",
+        "tris": "Tris",
+        "hepes": "HEPES",
+        "mes": "MES",
+        "mops": "MOPS",
+        "sodium-citrate": "Na-citrate",
+        "sodium-phosphate": "Na-phosphate",
+        "bis-tris": "Bis-Tris",
+        "caps": "CAPS",
+        "pbs": "PBS",
+        "tbs": "TBS",
+        "potassium-phosphate": "K-phosphate",
+        "imidazole": "Imidazole",
+        "citrate": "Citrate",
+        "tricine": "Tricine",
+        "acetate": "Acetate",
+        "sodium-acetate": "Na-acetate",
+        "bicine": "Bicine",
+        "glycine": "Glycine",
+        "hbs": "HBS",
     }
     for yf in yf_list:
         try:
@@ -182,14 +194,18 @@ def fig_buffer_heatmap():
         for j, slug in enumerate(top_bufs):
             data[i, j] = buf_fam.get((fam, slug), 0) / n
 
-    _heatmap(data,
-             row_labels=[_SHORT_FAM.get(f, f[:30]) for f in top_fams],
-             col_labels=[_SHORT_BUF.get(s, s) for s in top_bufs],
-             xlabel="Buffer", ylabel="Protein family",
-             title="Buffer composition preference by family",
-             cbar_label="Mentions per protein",
-             out_name="fig-buffer-heatmap.png",
-             figsize=(7, 7))
+    _heatmap(
+        data,
+        row_labels=[_SHORT_FAM.get(f, f[:30]) for f in top_fams],
+        col_labels=[_SHORT_BUF.get(s, s) for s in top_bufs],
+        xlabel="Buffer",
+        ylabel="Protein family",
+        title="Buffer composition preference by family",
+        cbar_label="Mentions per protein",
+        out_name="fig-buffer-heatmap.png",
+        figsize=(7, 7),
+    )
+
 
 # ── Figure 2: Expression system bar ─────────────────────────────────
 def fig_expression_systems():
@@ -215,12 +231,11 @@ def fig_expression_systems():
     fig, ax = plt.subplots(figsize=(7, 4))
     bars = ax.barh(range(len(labels)), values, color=colors, edgecolor="white")
     ax.set_yticks(range(len(labels)))
-    ax.set_yticklabels([short.get(l, l) for l in labels], fontsize=8)
+    ax.set_yticklabels([short.get(label, label) for label in labels], fontsize=8)
     ax.set_xlabel("Proteins", fontsize=9)
     ax.set_title("Expression systems in membrane protein structures", fontsize=10, fontweight="bold")
     for bar, v in zip(bars, values):
-        ax.text(bar.get_width() + 3, bar.get_y() + bar.get_height() / 2,
-                str(v), va="center", fontsize=7)
+        ax.text(bar.get_width() + 3, bar.get_y() + bar.get_height() / 2, str(v), va="center", fontsize=7)
     ax.margins(x=0.15)
     fig.tight_layout()
     path = OUT / "fig-expression-systems.png"
@@ -236,7 +251,6 @@ def fig_exchange_patterns():
         print("  No exchange data")
         return
     from collections import Counter
-    import ast
 
     pattern_counts = Counter()
     for name, fam, chain in ex:
@@ -259,8 +273,7 @@ def fig_exchange_patterns():
     ax.set_xlabel("Proteins", fontsize=9)
     ax.set_title("Top detergent exchange patterns", fontsize=10, fontweight="bold")
     for bar, v in zip(bars, values):
-        ax.text(bar.get_width() + 0.3, bar.get_y() + bar.get_height() / 2,
-                str(v), va="center", fontsize=8)
+        ax.text(bar.get_width() + 0.3, bar.get_y() + bar.get_height() / 2, str(v), va="center", fontsize=8)
     ax.margins(x=0.15)
     fig.tight_layout()
     path = OUT / "fig-exchange-patterns.png"
@@ -288,8 +301,9 @@ def fig_resolution_by_step():
     ax.invert_xaxis()  # lower = better = on top
     for bar, v in zip(bars, means):
         n = [it[1]["n"] for it in items][bars.index(bar)]
-        ax.text(bar.get_width() + 0.02, bar.get_y() + bar.get_height() / 2,
-                f"{v:.2f}Å (n={n})", va="center", fontsize=7)
+        ax.text(
+            bar.get_width() + 0.02, bar.get_y() + bar.get_height() / 2, f"{v:.2f}Å (n={n})", va="center", fontsize=7
+        )
     ax.margins(x=0.2)
     fig.tight_layout()
     path = OUT / "fig-resolution-by-step.png"

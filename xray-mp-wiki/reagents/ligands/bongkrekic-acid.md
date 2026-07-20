@@ -1,5 +1,5 @@
 ---
-title: Bongkrekic Acid
+title: "Bongkrekic Acid"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2018.11.025]
-verified: false
+verified: agent
 ---
 
 # Bongkrekic Acid

@@ -1,5 +1,5 @@
 ---
-title: M8M (Bis-(3-Sulfanylpropionyl)disulfide, 8-Carbon Linker MTS Reagent)
+title: "M8M (Bis-(3-Sulfanylpropionyl)disulfide, 8-Carbon Linker MTS Reagent)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature17679]
-verified: true
+verified: agent
 ---
 
 # M8M (Bis-(3-Sulfanylpropionyl)disulfide, 8-Carbon Linker MTS Reagent)

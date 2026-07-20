@@ -1,5 +1,5 @@
 ---
-title: Glycylglycylglycine (Gly3)
+title: "Glycylglycylglycine (Gly3)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##nature08156]
-verified: false
+verified: regex
 ---
 
 # Glycylglycylglycine (Gly3)

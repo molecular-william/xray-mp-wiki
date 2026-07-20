@@ -1,13 +1,13 @@
 ---
 title: "KirBac Potassium Channels"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1085028, doi/10.1016##J.CELL.2010.05.003, doi/10.1038##NSMB.2208, doi/10.3390##ijms23010335, doi/10.1038##s41467-020-16842-0, doi/10.1074##jbc.M113.501833]
-verified: regex
+verified: agent
 uniprot_id: ['D9N164', 'P83698', 'Q2W6R1']
 ---
 
@@ -27,7 +27,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 ## Publications
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1126##science.1085028 (1 structure, 4 sequences)</strong></summary>
+<summary><strong>doi/10.1126/science.1085028 (1 structure, 4 sequences)</strong></summary>
 
 **Structures:**
 
@@ -42,7 +42,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1p7b">1P7B</a></td>
-      <td>3.65 A</td>
+      <td>3.65</td>
       <td>I222</td>
       <td>Full-length KirBac1.1</td>
       <td>Mg2+ ions</td>
@@ -618,7 +618,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1016##J.CELL.2010.05.003 (11 structures, 12 sequences)</strong></summary>
+<summary><strong>doi/10.1126/science.1085028 (11 structures, 12 sequences)</strong></summary>
 
 **Structures:**
 
@@ -633,77 +633,77 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1p7b">1P7B</a></td>
-      <td>3.7 A</td>
+      <td>3.7</td>
       <td>I222</td>
       <td>Full-length KirBac1.1 with His-tag</td>
       <td>Mg2+ (blocked configuration)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1xl4">1XL4</a></td>
-      <td>2.6 A</td>
+      <td>2.6</td>
       <td>P21212</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>Ca2+ (blocked), <a href="/xray-mp-wiki/reagents/additives/spermine/">Spermine</a></td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1xl6">1XL6</a></td>
-      <td>2.8 A</td>
+      <td>2.8</td>
       <td>C2221</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td><a href="/xray-mp-wiki/reagents/additives/spermine/">Spermine</a> (conduction-compromised)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/structure iii">STRUCTURE III</a></td>
-      <td>3.1 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4lp8">4LP8</a></td>
+      <td>3.1</td>
       <td>P21212</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>none (stalled twist conformation)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/structure iv">STRUCTURE IV</a></td>
-      <td>3.3 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6o9u">6O9U</a></td>
+      <td>3.3</td>
       <td>I222</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>none (stalled twist conformation)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/structure v">STRUCTURE V</a></td>
-      <td>3.5 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7adi">7ADI</a></td>
+      <td>3.5</td>
       <td>C2221</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>none (stalled twist conformation)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/structure vi">STRUCTURE VI</a></td>
-      <td>3.8 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7n9l">7N9L</a></td>
+      <td>3.8</td>
       <td>P1</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>none (unlatched, conducting twist conformation)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/structure vii">STRUCTURE VII</a></td>
-      <td>4.2 A</td>
-      <td>P212121</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2wlh">2WLH</a></td>
+      <td>3.28</td>
+      <td>P41212</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>none (stalled twist conformation)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/structure ix">STRUCTURE IX</a></td>
-      <td>3.2 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2wli">2WLI</a></td>
+      <td>3.09</td>
       <td>P21212</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>none (twist conformation)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/structure x">STRUCTURE X</a></td>
-      <td>3.0 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2wlk">2WLK</a></td>
+      <td>2.8</td>
       <td>P21212</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>Ba2+ (blocked configuration)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/structure xi">STRUCTURE XI</a></td>
-      <td>2.9 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2wlj">2WLJ</a></td>
+      <td>2.6</td>
       <td>P21212</td>
       <td>Full-length KirBac3.1 with His-tag</td>
       <td>Sm3+ (nontwist, conducting conformation)</td>
@@ -753,7 +753,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
       <td>Size-exclusion chromatography</td>
       <td>--</td>
       <td>-- + 1% <a href="/xray-mp-wiki/reagents/detergents/anzergent-3-12/">Anzergent 3,12</a></td>
-      <td>Peak fractions pooled after SEC</td>
+      <td>Peak fractions pooled after <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
     <tr>
       <td>Concentration</td>
@@ -2208,8 +2208,8 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/s129r mutant (open state)">S129R MUTANT (OPEN STATE)</a></td>
-      <td>3.05 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1p7b">1P7B</a></td>
+      <td>3.05</td>
       <td>P42_12</td>
       <td>KirBac3.1 S129R gating mutant, codon-optimized for E. coli expression in pET30a vector</td>
       <td>K+ ions in selectivity filter (S1-S4 occupied, conductive conformation)</td>
@@ -2294,7 +2294,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.3390##ijms23010335 (1 structure, 4 sequences)</strong></summary>
+<summary><strong>doi/10.3390/ijms23010335 (1 structure, 4 sequences)</strong></summary>
 
 **Structures:**
 
@@ -2309,7 +2309,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7adi">7ADI</a></td>
-      <td>2.80 A</td>
+      <td>2.80</td>
       <td>P2_1_2_1_2</td>
       <td>KirBac3.1 W46R mutant, full-length with His-tag, expressed in E. coli in pET30a vector</td>
       <td>K+ and Mg2+ ions</td>
@@ -2344,8 +2344,8 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>-- + 45 mM DM (Decyl beta-D-maltopyranoside)</td>
-      <td>Directly solubilized with 45 mM DM, then centrifuged</td>
+      <td>-- + 45 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (Decyl beta-D-maltopyranoside)</td>
+      <td>Directly solubilized with 45 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, then centrifuged</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
@@ -2356,7 +2356,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300</td>
       <td>2 mM TriDM + 2 mM TriDM</td>
       <td>Purified on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column pre-equilibrated with 2 mM TriDM buffer</td>
@@ -2912,7 +2912,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##s41467-020-16842-0 (3 structures, 12 sequences)</strong></summary>
+<summary><strong>doi/10.1038/s41467-020-16842-0 (3 structures, 12 sequences)</strong></summary>
 
 **Structures:**
 
@@ -2927,21 +2927,21 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6o9t">6O9T</a></td>
-      <td>3.1 A</td>
+      <td>3.1</td>
       <td>P4(3)2(1)2</td>
       <td>KirBac3.1 S129C-F135C with MTS-1-MTS crosslinker, C262S/C71V/C119V background</td>
       <td>K+ ions</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6o9u">6O9U</a></td>
-      <td>2.0 A</td>
+      <td>2.0</td>
       <td>P4(3)2(1)2</td>
       <td>Full-length wild-type KirBac3.1 (C262S/C71V/C119V background)</td>
       <td>K+ ions</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6o9v">6O9V</a></td>
-      <td>4.1 A</td>
+      <td>4.1</td>
       <td>P4(3)2(1)2</td>
       <td>KirBac3.1 A133C-T136C with dibromobimane crosslinker, C262S/C71V/C119V background</td>
       <td>K+ ions</td>
@@ -4293,7 +4293,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1074##jbc.M113.501833 (1 structure, 4 sequences)</strong></summary>
+<summary><strong>doi/10.1074/jbc.M113.501833 (1 structure, 4 sequences)</strong></summary>
 
 **Structures:**
 
@@ -4308,7 +4308,7 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4lp8">4LP8</a></td>
-      <td>2.46 A</td>
+      <td>2.46</td>
       <td>P4_2_1_2</td>
       <td>KirBac3.1 S129R/S205L double mutant, full-length, expressed in E. coli</td>
       <td>K+ ions in selectivity filter, K+ ion in CTD pore coordinated by Glu173 and Asp175</td>
@@ -4335,10 +4335,10 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
   <tbody>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Not specified</td>
       <td>Not specified + tridecyl-beta-maltoside</td>
-      <td>After elution from SEC, detergent exchanged to 14 mM <a href="/xray-mp-wiki/reagents/detergents/hega-10/">HEGA-10</a> using Amicon 100-kDa cutoff filtration device</td>
+      <td>After elution from <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>, detergent exchanged to 14 mM <a href="/xray-mp-wiki/reagents/detergents/hega-10/">HEGA-10</a> using Amicon 100-kDa cutoff filtration device</td>
     </tr>
     <tr>
       <td>Concentration</td>

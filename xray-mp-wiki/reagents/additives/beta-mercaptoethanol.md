@@ -1,5 +1,5 @@
 ---
-title: beta-Mercaptoethanol
+title: "beta-Mercaptoethanol"
 created: 2026-06-02
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-reductant, subdirectory-additives]
 sources: [doi/10.1038##nature08156, doi/10.1038##nature14549, doi/10.1038##nature17975, doi/10.1038##s41467-018-03477-5]
-verified: false
+verified: regex
 ---
 
 # beta-Mercaptoethanol

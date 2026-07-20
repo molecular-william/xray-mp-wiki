@@ -1,13 +1,13 @@
 ---
-title: Lid Domain in Sugar Transport Proteins (STPs)
+title: "Lid Domain in Sugar Transport Proteins (STPs)"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, membrane-protein]
+tags: [concept-structural, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-018-08176-9]
-verified: false
+verified: regex
 ---
 
 # Lid Domain in Sugar Transport Proteins (STPs)

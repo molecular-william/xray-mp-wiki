@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [xray-crystallography, transporter]
 sources: [doi/10.1073##pnas.2101632118]
-verified: regex
+verified: agent
 uniprot_id: ['P73953', 'P73954']
 ---
 
@@ -75,9 +75,9 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
     </tr>
     <tr>
       <td>Co-purification</td>
-      <td>Ni-NTA affinity + SEC</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity + <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
-      <td>100 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 2 mM AMP; 0.018% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> or 0.18% DM</td>
+      <td>100 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 2 mM AMP; 0.018% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> or 0.18% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>AMP (2 mM) in purification buffer essential for stable 1:1 SbtA-SbtB complex. ADP also supports complex; cAMP and ATP do not.</td>
     </tr>
   </tbody>

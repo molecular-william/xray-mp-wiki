@@ -1,5 +1,5 @@
 ---
-title: Oxacillin
+title: "Oxacillin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, ligand, additive-ligand, subdirectory-antibiotics]
 sources: [doi/10.1016##j.jmb.2019.12.025]
-verified: false
+verified: agent
 ---
 
 # Oxacillin

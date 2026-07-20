@@ -28,6 +28,6 @@ In the inactive state, the Arg (R3.50) of the DRY motif forms a salt bridge (ion
 
 
 ## Cross-References
-- [GPCR Ionic Lock](/xray-mp-wiki/concepts/signaling-receptors/gpcr-ionic-lock/) — The ionic lock is formed by the DRY motif arginine with a glutamate on TM6
+- [GPCR Ionic Lock](/xray-mp-wiki/concepts/structural-mechanisms/gpcr-ionic-lock/) — The ionic lock is formed by the DRY motif arginine with a glutamate on TM6
 - [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — DRY motif rearrangement is a hallmark of GPCR activation
 - [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) — The DRY motif is part of the polar activation network in class A GPCRs

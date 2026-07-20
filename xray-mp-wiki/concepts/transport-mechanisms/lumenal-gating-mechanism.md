@@ -1,13 +1,13 @@
 ---
-title: Lumenal Gating Mechanism in P-type ATPases
+title: "Lumenal Gating Mechanism in P-type ATPases"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature02981]
-verified: false
+verified: regex
 ---
 
 # Lumenal Gating Mechanism in P-type ATPases

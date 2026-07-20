@@ -1,5 +1,5 @@
 ---
-title: Microbatch Crystallization Under Oil
+title: "Microbatch Crystallization Under Oil"
 created: 2026-06-10
 updated: 2026-06-10
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [crystallization-microbatch, subdirectory-crystallization]
 sources: [doi/10.1073##pnas.0910365106]
-verified: false
+verified: regex
 ---
 
 # Microbatch Crystallization Under Oil

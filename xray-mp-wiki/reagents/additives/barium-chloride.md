@@ -1,5 +1,5 @@
 ---
-title: Barium Chloride
+title: "Barium Chloride"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2020.06.012, doi/10.1016##j.str.2012.09.014]
-verified: false
+verified: regex
 ---
 
 # Barium Chloride

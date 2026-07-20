@@ -1,5 +1,5 @@
 ---
-title: Multi-Wavelength Anomalous Diffraction
+title: "Multi-Wavelength Anomalous Diffraction"
 created: 2026-05-28
 updated: 2026-05-28
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-mad, structure-xray, subdirectory-structure-determination]
 sources: [doi/10.1074##jbc.M114.622688, doi/10.1016##j.str.2005.11.015, doi/10.1038##NATURE10963, doi/10.1038##ncomms8947]
-verified: false
+verified: none
 ---
 
 # Multi-Wavelength Anomalous Diffraction

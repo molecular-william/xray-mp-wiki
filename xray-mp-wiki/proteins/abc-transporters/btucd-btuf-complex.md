@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1145950, doi/10.1038##nature11442]
-verified: regex
+verified: agent
 uniprot_id: ['P06609', 'P06611', 'P37028']
 ---
 
@@ -645,8 +645,8 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Superflow</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Superflow](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>Buffer with 4 mM β-mercaptoethanol (for disulphide-forming mutants) + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
       <td>All procedures before oxidative crosslinking performed in presence of 4 mM β-mercaptoethanol</td>
     </tr>
@@ -662,7 +662,7 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td>—</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/octaethylene-glycol-mono-n-dodecylether/">C12E8</a> (<a href="/xray-mp-wiki/reagents/detergents/octaethylene-glycol-mono-n-dodecylether/">octaethylene glycol monododecyl ether</a>)</td>
-      <td>Post-crosslinking, protein re-bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>, detergent exchanged to <a href="/xray-mp-wiki/reagents/detergents/octaethylene-glycol-mono-n-dodecylether/">C12E8</a>, then subjected to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Post-crosslinking, protein re-bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/), detergent exchanged to <a href="/xray-mp-wiki/reagents/detergents/octaethylene-glycol-mono-n-dodecylether/">C12E8</a>, then subjected to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>

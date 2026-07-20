@@ -1,13 +1,13 @@
 ---
-title: GPCR Lateral Ligand Entry Channel
+title: "GPCR Lateral Ligand Entry Channel"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, membrane-protein]
+tags: [concept-structural, concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41586-019-1144-0, doi/10.1038##s41586-019-1141-3]
-verified: false
+verified: regex
 ---
 
 # GPCR Lateral Ligand Entry Channel

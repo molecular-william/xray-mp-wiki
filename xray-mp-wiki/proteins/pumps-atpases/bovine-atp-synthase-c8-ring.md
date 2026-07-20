@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1011099107]
-verified: regex
+verified: agent
 uniprot_id: ['P00829', 'P05630', 'P05631', 'P05632', 'P19483', 'P32876']
 ---
 
@@ -41,7 +41,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a></td>
-      <td>3.5 A</td>
+      <td>3.5</td>
       <td>P2(1)2(1)2(1)</td>
       <td>Bovine F1-c-ring subcomplex (F1 domain alpha3beta3gamma + c8-ring)</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">AMP-PNP</a>, Mg2+</td>

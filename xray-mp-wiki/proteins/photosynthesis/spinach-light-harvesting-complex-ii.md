@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature02373, doi/10.1093##mp##ssu005]
-verified: regex
+verified: agent
 uniprot_id: P12333
 ---
 

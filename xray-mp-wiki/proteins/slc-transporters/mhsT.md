@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NSMB.2894, doi/10.15252##embj.2020105164]
-verified: regex
+verified: agent
 uniprot_id: Q9KDT3
 ---
 
@@ -89,24 +89,24 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> affinity resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) affinity resin</td>
       <td>not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged MhsT captured on <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His-tag</a>ged MhsT captured on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta)</td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
-      <td><a href="/xray-mp-wiki/reagents/proteases/tev-protease">TEV protease</a> digestion</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> affinity resin (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)ond column)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV protease</a> digestion</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) affinity resin (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)ond column)</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td><a href="/xray-mp-wiki/reagents/proteases/tev-protease">TEV protease</a> used to remove N-terminal histidine tag, MhsT-containing flow-through collected</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV protease</a> used to remove N-terminal histidine tag, MhsT-containing flow-through collected</td>
     </tr>
     <tr>
       <td>Second affinity purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> affinity resin (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) affinity resin (Qiagen)</td>
       <td>not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>ond <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> column to remove cleaved <a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a> and <a href="/xray-mp-wiki/reagents/proteases/tev-protease">TEV protease</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)ond <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) column to remove cleaved <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His-tag</a> and <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV protease</a></td>
     </tr>
   </tbody>
 </table>
@@ -121,7 +121,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>MhsT at 7 mg/mL after <a href="/xray-mp-wiki/reagents/proteases/tev-protease">TEV</a> cleavage and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)ond <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> purification, in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>MhsT at 7 mg/mL after <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV</a> cleavage and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)ond <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> purification, in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>
     <tr>
       <td>Reservoir</td>

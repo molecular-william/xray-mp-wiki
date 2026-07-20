@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature17991]
-verified: regex
+verified: agent
 uniprot_id: P00327
 ---
 
@@ -41,7 +41,7 @@ SnYddG is a member of the drug/metabolite transporter (DMT) superfamily from the
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kjf">5KJF</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5i20">5I20</a></td>
       <td>2.4 A</td>
       <td>P2</td>
       <td>SnYddG with C-terminal (His)8 tag and TEV protease cleavage site</td>
@@ -77,28 +77,28 @@ SnYddG is a member of the drug/metabolite transporter (DMT) superfamily from the
       <td>Solubilization</td>
       <td>Membrane solubilization</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mM PMSF + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mM PMSF + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Insoluble material removed by ultracentrifugation at 150,000g for 30 min</td>
     </tr>
     <tr>
       <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (Ni-NTA resin, QIAGEN)</td>
-      <td>Ni-NTA resin (QIAGEN)</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>(His)8 tag cleaved by TEV protease at 4 C overnight</td>
+      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin, QIAGEN)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (QIAGEN)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>(His)8 tag cleaved by <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease at 4 C overnight</td>
     </tr>
     <tr>
       <td>Second Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> to remove TEV protease and uncleaved protein</td>
-      <td>Ni-NTA resin</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> to remove <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease and uncleaved protein</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>(His)8 tag-cleaved protein collected in flow-through</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td>Gel-filtration chromatography (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL, GE Healthcare)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Protein concentrated to ~15 mg/mL using Amicon Ultra 50K filter (Millipore)</td>
     </tr>
   </tbody>

@@ -1,5 +1,5 @@
 ---
-title: 11-cis-Retinal
+title: "11-cis-Retinal"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##J.JMB.2004.08.090, doi/10.1016##J.JMB.2007.03.007, doi/10.1038##nature06925]
-verified: false
+verified: none
 ---
 
 # 11-cis-Retinal

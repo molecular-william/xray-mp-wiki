@@ -1,13 +1,13 @@
 ---
-title: Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography
+title: "Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, subdirectory-concepts]
+tags: [concept-crystallography-principle, subdirectory-membrane-mimetics]
 sources: [doi/10.3390##membranes11110823, doi/10.1073##pnas.1602531113]
-verified: false
+verified: regex
 ---
 
 # Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography

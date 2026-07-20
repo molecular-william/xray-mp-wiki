@@ -1,5 +1,5 @@
 ---
-title: NECA
+title: "NECA"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##NATURE18966, doi/10.1002##anie.202115545]
-verified: false
+verified: none
 ---
 
 # NECA

@@ -1,13 +1,13 @@
 ---
-title: Dual-Topology Channels
+title: "Dual-Topology Channels"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.str.2018.02.004, doi/10.1038##NATURE14981]
-verified: false
+verified: none
 ---
 
 # Dual-Topology Channels

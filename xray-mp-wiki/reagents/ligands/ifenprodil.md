@@ -1,5 +1,5 @@
 ---
-title: Ifenprodil
+title: "Ifenprodil"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature17679, doi/10.1126##science.1251915]
-verified: true
+verified: agent
 ---
 
 # Ifenprodil

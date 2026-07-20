@@ -1,13 +1,13 @@
 ---
-title: 3 Omega Motif in Microbial Rhodopsins
+title: "3 Omega Motif in Microbial Rhodopsins"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##ncomms12677]
-verified: false
+verified: regex
 ---
 
 # 3 Omega Motif in Microbial Rhodopsins

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1021##bi500525s, doi/10.1126##science.280.5360.69, doi/10.1016##j.jmb.2020.06.012, doi/10.1016##j.str.2012.03.027, doi/10.1038##nature09136, doi/10.1016##j.str.2016.02.021, doi/10.1038##35102009, doi/10.7554##eLife.28032, doi/10.1038##s41467-022-28866-9, doi/10.1038##NSMB929, doi/10.1038##nsmb.1703, doi/10.1073##pnas.0810663106, doi/10.1073##pnas.1314356110, doi/10.1073##pnas.1800559115, doi/10.1016##j.jmb.2021.167296, doi/10.1038##nsmb.1968, doi/10.1073##pnas.1105112108, doi/10.1371##journal.pbio.0050121, doi/10.1073##pnas.1901888116]
-verified: regex
+verified: agent
 uniprot_id: ['P0A333', 'P0A334']
 ---
 
@@ -42,7 +42,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2jks">2JKS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2jk5">2JK5</a></td>
       <td>2.40</td>
       <td>I4</td>
       <td>KcsA-L90C mutant with Fab, cocrystallized with TBA</td>
@@ -6432,7 +6432,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
       <td>K+</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1k4d">1K4D</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1k4c">1K4C</a></td>
       <td>2.3</td>
       <td>I4</td>
       <td>KcsA-Fab complex, wild-type, low K+ (~3 mM)</td>

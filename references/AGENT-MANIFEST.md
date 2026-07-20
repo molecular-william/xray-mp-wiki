@@ -28,8 +28,24 @@ Each entity is a YAML file in `xray-mp-wiki/<type>_yaml/<name>.yaml`. The full f
 
 - `structures[].pdb_id`: 4-char PDB code, string
 - `purifications[].steps[]`: each has `step` (required), `method`, `resin`, `buffer`, `detergent`, `notes`, `detergent_details` (array of `{reagent, concentration, unit}`), `buffer_details` (array of `{reagent, concentration, unit, ph}`), `step_type` (controlled: `binding`, `clarification`, `complex_formation`, `concentration`, `crystallization_setup`, `deglycosylation`, `dialysis`, `elution`, `exchange`, `expression`, `hic`, `ion_exchange`, `lysis`, `membrane_prep`, `modification`, `polishing`, `purification`, `sec`, `solubilization`, `tag_cleavage`, `wash`)
-- `crystallizations[].method`: if contains "cubic phase" or "lcp" → LCP fields (Lipid, Ratio) used
-- `crystallizations[].mixing_ratio`: **MUST be quoted string** — YAML parses `1:1` as sexagesimal 61
+|- `crystallizations[].method`: if contains "cubic phase" or "lcp" → LCP fields (Lipid, Ratio) used
+|- `crystallizations[].mixing_ratio`: **MUST be quoted string** — YAML parses `1:1` as sexagesimal 61
+|- `crystallizations[].crystallization_details`: optional structured parallel field (added by `normalize_crystallization.py`). Object with:
+  - `method_lc`: controlled — `lcp`, `vapor-diffusion`, `microbatch`, `dialysis`, `bicelle`, `nanodisc`, `free-interface-diffusion`, `counter-diffusion`, `not-specified`
+  - `ph`: quoted string (e.g. `"7.5"`)
+  - `temperature_value`: quoted string (e.g. `"20"`)
+  - `temperature_unit`: one of `C`, `K`, `°C`
+  - `method_variant`: `sitting-drop` or `hanging-drop` (vapor diffusion subtypes)
+  - `mixing_ratio`: **MUST be quoted string** (LCP-specific, e.g. `"1:1"`)
+  - `protein_to_lipid_ratio`: quoted string (LCP-specific, e.g. `"2:3"`)
+  - `lipid_note`: string (LCP-specific, free text)
+  - `reservoir_components[]`: list of objects, each with:
+    - `reagent`: wikilink path (e.g. `/xray-mp-wiki/reagents/buffers/hepes/`)
+    - `concentration`: quoted string (e.g. `"0.1"`)
+    - `unit`: one of `M`, `mM`, `%`
+    - `role`: controlled — `buffer`, `salt`, `precipitant`, `additive`, `detergent`
+    - `subtype`: optional string (e.g. `"PEG 400"` for peg-400)
+    - `note`: optional string for extra context
 - `sequences[].topology[].location`: one of `Membrane`, `Inside`, `Outside`, `Unknown`
 - `mpstruc_classification.subgroup`: drives subdirectory routing
 - `expression`: object with `system`, `construct`, `notes`, `class` (controlled: one of `e-coli`, `sf9`, `hek293`, `pichia-pastoris`, `saccharomyces-cerevisiae`, `hi5`, `native-tissue`, `cell-free`, `lexsy`, `other-bacterial`, `other-eukaryotic`, `not-specified`)

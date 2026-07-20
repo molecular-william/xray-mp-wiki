@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-020-2019-0]
-verified: regex
+verified: agent
 uniprot_id: ['P59768', 'P62873', 'P63092', 'Q9Y2T5']
 ---
 
@@ -102,7 +102,7 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
     </tr>
     <tr>
       <td>Solubilization</td>
-      <td>100 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a>, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1.0% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, stirred 2.5 h at 4C</td>
+      <td>100 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a>, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1.0% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), stirred 2.5 h at 4C</td>
       <td>—</td>
       <td></td>
       <td>c17 (20 uM) added for ligand-bound sample</td>
@@ -111,12 +111,12 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
       <td>Affinity chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a> resin (Clontech), overnight batch binding at 4C</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a> resin</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 20 uM c17</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 800 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 20 uM c17</td>
       <td>Washed with 15 CV buffer I, eluted with buffer II (40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>)</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC for complex formation and final purification using <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 10/300</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> for complex formation and final purification using <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 10/300</a> column</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 10/300</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 1 uM <a href="/xray-mp-wiki/reagents/ligands/gdp/">GDP</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a></td>
       <td>GPR52 mixed with 1.2x mini-Gs and 1.5x <a href="/xray-mp-wiki/reagents/antibodies/nb35/">Nb35</a>; peak fractions pooled and concentrated</td>

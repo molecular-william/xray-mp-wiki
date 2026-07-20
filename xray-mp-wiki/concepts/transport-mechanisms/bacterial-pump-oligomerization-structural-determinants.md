@@ -1,13 +1,13 @@
 ---
-title: Bacterial Pump Oligomerization Classification by Structural Determinants
+title: "Bacterial Pump Oligomerization Classification by Structural Determinants"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41598-019-47445-5]
-verified: false
+verified: regex
 ---
 
 # Bacterial Pump Oligomerization Classification by Structural Determinants

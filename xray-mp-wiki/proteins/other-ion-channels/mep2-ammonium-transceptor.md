@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms11337]
-verified: regex
+verified: agent
 uniprot_id: ['P41948', 'Q59UP8']
 ---
 
@@ -41,14 +41,14 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5aex">5AEX</a></td>
-      <td>2.65 A</td>
+      <td>2.65</td>
       <td>Not specified</td>
       <td>ScMep2 (S. cerevisiae, residues 2-485, N4Q mutant)</td>
       <td>none</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5aez">5AEZ</a></td>
-      <td>2.4 A</td>
+      <td>\'2.4\'</td>
       <td>R3</td>
       <td>CaMep2 (C. albicans, residues 2-480, N4Q mutant)</td>
       <td>none</td>
@@ -62,14 +62,14 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5aid">5AID</a></td>
-      <td>3.4 A</td>
+      <td>\'3.4\'</td>
       <td>Not specified</td>
       <td>CaMep2 442Δ <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> mutant (lacking AI region residues 443-480)</td>
       <td>none</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ah3">5AH3</a></td>
-      <td>2.4 A</td>
+      <td>\'2.4\'</td>
       <td>Not specified</td>
       <td>CaMep2 R452D/S453D (DD mutant, phosphorylation-mimicking)</td>
       <td>none</td>
@@ -112,7 +112,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
       <td>Ultracentrifugation</td>
       <td>—</td>
       <td>20 mM Tris pH 8.0, 300 mM NaCl</td>
-      <td>Membranes collected at 200,000g for 90 min. Membrane protein extraction in 1:1 (w/w) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/DM mixture, 1% total detergent, stirring overnight at 4 C.</td>
+      <td>Membranes collected at 200,000g for 90 min. Membrane protein extraction in 1:1 (w/w) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> mixture, 1% total detergent, stirring overnight at 4 C.</td>
     </tr>
     <tr>
       <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
@@ -126,7 +126,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
       <td>Size-exclusion chromatography</td>
       <td>—</td>
       <td>10 mM HEPES pH 7.0-7.5, 100 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Second gel filtration step for detergent exchange. CaMep2 required 0.05% decyl-<a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> (DM) for diffracting crystals.</td>
+      <td>Second gel filtration step for detergent exchange. CaMep2 required 0.05% decyl-<a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>) for diffracting crystals.</td>
     </tr>
   </tbody>
 </table>

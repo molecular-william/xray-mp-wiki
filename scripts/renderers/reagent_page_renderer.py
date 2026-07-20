@@ -5,8 +5,10 @@ Shared rendering functions for reagent wiki pages.
 Used by generate_reagent_page.py to render complete pages from YAML data.
 """
 
-import sys, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from _base import render_frontmatter as _base_render_frontmatter
 
 

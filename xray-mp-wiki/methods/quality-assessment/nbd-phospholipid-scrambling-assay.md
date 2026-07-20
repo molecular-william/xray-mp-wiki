@@ -1,5 +1,5 @@
 ---
-title: NBD-Phospholipid Scrambling Assay
+title: "NBD-Phospholipid Scrambling Assay"
 created: 2026-06-03
 updated: 2026-06-03
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1038##nature12535, doi/10.1038##nature13984]
-verified: false
+verified: regex
 ---
 
 # NBD-Phospholipid Scrambling Assay

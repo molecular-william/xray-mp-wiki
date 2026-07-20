@@ -1,5 +1,5 @@
 ---
-title: HRV 3C Protease
+title: "HRV 3C Protease"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [subdirectory-additives]
 sources: [doi/10.1038##nature17188, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109]
-verified: false
+verified: regex
 ---
 
 # HRV 3C Protease

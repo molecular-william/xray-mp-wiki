@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12233]
-verified: regex
+verified: agent
 uniprot_id: Q2SXN9
 ---
 
@@ -41,7 +41,7 @@ Vcx1 (also known as Hum1p) is a vacuolar Ca2+/H+ exchanger from Saccharomyces ce
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4kna">4KNA</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4k1c">4K1C</a></td>
       <td>2.3</td>
       <td>C2</td>
       <td>Full-length Vcx1 with N-terminal and C-terminal decahistidine tags</td>
@@ -98,7 +98,7 @@ Vcx1 (also known as Hum1p) is a vacuolar Ca2+/H+ exchanger from Saccharomyces ce
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td>20 mM HEPES pH 7.0, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Final polishing step; protein concentrated for crystallization</td>

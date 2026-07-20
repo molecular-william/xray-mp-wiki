@@ -1,5 +1,5 @@
 ---
-title: Endoglycosidase H (EndoH)
+title: "Endoglycosidase H (EndoH)"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1016##j.immuni.2020.02.004]
-verified: false
+verified: agent
 ---
 
 # Endoglycosidase H (EndoH)

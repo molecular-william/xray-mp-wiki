@@ -1,13 +1,13 @@
 ---
-title: Proton-Locked Conformation
+title: "Proton-Locked Conformation"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##NSMB.1678]
-verified: false
+verified: none
 ---
 
 # Proton-Locked Conformation

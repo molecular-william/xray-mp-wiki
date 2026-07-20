@@ -1,5 +1,5 @@
 ---
-title: Jeffamine M600
+title: "Jeffamine M600"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##J.FEBSLET.2005.09.061]
-verified: false
+verified: none
 ---
 
 # Jeffamine M600

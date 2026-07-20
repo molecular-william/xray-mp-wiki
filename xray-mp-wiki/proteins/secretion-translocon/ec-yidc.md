@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.bbrc.2018.09.043, doi/10.1038##srep07299]
-verified: regex
+verified: agent
 uniprot_id: ['P25714', 'Q1R4M9']
 ---
 
@@ -295,11 +295,11 @@ YidC is an essential bacterial membrane protein insertase and chaperone that med
       <td>His-tagged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a></td>
       <td>—</td>
       <td>20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25% , 10 mM  + 0.25% </td>
-      <td>C-terminal His8 tag cleaved by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a> for 12 h at 4 C. Flow-through collected from Ni-NTA after cleavage.</td>
+      <td>C-terminal His8 tag cleaved by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a> for 12 h at 4 C. Flow-through collected from <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> after cleavage.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>HiLoad 16/600 Superdex 200</td>
+      <td>HiLoad 16/600 <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>—</td>
       <td>20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25%  + 0.25% </td>
       <td>Final polishing step. N-terminal sequencing confirmed intact YidC in purified sample.</td>

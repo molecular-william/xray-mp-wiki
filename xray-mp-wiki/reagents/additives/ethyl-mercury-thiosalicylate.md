@@ -1,5 +1,5 @@
 ---
-title: Ethyl Mercury Thiosalicylate EMTS Heavy Metal Derivative
+title: "Ethyl Mercury Thiosalicylate EMTS Heavy Metal Derivative"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-metal, subdirectory-additives]
 sources: [doi/10.1038##nature13015]
-verified: false
+verified: regex
 ---
 
 # Ethyl Mercury Thiosalicylate EMTS Heavy Metal Derivative

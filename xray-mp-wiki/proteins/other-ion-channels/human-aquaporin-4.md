@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein]
 sources: [doi/10.1073##pnas.0902725106]
-verified: pdb
+verified: agent
 uniprot_id: P55087
 ---
 
@@ -71,7 +71,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
   <tbody>
     <tr>
       <td>Protein purification</td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td></td>
       <td>Details in SI</td>

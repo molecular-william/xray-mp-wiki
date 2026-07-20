@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography, enzyme]
 sources: [doi/10.1073##pnas.93.18.9420]
-verified: regex
+verified: agent
 uniprot_id: P05631
 ---
 
@@ -27,7 +27,7 @@ The structure of bovine mitochondrial F1-ATPase complexed with efrapeptin C, a m
 
 ## Publications
 
-### doi/10.1073##pnas.93.18.9420
+### doi/10.1073/PNAS.93.18.9420
 
 **Structures:**
 

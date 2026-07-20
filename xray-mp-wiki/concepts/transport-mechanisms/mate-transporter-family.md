@@ -1,13 +1,13 @@
 ---
-title: MATE Transporter Family
+title: "MATE Transporter Family"
 created: 2026-06-08
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.str.2017.07.009, doi/10.1038##nature09408, doi/10.1038##ncomms8995, doi/10.1038##nature12014, doi/10.1038##nmicrobiol.2015.9, doi/10.1073##pnas.2107335118]
-verified: false
+verified: regex
 ---
 
 # MATE Transporter Family

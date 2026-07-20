@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1156213]
-verified: regex
+verified: agent
 uniprot_id: ['Q8TTZ3', 'Q8TTZ4']
 ---
 
@@ -88,7 +88,7 @@ intracellular substrate accumulation downregulates further uptake.
   <tbody>
     <tr>
       <td>Protein purification</td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td></td>
       <td>Purified in detergent solution; detailed purification protocol in supporting online material</td>

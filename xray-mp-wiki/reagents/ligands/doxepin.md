@@ -1,5 +1,5 @@
 ---
-title: Doxepin
+title: "Doxepin"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature10236]
-verified: false
+verified: agent
 ---
 
 # Doxepin

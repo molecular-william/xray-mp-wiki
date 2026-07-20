@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsb969, doi/10.1074##jbc.M410457200, doi/10.1021##bi049938l]
-verified: regex
+verified: agent
 uniprot_id: ['P09152', 'P11349', 'P11350']
 ---
 
@@ -97,7 +97,7 @@ The structure in complex with the inhibitor [PCP](/xray-mp-wiki/reagents/ligands
     </tr>
     <tr>
       <td>Gel filtration</td>
-      <td>SEC (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>-- + 0.7 mM <a href="/xray-mp-wiki/reagents/detergents/thesit/">THESIT</a></td>
       <td>Used to determine optimal detergent concentration for crystallization</td>

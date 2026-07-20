@@ -1,13 +1,13 @@
 ---
-title: Common Drug-Binding Site on ATP Synthase c-Ring
+title: "Common Drug-Binding Site on ATP Synthase c-Ring"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.1207912109]
-verified: false
+verified: regex
 ---
 
 # Common Drug-Binding Site on ATP Synthase c-Ring

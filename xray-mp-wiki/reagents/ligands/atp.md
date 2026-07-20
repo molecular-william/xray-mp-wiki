@@ -1,5 +1,5 @@
 ---
-title: Adenosine Triphosphate (ATP)
+title: "Adenosine Triphosphate (ATP)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.celrep.2015.12.087, doi/10.1016##j.str.2016.02.018]
-verified: agent
+verified: regex
 ---
 
 # Adenosine Triphosphate (ATP)

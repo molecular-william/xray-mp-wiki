@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##srep30815, doi/10.1038##s41586-020-2597-x, doi/10.1128##mBio.03277-19]
-verified: regex
+verified: agent
 uniprot_id: ['P0AD27', 'P40709']
 ---
 
@@ -82,7 +82,7 @@ uniprot_id: ['P0AD27', 'P40709']
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
       <td>20 mM Tris-Cl pH 7.8, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + --</td>
       <td>Eluted with 20 mM Tris-Cl pH 7.8, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>. Buffer exchanged for further processing.</td>
@@ -170,10 +170,10 @@ uniprot_id: ['P0AD27', 'P40709']
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td>M2-agarose Flag resin batch binding</td>
+      <td>M2-agarose <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> resin batch binding</td>
       <td>—</td>
       <td>50 mM Tris pH 8, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 0.01% (w/v) <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> or 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Batch binding to 20 mL M2-agarose Flag resin for 2 h at 4 C. Unbound washed with 10 CV of purification buffer.</td>
+      <td>Batch binding to 20 mL M2-agarose <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> resin for 2 h at 4 C. Unbound washed with 10 CV of purification buffer.</td>
     </tr>
   </tbody>
 </table>

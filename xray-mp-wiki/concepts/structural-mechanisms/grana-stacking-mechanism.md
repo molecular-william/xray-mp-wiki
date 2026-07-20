@@ -1,13 +1,13 @@
 ---
-title: Grana Stacking Mechanism
+title: "Grana Stacking Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1093##mp##ssu005]
-verified: false
+verified: regex
 ---
 
 # Grana Stacking Mechanism

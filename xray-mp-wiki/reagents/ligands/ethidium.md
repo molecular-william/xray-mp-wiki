@@ -1,5 +1,5 @@
 ---
-title: Ethidium - Fluorescent Intercalating Dye
+title: "Ethidium - Fluorescent Intercalating Dye"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1126##science.1083137]
-verified: false
+verified: regex
 ---
 
 # Ethidium - Fluorescent Intercalating Dye

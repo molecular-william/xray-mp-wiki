@@ -1,5 +1,5 @@
 ---
-title: Ala-Tyr(L-3,5-diBr)-Ala (AY(Br)A)
+title: "Ala-Tyr(L-3,5-diBr)-Ala (AY(Br)A)"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nsmb.2860]
-verified: agent
+verified: regex
 ---
 
 # Ala-Tyr(L-3,5-diBr)-Ala (AY(Br)A)

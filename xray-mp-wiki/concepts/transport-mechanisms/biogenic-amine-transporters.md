@@ -1,13 +1,13 @@
 ---
-title: Biogenic Amine Transporters
+title: "Biogenic Amine Transporters"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-functional, membrane-protein]
+tags: [concept-protein-family, concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nsmb.3029]
-verified: false
+verified: regex
 ---
 
 # Biogenic Amine Transporters

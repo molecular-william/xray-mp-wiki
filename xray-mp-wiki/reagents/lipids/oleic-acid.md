@@ -1,5 +1,5 @@
 ---
-title: Oleic Acid
+title: "Oleic Acid"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1038##ncomms12677, doi/10.1038##nature21714]
-verified: false
+verified: agent
 ---
 
 # Oleic Acid

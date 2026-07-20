@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.61189]
-verified: regex
+verified: agent
 uniprot_id: P47190
 ---
 
@@ -94,7 +94,7 @@ The Pmt3-MIR domain is the luminal MIR domain of Pmt3, a member of the PMT2 subf
     </tr>
     <tr>
       <td>TEV protease cleavage</td>
-      <td>TEV protease cleavage overnight at 4 C</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage overnight at 4 C</td>
       <td>—</td>
       <td></td>
       <td></td>
@@ -104,11 +104,11 @@ The Pmt3-MIR domain is the luminal MIR domain of Pmt3, a member of the PMT2 subf
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (flow-through)</td>
       <td>HisTrap</td>
       <td></td>
-      <td>TEV protease and cleaved His-tag bind to column, Pmt3-MIR flows through</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease and cleaved His-tag bind to column, Pmt3-MIR flows through</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superdex 75 26/600</td>
       <td>20 mM Tris-HCl pH 7.0, 200 mM NaCl</td>
       <td></td>

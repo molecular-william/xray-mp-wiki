@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1038##nature02373]
-verified: false
+verified: regex
 ---
 
 # n-Methyl-beta-D-glucoside (BNG)

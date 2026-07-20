@@ -1,5 +1,5 @@
 ---
-title: 1,2-Dioleoyl-sn-glycero-3-phospho-(1'-rac-glycerol) (DOPG)
+title: "1,2-Dioleoyl-sn-glycero-3-phospho-(1'-rac-glycerol) (DOPG)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1038##s41594-020-0464-y]
-verified: false
+verified: regex
 ---
 
 # 1,2-Dioleoyl-sn-glycero-3-phospho-(1'-rac-glycerol) (DOPG)

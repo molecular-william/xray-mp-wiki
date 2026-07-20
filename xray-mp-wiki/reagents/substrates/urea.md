@@ -1,5 +1,5 @@
 ---
-title: Urea
+title: "Urea"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [substrate, subdirectory-substrates]
 sources: [doi/10.1038##nature08558]
-verified: false
+verified: agent
 ---
 
 # Urea

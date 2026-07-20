@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [membrane-protein, xray-crystallography, pump]
 sources: [doi/10.1038##nature11900]
-verified: regex
+verified: agent
 ---
 
 # Sarcolipin (SLN)
@@ -36,7 +36,7 @@ Sarcolipin (SLN) is a small (~30 amino acid) membrane protein that regulates the
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4k5t">4K5T</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4h1w">4H1W</a></td>
       <td>3.1 A</td>
       <td>P21212</td>
       <td>Rabbit SLN (30 residues) in complex with rabbit <a href="/xray-mp-wiki/proteins/pumps-atpases/serca1a/">SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)</a></td>
@@ -103,7 +103,7 @@ Sarcolipin (SLN) is a small (~30 amino acid) membrane protein that regulates the
     </tr>
     <tr>
       <td>Mixing ratio</td>
-      <td>1:1</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Temperature</td>

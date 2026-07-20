@@ -23,7 +23,7 @@ n-Octyl beta-D-glucopyranoside (OG) is a mild nonionic detergent with an 8-carbo
 - **Chemical formula**: C14H28O6
 - **Molecular weight**: 296.37 g/mol
 - **Class**: nonionic alkyl glucoside
-- **CMC**: 20-28 mM
+- **CMC**: 18-20
 - **HLB**: ~13
 - **Head group**: glucose (single)
 - **Tail length**: 8 carbons

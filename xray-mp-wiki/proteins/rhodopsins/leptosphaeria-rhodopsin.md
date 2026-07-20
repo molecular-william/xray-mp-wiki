@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s42003-021-02326-4]
-verified: regex
+verified: agent
 ---
 
 # Leptosphaeria Rhodopsin (LR/Mac)
@@ -45,7 +45,7 @@ structures supports an archaeal origin of eukaryotic proton-pumping rhodopsins.
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not explicitly stated in raw paper">NOT EXPLICITLY STATED IN RAW PAPER</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7bmh">7BMH</a></td>
       <td>2.2</td>
       <td>P 21 21 21</td>
       <td>Full-length LR (residues 1-313) from Leptosphaeria maculans, C-terminal polyhistidine tag (H6/H9), expressed in Leishmania tarentolae</td>
@@ -99,21 +99,21 @@ for LR 1-313, 10 mg/L for LR 49-313.
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>20 mM HEPES pH 8.0, 0.2 M NaCl, cOmplete protease inhibitor + 1% n-dodecyl β-D-maltoside (DDM)</td>
+      <td>20 mM HEPES pH 8.0, 0.2 M NaCl, cOmplete protease inhibitor + 1% n-dodecyl β-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Membranes stirred overnight at 4°C; 20 µM all-trans-retinal added for LR 1-313, 5 µM for LR 49-313; insoluble fraction removed by ultracentrifugation</td>
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA resin (Cube Biotech)</td>
-      <td>20 mM HEPES pH 7.5, 0.2 M NaCl, 0.25 M L-Histidine, 0.1 mM PMSF, 2 mM 6-aminohexanoic acid, cOmplete + 0.1% DDM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (Cube Biotech)</td>
+      <td>20 mM HEPES pH 7.5, 0.2 M NaCl, 0.25 M L-Histidine, 0.1 mM PMSF, 2 mM 6-aminohexanoic acid, cOmplete + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted with L-Histidine-containing buffer</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200 Increase 10/300 GL (GE Healthcare)</td>
-      <td>10 mM NaH2PO4/Na2HPO4 pH 6.5, 0.2 M NaCl, 1 mM EDTA, 2 mM 6-aminohexanoic acid, 0.1 mM PMSF, cOmplete + 0.05% DDM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL (GE Healthcare)</td>
+      <td>10 mM NaH2PO4/Na2HPO4 pH 6.5, 0.2 M NaCl, 1 mM EDTA, 2 mM 6-aminohexanoic acid, 0.1 mM PMSF, cOmplete + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>A280/A540 absorbance ratio ~1.5; concentrated to 30-40 mg/ml for crystallization</td>
     </tr>
   </tbody>

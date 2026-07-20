@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms15103]
-verified: regex
+verified: agent
 ---
 
 # CpTRIC Channel from Clostridium perfringens
@@ -34,15 +34,15 @@ CpTRIC is a Trimeric Intracellular Cation (TRIC) channel from the bacterium Clos
   </tr></thead>
   <tbody>
     <tr>
-      <td></td>
-      <td>2.4 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5wuc">5WUC</a></td>
+      <td>2.4</td>
       <td>R32</td>
       <td>CpTRIC residues 1-219, wild-type, Se-Met labeled</td>
       <td>Cd2+ (4 binding sites per protomer), Se-Met for phasing</td>
     </tr>
     <tr>
-      <td></td>
-      <td>2.4 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5wuf">5WUF</a></td>
+      <td>2.4</td>
       <td>R32</td>
       <td>CpTRIC residues 1-219, wild-type, Native</td>
       <td>Cd2+ (4 binding sites per protomer)</td>

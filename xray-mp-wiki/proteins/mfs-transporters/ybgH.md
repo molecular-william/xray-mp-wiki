@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1016##j.str.2014.06.008]
-verified: regex
+verified: agent
 uniprot_id: P75742
 ---
 
@@ -107,8 +107,8 @@ Induced with 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at 16C for 20 
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA affinity</td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8, 300 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">Polyhistidine Tag (His6)</a> affinity purification</td>
     </tr>

@@ -1,5 +1,5 @@
 ---
-title: G247 (Optimized Quinoline MsbA Inhibitor)
+title: "G247 (Optimized Quinoline MsbA Inhibitor)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, antibiotic]
 sources: [doi/10.1038##s41586-018-0083-5]
-verified: false
+verified: regex
 ---
 
 # G247 (Optimized Quinoline MsbA Inhibitor)

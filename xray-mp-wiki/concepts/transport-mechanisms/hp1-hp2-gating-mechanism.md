@@ -1,13 +1,13 @@
 ---
-title: HP1-HP2 Gating Mechanism in Glutamate Transporters
+title: "HP1-HP2 Gating Mechanism in Glutamate Transporters"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature03018]
-verified: false
+verified: regex
 ---
 
 # HP1-HP2 Gating Mechanism in Glutamate Transporters

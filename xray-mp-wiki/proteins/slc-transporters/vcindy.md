@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11542, doi/10.1038##ncomms15009]
-verified: regex
+verified: agent
 uniprot_id: Q9KNE0
 ---
 
@@ -42,7 +42,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4f35">4F35</a></td>
-      <td>3.2 A</td>
+      <td>3.2</td>
       <td>C2</td>
       <td>N-terminal 10X His-tagged VcINDY</td>
       <td><a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a></td>
@@ -75,21 +75,21 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
       <td>Detergent solubilization</td>
       <td>—</td>
       <td>1.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">n-Decyl-β-D-maltoside</a> (DM)</td>
-      <td>Membranes solubilized in 1.2% DM</td>
+      <td>Membranes solubilized in 1.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Cobalt affinity (IMAC)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> (Clontech)</td>
-      <td>50 mM Tris pH 7.5, 100 mM NaCl, 50 mM <a href="/xray-mp-wiki/reagents/additives/lithium-citrate/">Lithium Citrate</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% DM</td>
+      <td>50 mM Tris pH 7.5, 100 mM NaCl, 50 mM <a href="/xray-mp-wiki/reagents/additives/lithium-citrate/">Lithium Citrate</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Gel filtration</td>
       <td>Shodex KW804 (HPLC)</td>
-      <td>50 mM Tris pH 7.5, 100 mM NaCl, 50 mM <a href="/xray-mp-wiki/reagents/additives/lithium-citrate/">Lithium Citrate</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% DM</td>
-      <td>Preparative SEC in same buffer</td>
+      <td>50 mM Tris pH 7.5, 100 mM NaCl, 50 mM <a href="/xray-mp-wiki/reagents/additives/lithium-citrate/">Lithium Citrate</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Preparative <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> in same buffer</td>
     </tr>
   </tbody>
 </table>

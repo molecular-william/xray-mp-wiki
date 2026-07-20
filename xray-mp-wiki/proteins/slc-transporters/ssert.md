@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature17629, doi/10.1038##s41594-018-0026-8]
-verified: regex
+verified: agent
 uniprot_id: P31645
 ---
 
@@ -85,7 +85,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td></td>
-      <td>50 mM Tris pH 8, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 2.5 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 uM inhibitor + 20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>50 mM Tris pH 8, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 2.5 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 uM inhibitor + 20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Membranes harvested and solubilized</td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM Tris pH 8, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM Tris pH 8, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Monodisperse fractions collected</td>
     </tr>
   </tbody>
@@ -855,21 +855,21 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td></td>
-      <td>50 mM Tris pH 8, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 2.5 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>50 mM Tris pH 8, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 2.5 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>HEK293S GnT- cells solubilized</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Strep-Tactin <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Strep-Tactin resin</td>
-      <td>20 mM Tris pH 8, 100 mM NaCl (TBS), 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 25 uM lipid mixture (<a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a>:<a href="/xray-mp-wiki/reagents/lipids/pope/">POPE</a>:<a href="/xray-mp-wiki/reagents/lipids/popg/">POPG</a> 1:1:1) + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM Tris pH 8, 100 mM NaCl (TBS), 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 25 uM lipid mixture (<a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a>:<a href="/xray-mp-wiki/reagents/lipids/pope/">POPE</a>:<a href="/xray-mp-wiki/reagents/lipids/popg/">POPG</a> 1:1:1) + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted protein digested by thrombin and <a href="/xray-mp-wiki/reagents/additives/endoh/">ENDOH</a>; combined with 8B6 Fab at 1:1.2 ratio</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td></td>
-      <td>TBS supplemented with 40 mM n-octyl beta-D-maltoside, 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 25 uM lipid mixture (<a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a>:<a href="/xray-mp-wiki/reagents/lipids/pope/">POPE</a>:<a href="/xray-mp-wiki/reagents/lipids/popg/">POPG</a> 1:1:1) + 40 mM n-octyl beta-D-maltoside</td>
+      <td>TBS supplemented with 40 mM n-octyl beta-D-maltoside, 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 25 uM lipid mixture (<a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a>:<a href="/xray-mp-wiki/reagents/lipids/pope/">POPE</a>:<a href="/xray-mp-wiki/reagents/lipids/popg/">POPG</a> 1:1:1) + 40 mM n-octyl beta-D-maltoside</td>
       <td>SERT-8B6 complex purified; concentrated to 2 mg/ml; SSRIs added to 50 uM</td>
     </tr>
   </tbody>

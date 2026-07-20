@@ -1,13 +1,13 @@
 ---
-title: SERCA E2-P Dephosphorylation and Counterion Occlusion
+title: "SERCA E2-P Dephosphorylation and Counterion Occlusion"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, concept-structural, subdirectory-concepts]
+tags: [concept-transport-mechanism, concept-structural, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1126##science.1106289]
-verified: false
+verified: regex
 ---
 
 # SERCA E2-P Dephosphorylation and Counterion Occlusion

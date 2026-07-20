@@ -1,5 +1,5 @@
 ---
-title: E. coli Polar Lipids
+title: "E. coli Polar Lipids"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1038##NSMB.1933, doi/10.1038##ncomms4009]
-verified: false
+verified: none
 ---
 
 # E. coli Polar Lipids

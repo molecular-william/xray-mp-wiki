@@ -1,13 +1,13 @@
 ---
-title: Methionine-Mediated Metal Transport
+title: "Methionine-Mediated Metal Transport"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature09395]
-verified: false
+verified: regex
 ---
 
 # Methionine-Mediated Metal Transport

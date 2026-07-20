@@ -29,96 +29,211 @@ from _base import BASE_DIR, load_yaml
 
 # ─── Tag taxonomy ────────────────────────────────────────────────
 PROTEIN_CLASS_TAGS = {
-    "gpcr", "ion-channel", "transporter", "enzyme", "receptor",
-    "channel", "pump", "porin", "potassium-channel",
+    "gpcr",
+    "ion-channel",
+    "transporter",
+    "enzyme",
+    "receptor",
+    "channel",
+    "pump",
+    "porin",
+    "potassium-channel",
 }
 GENERAL_TAGS = {"membrane-protein", "xray-crystallography"}
 
 REAGENT_DETERGENT_TAGS = {
-    "detergent-nonionic", "detergent-zwitterionic", "detergent-ionic",
-    "detergent-mild", "detergent-strong",
+    "detergent-nonionic",
+    "detergent-zwitterionic",
+    "detergent-ionic",
+    "detergent-mild",
+    "detergent-strong",
 }
 REAGENT_LIPID_TAGS = {
-    "lipid", "lipid-monoacyl", "lipid-diacyl", "lipid-sterol", "lipid-analog",
+    "lipid",
+    "lipid-monoacyl",
+    "lipid-diacyl",
+    "lipid-sterol",
+    "lipid-analog",
 }
 REAGENT_ADDITIVE_TAGS = {
-    "additive-stabilizer", "additive-reductant", "additive-precipitant",
-    "additive-salt", "additive-ph", "additive-ligand", "additive-antibody",
-    "additive-metal", "additive-organic-solvent", "additive-alkylating-agent",
+    "additive-stabilizer",
+    "additive-reductant",
+    "additive-precipitant",
+    "additive-salt",
+    "additive-ph",
+    "additive-ligand",
+    "additive-antibody",
+    "additive-metal",
+    "additive-organic-solvent",
+    "additive-alkylating-agent",
     "additive-protease-inhibitor",
 }
 REAGENT_BUFFER_TAGS = {
-    "buffer-tris", "buffer-hepes", "buffer-phosphate",
-    "buffer-acetate", "buffer-citrate",
-    "buffer-cacodylate", "buffer-mops", "buffer-pipes", "buffer-bicine",
-    "buffer-tes", "buffer-glycine", "buffer-ammonium-acetate", "buffer-mes",
-    "buffer-additive", "buffer-ches", "buffer-bis-tris-propane", "buffer-tricine",
+    "buffer-tris",
+    "buffer-hepes",
+    "buffer-phosphate",
+    "buffer-acetate",
+    "buffer-citrate",
+    "buffer-cacodylate",
+    "buffer-mops",
+    "buffer-pipes",
+    "buffer-bicine",
+    "buffer-tes",
+    "buffer-glycine",
+    "buffer-ammonium-acetate",
+    "buffer-mes",
+    "buffer-additive",
+    "buffer-ches",
+    "buffer-bis-tris-propane",
+    "buffer-tricine",
 }
 # General reagent tags (non-category-specific)
-REAGENT_GENERAL_TAGS = {"ligand", "enzyme", "protease", "solubilization-detergent",
-                        "protein-tag", "antibody", "cofactor", "antibiotic", "substrate"}
+REAGENT_GENERAL_TAGS = {
+    "ligand",
+    "enzyme",
+    "protease",
+    "solubilization-detergent",
+    "protein-tag",
+    "antibody",
+    "cofactor",
+    "antibiotic",
+    "substrate",
+}
 METHOD_SOLUBILIZATION_TAGS = {
-    "solubilization-detergent", "solubilization-lcp", "solubilization-bicelle",
-    "solubilization-nanodisc", "solubilization-smalp", "solubilization-maltoside",
+    "solubilization-detergent",
+    "solubilization-lcp",
+    "solubilization-bicelle",
+    "solubilization-nanodisc",
+    "solubilization-smalp",
+    "solubilization-maltoside",
     "solubilization-buffer",
 }
 METHOD_PURIFICATION_TAGS = {
-    "purification-affinity", "purification-ion-exchange",
-    "purification-size-exclusion", "purification-tag", "purification-fractionation",
+    "purification-affinity",
+    "purification-ion-exchange",
+    "purification-size-exclusion",
+    "purification-tag",
+    "purification-fractionation",
 }
 METHOD_CRYSTALLIZATION_TAGS = {
-    "crystallization-vapor-diffusion", "crystallization-lcp",
-    "crystallization-microbatch", "crystallization-dialysis",
-    "crystallization-sitting-drop", "crystallization-hanging-drop",
+    "crystallization-vapor-diffusion",
+    "crystallization-lcp",
+    "crystallization-microbatch",
+    "crystallization-dialysis",
+    "crystallization-sitting-drop",
+    "crystallization-hanging-drop",
 }
 METHOD_STRUCTURE_DETERMINATION_TAGS = {
-    "structure-xray", "structure-sad", "structure-mad",
-    "structure-molecular-replacement", "structure-cryoem",
-    "structure-refinement", "structure-model-building",
+    "structure-xray",
+    "structure-sad",
+    "structure-mad",
+    "structure-molecular-replacement",
+    "structure-cryoem",
+    "structure-refinement",
+    "structure-model-building",
 }
 METHOD_CELL_LYSIS_TAGS = {"cell-lysis", "cell-lysis-pressure", "cell-lysis-mechanical"}
 METHOD_EXPRESSION_TAGS = {"expression-system"}
 METHOD_QUALITY_TAGS = {"quality-assessment"}
 CONCEPT_TAGS = {
-    "concept-transport-mechanism", "concept-protein-family",
-    "concept-membrane-mimetic", "concept-crystallography-principle",
-    "concept-construct-design", "concept-functional", "concept-antibody-technology",
-    "concept-structural", "concept-enzyme-mechanism",
+    "concept-transport-mechanism",
+    "concept-protein-family",
+    "concept-membrane-mimetic",
+    "concept-crystallography-principle",
+    "concept-construct-design",
+    "concept-functional",
+    "concept-antibody-technology",
+    "concept-structural",
+    "concept-enzyme-mechanism",
 }
 SUBDIRECTORY_TAGS = {
-    "subdirectory-detergents", "subdirectory-lipids", "subdirectory-buffers",
-    "subdirectory-additives", "subdirectory-ligands", "subdirectory-protein-tags",
-    "subdirectory-antibodies", "subdirectory-cofactors", "subdirectory-antibiotics",
-    "subdirectory-substrates", "subdirectory-crystallization",
-    "subdirectory-expression-systems", "subdirectory-purification",
-    "subdirectory-structure-determination", "subdirectory-quality-assessment",
-    "subdirectory-solubilization", "subdirectory-cell-lysis",
+    "subdirectory-detergents",
+    "subdirectory-lipids",
+    "subdirectory-buffers",
+    "subdirectory-additives",
+    "subdirectory-ligands",
+    "subdirectory-protein-tags",
+    "subdirectory-antibodies",
+    "subdirectory-cofactors",
+    "subdirectory-antibiotics",
+    "subdirectory-substrates",
+    "subdirectory-crystallization",
+    "subdirectory-expression-systems",
+    "subdirectory-purification",
+    "subdirectory-structure-determination",
+    "subdirectory-quality-assessment",
+    "subdirectory-solubilization",
+    "subdirectory-cell-lysis",
     "subdirectory-concepts",
     # Concept subdirectories
-    "subdirectory-transport-mechanisms", "subdirectory-signaling-receptors",
-    "subdirectory-structural-mechanisms", "subdirectory-protein-families",
-    "subdirectory-enzyme-mechanisms", "subdirectory-rhodopsin-mechanisms",
-    "subdirectory-membrane-mimetics", "subdirectory-methods-techniques",
-    "subdirectory-construct-design", "subdirectory-miscellaneous",
+    "subdirectory-transport-mechanisms",
+    "subdirectory-signaling-receptors",
+    "subdirectory-structural-mechanisms",
+    "subdirectory-protein-families",
+    "subdirectory-enzyme-mechanisms",
+    "subdirectory-rhodopsin-mechanisms",
+    "subdirectory-membrane-mimetics",
+    "subdirectory-methods-techniques",
+    "subdirectory-construct-design",
+    "subdirectory-miscellaneous",
 }
 
 DETERGENT_DETAIL_UNITS = {"%", "mM"}
 STEP_TYPES = {
-    "binding", "clarification", "complex_formation", "concentration",
-    "crystallization_setup", "deglycosylation", "dialysis", "elution",
-    "exchange", "expression", "hic", "ion_exchange", "lysis",
-    "membrane_prep", "modification", "polishing", "purification", "sec",
-    "solubilization", "tag_cleavage", "wash",
+    "binding",
+    "clarification",
+    "complex_formation",
+    "concentration",
+    "crystallization_setup",
+    "deglycosylation",
+    "dialysis",
+    "elution",
+    "exchange",
+    "expression",
+    "hic",
+    "ion_exchange",
+    "lysis",
+    "membrane_prep",
+    "modification",
+    "polishing",
+    "purification",
+    "sec",
+    "solubilization",
+    "tag_cleavage",
+    "wash",
 }
+
+# Crystallization controlled vocabularies
+CRYSTALLIZATION_METHOD_LC = {
+    "lcp",
+    "vapor-diffusion",
+    "microbatch",
+    "dialysis",
+    "bicelle",
+    "nanodisc",
+    "free-interface-diffusion",
+    "counter-diffusion",
+    "not-specified",
+}
+CRYSTALLIZATION_ROLES = {"buffer", "salt", "precipitant", "additive", "detergent"}
+CRYSTALLIZATION_UNITS = {"M", "mM", "%"}
 
 # ─── Schema definitions (uses string references for nested validators) ──
 
 SCHEMAS = {
     "protein": {
         "required_fields": ["title", "tags", "sources", "overview"],
-        "optional_fields": ["verified", "structures", "expression", "purifications",
-                            "crystallizations", "biological_insights", "cross_references",
-                            "mpstruc_classification", "tcdb_classification"],
+        "optional_fields": [
+            "verified",
+            "structures",
+            "expression",
+            "purifications",
+            "crystallizations",
+            "biological_insights",
+            "cross_references",
+            "mpstruc_classification",
+            "tcdb_classification",
+        ],
         "field_types": {
             "title": str,
             "tags": list,
@@ -137,16 +252,44 @@ SCHEMAS = {
     },
     "reagent": {
         "required_fields": ["title", "tags", "sources", "overview"],
-        "optional_fields": ["verified", "uses", "examples", "binding", "binding_mode",
-                            "advantages", "disadvantages", "comparison",
-                            "chemical_name", "chemical_formula", "molecular_weight",
-                            "class", "cmc", "hlb", "transition_temp", "head_group",
-                            "tail_length", "acyl_chain", "phase_transition", "pka",
-                            "ph_range", "concentration_range", "function", "solubility",
-                            "typical_concentration", "kd_ki", "clinical_status", "scaffold",
-                            "source_organism", "fusion_strategy", "size",
-                            "target", "format", "epitope", "isotype",
-                            "cross_references"],
+        "optional_fields": [
+            "verified",
+            "uses",
+            "examples",
+            "binding",
+            "binding_mode",
+            "advantages",
+            "disadvantages",
+            "comparison",
+            "chemical_name",
+            "chemical_formula",
+            "molecular_weight",
+            "class",
+            "cmc",
+            "hlb",
+            "transition_temp",
+            "head_group",
+            "tail_length",
+            "acyl_chain",
+            "phase_transition",
+            "pka",
+            "ph_range",
+            "concentration_range",
+            "function",
+            "solubility",
+            "typical_concentration",
+            "kd_ki",
+            "clinical_status",
+            "scaffold",
+            "source_organism",
+            "fusion_strategy",
+            "size",
+            "target",
+            "format",
+            "epitope",
+            "isotype",
+            "cross_references",
+        ],
         "field_types": {
             "title": str,
             "tags": list,
@@ -165,10 +308,19 @@ SCHEMAS = {
     },
     "method": {
         "required_fields": ["title", "tags", "sources"],
-        "optional_fields": ["verified", "overview", "principle", "protocol",
-                            "advantages", "disadvantages", "proteins_using",
-                            "related_methods", "related_reagents",
-                            "cross_references", "subdirectory"],
+        "optional_fields": [
+            "verified",
+            "overview",
+            "principle",
+            "protocol",
+            "advantages",
+            "disadvantages",
+            "proteins_using",
+            "related_methods",
+            "related_reagents",
+            "cross_references",
+            "subdirectory",
+        ],
         "field_types": {
             "title": str,
             "tags": list,
@@ -204,6 +356,7 @@ SCHEMAS = {
 _NESTED_VALIDATOR_MAP = {}
 
 # ─── Nested validators ───────────────────────────────────────────
+
 
 def _v_protein_structures(items, errors):
     """structures[]: each item must have pdb_id. source is inherited from
@@ -254,10 +407,14 @@ def _v_protein_purifications(items, errors):
                         errors.append(f"{step_prefix}.{field}: must be string, got {type(step[field]).__name__}")
                 if "step_type" in step:
                     if step["step_type"] not in STEP_TYPES:
-                        errors.append(f"{step_prefix}.step_type: '{step['step_type']}' not in controlled vocabulary ({', '.join(sorted(STEP_TYPES))})")
+                        errors.append(
+                            f"{step_prefix}.step_type: '{step['step_type']}' not in controlled vocabulary ({', '.join(sorted(STEP_TYPES))})"
+                        )
                 if "step_subtype" in step:
                     if step["step_subtype"] not in STEP_TYPES:
-                        errors.append(f"{step_prefix}.step_subtype: '{step['step_subtype']}' not in controlled vocabulary ({', '.join(sorted(STEP_TYPES))})")
+                        errors.append(
+                            f"{step_prefix}.step_subtype: '{step['step_subtype']}' not in controlled vocabulary ({', '.join(sorted(STEP_TYPES))})"
+                        )
                 if "detergent_details" in step:
                     dd_arr = step["detergent_details"]
                     if not isinstance(dd_arr, list):
@@ -271,7 +428,9 @@ def _v_protein_purifications(items, errors):
                                 errors.append(f"{step_prefix}.detergent_details[{k}].reagent: required, string")
                             unit = item.get("unit")
                             if unit is not None and unit not in DETERGENT_DETAIL_UNITS:
-                                errors.append(f"{step_prefix}.detergent_details[{k}].unit: '{unit}' not in canonical set ({', '.join(sorted(DETERGENT_DETAIL_UNITS))})")
+                                errors.append(
+                                    f"{step_prefix}.detergent_details[{k}].unit: '{unit}' not in canonical set ({', '.join(sorted(DETERGENT_DETAIL_UNITS))})"
+                                )
                 if "buffer_details" in step:
                     bd = step["buffer_details"]
                     if not isinstance(bd, list):
@@ -286,7 +445,8 @@ def _v_protein_purifications(items, errors):
 
 def _v_crystallizations(items, errors):
     """crystallizations[]: validates each entry. source is inherited from
-    the parent publication in DOI-grouped format (all current files)."""
+    the parent publication in DOI-grouped format (all current files).
+    Also validates structured crystallization_details subfield."""
     for i, c in enumerate(items):
         prefix = f"crystallizations[{i}]"
         if not isinstance(c, dict):
@@ -295,6 +455,55 @@ def _v_crystallizations(items, errors):
         for field in ["method", "protein_sample", "reservoir", "temperature", "growth_time", "notes"]:
             if field in c and not isinstance(c[field], str):
                 errors.append(f"{prefix}.{field}: must be string, got {type(c[field]).__name__}")
+
+        # Validate structured crystallization_details
+        details = c.get("crystallization_details")
+        if details is not None:
+            if not isinstance(details, dict):
+                errors.append(f"{prefix}.crystallization_details: must be a dict, got {type(details).__name__}")
+                continue
+            dp = f"{prefix}.crystallization_details"
+            if "method_lc" in details:
+                if details["method_lc"] not in CRYSTALLIZATION_METHOD_LC:
+                    errors.append(
+                        f"{dp}.method_lc: '{details['method_lc']}' not in controlled vocabulary ({', '.join(sorted(CRYSTALLIZATION_METHOD_LC))})"
+                    )
+            if "ph" in details and not isinstance(details["ph"], str):
+                errors.append(f"{dp}.ph: must be quoted string, got {type(details['ph']).__name__}")
+            if "temperature_value" in details and not isinstance(details["temperature_value"], str):
+                errors.append(
+                    f"{dp}.temperature_value: must be quoted string, got {type(details['temperature_value']).__name__}"
+                )
+            if "temperature_unit" in details and details["temperature_unit"] not in {"C", "K", "°C"}:
+                errors.append(f"{dp}.temperature_unit: '{details['temperature_unit']}' — expected C, K, or °C")
+            if "mixing_ratio" in details and not isinstance(details["mixing_ratio"], str):
+                errors.append(
+                    f"{dp}.mixing_ratio: must be quoted string (e.g. '1:1'), got {type(details['mixing_ratio']).__name__}"
+                )
+            if "reservoir_components" in details:
+                comps = details["reservoir_components"]
+                if not isinstance(comps, list):
+                    errors.append(f"{dp}.reservoir_components: must be a list")
+                else:
+                    for j, comp in enumerate(comps):
+                        cp = f"{dp}.reservoir_components[{j}]"
+                        if not isinstance(comp, dict):
+                            errors.append(f"{cp}: must be an object, got {type(comp).__name__}")
+                            continue
+                        if "reagent" not in comp or not isinstance(comp["reagent"], str):
+                            errors.append(f"{cp}.reagent: required, string")
+                        if "concentration" in comp and not isinstance(comp["concentration"], str):
+                            errors.append(
+                                f"{cp}.concentration: must be quoted string, got {type(comp['concentration']).__name__}"
+                            )
+                        if "unit" in comp and comp["unit"] not in CRYSTALLIZATION_UNITS:
+                            errors.append(
+                                f"{cp}.unit: '{comp['unit']}' not in canonical set ({', '.join(sorted(CRYSTALLIZATION_UNITS))})"
+                            )
+                        if "role" in comp and comp["role"] not in CRYSTALLIZATION_ROLES:
+                            errors.append(
+                                f"{cp}.role: '{comp['role']}' not in controlled vocabulary ({', '.join(sorted(CRYSTALLIZATION_ROLES))})"
+                            )
 
 
 def _v_biological_insights(items, errors):
@@ -424,9 +633,11 @@ def _validate_wikilinks(data, errors, path_prefix=""):
             _validate_wikilinks(item, errors, f"{path_prefix}[{i}]")
     elif isinstance(data, str):
         # Check for [[...]] wikilink syntax
-        matches = re.findall(r'\[\[([^\]]+)\]\]', data)
+        matches = re.findall(r"\[\[([^\]]+)\]\]", data)
         if matches:
-            errors.append(f"{path_prefix}: contains non-Jekyll wikilink syntax '[[{matches[0]}]]' — use '[{matches[0]}](/xray-mp-wiki/path/)' instead")
+            errors.append(
+                f"{path_prefix}: contains non-Jekyll wikilink syntax '[[{matches[0]}]]' — use '[{matches[0]}](/xray-mp-wiki/path/)' instead"
+            )
 
 
 def _validate_cross_references(items, errors):
@@ -441,7 +652,9 @@ def _validate_cross_references(items, errors):
         elif not re.match(r"/xray-mp-wiki/[a-z-]+/[a-z0-9-]+/?", ref["path"]):
             # Allow /xray-mp-wiki/{type}/{path}/ or /xray-mp-wiki/{type}/{subdir}/{path}/
             if not re.match(r"/xray-mp-wiki/[a-z-]+/[a-z]+/[a-z0-9-]+/?", ref["path"]):
-                errors.append(f"{prefix}.path: invalid format '{ref['path']}' — expected /xray-mp-wiki/<type>/<path>/ or /xray-mp-wiki/<type>/<subdir>/<path>/")
+                errors.append(
+                    f"{prefix}.path: invalid format '{ref['path']}' — expected /xray-mp-wiki/<type>/<path>/ or /xray-mp-wiki/<type>/<subdir>/<path>/"
+                )
         if "title" not in ref:
             errors.append(f"{prefix}: missing required field 'title'")
         if "reason" not in ref:
@@ -468,6 +681,7 @@ _NESTED_VALIDATOR_MAP = {
 
 
 # ─── Core validator ──────────────────────────────────────────────
+
 
 def _validate_dois(sources, errors):
     """Check DOI format: doi/10.xxxx##yyyy."""
@@ -502,14 +716,24 @@ def _validate_tags(tags, entity_type, errors, strict=False):
     if entity_type == "protein":
         all_known = PROTEIN_CLASS_TAGS | GENERAL_TAGS
     elif entity_type == "reagent":
-        all_known = (REAGENT_DETERGENT_TAGS | REAGENT_LIPID_TAGS |
-                     REAGENT_ADDITIVE_TAGS | REAGENT_BUFFER_TAGS |
-                     REAGENT_GENERAL_TAGS)
+        all_known = (
+            REAGENT_DETERGENT_TAGS
+            | REAGENT_LIPID_TAGS
+            | REAGENT_ADDITIVE_TAGS
+            | REAGENT_BUFFER_TAGS
+            | REAGENT_GENERAL_TAGS
+        )
     elif entity_type == "method":
-        all_known = (METHOD_SOLUBILIZATION_TAGS | METHOD_PURIFICATION_TAGS |
-                     METHOD_CRYSTALLIZATION_TAGS | METHOD_STRUCTURE_DETERMINATION_TAGS |
-                     METHOD_CELL_LYSIS_TAGS | METHOD_EXPRESSION_TAGS |
-                     METHOD_QUALITY_TAGS | GENERAL_TAGS)
+        all_known = (
+            METHOD_SOLUBILIZATION_TAGS
+            | METHOD_PURIFICATION_TAGS
+            | METHOD_CRYSTALLIZATION_TAGS
+            | METHOD_STRUCTURE_DETERMINATION_TAGS
+            | METHOD_CELL_LYSIS_TAGS
+            | METHOD_EXPRESSION_TAGS
+            | METHOD_QUALITY_TAGS
+            | GENERAL_TAGS
+        )
     elif entity_type == "concept":
         all_known = CONCEPT_TAGS | GENERAL_TAGS
 
@@ -525,7 +749,9 @@ def _validate_tags(tags, entity_type, errors, strict=False):
     if entity_type == "protein":
         has_class_tag = any(tag in PROTEIN_CLASS_TAGS for tag in tags if isinstance(tag, str))
         if not has_class_tag:
-            errors.append("tags: protein must have at least one class tag from: gpcr, ion-channel, transporter, enzyme, receptor, channel, pump, porin")
+            errors.append(
+                "tags: protein must have at least one class tag from: gpcr, ion-channel, transporter, enzyme, receptor, channel, pump, porin"
+            )
 
     # Report unknown tags as warnings (not errors)
     unknown_tags = [tag for tag in tags if isinstance(tag, str) and tag not in all_known]
@@ -629,12 +855,13 @@ def validate_entity(yaml_data, entity_type, strict=False):
 
 if __name__ == "__main__":
     import argparse
+
     parser = argparse.ArgumentParser(description="Validate YAML schema for xray-mp-wiki entities")
-    parser.add_argument("type", nargs="?", choices=["protein", "reagent", "method", "concept"],
-                        help="Entity type")
+    parser.add_argument("type", nargs="?", choices=["protein", "reagent", "method", "concept"], help="Entity type")
     parser.add_argument("name", nargs="?", help="Entity name (basename without .yaml)")
-    parser.add_argument("--strict", action="store_true",
-                        help="Treat unknown tags and missing recommended fields as errors")
+    parser.add_argument(
+        "--strict", action="store_true", help="Treat unknown tags and missing recommended fields as errors"
+    )
     args = parser.parse_args()
 
     if not args.type or not args.name:

@@ -1,5 +1,5 @@
 ---
-title: Isocoumarin
+title: "Isocoumarin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, subdirectory-antibiotics]
 sources: [doi/10.1021##bi300368b, doi/10.1038##emboj.2010.243]
-verified: false
+verified: agent
 ---
 
 # Isocoumarin

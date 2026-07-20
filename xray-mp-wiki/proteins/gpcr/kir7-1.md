@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # Kir7.1 Inwardly Rectifying Potassium Channel

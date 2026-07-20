@@ -1,5 +1,5 @@
 ---
-title: Ceramide
+title: "Ceramide"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1038##nature21714]
-verified: false
+verified: agent
 ---
 
 # Ceramide

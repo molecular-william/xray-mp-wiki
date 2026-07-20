@@ -1,5 +1,5 @@
 ---
-title: CAPS Buffer (N-Cyclohexyl-3-Aminopropanesulfonic Acid)
+title: "CAPS Buffer (N-Cyclohexyl-3-Aminopropanesulfonic Acid)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-additive, subdirectory-buffers]
 sources: [doi/10.1038##nature07869]
-verified: false
+verified: regex
 ---
 
 # CAPS Buffer (N-Cyclohexyl-3-Aminopropanesulfonic Acid)

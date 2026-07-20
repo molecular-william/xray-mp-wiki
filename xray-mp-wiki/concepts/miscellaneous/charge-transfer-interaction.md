@@ -1,13 +1,13 @@
 ---
-title: Charge-Transfer Interaction
+title: "Charge-Transfer Interaction"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-miscellaneous]
 sources: [doi/10.1016##j.febslet.2008.07.063]
-verified: false
+verified: regex
 ---
 
 # Charge-Transfer Interaction

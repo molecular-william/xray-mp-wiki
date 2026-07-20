@@ -1,13 +1,13 @@
 ---
-title: SWEET Transporter Family
+title: "SWEET Transporter Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.cell.2017.03.010, doi/10.1038##nature12056, doi/10.1038##nature14968, doi/10.1038##cr.2014.144, doi/10.1038##ncomms7112]
-verified: false
+verified: none
 ---
 
 # SWEET Transporter Family

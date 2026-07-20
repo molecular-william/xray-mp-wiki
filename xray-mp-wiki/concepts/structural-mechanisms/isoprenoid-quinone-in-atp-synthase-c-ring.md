@@ -1,13 +1,13 @@
 ---
-title: Isoprenoid Quinones inside the ATP Synthase c-Ring Pore
+title: "Isoprenoid Quinones inside the ATP Synthase c-Ring Pore"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s41598-019-55092-z, doi/10.1016##j.bbabio.2008.01.008]
-verified: false
+verified: none
 ---
 
 # Isoprenoid Quinones inside the ATP Synthase c-Ring Pore

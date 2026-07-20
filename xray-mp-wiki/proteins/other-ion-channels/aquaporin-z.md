@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1371##journal.pbio.0000072, doi/10.1016##j.jmb.2007.02.070, doi/10.1073##pnas.1009864107, doi/10.1074##jbc.M508926200]
-verified: regex
+verified: agent
 uniprot_id: P60844
 ---
 
@@ -115,8 +115,8 @@ versus size effects on water and glycerol conduction.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> batch binding</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) batch binding</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 500 mM NaCl, 5 mM 2-mercaptoethanol, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 40 mM <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Wash and elution with 250 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a></td>
     </tr>
@@ -129,7 +129,7 @@ versus size effects on water and glycerol conduction.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>Superose 12 (Pharmacia)</td>
       <td></td>
       <td>Final purification step; protein concentrated to ~20 mg/mL for crystallization</td>
@@ -348,21 +348,21 @@ versus size effects on water and glycerol conduction.
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2o9e">2O9E</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2o9d">2O9D</a></td>
       <td>2.20</td>
       <td>—</td>
       <td>T183C mutant (Cys9Ser, Cys20Ser background)</td>
       <td>mercury (HgCl2)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2o9f">2O9F</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2o9d">2O9D</a></td>
       <td>2.55</td>
       <td>—</td>
       <td>L170C mutant (Cys9Ser, Cys20Ser background)</td>
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2o9g">2O9G</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2o9d">2O9D</a></td>
       <td>1.90</td>
       <td>—</td>
       <td>L170C mutant (Cys9Ser, Cys20Ser background)</td>
@@ -409,8 +409,8 @@ versus size effects on water and glycerol conduction.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> batch binding</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) batch binding</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 100 mM NaCl, 5 mM beta-ME, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 40 mM <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Wash with 20 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a>; elute with 250 mM imidazole</td>
     </tr>
@@ -1978,10 +1978,10 @@ versus size effects on water and glycerol conduction.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>not specified in this paper + <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
-      <td>Standard <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> purification for 6x<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>ged protein</td>
+      <td>Standard <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) purification for 6x<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a>ged protein</td>
     </tr>
     <tr>
       <td>Gel filtration</td>
@@ -2599,7 +2599,7 @@ versus size effects on water and glycerol conduction.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
       <td></td>
       <td>Further purified by size-exclusion HPLC</td>

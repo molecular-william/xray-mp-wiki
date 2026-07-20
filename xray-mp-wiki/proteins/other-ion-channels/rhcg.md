@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1003587107]
-verified: regex
+verified: agent
 uniprot_id: Q9UBD6
 ---
 
@@ -70,16 +70,16 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
     <tr>
       <td>FLAG affinity purification</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>FLAG affinity resin</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> affinity resin</td>
       <td>-- + --</td>
-      <td>RhCG purified using FLAG affinity tag</td>
+      <td>RhCG purified using <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> affinity tag</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>--</td>
       <td>-- + --</td>
-      <td>Purified by SEC after FLAG affinity</td>
+      <td>Purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> after <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> affinity</td>
     </tr>
   </tbody>
 </table>

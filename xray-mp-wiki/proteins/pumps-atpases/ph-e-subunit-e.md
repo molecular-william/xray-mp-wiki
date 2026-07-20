@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2012.04.012]
-verified: regex
+verified: agent
 ---
 
 # PH-E Subunit E of F-ATP Synthase Peripheral Stalk

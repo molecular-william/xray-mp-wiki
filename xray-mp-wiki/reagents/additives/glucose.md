@@ -1,5 +1,5 @@
 ---
-title: Glucose
+title: "Glucose"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##anie.201302374, doi/10.1016##j.cell.2017.03.010, doi/10.1016##j.str.2014.06.008, doi/10.1038##nature11524]
-verified: false
+verified: agent
 ---
 
 # Glucose

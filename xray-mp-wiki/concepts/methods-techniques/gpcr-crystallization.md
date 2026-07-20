@@ -42,4 +42,4 @@ which were refractory to crystallization.
 
 ## Cross-References
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Key method enabling GPCR crystal structure determination
-- [Beta-2 Adrenergic Receptor](/xray-mp-wiki/proteins/gpcrs/beta2-adrenergic-receptor/) — First ligand-activated GPCR structure, landmark in GPCR crystallization
+- [Beta-2 Adrenergic Receptor](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — First ligand-activated GPCR structure, landmark in GPCR crystallization

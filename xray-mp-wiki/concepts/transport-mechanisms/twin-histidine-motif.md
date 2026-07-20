@@ -1,13 +1,13 @@
 ---
-title: Twin-Histidine Motif in Ammonium Channels
+title: "Twin-Histidine Motif in Ammonium Channels"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-protein-family, membrane-protein, subdirectory-concepts]
+tags: [concept-structural, concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1074##jbc.M608325200, doi/10.1038##ncomms11337]
-verified: false
+verified: none
 ---
 
 # Twin-Histidine Motif in Ammonium Channels

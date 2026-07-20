@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature13913, doi/10.1073##pnas.1614688113]
-verified: regex
+verified: agent
 uniprot_id: E1C3A0
 ---
 
@@ -671,7 +671,7 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
       <td>Not detailed for protein alone</td>
       <td>--</td>
       <td>Not specified</td>
-      <td>BEST1 was purified and reconstituted into liposomes for planar lipid bilayer recordings and flux assays. For crystallization, BEST1 was complexed with Fab 10-D10 at 1:1.2 molar ratio and purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> in buffer containing 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> pH 7.5, 75 mM NaCl, 75 mM KCl, 0.5 mM CymaI-6 (Anatrace).</td>
+      <td>BEST1 was purified and reconstituted into liposomes for planar lipid bilayer recordings and flux assays. For crystallization, BEST1 was complexed with Fab 10-D10 at 1:1.2 molar ratio and purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> in buffer containing 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> pH 7.5, 75 mM NaCl, 75 mM KCl, 0.5 mM CymaI-6 (Anatrace).</td>
     </tr>
   </tbody>
 </table>

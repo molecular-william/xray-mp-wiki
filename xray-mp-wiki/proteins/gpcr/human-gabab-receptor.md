@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12725]
-verified: regex
-uniprot_id: Q9UBS5
+verified: agent
+uniprot_id: ['Q9UBS5', 'O75899']
 ---
 
 # Human GABA_B Receptor
@@ -16,7 +16,7 @@ uniprot_id: Q9UBS5
 <div class="expr-badges"><span class="expr-badge expr-sf9">Sf9</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q9UBS5">UniProt: Q9UBS5</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q9UBS5">UniProt: Q9UBS5</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/O75899">UniProt: O75899</a>
 
 <span class="expr-badge">Homo sapiens</span>
 
@@ -47,21 +47,21 @@ The human GABA_B receptor (GABA_B R) is a class C G-protein-coupled receptor tha
       <td>None (apo)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4msl">4MSL</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mqe">4MQE</a></td>
       <td>3.3</td>
       <td>I222</td>
       <td>GBR1b_VFT (residues 48-459) with N-terminal gp67 signal peptide and C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>; GBR2_VFT (residues 1-466) with C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>; expressed and purified in presence of 10-20 uM CGP54626</td>
       <td>CGP54626</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mr7">4MR7</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mqe">4MQE</a></td>
       <td>3.1</td>
       <td>P212121</td>
       <td>GBR1b_VFT (residues 48-459) with N-terminal gp67 signal peptide and C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>; GBR2_VFT (residues 1-466) with C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>; expressed and purified in presence of 100 uM (R)-baclofen</td>
       <td>(R)-Baclofen</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mr9">4MR9</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mqe">4MQE</a></td>
       <td>3.2</td>
       <td>P212121</td>
       <td>GBR1b_VFT (residues 48-459) with N-terminal gp67 signal peptide and C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>; GBR2_VFT (residues 1-466) with C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>; expressed and purified in presence of 100 uM GABA</td>

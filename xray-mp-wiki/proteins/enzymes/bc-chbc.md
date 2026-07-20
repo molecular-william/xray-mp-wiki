@@ -7,16 +7,16 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2016.04.003, doi/10.1038##nature09939]
-verified: regex
-uniprot_id: Q5SID2
+verified: agent
+uniprot_id: ['Q5SID2', 'P04489']
 ---
 
 # bcChbC (Bacillus cereus Chitobiose Transporter)
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q5SID2">UniProt: Q5SID2</a>
+<span class="badge badge-uniprot badge-uniprot-none" title="Bacillus cereus">No UniProt</span> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q5SID2" title="Thermus thermophilus">UniProt: Q5SID2</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P04489" title="Human adenovirus 5">UniProt: P04489</a>
 
-<span class="expr-badge">Thermus thermophilus</span>
+<span class="expr-badge">Bacillus cereus</span>
 
 ## Overview
 
@@ -39,7 +39,7 @@ bcChbC is a [Diacetylchitobiose](/xray-mp-wiki/reagents/ligands/diacetylchitobio
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3g5r">3G5R</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5iws">5IWS</a></td>
       <td>3.2</td>
       <td>P212121</td>
       <td>EIIC domain of chitobiose transporter from Bacillus cereus</td>
@@ -62,7 +62,7 @@ bcChbC is a [Diacetylchitobiose](/xray-mp-wiki/reagents/ligands/diacetylchitobio
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4djb">4DJB</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3qnq">3QNQ</a></td>
       <td>3.3</td>
       <td>P43212</td>
       <td>EIIC domain (93 residues) of chitobiose transporter from Bacillus cereus, <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6 Tag</a> removed by TEV protease</td>

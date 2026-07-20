@@ -1,5 +1,5 @@
 ---
-title: Tetrabutylammonium Bromide (TBSb)
+title: "Tetrabutylammonium Bromide (TBSb)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##NSMB.1933]
-verified: false
+verified: none
 ---
 
 # Tetrabutylammonium Bromide (TBSb)

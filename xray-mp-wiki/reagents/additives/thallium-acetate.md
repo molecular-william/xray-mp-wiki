@@ -1,5 +1,5 @@
 ---
-title: Thallium acetate
+title: "Thallium acetate"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##ncomms9004]
-verified: false
+verified: agent
 ---
 
 # Thallium acetate

@@ -1,5 +1,5 @@
 ---
-title: Oleoyl-CoA
+title: "Oleoyl-CoA"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.jmb.2020.05.017]
-verified: false
+verified: agent
 ---
 
 # Oleoyl-CoA

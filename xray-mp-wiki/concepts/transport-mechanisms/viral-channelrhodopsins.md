@@ -1,13 +1,13 @@
 ---
-title: Viral Channelrhodopsins (VirChR)
+title: "Viral Channelrhodopsins (VirChR)"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-functional, membrane-protein]
+tags: [concept-protein-family, concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-020-19457-7]
-verified: false
+verified: regex
 ---
 
 # Viral Channelrhodopsins (VirChR)

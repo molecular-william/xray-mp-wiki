@@ -1,5 +1,5 @@
 ---
-title: Multiple Isomorphous Replacement with Anomalous Scattering (MIRAS)
+title: "Multiple Isomorphous Replacement with Anomalous Scattering (MIRAS)"
 created: 2026-05-29
 updated: 2026-05-29
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-xray, structure-sad, subdirectory-structure-determination]
 sources: [doi/10.1038##EMBOJ.2012.157]
-verified: false
+verified: none
 ---
 
 # Multiple Isomorphous Replacement with Anomalous Scattering (MIRAS)

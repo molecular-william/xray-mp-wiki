@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2015.06.021]
-verified: regex
+verified: agent
 uniprot_id: ['Q9KWT5', 'Q9KWT7', 'Q9KWT8', 'Q9KWT9']
 ---
 

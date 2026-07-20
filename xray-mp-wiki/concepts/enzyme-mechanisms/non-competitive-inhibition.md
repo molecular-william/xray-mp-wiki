@@ -1,13 +1,13 @@
 ---
-title: Non-competitive Inhibition of Rhomboid Proteases
+title: "Non-competitive Inhibition of Rhomboid Proteases"
 created: 2026-05-28
 updated: 2026-05-28
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1016##j.molcel.2015.12.022]
-verified: false
+verified: regex
 ---
 
 # Non-competitive Inhibition of Rhomboid Proteases

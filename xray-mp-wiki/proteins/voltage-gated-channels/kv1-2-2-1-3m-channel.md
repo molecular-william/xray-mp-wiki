@@ -1,13 +1,13 @@
 ---
 title: "Kv1.2-2.1-3m Chimeric Channel (C-type Inactivated State)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##sciadv.abm8804]
-verified: regex
+verified: agent
 uniprot_id: ['P62483', 'P63142']
 ---
 
@@ -92,7 +92,7 @@ The Kv1.2-2.1-3m channel is a triple mutant (W362F, S367T, V377T) of the Kv1.2-2
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superdex S200</td>
       <td>20 mM Tris-HCl pH 7.5, 150 mM KCl, 2 mM TCEP, 10 mM DTT, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, lipids (0.1 mg/ml) (3:1:1 <a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a>:<a href="/xray-mp-wiki/reagents/lipids/pope/">POPE</a>:<a href="/xray-mp-wiki/reagents/lipids/popg/">POPG</a>) + 3 mM <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>, 3 mM Cymal-7</td>
       <td>Eluted protein supplemented with 10 mM DTT, concentrated using Millipore Amicon Ultra 100K device</td>

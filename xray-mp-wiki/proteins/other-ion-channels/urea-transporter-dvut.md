@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature08558]
-verified: regex
+verified: agent
 uniprot_id: P12277
 ---
 
@@ -48,7 +48,7 @@ than a carrier-mediated alternating-access mechanism.
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3b6r">3B6R</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3k3f">3K3F</a></td>
       <td>2.3</td>
       <td>P65</td>
       <td>Full-length dvUT (residues 1-334) with N-terminal His6-SUMO tag</td>
@@ -101,7 +101,7 @@ than a carrier-mediated alternating-access mechanism.
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Gel filtration</td>
-      <td>Superdex 200 10/300 GL</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
       <td>300 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a> + 40 mM <a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-maltoside">OM</a> (OM)</td>
       <td></td>
     </tr>

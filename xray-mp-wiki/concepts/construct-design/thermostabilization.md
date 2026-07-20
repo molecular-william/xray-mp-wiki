@@ -1,13 +1,13 @@
 ---
-title: Protein Thermostabilization
+title: "Protein Thermostabilization"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design]
+tags: [concept-construct-design, subdirectory-construct-design]
 sources: [doi/10.1038##nature12533, doi/10.1038##nature17629, doi/10.3390##membranes13020154]
-verified: false
+verified: regex
 ---
 
 # Protein Thermostabilization

@@ -1,13 +1,13 @@
 ---
-title: Helix Shift Mechanism for Carboxylate Drug Transport
+title: "Helix Shift Mechanism for Carboxylate Drug Transport"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##ncomms13819]
-verified: false
+verified: regex
 ---
 
 # Helix Shift Mechanism for Carboxylate Drug Transport

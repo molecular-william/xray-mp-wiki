@@ -1,5 +1,5 @@
 ---
-title: Adenosine Diphosphate (ADP)
+title: "Adenosine Diphosphate (ADP)"
 created: 2026-05-18
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##J.FEBSLET.2005.09.061, doi/10.1038##nature13083]
-verified: false
+verified: none
 ---
 
 # Adenosine Diphosphate (ADP)

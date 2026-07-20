@@ -1,5 +1,5 @@
 ---
-title: Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS)
+title: "Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS)"
 created: 2026-06-11
 updated: 2026-06-11
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.15252##embj.2020105246, doi/10.15252##embj.2021108341]
-verified: false
+verified: regex
 ---
 
 # Hydrogen-Deuterium Exchange Mass Spectrometry (HDX-MS)

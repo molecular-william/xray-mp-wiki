@@ -1,5 +1,5 @@
 ---
-title: Potassium Fluoride (KF)
+title: "Potassium Fluoride (KF)"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2013.04.022, doi/10.1016##j.celrep.2015.04.045]
-verified: false
+verified: regex
 ---
 
 # Potassium Fluoride (KF)

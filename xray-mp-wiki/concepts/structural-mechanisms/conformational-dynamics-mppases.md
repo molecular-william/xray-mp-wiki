@@ -1,13 +1,13 @@
 ---
-title: Conformational Dynamics in M-PPases
+title: "Conformational Dynamics in M-PPases"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##ncomms13596]
-verified: false
+verified: regex
 ---
 
 # Conformational Dynamics in M-PPases

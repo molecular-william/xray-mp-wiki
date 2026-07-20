@@ -1,5 +1,5 @@
 ---
-title: Anta XV
+title: "Anta XV"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent

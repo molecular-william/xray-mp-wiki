@@ -1,13 +1,13 @@
 ---
-title: Substrate Polyspecificity in SMR Transporters
+title: "Substrate Polyspecificity in SMR Transporters"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.2403273121, doi/10.1038##s41467-020-19820-8]
-verified: false
+verified: regex
 ---
 
 # Substrate Polyspecificity in SMR Transporters

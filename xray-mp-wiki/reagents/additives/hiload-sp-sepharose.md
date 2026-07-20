@@ -1,5 +1,5 @@
 ---
-title: Hiload SP Sepharose Ion Exchange Resin
+title: "Hiload SP Sepharose Ion Exchange Resin"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##ncomms8947]
-verified: false
+verified: regex
 ---
 
 # Hiload SP Sepharose Ion Exchange Resin

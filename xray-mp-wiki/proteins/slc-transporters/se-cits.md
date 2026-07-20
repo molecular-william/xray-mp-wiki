@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.7554##eLife.09375]
-verified: regex
+verified: agent
 uniprot_id: G4BX92
 ---
 
@@ -98,21 +98,21 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
       <td>Detergent solubilization</td>
       <td>—</td>
       <td>20 mM Tris/HCl pH7.4, 150 mM NaCl, 1 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>, 5 mM beta-ME + 1.5% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (DM)</td>
-      <td>1:1 dilution of membranes with 3% DM buffer; 100,000 g clarification</td>
+      <td>1:1 dilution of membranes with 3% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> buffer; 100,000 g clarification</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
-      <td>Ni-NTA agarose</td>
-      <td>20 mM Tris/HCl pH7.4, 300 mM NaCl, 45 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>, 0.15% DM, 5 mM beta-ME</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td>20 mM Tris/HCl pH7.4, 300 mM NaCl, 45 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>, 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 5 mM beta-ME</td>
       <td>On-column thrombin cleavage overnight at 4 C (1 U/mg)</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM Tris/HCl pH8.2, 150 mM NaCl, 1 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>, 0.15% DM, 1 mM TCEP</td>
-      <td>Concentrated to 5 mg/ml (50 kDa cutoff) before SEC</td>
+      <td>20 mM Tris/HCl pH8.2, 150 mM NaCl, 1 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>, 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 1 mM TCEP</td>
+      <td>Concentrated to 5 mg/ml (50 kDa cutoff) before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>

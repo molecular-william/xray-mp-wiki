@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##embor.2013.107, doi/10.1038##nsmb.2860]
-verified: regex
+verified: agent
 uniprot_id: Q8EHE6
 ---
 
@@ -82,10 +82,10 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>His-tag purification with TEV cleavage site for tag removal</td>
+      <td>His-tag purification with <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> cleavage site for tag removal</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>

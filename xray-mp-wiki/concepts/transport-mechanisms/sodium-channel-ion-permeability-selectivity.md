@@ -1,13 +1,13 @@
 ---
-title: Sodium Channel Ion Permeability and Selectivity
+title: "Sodium Channel Ion Permeability and Selectivity"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.15252##embj.201593285]
-verified: false
+verified: regex
 ---
 
 # Sodium Channel Ion Permeability and Selectivity

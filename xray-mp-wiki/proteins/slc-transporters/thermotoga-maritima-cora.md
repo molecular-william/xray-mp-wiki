@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature04642, doi/10.1126##science.1127121, doi/10.1038##sj.emboj.7601269]
-verified: regex
+verified: agent
 uniprot_id: Q9WZ31
 ---
 
@@ -27,7 +27,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 
 ## Publications
 
-### doi/10.1038##nature04642
+### doi/10.1038/nature04642
 
 **Structures:**
 
@@ -79,7 +79,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>50 mM HEPES pH 7.5, 500 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
@@ -625,7 +625,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 </div>
 
 </div>
-### doi/10.1126##science.1127121
+### doi/10.1126/SCIENCE.1127121
 
 **Structures:**
 
@@ -1194,7 +1194,7 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 </div>
 
 </div>
-### doi/10.1038##sj.emboj.7601269
+### doi/10.1038/nature04642
 
 **Structures:**
 

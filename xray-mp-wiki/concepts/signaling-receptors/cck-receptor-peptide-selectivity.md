@@ -1,13 +1,13 @@
 ---
-title: Peptide Selectivity in Cholecystokinin Receptors
+title: "Peptide Selectivity in Cholecystokinin Receptors"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, subdirectory-concepts]
+tags: [concept-structural, concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1038##s41589-021-00866-8]
-verified: false
+verified: regex
 ---
 
 # Peptide Selectivity in Cholecystokinin Receptors

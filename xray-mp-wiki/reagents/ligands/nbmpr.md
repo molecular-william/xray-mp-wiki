@@ -1,5 +1,5 @@
 ---
-title: NBMPR (S-(4-Nitrobenzyl)-6-thioinosine)
+title: "NBMPR (S-(4-Nitrobenzyl)-6-thioinosine)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41594-019-0245-7]
-verified: false
+verified: regex
 ---
 
 # NBMPR (S-(4-Nitrobenzyl)-6-thioinosine)

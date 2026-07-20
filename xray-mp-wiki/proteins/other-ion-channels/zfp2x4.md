@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature08198, doi/10.1038##nature11010]
-verified: regex
+verified: agent
 uniprot_id: F8W463
 ---
 
@@ -39,14 +39,14 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3phv">3PHV</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3h9v">3H9V</a></td>
       <td>3.46 A</td>
       <td>R3</td>
       <td>Delta zfP2X4-A (Delta N27/Delta C8)</td>
       <td>ATP (in related functional studies; structure is apo)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3phv">3PHV</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3h9v">3H9V</a></td>
       <td>3.10 A</td>
       <td>R32</td>
       <td>Delta zfP2X4-B (Delta N27/Delta C8/C51F/N78K/N187R)</td>
@@ -662,4 +662,4 @@ Residues implicated in [Ivermectin](/xray-mp-wiki/reagents/ligands/ivermectin) b
 - <a href="/xray-mp-wiki/reagents/ligands/tnp-atp/">2'3'-O-(4,5-Dinitrobenzoyl)adenosine 5'-triphosphate (TNP-ATP)</a> — Fluorescent ATP analog that precludes dorsal fin movement upon binding
 - <a href="/xray-mp-wiki/concepts/signaling-receptors/p2x-receptor-family/">P2X Receptor Family</a> — zfP2X4 is the first solved member of the P2X receptor family
 - <a href="/xray-mp-wiki/reagents/additives/selenomethionine">Selenomethionine (SeMet)</a> — Entity mentioned in text
-- <a href="/xray-mp-wiki/concepts/truncation">Protein Truncation for Crystallization</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">Protein Truncation for Crystallization</a> — Entity mentioned in text

@@ -1,5 +1,5 @@
 ---
-title: PGS (Pyrococcus abyssi Glycogen Synthase) Fusion
+title: "PGS (Pyrococcus abyssi Glycogen Synthase) Fusion"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1016##j.str.2017.11.005]
-verified: false
+verified: regex
 ---
 
 # PGS (Pyrococcus abyssi Glycogen Synthase) Fusion

@@ -1,5 +1,5 @@
 ---
-title: Lithium Sulfate
+title: "Lithium Sulfate"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##nature12648, doi/10.1038##s41422-020-00424-2]
-verified: false
+verified: regex
 ---
 
 # Lithium Sulfate

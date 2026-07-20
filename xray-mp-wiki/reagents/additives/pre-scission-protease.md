@@ -1,13 +1,13 @@
 ---
-title: PreScission Protease
+title: "PreScission Protease"
 created: 2026-05-27
 updated: 2026-06-22
 type: reagent
 category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
-sources: [doi/10.1016##j.immuni.2020.02.004, doi/10.1073##pnas.92.7.2658]
-verified: false
+sources: [doi/10.1016##j.immuni.2020.02.004]
+verified: agent
 ---
 
 # PreScission Protease

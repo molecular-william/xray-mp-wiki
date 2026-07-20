@@ -1,5 +1,5 @@
 ---
-title: 3-Quinuclidinyl-benzilate (QNB)
+title: "3-Quinuclidinyl-benzilate (QNB)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature10753, doi/10.1038##nature10867]
-verified: false
+verified: agent
 ---
 
 # 3-Quinuclidinyl-benzilate (QNB)

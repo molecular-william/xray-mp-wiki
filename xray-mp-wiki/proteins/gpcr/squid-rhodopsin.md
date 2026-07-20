@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1074##jbc.C800040200, doi/10.1016##j.jmb.2011.08.044, doi/10.1038##nature06925]
-verified: regex
+verified: agent
 uniprot_id: P31356
 ---
 
@@ -304,21 +304,21 @@ Squid rhodopsin from Todarodes pacificus is an invertebrate visual pigment that 
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3p1l">3P1L</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ayn">3AYN</a></td>
       <td>2.8 A</td>
       <td>P62</td>
       <td>C-terminally truncated <a href="/xray-mp-wiki/proteins/gpcr/squid-rhodopsin/">squid rhodopsin</a> (residues 1-372, cleaved at Glu373 by V8 protease); bathorhodopsin state (all-trans retinal)</td>
       <td>all-trans retinal</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3p1k">3P1K</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ayn">3AYN</a></td>
       <td>2.7 A</td>
       <td>P62</td>
       <td>C-terminally truncated <a href="/xray-mp-wiki/proteins/gpcr/squid-rhodopsin/">squid rhodopsin</a> (residues 1-357, cleaved at Glu358 by V8 protease); isorhodopsin state (9-cis retinal)</td>
       <td>9-cis retinal</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2brs">2BRS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ayn">3AYN</a></td>
       <td>2.7 A</td>
       <td>P62</td>
       <td>C-terminally truncated <a href="/xray-mp-wiki/proteins/gpcr/squid-rhodopsin/">squid rhodopsin</a> (dark state, 11-cis)</td>
@@ -401,7 +401,7 @@ Squid rhodopsin from Todarodes pacificus is an invertebrate visual pigment that 
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2brs">2BRS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2z73">2Z73</a></td>
       <td>2.5 A</td>
       <td>P62</td>
       <td>C-terminally truncated <a href="/xray-mp-wiki/proteins/gpcr/squid-rhodopsin/">squid rhodopsin</a> (residues Glu9-Glu358, cleaved at Glu373 by V8 protease; dark state, 11-cis retinal)</td>

@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-019-1144-0]
-verified: pdb-check
-uniprot_id: P00268
+verified: agent
+uniprot_id: P49286
 ---
 
 # Human MT2 Melatonin Receptor
@@ -16,9 +16,9 @@ uniprot_id: P00268
 <div class="expr-badges"><span class="expr-badge expr-sf9">Sf9</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P00268">UniProt: P00268</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P49286">UniProt: P49286</a>
 
-<span class="expr-badge">Clostridium pasteurianum</span>
+<span class="expr-badge">Homo sapiens</span>
 
 ## Overview
 
@@ -103,22 +103,22 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 150 mM NaCl, 50 uM ligand (2-PMT or ramelteon) + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> / 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 150 mM NaCl, 50 uM ligand (2-PMT or ramelteon) + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> / 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>3 h incubation at 4C</td>
     </tr>
     <tr>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (IMAC)</td>
-      <td>Talon resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
       <td>—</td>
       <td></td>
-      <td>Overnight binding at 4C; washed with 800 mM NaCl, 10% glycerol, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10-20 mM imidazole</td>
+      <td>Overnight binding at 4C; washed with 800 mM NaCl, 10% glycerol, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10-20 mM imidazole</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
       <td>—</td>
       <td></td>
-      <td>Buffer with 100 mM NaCl, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, ligand</td>
+      <td>Buffer with 100 mM NaCl, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), ligand</td>
     </tr>
   </tbody>
 </table>

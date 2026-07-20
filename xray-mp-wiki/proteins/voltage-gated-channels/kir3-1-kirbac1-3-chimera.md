@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##sj.emboj.7601828]
-verified: pdb-pass
-uniprot_id: Q146M9
+verified: agent
+uniprot_id: P63250
 ---
 
 # Kir3.1-KirBac1.3 Chimeric GIRK Channel
@@ -16,9 +16,9 @@ uniprot_id: Q146M9
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q146M9">UniProt: Q146M9</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P63250">UniProt: P63250</a>
 
-<span class="expr-badge">Paraburkholderia xenovorans (strain LB400)</span>
+<span class="expr-badge">Mus musculus</span>
 
 ## Overview
 
@@ -98,7 +98,7 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
       <td>Membrane extraction</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>50 mM Tris-HCl pH 7.5, 150 mM KCl + 20 mM dodecylmaltopyranoside (DDM)</td>
+      <td>50 mM Tris-HCl pH 7.5, 150 mM KCl + 20 mM dodecylmaltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Gentle shaking for 2 h at room temperature; debris removed by centrifugation at 40,000 g for 20 min</td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
     </tr>
     <tr>
       <td>Final purification and detergent exchange</td>
-      <td>Size exclusion chromatography (inferred)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (inferred)</td>
       <td>--</td>
       <td>-- + Nonylglucoside</td>
       <td>Purified as stable tetramer in nonylglucoside for crystallization; final sample contained channel in nonylglucoside</td>

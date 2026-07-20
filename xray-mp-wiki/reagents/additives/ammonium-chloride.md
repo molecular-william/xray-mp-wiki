@@ -1,5 +1,5 @@
 ---
-title: Ammonium Chloride
+title: "Ammonium Chloride"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent

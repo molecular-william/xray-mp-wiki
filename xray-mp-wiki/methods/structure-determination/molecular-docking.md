@@ -1,5 +1,5 @@
 ---
-title: Molecular Docking
+title: "Molecular Docking"
 created: 2026-06-08
 updated: 2026-06-08
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-xray, subdirectory-structure-determination]
 sources: [doi/10.1038##s42003-019-0427-1, doi/10.1074##jbc.M116.766964, doi/10.1107##s2059798320015004]
-verified: false
+verified: none
 ---
 
 # Molecular Docking

@@ -1,5 +1,5 @@
 ---
-title: ACPC (1-Aminocyclopropane-1-carboxylic Acid)
+title: "ACPC (1-Aminocyclopropane-1-carboxylic Acid)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature13548]
-verified: true
+verified: agent
 ---
 
 # ACPC (1-Aminocyclopropane-1-carboxylic Acid)

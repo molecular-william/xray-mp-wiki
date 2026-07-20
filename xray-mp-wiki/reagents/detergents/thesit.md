@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1038##nsb969, doi/10.1038##nature13552]
-verified: false
+verified: regex
 ---
 
 # Thesit (Polyoxyethylene 9-dodecyl ether / C12E9)

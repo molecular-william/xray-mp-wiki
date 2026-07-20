@@ -1,13 +1,13 @@
 ---
-title: GXXXG Motif (Helix Packing Motif)
+title: "GXXXG Motif (Helix Packing Motif)"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature25439]
-verified: false
+verified: regex
 ---
 
 # GXXXG Motif (Helix Packing Motif)

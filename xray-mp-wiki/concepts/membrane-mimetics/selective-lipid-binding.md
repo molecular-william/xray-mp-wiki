@@ -1,13 +1,13 @@
 ---
-title: Selective Lipid Binding in Membrane Proteins
+title: "Selective Lipid Binding in Membrane Proteins"
 created: 2026-06-03
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-membrane-mimetics]
 sources: [doi/10.1038##nature13419, doi/10.1073##pnas.1719813115]
-verified: false
+verified: regex
 ---
 
 # Selective Lipid Binding in Membrane Proteins

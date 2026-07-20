@@ -1,5 +1,5 @@
 ---
-title: DPCPX (8-Cyclopentyl-1,3-dipropylxanthine)
+title: "DPCPX (8-Cyclopentyl-1,3-dipropylxanthine)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2017.01.042]
-verified: false
+verified: regex
 ---
 
 # DPCPX (8-Cyclopentyl-1,3-dipropylxanthine)

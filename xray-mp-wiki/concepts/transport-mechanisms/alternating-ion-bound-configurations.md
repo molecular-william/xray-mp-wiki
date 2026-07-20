@@ -1,13 +1,13 @@
 ---
-title: Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters
+title: "Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.2009624117, doi/10.1073##pnas.1901888116]
-verified: false
+verified: regex
 ---
 
 # Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NSMB.1434]
-verified: regex
+verified: agent
 ---
 
 # Polysulfide Reductase (PsrABC) from Thermus thermophilus
@@ -83,7 +83,7 @@ Polysulfide reductase (PsrABC) from Thermus thermophilus is an integral membrane
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted with linear gradient from 100-280 mM NaCl</td>

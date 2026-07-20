@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature04316, doi/10.1016##j.jmb.2009.01.065]
-verified: regex
+verified: agent
 uniprot_id: Q41372
 ---
 
@@ -1672,21 +1672,21 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
       <td>Overexpression</td>
       <td>SoPIP2;1 mutants overproduced in Pichia pastoris; 3 L fermentor yielding 230 g wet cells/L culture after 24 h MeOH induction</td>
       <td>--</td>
-      <td><a href="/xray-mp-wiki/reagents/substrates/urea/">UREA</a>/NaOH-washed membranes resuspended in pH 7.0 buffer + 5% beta-octyl glucoside (OG) for membrane extraction</td>
+      <td><a href="/xray-mp-wiki/reagents/substrates/urea/">UREA</a>/NaOH-washed membranes resuspended in pH 7.0 buffer + 5% beta-octyl glucoside (<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>) for membrane extraction</td>
       <td>X-press (Biox AB) used to break cells</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
       <td>Solubilized material loaded on Resource S column</td>
       <td>Resource S column</td>
-      <td>20 mM Hepes pH 7.0, 50 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1% beta-OG + 1% beta-OG</td>
+      <td>20 mM Hepes pH 7.0, 50 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1% beta-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> + 1% beta-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Purification details in Materials and Methods</td>
     </tr>
     <tr>
       <td>Affinity purification (functional studies)</td>
       <td>Bound to Chelating Sepharose Fast Flow gel loaded with Ni2+ ions</td>
       <td>Chelating Sepharose Fast Flow (GE Healthcare)</td>
-      <td>20 mM Hepes pH 7.0, 50 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1% beta-OG, 250-350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 1% beta-OG</td>
+      <td>20 mM Hepes pH 7.0, 50 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1% beta-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>, 250-350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 1% beta-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>For water transport assays, purified by affinity rather than ion exchange</td>
     </tr>
   </tbody>

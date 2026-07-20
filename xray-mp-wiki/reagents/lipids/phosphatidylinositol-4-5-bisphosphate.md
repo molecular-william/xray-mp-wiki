@@ -1,5 +1,5 @@
 ---
-title: Phosphatidylinositol-4,5-Bisphosphate (PIP2)
+title: "Phosphatidylinositol-4,5-Bisphosphate (PIP2)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1038##nature19767]
-verified: false
+verified: regex
 ---
 
 # Phosphatidylinositol-4,5-Bisphosphate (PIP2)

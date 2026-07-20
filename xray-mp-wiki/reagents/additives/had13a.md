@@ -1,5 +1,5 @@
 ---
-title: HAD13a (Heavy-Atom Additive 13a)
+title: "HAD13a (Heavy-Atom Additive 13a)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, solubilization-detergent, subdirectory-additives]
 sources: [doi/10.1073##pnas.1602531113]
-verified: false
+verified: regex
 ---
 
 # HAD13a (Heavy-Atom Additive 13a)

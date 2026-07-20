@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [expression-system, subdirectory-expression-systems]
 sources: [doi/10.1073##pnas.1207362109]
-verified: none
+verified: regex
 ---
 
 # Bac-to-Bac Baculovirus Expression System

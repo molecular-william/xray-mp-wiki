@@ -1,13 +1,13 @@
 ---
-title: N-Terminus (N-Terminal Domain)
+title: "N-Terminus (N-Terminal Domain)"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural]
+tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nrm.2017.70]
-verified: false
+verified: none
 ---
 
 # N-Terminus (N-Terminal Domain)

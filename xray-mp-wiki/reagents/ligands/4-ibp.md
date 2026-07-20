@@ -1,5 +1,5 @@
 ---
-title: 4-IBP (4-Iodo-N-benzylpiperidine)
+title: "4-IBP (4-Iodo-N-benzylpiperidine)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature17391]
-verified: false
+verified: agent
 ---
 
 # 4-IBP (4-Iodo-N-benzylpiperidine)

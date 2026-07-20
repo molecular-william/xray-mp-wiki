@@ -1,13 +1,13 @@
 ---
-title: TMBIM Protein Family
+title: "TMBIM Protein Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1016##j.cell.2014.03.045, doi/10.1016##j.str.2019.03.003, doi/10.1126##science.1252043]
-verified: false
+verified: regex
 ---
 
 # TMBIM Protein Family

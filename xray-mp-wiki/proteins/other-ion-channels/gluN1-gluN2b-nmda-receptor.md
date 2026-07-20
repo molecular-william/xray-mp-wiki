@@ -5954,7 +5954,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
   <tbody>
     <tr>
       <td>Cell lysis and membrane preparation</td>
-      <td>Sonication (4 <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on, 8 sec off for 10 min, power level 6.5)</td>
+      <td>Sonication (4 <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on, 8 sec off for 10 min, power level 6.5)</td>
       <td>--</td>
       <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>(/xray-mp-wiki/reagents/buffers/tris/) pH 8.0 + --</td>
       <td>HEK293S GnTI- cells transduced with BacMam virus (MOI 1:1, GluN1:GluN2B). <a href="/xray-mp-wiki/reagents/additives/sodium-butyrate/">Sodium Butyrate</a> (10 mM) added at 14 hrs post-transduction, incubated at 30 C for 46 hrs. Cell debris removed at 6,000 x g; membranes collected at 125,000 x g.
@@ -5964,28 +5964,28 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
       <td>Membrane solubilization</td>
       <td>Stirring at 4 C for 2 hrs</td>
       <td>--</td>
-      <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>(/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 0.8 mM aprotinin, 2 mg/ml leupeptin, 2 mM pepstatin A, 1 mM PMSF, 1 mM glutamate, 1 mM glycine + 1% <a href="/xray-mp-wiki/reagents/detergents/mng/">MNG-3</a>, 2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>(/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 0.8 mM aprotinin, 2 mg/ml leupeptin, 2 mM pepstatin A, 1 mM PMSF, 1 mM glutamate, 1 mM glycine + 1% <a href="/xray-mp-wiki/reagents/detergents/mng/">MNG-3</a>, 2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Insoluble material removed at 125,000 x g</td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td><a href="/xray-mp-wiki/reagents/additives/strep-tactin/">Strep-Tactin</a> chromatography</td>
       <td>Streptactin column (1 ml resin per L culture, IBA)</td>
-      <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>(/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 5 mM <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin/">Desthiobiotin</a> + 0.1% MNG-3, 0.2 mM CHS</td>
+      <td>150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a>(/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 5 mM <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin/">Desthiobiotin</a> + 0.1% MNG-3, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Eluted with 5 mM <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin/">Desthiobiotin</a></td>
     </tr>
     <tr>
       <td>Tag removal and deglycosylation</td>
       <td><a href="/xray-mp-wiki/reagents/additives/3c-protease/">3C Protease</a> (1:20 w/w) + <a href="/xray-mp-wiki/reagents/additives/endoglycosidase-h/">Endoglycosidase H</a></td>
       <td>--</td>
-      <td>400 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mM CHS + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mM CHS</td>
+      <td>400 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Removed GFP, octa-histidine and StrepII tags. Incubated 8 hr at 4 C.</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superose-6/">Superose 6</a> 16/300</td>
-      <td>400 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mM CHS + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (C12M), 0.2 mM CHS</td>
+      <td>400 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (C12M), 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Peak fractions pooled and concentrated to 2 mg/ml</td>
     </tr>
   </tbody>

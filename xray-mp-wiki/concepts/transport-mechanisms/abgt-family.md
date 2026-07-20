@@ -1,13 +1,13 @@
 ---
-title: AbgT Family of Transporters
+title: "AbgT Family of Transporters"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##ncomms7874]
-verified: false
+verified: regex
 ---
 
 # AbgT Family of Transporters

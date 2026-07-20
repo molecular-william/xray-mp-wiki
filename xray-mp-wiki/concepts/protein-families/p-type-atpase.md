@@ -1,13 +1,13 @@
 ---
-title: P-type ATPase Family
+title: "P-type ATPase Family"
 created: 2026-05-29
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1038##35015017, doi/10.1038##NSMB.2721, doi/10.1038##nature02680, doi/10.1038##ncomms9004, doi/10.1107##s2053230x1600279x]
-verified: false
+verified: none
 ---
 
 # P-type ATPase Family

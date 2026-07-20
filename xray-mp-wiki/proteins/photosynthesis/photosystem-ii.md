@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature04224, doi/10.1038##nature13453, doi/10.1038##nature16949, doi/10.1038##nature21400, doi/10.1038##nature13991, doi/10.1016##j.jbc.2023.104839, doi/10.1073##pnas.0135651100, doi/10.1073##pnas.1219922110, doi/10.1126##science.1093087, doi/10.1126##science.aax6998, doi/10.1073##pnas.2000529117, doi/10.1073##pnas.0812797106, doi/10.1107##S2052252521002177]
-verified: regex
+verified: agent
 uniprot_id: ['D0VWR1', 'D0VWR2', 'D0VWR3', 'D0VWR4', 'D0VWR5', 'D0VWR7', 'D0VWR8', 'P0A386', 'P0A387', 'P0A431', 'P0A444', 'P0DM37', 'P12238', 'P12239', 'P12240', 'P12241', 'P12312', 'P12313', 'P19052', 'P19054', 'P51765', 'P56152', 'P59087', 'Q7DGD4', 'Q8CM25', 'Q8DHA7', 'Q8DHJ2', 'Q8DIF8', 'Q8DIN8', 'Q8DIN9', 'Q8DIP0', 'Q8DIQ0', 'Q8DIQ1', 'Q8DJ43', 'Q8DJI1', 'Q8DJZ6', 'Q8DKM3', 'Q9F1K9', 'Q9F1L5', 'Q9F1R6']
 ---
 
@@ -42,7 +42,7 @@ Photosystem II (PSII) from Thermosynechococcus elongatus/vulcanus is a homodimer
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1s5l">1S5L</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2axt">2AXT</a></td>
       <td>3.0</td>
       <td>P212121</td>
       <td>Photosystem II core complex from Thermosynechococcus elongatus, homodimer, 20 subunits per monomer</td>
@@ -79,14 +79,14 @@ Photosystem II (PSII) from Thermosynechococcus elongatus/vulcanus is a homodimer
       <td>PSII core complex solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl, 10 mM CaCl2 + 0.08% beta-DM (n-dodecyl-beta-D-maltoside)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl, 10 mM CaCl2 + 0.08% beta-<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (n-dodecyl-beta-D-maltoside)</td>
       <td>PSII core complexes (CP47-III) solubilized from thylakoid membranes</td>
     </tr>
     <tr>
       <td>PSII core complex purification</td>
       <td>Anion-exchange chromatography</td>
       <td>DEAE-Sepharose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 20 mM NaCl, 10 mM CaCl2, 5 mM MgCl2 + 0.004% beta-DM</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 20 mM NaCl, 10 mM CaCl2, 5 mM MgCl2 + 0.004% beta-<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Eluted with linear NaCl gradient</td>
     </tr>
   </tbody>

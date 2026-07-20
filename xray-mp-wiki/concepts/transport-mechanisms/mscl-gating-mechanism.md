@@ -1,13 +1,13 @@
 ---
-title: MscL Gating Mechanism (Mechanosensitive Channel of Large Conductance)
+title: "MscL Gating Mechanism (Mechanosensitive Channel of Large Conductance)"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.1503202112]
-verified: false
+verified: regex
 ---
 
 # MscL Gating Mechanism (Mechanosensitive Channel of Large Conductance)

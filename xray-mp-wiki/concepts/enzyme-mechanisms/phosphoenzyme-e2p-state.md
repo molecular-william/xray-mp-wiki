@@ -1,13 +1,13 @@
 ---
-title: Phosphoenzyme E2P State
+title: "Phosphoenzyme E2P State"
 created: 2026-05-27
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism]
+tags: [concept-transport-mechanism, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1016##j.jsb.2010.12.004, doi/10.1038##ncomms9004, doi/10.1073##pnas.2123226119, doi/10.1038##nature02981, doi/10.1073##pnas.2020438118]
-verified: false
+verified: regex
 ---
 
 # Phosphoenzyme E2P State

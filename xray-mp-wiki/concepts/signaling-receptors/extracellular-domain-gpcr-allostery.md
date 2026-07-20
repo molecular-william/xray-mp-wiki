@@ -1,13 +1,13 @@
 ---
-title: Extracellular Domain-Mediated Allostery in GPCRs
+title: "Extracellular Domain-Mediated Allostery in GPCRs"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, subdirectory-concepts]
+tags: [concept-structural, concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature18934]
-verified: false
+verified: regex
 ---
 
 # Extracellular Domain-Mediated Allostery in GPCRs

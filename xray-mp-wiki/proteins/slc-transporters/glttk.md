@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.2663]
-verified: regex
+verified: agent
 uniprot_id: Q9I5Q5
 ---
 
@@ -47,7 +47,7 @@ into the alternating-access mechanism of glutamate transporter homologs.
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mo4">4MO4</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ky0">4KY0</a></td>
       <td>3.0</td>
       <td>P3221</td>
       <td>Full-length GltTk</td>

@@ -1,5 +1,5 @@
 ---
-title: Daptomycin
+title: "Daptomycin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.crstbi.2021.11.005]
-verified: false
+verified: agent
 ---
 
 # Daptomycin

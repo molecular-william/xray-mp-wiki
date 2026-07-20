@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2007.11.039, doi/10.1016##j.jmb.2006.02.032, doi/10.1107##s1399004714017313]
-verified: regex
+verified: agent
 uniprot_id: P29563
 ---
 
@@ -24,7 +24,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
 
 ## Publications
 
-### doi/10.1016##j.jmb.2007.11.039
+### doi/10.1016/j.jmb.2007.11.039
 
 **Structures:**
 
@@ -38,14 +38,14 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2kzb">2KZB</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2ei4">2EI4</a></td>
       <td>2.1 A</td>
       <td>—</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2kzc">2KZC</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2ei4">2EI4</a></td>
       <td>2.3 A</td>
       <td>—</td>
       <td></td>
@@ -54,7 +54,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
   </tbody>
 </table>
 
-### doi/10.1016##j.jmb.2006.02.032
+### doi/10.1016/j.jmb.2006.02.032
 
 **Structures:**
 
@@ -540,7 +540,7 @@ Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret
 </div>
 
 </div>
-### doi/10.1107##s1399004714017313
+### doi/10.1107/S1399004714017313
 
 **Structures:**
 

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1038##nature17391, doi/10.1038##ncomms15383, doi/10.1016##j.cell.2018.12.006, doi/10.1038##nature12648, doi/10.1038##nature14656, doi/10.1038##ncomms8895, doi/10.1038##nsmb.3417, doi/10.1038##s41422-020-00424-2, doi/10.1038##s41422-022-00679-x]
-verified: false
+verified: regex
 ---
 
 # Lauryl Maltose Neopentyl Glycol (LMNG)

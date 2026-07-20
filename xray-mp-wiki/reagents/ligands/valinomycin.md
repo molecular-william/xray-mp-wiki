@@ -1,5 +1,5 @@
 ---
-title: Valinomycin
+title: "Valinomycin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nsmb.1531]
-verified: false
+verified: agent
 ---
 
 # Valinomycin

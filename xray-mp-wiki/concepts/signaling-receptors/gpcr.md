@@ -1,13 +1,13 @@
 ---
-title: G Protein-Coupled Receptor (GPCR) Family
+title: "G Protein-Coupled Receptor (GPCR) Family"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature06325]
-verified: false
+verified: regex
 ---
 
 # G Protein-Coupled Receptor (GPCR) Family

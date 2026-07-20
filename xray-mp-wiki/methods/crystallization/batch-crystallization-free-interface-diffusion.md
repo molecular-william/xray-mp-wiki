@@ -1,5 +1,5 @@
 ---
-title: Batch Crystallization with Free Interface Diffusion
+title: "Batch Crystallization with Free Interface Diffusion"
 created: 2026-06-03
 updated: 2026-06-03
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [crystallization-microbatch, subdirectory-crystallization]
 sources: [doi/10.1038##nature13453]
-verified: false
+verified: regex
 ---
 
 # Batch Crystallization with Free Interface Diffusion

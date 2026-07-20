@@ -1,5 +1,5 @@
 ---
-title: Vercirnon (GSK1605786, CCX282-B)
+title: "Vercirnon (GSK1605786, CCX282-B)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature20606]
-verified: false
+verified: regex
 ---
 
 # Vercirnon (GSK1605786, CCX282-B)

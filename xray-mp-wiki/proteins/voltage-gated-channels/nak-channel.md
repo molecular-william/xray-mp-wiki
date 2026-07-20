@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature04508, doi/10.1038##nsmb.1531, doi/10.1073##pnas.1013636108, doi/10.1073##pnas.1013643108, doi/10.1073##pnas.1111688108, doi/10.1107##s205225252100213x, doi/10.1073##pnas.0707324104]
-verified: regex
+verified: agent
 uniprot_id: ['C2R3K4', 'Q81HW2']
 ---
 
@@ -40,14 +40,14 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2nka">2NKA</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2ahy">2AHY</a></td>
       <td>2.4</td>
       <td>C2221</td>
       <td>NaK channel residues 1-103</td>
       <td>Na+</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2nkb">2NKB</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2ahy">2AHY</a></td>
       <td>2.8</td>
       <td>C2221</td>
       <td>NaK channel residues 1-104</td>
@@ -620,7 +620,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
       <td>Purification</td>
       <td>Detergent solubilization and purification</td>
       <td></td>
-      <td>Monovalent salt + n-Decyl-β-D-maltoside (DM)</td>
+      <td>Monovalent salt + n-Decyl-β-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Same procedures as NaKN delta 19</td>
     </tr>
   </tbody>
@@ -1577,7 +1577,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
       <td>Purification</td>
       <td>Detergent solubilization and purification</td>
       <td></td>
-      <td>Monovalent salt (NaCl, KCl) + n-Decyl-β-D-maltoside (DM)</td>
+      <td>Monovalent salt (NaCl, KCl) + n-Decyl-β-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Purified as tetramers</td>
     </tr>
     <tr>
@@ -2976,7 +2976,7 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
       <td>Purification</td>
       <td>Detergent solubilization and purification</td>
       <td></td>
-      <td>Monovalent salt + n-Decyl-β-D-maltoside (DM)</td>
+      <td>Monovalent salt + n-Decyl-β-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Protein purification followed NaKN delta 19 protocol</td>
     </tr>
     <tr>
@@ -5149,8 +5149,8 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
       <td>Purification</td>
       <td>Detergent solubilization and purification</td>
       <td></td>
-      <td>Monovalent salt (NaCl, RbCl, or LiCl) + n-Decyl-β-D-maltoside (DM)</td>
-      <td>Purified as tetramers in DM with monovalent salt for crystallization</td>
+      <td>Monovalent salt (NaCl, RbCl, or LiCl) + n-Decyl-β-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>Purified as tetramers in <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> with monovalent salt for crystallization</td>
     </tr>
   </tbody>
 </table>

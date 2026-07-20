@@ -1,13 +1,13 @@
 ---
-title: Competitive Antagonism in Cys-Loop Receptors
+title: "Competitive Antagonism in Cys-Loop Receptors"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1038##ncomms1703]
-verified: false
+verified: regex
 ---
 
 # Competitive Antagonism in Cys-Loop Receptors

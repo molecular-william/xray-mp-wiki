@@ -1,5 +1,5 @@
 ---
-title: Compound 5 (Biarylimidazole mPGES-1 Inhibitor)
+title: "Compound 5 (Biarylimidazole mPGES-1 Inhibitor)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.jmedchem.5b00330]
-verified: false
+verified: regex
 ---
 
 # Compound 5 (Biarylimidazole mPGES-1 Inhibitor)

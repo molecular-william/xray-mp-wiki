@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2019.07.028]
-verified: regex
+verified: agent
 uniprot_id: P32248
 ---
 
@@ -92,7 +92,7 @@ chemotypes with selectivity across chemokine receptor subtypes.
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>50 mM HEPES/NaOH pH 7.5, 300 mM NaCl, 20 mM imidazole/HCl pH 7.5, 23 uM Cmp2105, protease inhibitors + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES/NaOH pH 7.5, 300 mM NaCl, 20 mM imidazole/HCl pH 7.5, 23 uM Cmp2105, protease inhibitors + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Membranes pre-treated with 23 uM Cmp2105 and 2 mg/mL iodoacetamide for 1 h at 4 C before solubilization.</td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@ chemotypes with selectivity across chemokine receptor subtypes.
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td>—</td>
       <td></td>
       <td>Final polishing step.</td>

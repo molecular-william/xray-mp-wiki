@@ -1,13 +1,13 @@
 ---
 title: "Human Endothelin ETB Receptor Bound to Endothelin-1"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature19319]
-verified: regex
+verified: agent
 uniprot_id: ['P05305', 'P24530']
 ---
 
@@ -91,19 +91,19 @@ the entire peptide.
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-NaOH pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, <a href="/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/">protease inhibitors</a> + 1% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>) + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-NaOH pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, <a href="/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/">protease inhibitors</a> + 1% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>) + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilized for 2 h at 4°C; ET-1 added during purification</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt affinity resin</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Bound for 30 min; washed with 10 CV; eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>TEV protease cleavage and tag removal</td>
-      <td>TEV cleavage and reverse <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> cleavage and reverse <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + --</td>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> (1:20 w/w) overnight; cleaved <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a>-<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His10</a> tag removed by <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
@@ -112,7 +112,7 @@ the entire peptide.
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 column</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-NaOH pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-NaOH pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Peak fractions concentrated to 40 mg/ml for crystallization</td>
     </tr>
   </tbody>

@@ -1,5 +1,5 @@
 ---
-title: Dansyl-galactopyranoside (D2G)
+title: "Dansyl-galactopyranoside (D2G)"
 created: 2026-06-04
 updated: 2026-06-04
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##ncomms4009]
-verified: false
+verified: regex
 ---
 
 # Dansyl-galactopyranoside (D2G)

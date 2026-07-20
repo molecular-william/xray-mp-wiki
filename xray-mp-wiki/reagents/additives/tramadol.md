@@ -1,5 +1,5 @@
 ---
-title: Tramadol
+title: "Tramadol"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand]
 sources: [doi/10.1038##s41467-021-22385-9]
-verified: false
+verified: agent
 ---
 
 # Tramadol

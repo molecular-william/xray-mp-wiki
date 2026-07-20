@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2012.11.010]
-verified: regex
+verified: agent
 uniprot_id: ['P0AAM1', 'P0ACD8', 'P69739']
 ---
 
@@ -70,8 +70,8 @@ Cytochrome b is the physiological partner of Escherichia coli Hydrogenase 1 (EcH
   <tbody>
     <tr>
       <td>Co-purification with EcHyd-1</td>
-      <td>Detergent solubilization and SEC</td>
-      <td>Superdex 200</td>
+      <td>Detergent solubilization and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>0.02% Triton X-100 + 0.02% Triton X-100</td>
       <td>Cytochrome b co-eluted with EcHyd-1 in the second peak; homogenizer treatment dissociates cytochrome b from EcHyd-1</td>
     </tr>

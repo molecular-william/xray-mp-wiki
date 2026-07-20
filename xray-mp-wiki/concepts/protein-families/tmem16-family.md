@@ -1,13 +1,13 @@
 ---
-title: TMEM16 Family (Anoctamin Protein Family)
+title: "TMEM16 Family (Anoctamin Protein Family)"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1038##nature13984]
-verified: false
+verified: regex
 ---
 
 # TMEM16 Family (Anoctamin Protein Family)

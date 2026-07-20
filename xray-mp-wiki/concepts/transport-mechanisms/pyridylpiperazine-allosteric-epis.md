@@ -1,13 +1,13 @@
 ---
-title: Pyridylpiperazine-based Allosteric Efflux Pump Inhibitors
+title: "Pyridylpiperazine-based Allosteric Efflux Pump Inhibitors"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-021-27726-2]
-verified: false
+verified: regex
 ---
 
 # Pyridylpiperazine-based Allosteric Efflux Pump Inhibitors

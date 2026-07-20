@@ -1,13 +1,13 @@
 ---
-title: Hydrophilic Groove Insertion Mechanism
+title: "Hydrophilic Groove Insertion Mechanism"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, subdirectory-concepts]
+tags: [concept-enzyme-mechanism, subdirectory-miscellaneous]
 sources: [doi/10.1038##nature13167]
-verified: false
+verified: regex
 ---
 
 # Hydrophilic Groove Insertion Mechanism

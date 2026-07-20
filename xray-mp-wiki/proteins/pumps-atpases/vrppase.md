@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, enzyme, membrane-protein]
 sources: [doi/10.1038##ncomms13596]
-verified: regex
+verified: agent
 ---
 
 # VrPPase (Vibrio rotiferans H+-Pumping Pyrophosphatase)
@@ -34,14 +34,14 @@ VrPPase (H+-pumping inorganic pyrophosphatase from Vibrio rotiferans) is a membr
   </tr></thead>
   <tbody>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gpj">5GPJ</a></td>
       <td>Not specified (supplementary only)</td>
       <td>Not specified (supplementary only)</td>
       <td></td>
       <td><a href="/xray-mp-wiki/reagents/ligands/idp/">IDP</a> (inositol pyrophosphate)</td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gpj">5GPJ</a></td>
       <td>Not specified (supplementary only)</td>
       <td>Not specified (supplementary only)</td>
       <td></td>

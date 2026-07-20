@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [membrane-protein, transporter, ion-channel, transporter]
 sources: [doi/10.1107##s205225252200971x]
-verified: regex
+verified: agent
 uniprot_id: P44741
 ---
 

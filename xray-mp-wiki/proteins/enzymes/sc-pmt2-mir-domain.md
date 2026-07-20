@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.61189]
-verified: regex
+verified: agent
 uniprot_id: P31382
 ---
 
@@ -108,7 +108,7 @@ The Pmt2-MIR domain is the luminal MIR (mannosyltransferase, IP3R, and RyR) doma
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superdex 75 26/600</td>
       <td>20 mM Tris-HCl pH 7.0, 150 mM NaCl</td>
       <td></td>

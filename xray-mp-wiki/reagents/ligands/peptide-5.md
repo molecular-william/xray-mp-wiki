@@ -1,5 +1,5 @@
 ---
-title: Peptide 5 (Truncated GLP-1 Agonist Nonapeptide)
+title: "Peptide 5 (Truncated GLP-1 Agonist Nonapeptide)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature22800]
-verified: false
+verified: regex
 ---
 
 # Peptide 5 (Truncated GLP-1 Agonist Nonapeptide)

@@ -1,13 +1,13 @@
 ---
-title: Trans-Inhibition in ABC Transporters
+title: "Trans-Inhibition in ABC Transporters"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1126##science.1156213]
-verified: false
+verified: regex
 ---
 
 # Trans-Inhibition in ABC Transporters

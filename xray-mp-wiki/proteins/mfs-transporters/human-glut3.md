@@ -1,13 +1,13 @@
 ---
 title: "Human Glucose Transporter 3 (GLUT3)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-022-30326-3]
-verified: regex
+verified: agent
 uniprot_id: P11169
 ---
 

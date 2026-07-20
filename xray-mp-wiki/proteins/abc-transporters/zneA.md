@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1318705110]
-verified: regex
+verified: agent
 uniprot_id: Q1LCD8
 ---
 
@@ -40,7 +40,7 @@ ZneA is a proton-driven efflux pump specific for Zn(II) from the heavy metal-res
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4k0e">4K0E</a></td>
-      <td>3.7 A</td>
+      <td>3.7</td>
       <td>Not specified</td>
       <td>Full-length ZneA from Cupriavidus metallidurans CH34 (high-pH structure)
 </td>
@@ -48,7 +48,7 @@ ZneA is a proton-driven efflux pump specific for Zn(II) from the heavy metal-res
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4k0j">4K0J</a></td>
-      <td>3.0 A</td>
+      <td>3.0</td>
       <td>Not specified</td>
       <td>Full-length ZneA from Cupriavidus metallidurans CH34 (low-pH structure)
 </td>

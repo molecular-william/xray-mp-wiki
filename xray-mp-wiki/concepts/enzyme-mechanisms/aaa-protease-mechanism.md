@@ -1,13 +1,13 @@
 ---
-title: AAA Protease Mechanism
+title: "AAA Protease Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-functional, subdirectory-concepts]
-sources: [doi/10.1107##s1399004715005945, doi/10.1107##S0907444906013253, doi/10.1016##j.bbamem.2011.09.009, doi/10.1073##pnas.0910708106]
-verified: false
+tags: [concept-protein-family, concept-functional, subdirectory-enzyme-mechanisms]
+sources: [doi/10.1107##s1399004715005945, doi/10.1073##pnas.0910708106]
+verified: regex
 ---
 
 # AAA Protease Mechanism
@@ -38,7 +38,7 @@ communication and function. The 2.6 A apo-FtsH structure from *Thermotoga mariti
 - [Metalloprotease Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/metalloprotease-mechanism/) — FtsH contains a zinc metalloprotease domain of the aspzincin family
 
 ## Cross-References
-- [FtsH from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/aquifex-aeolicus-ftsh/) — Foundational structure defining the C2-symmetric AAA ring in the ADP-bound state
+- [FtsH from Aquifex aeolicus](/xray-mp-wiki/proteins/aquifex-aeolicus-ftsh/) — Foundational structure defining the C2-symmetric AAA ring in the ADP-bound state
 - [Thermotoga maritima FtsH (Apo-FtsH AAA Protease)](/xray-mp-wiki/proteins/enzymes/thermotoga-maritima-ftsh/) — Apo-FtsH structure revealing C6-symmetric AAA ring and >45 A pore residue movements
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — AAA protease mechanisms have been extensively characterized by X-ray crystallography
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Buffer component used in purification or crystallization

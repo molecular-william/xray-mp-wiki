@@ -1,5 +1,5 @@
 ---
-title: Jeffamine ED-2001 Polyalkylene Glycol
+title: "Jeffamine ED-2001 Polyalkylene Glycol"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, additive-organic-solvent, subdirectory-additives]
 sources: [doi/10.1038##nature13015]
-verified: false
+verified: regex
 ---
 
 # Jeffamine ED-2001 Polyalkylene Glycol

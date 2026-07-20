@@ -1,5 +1,5 @@
 ---
-title: Compound 2 (Kolb et al., 2009)
+title: "Compound 2 (Kolb et al., 2009)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##ja105108q]
-verified: false
+verified: regex
 ---
 
 # Compound 2 (Kolb et al., 2009)

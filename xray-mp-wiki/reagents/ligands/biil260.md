@@ -1,5 +1,5 @@
 ---
-title: BIIL260
+title: "BIIL260"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nchembio.2547]
-verified: false
+verified: agent
 ---
 
 # BIIL260
@@ -56,5 +56,5 @@ No comparison data available.
 - [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — BIIL260 competes with sodium ion for BLT1 binding
 - [Inverse Agonism in GPCR Signaling](/xray-mp-wiki/concepts/signaling-receptors/inverse-agonism/) — BIIL260 acts as an inverse agonist for BLT1
 - [Negative Allosteric Modulation](/xray-mp-wiki/concepts/signaling-receptors/negative-allosteric-modulation/) — BIIL260 serves as negative allosteric modulator for BLT1
-- [BIIL284](/xray-mp-wiki/reagents/ligands/biil284/) — Related BLT1 antagonist mentioned in the paper
+- [BIIL284](/xray-mp-wiki/reagents/additives/biil284/) — Related BLT1 antagonist mentioned in the paper
 - [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Fusion tag for crystallization or purification

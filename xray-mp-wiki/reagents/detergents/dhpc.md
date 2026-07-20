@@ -1,5 +1,5 @@
 ---
-title: 1,2-Dihexanoyl-sn-glycero-3-phosphocholine (DHPC)
+title: "1,2-Dihexanoyl-sn-glycero-3-phosphocholine (DHPC)"
 created: 2026-05-28
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-zwitterionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1016##j.str.2013.03.004]
-verified: false
+verified: regex
 ---
 
 # 1,2-Dihexanoyl-sn-glycero-3-phosphocholine (DHPC)
@@ -50,7 +50,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Aquifex aeolicus TatC](/xray-mp-wiki/proteins/flat/tatc/) — DHPC used for TatC crystallization (PDB 4HTS)
+- [Aquifex aeolicus TatC](/xray-mp-wiki/proteins/tatc/) — DHPC used for TatC crystallization (PDB 4HTS)
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Related nonionic detergent, longer chain, also used for TatC crystallization (PDB 4HTT)
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Related neopentyl glycol detergent family
 - [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — Additive used in purification or crystallization buffers

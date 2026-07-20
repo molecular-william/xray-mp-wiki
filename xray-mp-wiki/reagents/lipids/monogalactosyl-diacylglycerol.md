@@ -1,5 +1,5 @@
 ---
-title: Monogalactosyl Diacylglycerol (MGDG)
+title: "Monogalactosyl Diacylglycerol (MGDG)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1038##nature04224, doi/10.1038##nature02373]
-verified: false
+verified: regex
 ---
 
 # Monogalactosyl Diacylglycerol (MGDG)

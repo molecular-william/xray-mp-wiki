@@ -1,5 +1,5 @@
 ---
-title: vMIP-II (Viral CC Chemokine Antagonist)
+title: "vMIP-II (Viral CC Chemokine Antagonist)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand]
 sources: [doi/10.1126##science.1261064]
-verified: false
+verified: regex
 ---
 
 # vMIP-II (Viral CC Chemokine Antagonist)

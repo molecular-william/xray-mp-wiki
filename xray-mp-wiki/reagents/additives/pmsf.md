@@ -1,5 +1,5 @@
 ---
-title: PMSF (Phenylmethylsulfonyl Fluoride)
+title: "PMSF (Phenylmethylsulfonyl Fluoride)"
 created: 2026-06-11
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##J.JMB.2009.04.001, doi/10.1016##j.str.2016.04.003]
-verified: false
+verified: none
 ---
 
 # PMSF (Phenylmethylsulfonyl Fluoride)

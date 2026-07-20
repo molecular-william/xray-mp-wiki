@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1239002]
-verified: regex
+verified: agent
 uniprot_id: O29988
 ---
 
@@ -93,7 +93,7 @@ exchanger structure captured in an inward-facing conformation.
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
       <td>—</td>
       <td></td>
-      <td>Purified protein crystallized by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> method. Details in Supporting Online Material.</td>
+      <td>Purified protein crystallized by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) method. Details in Supporting Online Material.</td>
     </tr>
   </tbody>
 </table>

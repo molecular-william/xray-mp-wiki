@@ -1,13 +1,13 @@
 ---
-title: CAAX Protein Processing
+title: "CAAX Protein Processing"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, subdirectory-concepts]
+tags: [concept-enzyme-mechanism, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1038##nature12754]
-verified: false
+verified: regex
 ---
 
 # CAAX Protein Processing

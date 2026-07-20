@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10753, doi/10.1038##nature12735]
-verified: regex
+verified: agent
 uniprot_id: P08172
 ---
 
@@ -41,7 +41,7 @@ The human M2 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4qdt">4QDT</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3uon">3UON</a></td>
       <td>2.8 A</td>
       <td>P 21 21 2</td>
       <td>M2-T4L fusion (N-linked glycosylation sites Asn 2, 3, 6, 9 mutated to Asp; cysteine-less T4L residues 2-161 inserted into ICL3 replacing M2 residues 218-376; C-terminal truncation after residue 466)</td>
@@ -119,8 +119,8 @@ The human M2 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
     </tr>
     <tr>
       <td>Nickel affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>-- + --</td>
       <td>Initial purification step</td>
     </tr>
@@ -133,7 +133,7 @@ The human M2 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>Size exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>--</td>
       <td>-- + --</td>
       <td>Final purification step for homogeneity</td>

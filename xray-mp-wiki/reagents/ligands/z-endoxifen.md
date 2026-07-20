@@ -1,5 +1,5 @@
 ---
-title: Z-Endoxifen
+title: "Z-Endoxifen"
 created: 2026-05-28
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.molcel.2020.12.048]
-verified: false
+verified: agent
 ---
 
 # Z-Endoxifen

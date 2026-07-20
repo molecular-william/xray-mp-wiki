@@ -1,13 +1,13 @@
 ---
-title: SLAC1 Superfamily
+title: "SLAC1 Superfamily"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1038##nature09487]
-verified: false
+verified: regex
 ---
 
 # SLAC1 Superfamily

@@ -1,13 +1,13 @@
 ---
-title: pH-Dependent Quinone Binding in Photosynthetic Reaction Centers
+title: "pH-Dependent Quinone Binding in Photosynthetic Reaction Centers"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-miscellaneous]
 sources: [doi/10.1016##j.jmb.2007.04.082]
-verified: false
+verified: regex
 ---
 
 # pH-Dependent Quinone Binding in Photosynthetic Reaction Centers

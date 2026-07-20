@@ -1,5 +1,5 @@
 ---
-title: Memantine
+title: "Memantine"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.str.2014.07.013]
-verified: false
+verified: agent
 ---
 
 # Memantine

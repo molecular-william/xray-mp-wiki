@@ -1,13 +1,13 @@
 ---
-title: ABC Transporter Outward-Occluded Mechanism
+title: "ABC Transporter Outward-Occluded Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1126##science.1071142, doi/10.15252##embj.201797278, doi/10.1038##nature05155]
-verified: false
+verified: regex
 ---
 
 # ABC Transporter Outward-Occluded Mechanism

@@ -1,5 +1,5 @@
 ---
-title: LSD (Lysergic Acid Diethylamide)
+title: "LSD (Lysergic Acid Diethylamide)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2016.12.033]
-verified: false
+verified: regex
 ---
 
 # LSD (Lysergic Acid Diethylamide)

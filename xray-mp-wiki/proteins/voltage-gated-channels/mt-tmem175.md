@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.53683]
-verified: regex
+verified: agent
 uniprot_id: ['E4TN31', 'P0AEX9']
 ---
 
@@ -129,21 +129,21 @@ is a Parkinson disease risk gene.
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>150 mM KCl, 10 mM Hepes-NaOH pH 7.6, 10% glycerol + 1% (w/v) n-dodecyl-β-D-maltopyranoside (DDM)</td>
+      <td>150 mM KCl, 10 mM Hepes-NaOH pH 7.6, 10% glycerol + 1% (w/v) n-dodecyl-β-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Solubilized for 1 hr at 4°C with protease inhibitors. Insoluble material removed by centrifugation at 42,000 rpm (45 Ti rotor)</td>
     </tr>
     <tr>
       <td>Streptactin affinity</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td>Strep-Tactin Superflow high capacity</td>
-      <td>150 mM KCl, 10 mM Hepes-NaOH pH 7.6, 10% glycerol, 50 µg/mL E. coli polar lipids, 0.03% DDM + 0.03% DDM</td>
+      <td>150 mM KCl, 10 mM Hepes-NaOH pH 7.6, 10% glycerol, 50 µg/mL E. coli polar lipids, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted with wash buffer containing 5 mM d-desthiobiotin. Tag cleaved with HRV 3C protease</td>
     </tr>
     <tr>
       <td>Complex formation and SEC</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
-      <td>Superdex 200 10/300</td>
-      <td>150 mM KCl, 5 mM Hepes-NaOH pH 7.6, 2.5 mM maltose, 0.03% DDM + 0.03% DDM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300</td>
+      <td>150 mM KCl, 5 mM Hepes-NaOH pH 7.6, 2.5 mM maltose, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>MtTMEM175 mixed with Mb₅₁H₀₁ at 2.2-2.5:1 molar ratio. Peak fractions concentrated to 8-16 mg/mL for crystallization</td>
     </tr>
   </tbody>

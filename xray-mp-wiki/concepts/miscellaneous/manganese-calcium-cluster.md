@@ -1,13 +1,13 @@
 ---
-title: Manganese-Calcium Cluster (Mn4Ca Cluster)
+title: "Manganese-Calcium Cluster (Mn4Ca Cluster)"
 created: 2026-06-02
 updated: 2026-06-10
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, subdirectory-concepts]
-sources: [doi/10.1038##nature04224, doi/10.1016##j.bbabio.2001.08.012, doi/10.1016##j.bbabio.2001.08.009, doi/10.1016##j.pnas.2005.06039, doi/10.1126##science.1093087, doi/10.1126##science.aax6998]
-verified: false
+tags: [concept-crystallography-principle, subdirectory-miscellaneous]
+sources: [doi/10.1038##nature04224, doi/10.1126##science.1093087, doi/10.1126##science.aax6998]
+verified: regex
 ---
 
 # Manganese-Calcium Cluster (Mn4Ca Cluster)

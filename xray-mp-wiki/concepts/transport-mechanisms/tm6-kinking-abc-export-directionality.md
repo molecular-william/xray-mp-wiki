@@ -1,13 +1,13 @@
 ---
-title: TM6 Kinking and Export Directionality in ABC Transporters
+title: "TM6 Kinking and Export Directionality in ABC Transporters"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.2006526117]
-verified: false
+verified: regex
 ---
 
 # TM6 Kinking and Export Directionality in ABC Transporters

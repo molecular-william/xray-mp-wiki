@@ -7,14 +7,14 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.1761]
-verified: regex
-uniprot_id: Q5SIT5
+verified: agent
+uniprot_id: ['P74901', 'Q5SIT5']
 ---
 
 # A-type ATPase peripheral stalk from Thermus thermophilus
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q5SIT5">UniProt: Q5SIT5</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P74901">UniProt: P74901</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q5SIT5">UniProt: Q5SIT5</a>
 
 <span class="expr-badge">Thermus thermophilus</span>
 

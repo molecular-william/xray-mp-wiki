@@ -1,5 +1,5 @@
 ---
-title: Dehydroepiandrosterone (DHEA)
+title: "Dehydroepiandrosterone (DHEA)"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.jsbmb.2022.106228]
-verified: false
+verified: agent
 ---
 
 # Dehydroepiandrosterone (DHEA)

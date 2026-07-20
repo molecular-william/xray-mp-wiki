@@ -1,5 +1,5 @@
 ---
-title: MT7 (Muscarinic Toxin 7)
+title: "MT7 (Muscarinic Toxin 7)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.aax2517]
-verified: false
+verified: regex
 ---
 
 # MT7 (Muscarinic Toxin 7)

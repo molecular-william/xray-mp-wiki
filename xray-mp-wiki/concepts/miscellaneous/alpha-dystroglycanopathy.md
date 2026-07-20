@@ -6,8 +6,8 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-structural, subdirectory-miscellaneous]
-sources: [doi/10.1038##nrm.2017.123, doi/10.1016##j.biochi.2020.03.003]
-verified: none
+sources: []
+verified: regex
 ---
 
 # Alpha-Dystroglycanopathy
@@ -28,5 +28,5 @@ Alpha-dystroglycan is heavily O-mannosylated, with a specific O-mannosyl glycan 
 
 
 ## Cross-References
-- [Alpha-Dystroglycan](/xray-mp-wiki/proteins/extracellular-matrix/alpha-dystroglycan/) — Central protein affected in alpha-dystroglycanopathy
-- [Disulfide Bond Formation](/xray-mp-wiki/concepts/miscellaneous/disulfide-bond-formation/) — Related post-translational modification pathway
+- [Alpha-Dystroglycan](/xray-mp-wiki/proteins/alpha-dystroglycan/) — Central protein affected in alpha-dystroglycanopathy
+- [Disulfide Bond Formation](/xray-mp-wiki/concepts/enzyme-mechanisms/disulfide-bond-formation/) — Related post-translational modification pathway

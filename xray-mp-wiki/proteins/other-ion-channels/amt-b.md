@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1101952, doi/10.1073##pnas.0609796104, doi/10.1073##pnas.1719813115, doi/10.1038##nature13419, doi/10.1074##jbc.M608325200, doi/10.1073##pnas.0406475101]
-verified: regex
+verified: agent
 uniprot_id: ['P0AC55', 'P69681']
 ---
 
@@ -63,7 +63,7 @@ ordered water/ammonia molecules in the central pore.
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1u7i">1U7I</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1u7g">1U7G</a></td>
       <td>1.35</td>
       <td>—</td>
       <td>AmtB_Ecoli with ammonia bound</td>
@@ -2364,7 +2364,7 @@ ordered water/ammonia molecules in the central pore.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>5 mL HisTrap-HP column (GE Healthcare)</td>
       <td>200 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.025% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> pH 7.4 + 0.025% n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Washed with <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>-free buffer + 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>; eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>

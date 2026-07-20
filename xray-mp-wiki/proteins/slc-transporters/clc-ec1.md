@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.53479, doi/10.1371##journal.pbio.1001441, doi/10.1073##pnas.1901822116, doi/10.1073##pnas.1205764109, doi/10.1038##nature09556, doi/10.1038##nsmb.2814, doi/10.1126##science.1082708]
-verified: regex
+verified: agent
 uniprot_id: P37019
 ---
 
@@ -82,17 +82,17 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
     <tr>
       <td>Cobalt-affinity chromatography</td>
-      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Cobalt affinity resin</td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> (gradual exchange from <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Detergent gradually exchanged for lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (<a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>) during the affinity step</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td>--</td>
       <td>Buffer containing <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a></td>
-      <td>Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> step performed in <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a>-containing buffer</td>
+      <td>Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) step performed in <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a>-containing buffer</td>
     </tr>
   </tbody>
 </table>
@@ -706,14 +706,14 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
     <tr>
       <td>Detergent extraction and purification</td>
-      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Cobalt column</td>
       <td>100 mM Na/K tartrate, 20 mM tris-SO4, 20 mM imidazole-H2SO4, pH 7.5 + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Cl- contamination minimized by washing with Cl--free buffer; eluted with 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>--</td>
       <td>100 mM Na/K tartrate, 10 mM tris-SO4, pH 7.5 + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Final purification step for crystallography and ITC</td>
@@ -2667,7 +2667,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4fth">4FTH</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4fg6">4FG6</a></td>
       <td></td>
       <td></td>
       <td>EcCLC E148A mutant with Fab fragment; expressed in E. coli</td>
@@ -2708,7 +2708,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Health Life Sciences)</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.4, 150 mM potassium glutamate + 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Complex protein further purified on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> sizing column equilibrated in Cl--free buffer containing 150 mM potassium glutamate</td>
@@ -2804,14 +2804,14 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
       <td>Cell lysis and membrane fractionation</td>
       <td>—</td>
       <td>Decylmaltoside (<a href="/xray-mp-wiki/reagents/detergents/dm">DM</a>)</td>
-      <td>Membranes solubilized in DM-containing buffer; protein purified as described previously for ClC-ec1</td>
+      <td>Membranes solubilized in <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>-containing buffer; protein purified as described previously for ClC-ec1</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> in decylmaltoside micelles</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) in decylmaltoside micelles</td>
       <td>—</td>
       <td>100 mM NaCl, 10 mM Tris-HCl pH 7.5 + ~40 mM decylmaltoside</td>
-      <td>Monomeric state of WW mutant assessed on SEC column calibrated with membrane transport protein standards. Wild-type homodimer (100 kDa) elutes at 12.8 ml; WW mutant shifts to monomer position (~1 ml later).</td>
+      <td>Monomeric state of WW mutant assessed on <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column calibrated with membrane transport protein standards. Wild-type homodimer (100 kDa) elutes at 12.8 ml; WW mutant shifts to monomer position (~1 ml later).</td>
     </tr>
   </tbody>
 </table>
@@ -3129,7 +3129,7 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
       <td>Published protocol (Nguitragool & Miller, 2007)</td>
       <td>—</td>
       <td>100 mM NaCl, 20 mM HEPES, 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a> or 50 uM DMNG, pH 7.5 + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a> or 1 mM DMNG</td>
-      <td>Expression and purification according to published protocols. Some preparations exchanged from DM to DMNG for stability. Final SEC on Superdex 200.</td>
+      <td>Expression and purification according to published protocols. Some preparations exchanged from <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> to DMNG for stability. Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>.</td>
     </tr>
     <tr>
       <td>Mercury-induced cross-link</td>

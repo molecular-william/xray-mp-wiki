@@ -1,13 +1,13 @@
 ---
-title: Carboxylate Dyad in Oligosaccharyltransferase
+title: "Carboxylate Dyad in Oligosaccharyltransferase"
 created: 2026-05-29
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
-sources: [doi/10.1021##acs.biochem.6b01089, doi/10.1073##pnas.1314195110, doi/10.1038##nature04467, doi/10.1038##s41467-013-02627-4]
-verified: false
+tags: [concept-functional, subdirectory-enzyme-mechanisms]
+sources: [doi/10.1021##acs.biochem.6b01089, doi/10.1073##pnas.1314195110]
+verified: regex
 ---
 
 # Carboxylate Dyad in Oligosaccharyltransferase

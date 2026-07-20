@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-021-27911-3]
-verified: regex
+verified: agent
 ---
 
 # Human Alpha-1B Adrenergic Receptor (alpha1B AR)

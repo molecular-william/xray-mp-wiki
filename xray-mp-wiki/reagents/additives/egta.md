@@ -1,5 +1,5 @@
 ---
-title: EGTA (Ethylene Glycol Tetraacetic Acid)
+title: "EGTA (Ethylene Glycol Tetraacetic Acid)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##SJ.EMBOJ.7601135, doi/10.1038##nature11900, doi/10.1038##ncomms9004]
-verified: false
+verified: none
 ---
 
 # EGTA (Ethylene Glycol Tetraacetic Acid)

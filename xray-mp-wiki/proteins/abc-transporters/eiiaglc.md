@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12232]
-verified: regex
+verified: agent
 uniprot_id: ['P02916', 'P68183', 'P68187', 'P69783']
 ---
 
@@ -84,28 +84,28 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td>Cobalt-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td>Cobalt-affinity resin (Clontech)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + --</td>
-      <td>Ni2+-<a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a> for His-tagged EIIA^Glc</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + --</td>
+      <td>Ni2+-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a> for His-tagged EIIA^Glc</td>
     </tr>
     <tr>
       <td>Tag removal</td>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a> cleavage</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + --</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + --</td>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a> removes N-terminal 10x-His tag</td>
     </tr>
     <tr>
       <td>Ion-exchange chromatography</td>
       <td>Ion-exchange chromatography</td>
       <td>Source 15Q (GE Healthcare)</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl + --</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl + --</td>
       <td>FPLC purification</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> (SEC)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) (SEC)</td>
       <td>Superdex 75 (GE Healthcare)</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl + --</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl + --</td>
       <td>Final polishing step</td>
     </tr>
   </tbody>
@@ -750,5 +750,5 @@ The N-terminal 18 residues are disordered in the crystal structure. Studies of s
 - <a href="/xray-mp-wiki/concepts/miscellaneous/inducer-exclusion/">Inducer Exclusion</a> — Mechanism by which EIIA^Glc inhibits sugar transporters
 - <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used in MalFGK2 purification for complex formation
 - <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC (1,2-Dimyristoyl-sn-glycero-3-phosphocholine)</a> — Lipid component of bicelles used for complex crystallization
-- <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">Immobilized Metal Affinity Chromatography (IMAC)</a> — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Immobilized Metal Affinity Chromatography (IMAC)</a> — Purification method used in protein preparation
 - <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography (SEC)</a> — Purification method used in protein preparation

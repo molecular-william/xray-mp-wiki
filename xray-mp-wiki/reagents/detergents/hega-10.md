@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1016##j.molcel.2020.12.048, doi/10.1038##NATURE09746]
-verified: false
+verified: none
 ---
 
 # Decanoyl-N-Hydroxyethylglucamide (HEGA-10)

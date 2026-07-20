@@ -1,13 +1,13 @@
 ---
-title: Lipid-Mediated Gating of Kir Potassium Channels
+title: "Lipid-Mediated Gating of Kir Potassium Channels"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-functional, concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-022-28148-4]
-verified: false
+verified: regex
 ---
 
 # Lipid-Mediated Gating of Kir Potassium Channels

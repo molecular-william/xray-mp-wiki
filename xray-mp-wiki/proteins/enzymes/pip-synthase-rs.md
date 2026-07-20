@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1038##ncomms9505]
-verified: regex
+verified: agent
 uniprot_id: A9WSF5
 ---
 
@@ -77,7 +77,7 @@ Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of [Phosp
       <td>Ni²⁺ <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
       <td></td>
-      <td>His-tagged chimeric protein purified by Ni-NTA</td>
+      <td>His-tagged chimeric protein purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
     </tr>
     <tr>
       <td>2. Size-exclusion chromatography</td>

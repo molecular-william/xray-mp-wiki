@@ -1,13 +1,13 @@
 ---
-title: GT-A Fold (Glycosyltransferase A Fold)
+title: "GT-A Fold (Glycosyltransferase A Fold)"
 created: 2026-06-11
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature11744]
-verified: false
+verified: regex
 ---
 
 # GT-A Fold (Glycosyltransferase A Fold)

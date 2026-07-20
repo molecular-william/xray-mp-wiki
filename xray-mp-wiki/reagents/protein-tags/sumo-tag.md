@@ -1,5 +1,5 @@
 ---
-title: SUMO Tag (Small Ubiquitin-like Modifier)
+title: "SUMO Tag (Small Ubiquitin-like Modifier)"
 created: 2020-08-17
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.7554##eLife.60724, doi/10.1038##nature08558]
-verified: false
+verified: none
 ---
 
 # SUMO Tag (Small Ubiquitin-like Modifier)
@@ -58,4 +58,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [TEV Protease](/xray-mp-wiki/reagents/enzymes/tevp-protease/) — Alternative protease for cleaving protein tags from fusion constructs
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tevp-protease/) — Alternative protease for cleaving protein tags from fusion constructs

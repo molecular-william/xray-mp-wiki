@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41589-018-0170-9]
-verified: regex
+verified: agent
 uniprot_id: P21731
 ---
 
@@ -39,14 +39,14 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6iiu">6IIU</a></td>
-      <td>2.5 A</td>
+      <td>2.5</td>
       <td>P 1 2 1</td>
       <td>TPα with bRIL fused at N terminus and rubredoxin fused in ICL3; C-terminal truncation (S324-Q343); L247(6.37) mutation; expressed in Sf9 insect cells via baculovirus</td>
       <td>Ramatroban</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6iiv">6IIV</a></td>
-      <td>3.0 A</td>
+      <td>3.0</td>
       <td>P 1 2 1</td>
       <td>TPα with bRIL fused at N terminus and rubredoxin fused in ICL3; C-terminal truncation (S324-Q343); L247(6.37) mutation; expressed in Sf9 insect cells via baculovirus</td>
       <td>Daltroban</td>
@@ -81,21 +81,21 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
       <td>Solubilization</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> solubilization</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 150 mM NaCl, 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 150 mM NaCl, 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Incubated 3 h at 4°C with 100 uM ramatroban or daltroban</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
-      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 30 mM imidazole</td>
+      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM imidazole</td>
       <td>Washed with 30 column volumes; eluted with 200-300 mM imidazole</td>
     </tr>
     <tr>
       <td>Final purification</td>
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
-      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Peak fractions pooled and concentrated</td>
     </tr>
   </tbody>

@@ -1,13 +1,13 @@
 ---
-title: POT Family (Proton-Dependent Oligopeptide Transporters)
+title: "POT Family (Proton-Dependent Oligopeptide Transporters)"
 created: 2026-05-28
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##EMBOJ.2010.309, doi/10.1016##j.str.2014.06.008, doi/10.1016##j.str.2014.12.012, doi/10.1016##j.str.2018.01.005, doi/10.1038##embor.2013.107, doi/10.1073##pnas.1710727114]
-verified: false
+verified: none
 ---
 
 # POT Family (Proton-Dependent Oligopeptide Transporters)

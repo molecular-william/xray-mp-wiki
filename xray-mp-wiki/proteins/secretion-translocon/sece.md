@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.celrep.2015.10.025]
-verified: regex
+verified: agent
 uniprot_id: ['P38383', 'Q5SHE6', 'Q5SHQ8']
 ---
 
@@ -42,14 +42,14 @@ SecE is an essential accessory subunit of the bacterial Sec translocon that stab
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5aww">5AWW</a></td>
-      <td>2.7 A</td>
+      <td>2.7</td>
       <td>I222</td>
       <td>Thermus thermophilus SecE; part of full-length SecYEG heterotrimer; expressed in E. coli BL21(DE3)</td>
       <td>None</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ch4">5CH4</a></td>
-      <td>3.6 A</td>
+      <td>3.6</td>
       <td>C222_1</td>
       <td>Thermus thermophilus SecE; part of SecYEG heterotrimer in peptide-bound state; expressed in E. coli BL21(DE3)</td>
       <td>N-terminal MFARL segment contacts SecY lateral gate in peptide-bound state</td>
@@ -84,29 +84,29 @@ SecE is an essential accessory subunit of the bacterial Sec translocon that stab
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> + 2% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> + 2% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
       <td>1 hr at 4 C; ultracentrifugation at 138,000 x g for 30 min</td>
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
-      <td>Affinity chromatography (His-tag on <a href="/xray-mp-wiki/proteins/secy">SECY</a>)</td>
-      <td>Ni-NTA agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (His-tag on <a href="/xray-mp-wiki/proteins/secy">SECY</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Co-purification of SecE with His-tagged <a href="/xray-mp-wiki/proteins/secy">SECY</a>; equilibration with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; wash with 40 mM imidazole; elution with 300 mM imidazole</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200 10/300 GL column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>SecE co-elutes with <a href="/xray-mp-wiki/proteins/secy">SECY</a> and <a href="/xray-mp-wiki/proteins/secg">SECG</a> as a stable heterotrimeric complex</td>
     </tr>
     <tr>
       <td>Ion-exchange chromatography</td>
       <td>Ion-exchange chromatography</td>
       <td>HiTrap SP HP column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.25% n-decyl-beta-D-maltoside (DM), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.25% DM</td>
-      <td><a href="/xray-mp-wiki/proteins/secyeg">SECYEG</a> heterotrimer eluted with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.25% DM, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.25% n-decyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td><a href="/xray-mp-wiki/proteins/secyeg">SECYEG</a> heterotrimer eluted with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>)</td>
     </tr>
   </tbody>
 </table>
@@ -772,7 +772,7 @@ In the peptide-bound state structure (PDB 5CH4), the N-terminal MFARL segment of
 - <a href="/xray-mp-wiki/proteins/secretion-translocon/secyeg/">Thermus thermophilus SecYEG Translocon Complex</a> — SecE is the essential accessory subunit of the SecYEG heterotrimer
 - <a href="/xray-mp-wiki/proteins/secretion-translocon/secy/">Thermus thermophilus SecY Core Channel Subunit</a> — SecE stabilizes the SecY channel in the membrane
 - <a href="/xray-mp-wiki/proteins/secretion-translocon/secg/">Thermus thermophilus SecG Accessory Subunit</a> — SecE and SecG both serve as accessory subunits of the SecYEG translocon
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> — Main buffer component in purification
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> — Main buffer component in purification
 - <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> — Cryoprotectant and buffer additive
 - <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> — Detergent used in solubilization and purification

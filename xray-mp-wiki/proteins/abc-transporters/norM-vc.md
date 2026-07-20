@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature09408]
-verified: regex
+verified: agent
 uniprot_id: Q9R381
 ---
 
@@ -41,7 +41,7 @@ NorM-VC is a multidrug and toxic compound extrusion (MATE) family transporter fr
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2vbq">2VBQ</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3mkt">3MKT</a></td>
       <td>3.65</td>
       <td>P 212121</td>
       <td>Full-length NorM from Vibrio cholerae (V. cholerae), residues 1-458</td>

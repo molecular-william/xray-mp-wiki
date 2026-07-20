@@ -1,5 +1,5 @@
 ---
-title: Sucrose
+title: "Sucrose"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##cr.2014.144, doi/10.1038##nature06925]
-verified: false
+verified: agent
 ---
 
 # Sucrose

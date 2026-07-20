@@ -1,5 +1,5 @@
 ---
-title: PIPES (Piperazine-1,4-Bis(2-Ethanesulfonic Acid))
+title: "PIPES (Piperazine-1,4-Bis(2-Ethanesulfonic Acid))"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-pipes, subdirectory-buffers]
 sources: [doi/10.1038##nature13453]
-verified: false
+verified: regex
 ---
 
 # PIPES (Piperazine-1,4-Bis(2-Ethanesulfonic Acid))

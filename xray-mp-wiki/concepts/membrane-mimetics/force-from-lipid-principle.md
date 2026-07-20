@@ -1,13 +1,13 @@
 ---
-title: Force-from-Lipid Principle in Mechanosensation
+title: "Force-from-Lipid Principle in Mechanosensation"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-membrane-mimetics]
 sources: [doi/10.1038##nsmb.3120]
-verified: false
+verified: regex
 ---
 
 # Force-from-Lipid Principle in Mechanosensation

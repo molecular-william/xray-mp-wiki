@@ -1,5 +1,5 @@
 ---
-title: Squalene
+title: "Squalene"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1006##jmbi.1999.3027]
-verified: false
+verified: agent
 ---
 
 # Squalene

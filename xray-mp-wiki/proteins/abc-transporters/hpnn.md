@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1073##pnas.1619660114]
-verified: regex
+verified: agent
 ---
 
 # HpnN Hopanoid Transporter from Burkholderia multivorans

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1002##pro.215]
-verified: regex
+verified: agent
 uniprot_id: Q87M69
 ---
 
@@ -67,10 +67,10 @@ ZntB is a distant homolog of the [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/
   <tbody>
     <tr>
       <td>Affinity purification</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>Not specified in detail + --</td>
-      <td>His6-tagged Vp-ZntB cytoplasmic domain purified by Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a>. The tag was removed by TEV protease cleavage.</td>
+      <td>His6-tagged Vp-ZntB cytoplasmic domain purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a>. The tag was removed by <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage.</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>

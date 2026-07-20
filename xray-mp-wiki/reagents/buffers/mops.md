@@ -1,5 +1,5 @@
 ---
-title: MOPS (3-(N-Morpholino)propanesulfonic Acid)
+title: "MOPS (3-(N-Morpholino)propanesulfonic Acid)"
 created: 2026-06-08
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-mops, subdirectory-buffers]
 sources: [doi/10.1016##j.jmb.2012.05.026, doi/10.1016##j.jmb.2013.04.022, doi/10.1016##j.str.2014.06.008, doi/10.1038##SJ.EMBOJ.7600585, doi/10.1038##nature11542, doi/10.1038##nature11900, doi/10.1073##pnas.1009864107, doi/10.7554##eLife.18767, doi/10.7554##eLife.28032]
-verified: false
+verified: none
 ---
 
 # MOPS (3-(N-Morpholino)propanesulfonic Acid)

@@ -1,5 +1,5 @@
 ---
-title: 2-Methylthio-ADP (2MeSADP)
+title: "2-Methylthio-ADP (2MeSADP)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature13083, doi/10.1038##nature13288]
-verified: false
+verified: agent
 ---
 
 # 2-Methylthio-ADP (2MeSADP)

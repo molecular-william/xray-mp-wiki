@@ -1,5 +1,5 @@
 ---
-title: CBFS (8-(chloromercuri)-2-dibenzofuransulfonic acid)
+title: "CBFS (8-(chloromercuri)-2-dibenzofuransulfonic acid)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1016##j.str.2012.08.009]
-verified: false
+verified: regex
 ---
 
 # CBFS (8-(chloromercuri)-2-dibenzofuransulfonic acid)

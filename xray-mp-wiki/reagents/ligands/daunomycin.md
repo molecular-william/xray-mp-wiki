@@ -1,5 +1,5 @@
 ---
-title: Daunomycin
+title: "Daunomycin"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nsmb.2267]
-verified: false
+verified: agent
 ---
 
 # Daunomycin

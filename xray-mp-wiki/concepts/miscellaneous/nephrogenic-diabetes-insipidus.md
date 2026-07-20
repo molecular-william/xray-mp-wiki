@@ -1,13 +1,13 @@
 ---
-title: Nephrogenic Diabetes Insipidus
+title: "Nephrogenic Diabetes Insipidus"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-miscellaneous]
 sources: [doi/10.1038##s41598-023-41616-1]
-verified: false
+verified: regex
 ---
 
 # Nephrogenic Diabetes Insipidus

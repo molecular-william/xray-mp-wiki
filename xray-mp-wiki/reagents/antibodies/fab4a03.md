@@ -1,5 +1,5 @@
 ---
-title: Fab4A03 Antibody Fragment
+title: "Fab4A03 Antibody Fragment"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-antibody, subdirectory-antibodies]
 sources: [doi/10.1038##s41594-018-0079-8]
-verified: false
+verified: regex
 ---
 
 # Fab4A03 Antibody Fragment

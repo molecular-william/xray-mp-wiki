@@ -1,13 +1,13 @@
 ---
-title: GPCR-G Protein Coupling Mechanism
+title: "GPCR-G Protein Coupling Mechanism"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1073##pnas.1903024116, doi/10.1038##s41594-022-00796-6, doi/10.1038##nature10361]
-verified: false
+verified: regex
 ---
 
 # GPCR-G Protein Coupling Mechanism

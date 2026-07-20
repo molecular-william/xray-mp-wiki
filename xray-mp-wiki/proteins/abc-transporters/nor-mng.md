@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11403, doi/10.1038##ncomms8995, doi/10.1073##pnas.1219901110]
-verified: regex
+verified: agent
 uniprot_id: ['E8SM44', 'M1E1G6', 'Q5F9J8']
 ---
 
@@ -41,7 +41,7 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3p3m">3P3M</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4doj">4DOJ</a></td>
       <td>3.0</td>
       <td>P 212121</td>
       <td>NorM-NG wild type, residues 5-459</td>
@@ -117,8 +117,8 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
-      <td>Ni-NTA resin; eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin; eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>-NaOH pH 7.5, 100 mM NaCl, 25% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td></td>
     </tr>
@@ -131,8 +131,8 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200 SEC</td>
-      <td>Superdex 200</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>-NaOH pH 7.5, 100 mM NaCl, 15% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td></td>
     </tr>
@@ -446,21 +446,21 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
       <td>Ethidium</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4hul">4HUL</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4huk">4HUK</a></td>
       <td>3.65</td>
       <td>--</td>
       <td>NorM-NG with C-terminal hexahistidine tag; monobody complex</td>
       <td>Rhodamine 6G (R6G)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4hum">4HUM</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4huk">4HUK</a></td>
       <td>3.55</td>
       <td>--</td>
       <td>NorM-NG with C-terminal hexahistidine tag; monobody complex</td>
       <td>Tetraphenylphosphonium (TPP)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4hun">4HUN</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4huk">4HUK</a></td>
       <td>3.9</td>
       <td>--</td>
       <td>NorM-NG with C-terminal hexahistidine tag; monobody complex</td>
@@ -501,8 +501,8 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
     <tr>
       <td>Membrane extraction and purification</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td></td>
     </tr>
@@ -515,8 +515,8 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200</td>
-      <td>Superdex 200</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>-NaOH pH 7.5, 100 mM NaCl, 15% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td></td>
     </tr>

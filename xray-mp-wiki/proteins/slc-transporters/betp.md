@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NATURE07819, doi/10.1038##nature11403, doi/10.1038##EMBOJ.2013.226]
-verified: regex
+verified: agent
 uniprot_id: P54582
 ---
 
@@ -171,10 +171,10 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td>Not specified</td>
       <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> for final polishing of BetP sample</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) for final polishing of BetP sample</td>
     </tr>
   </tbody>
 </table>
@@ -979,7 +979,7 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
       <td>Detergent exchange and thorough washing</td>
       <td>StrepTactin <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> with Cymal-5 exchange</td>
       <td>StrepTactin</td>
-      <td>100 mM 3Na-Citrate pH 5.4-5.5, 300 mM NaCl, 20-21% PEG400 + 1.2% Cymal-5 (detergent exchanged from DDM)</td>
+      <td>100 mM 3Na-Citrate pH 5.4-5.5, 300 mM NaCl, 20-21% PEG400 + 1.2% Cymal-5 (detergent exchanged from <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Washing steps removed unspecifically bound lipids. TLC analysis confirmed presence of PG lipids (not PE) in the purified BetP sample.</td>
     </tr>
     <tr>

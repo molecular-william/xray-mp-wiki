@@ -1,5 +1,5 @@
 ---
-title: Isothermal Titration Calorimetry (ITC)
+title: "Isothermal Titration Calorimetry (ITC)"
 created: 2026-05-27
 updated: 2026-05-27
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1073##pnas.2009624117, doi/10.1073##pnas.2006997117, doi/10.1073##pnas.1901888116, doi/10.1073##pnas.1901822116, doi/10.1073##pnas.1901346116, doi/10.1016##j.immuni.2020.02.004]
-verified: false
+verified: regex
 ---
 
 # Isothermal Titration Calorimetry (ITC)

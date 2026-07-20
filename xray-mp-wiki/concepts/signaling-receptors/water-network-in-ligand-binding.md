@@ -1,5 +1,5 @@
 ---
-title: Water Networks in GPCR Ligand Binding
+title: "Water Networks in GPCR Ligand Binding"
 created: 2026-05-29
 updated: 2026-06-10
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1016##j.jmb.2007.04.082, doi/10.1186##s12915-021-01102-4, doi/10.1021##acs.jmedchem.7b01722, doi/10.1126##science.1219218]
-verified: false
+verified: regex
 ---
 
 # Water Networks in GPCR Ligand Binding

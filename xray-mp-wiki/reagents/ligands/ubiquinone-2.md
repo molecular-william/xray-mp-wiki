@@ -1,5 +1,5 @@
 ---
-title: Ubiquinone-2
+title: "Ubiquinone-2"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1107##s2059798322004144, doi/10.1126##science.276.5313.812]
-verified: false
+verified: regex
 ---
 
 # Ubiquinone-2

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature14656]
-verified: pdb-check
+verified: agent
 uniprot_id: P08100
 ---
 
@@ -90,28 +90,28 @@ Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/signaling-re
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Two hours at 4 C with <a href="/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/">protease inhibitor cocktail</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/amylose/">Amylose</a> bead affinity</td>
       <td><a href="/xray-mp-wiki/reagents/additives/amylose/">Amylose</a> beads (New England Biolabs)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/mng-3/">MNG-3</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.005% <a href="/xray-mp-wiki/reagents/detergents/mng-3/">MNG-3</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/mng-3/">MNG-3</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.005% <a href="/xray-mp-wiki/reagents/detergents/mng-3/">MNG-3</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Overnight at 4 C; eluted with 10 mM <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a></td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
       <td><a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">3C protease</a> cleavage</td>
       <td>--</td>
-      <td>Washing buffer + 0.005% <a href="/xray-mp-wiki/reagents/detergents/mng-3/">MNG-3</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Washing buffer + 0.005% <a href="/xray-mp-wiki/reagents/detergents/mng-3/">MNG-3</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Overnight at 4 C</td>
     </tr>
     <tr>
       <td>Tag removal</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> beads (Qiagen)</td>
-      <td>Washing buffer + 0.005% <a href="/xray-mp-wiki/reagents/detergents/mng-3/">MNG-3</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) beads (Qiagen)</td>
+      <td>Washing buffer + 0.005% <a href="/xray-mp-wiki/reagents/detergents/mng-3/">MNG-3</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>3 hours at 4 C to remove <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His8</a>-MBP tag</td>
     </tr>
   </tbody>

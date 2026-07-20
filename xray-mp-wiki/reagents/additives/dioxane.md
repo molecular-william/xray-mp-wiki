@@ -1,5 +1,5 @@
 ---
-title: Dioxane
+title: "Dioxane"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2013.04.022]
-verified: false
+verified: agent
 ---
 
 # Dioxane

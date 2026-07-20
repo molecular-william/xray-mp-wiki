@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NATURE13116]
-verified: regex
+verified: agent
 ---
 
 # Arabidopsis thaliana Nitrate Transporter NRT1.1 (CHL1/NPF6.3)

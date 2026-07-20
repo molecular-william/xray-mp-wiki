@@ -1,13 +1,13 @@
 ---
 title: "Human Endothelin ETB Receptor in Complex with IRL2500"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s42003-019-0482-7]
-verified: regex
+verified: agent
 uniprot_id: P24530
 ---
 
@@ -91,19 +91,19 @@ agonist, as demonstrated using a constitutively active ETB mutant (L192[3.43]Q).
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a>, 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a>, 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a></td>
       <td>Solubilized for 1 h at 4°C; supernatant clarified by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 180,000 g for 20 min</td>
     </tr>
     <tr>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (IMAC)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin (Clontech)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt affinity resin</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a>, 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (wash); 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (elution)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a>, 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (wash); 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (elution)</td>
       <td>Incubated with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin for 30 min; washed with 10 column volumes; eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>TEV protease cleavage and tag removal</td>
-      <td>TEV cleavage and dialysis</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> cleavage and dialysis</td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> treatment during dialysis; cleaved <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a>-<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His10</a> tag removed with Co2+-NTA resin</td>
@@ -112,7 +112,7 @@ agonist, as demonstrated using a constitutively active ETB mutant (L192[3.43]Q).
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex200</a> 10/300 Increase column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a></td>
       <td>Peak fractions pooled and concentrated to 40 mg/ml using centrifugal filter device (Millipore 50 kDa MW cutoff); <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a> added to 100 μM final concentration during concentration</td>
     </tr>
   </tbody>

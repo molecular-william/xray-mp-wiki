@@ -1,5 +1,5 @@
 ---
-title: Native Mass Spectrometry
+title: "Native Mass Spectrometry"
 created: 2026-06-11
 updated: 2026-06-11
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1073##pnas.1901346116, doi/10.1126##scisignal.ado8741]
-verified: false
+verified: regex
 ---
 
 # Native Mass Spectrometry

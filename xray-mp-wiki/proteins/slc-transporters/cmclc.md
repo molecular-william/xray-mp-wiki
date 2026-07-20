@@ -6,8 +6,8 @@ type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1126##science.1194640, doi/10.1073##pnas.1205764109]
-verified: false
+sources: [doi/10.1073##pnas.1205764109]
+verified: agent
 ---
 
 # CmCLC Cl-/H+ Antiporter
@@ -21,7 +21,7 @@ CmCLC is a CLC Cl-/H+ antiporter from the red alga Cyanidioschyzon merolae. Unli
 
 ## Publications
 
-### doi/10.1126##science.1194640
+### doi/10.1073##pnas.1205764109
 
 **Structures:**
 
@@ -48,6 +48,27 @@ CmCLC is a CLC Cl-/H+ antiporter from the red alga Cyanidioschyzon merolae. Unli
 
 - **Expression system**: Hi5 insect cells (Trichoplusia ni.)
 - **Construct**: CmCLC wild-type and mutants expressed in Hi5 insect cells
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression</td>
+      <td>Baculovirus expression in Hi5 insect cells</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>CmCLC WT and mutants expressed in Hi5 (Trichoplusia ni.) insect cells and purified as previously described (Feng et al., 2010, Science)</td>
+    </tr>
+  </tbody>
+</table>
 
 **Crystallization:**
 
@@ -670,35 +691,12 @@ CmCLC is a CLC Cl-/H+ antiporter from the red alga Cyanidioschyzon merolae. Unli
 </div>
 </div>
 
+<div class="sequence-entry" markdown="1">
+**PDB  — Chain ? (? TMs, )**
+
 </div>
-### doi/10.1073##pnas.1205764109
 
-**Expression:**
-
-- **Expression system**: Hi5 insect cells (Trichoplusia ni.)
-- **Construct**: CmCLC wild-type and mutants expressed in Hi5 insect cells
-
-**Purification:**
-
-<table class="wiki-table">
-  <thead><tr>
-    <th>Step</th>
-    <th>Method</th>
-    <th>Resin / Column</th>
-    <th>Buffer + Detergent</th>
-    <th>Notes</th>
-  </tr></thead>
-  <tbody>
-    <tr>
-      <td>Protein expression</td>
-      <td>Baculovirus expression in Hi5 insect cells</td>
-      <td>--</td>
-      <td>-- + --</td>
-      <td>CmCLC WT and mutants expressed in Hi5 (Trichoplusia ni.) insect cells and purified as previously described (Feng et al., 2010, Science)</td>
-    </tr>
-  </tbody>
-</table>
-
+</div>
 
 ## Biological / Functional Insights
 

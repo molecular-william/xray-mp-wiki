@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1159262]
-verified: regex
+verified: agent
 ---
 
 # E. coli MscS Mechanosensitive Channel (A106V Open Form)

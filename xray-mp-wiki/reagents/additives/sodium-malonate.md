@@ -1,5 +1,5 @@
 ---
-title: Sodium Malonate
+title: "Sodium Malonate"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1016##j.str.2017.11.005]
-verified: false
+verified: agent
 ---
 
 # Sodium Malonate

@@ -1,5 +1,5 @@
 ---
-title: Nimodipine
+title: "Nimodipine"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature19102]
-verified: false
+verified: agent
 ---
 
 # Nimodipine

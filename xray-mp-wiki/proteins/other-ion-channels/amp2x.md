@@ -1,13 +1,13 @@
 ---
 title: "AmP2X — P2X Receptor from Amblyomma maculatum (Gulf Coast Tick)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
 sources: [doi/10.1016##j.celrep.2015.12.087]
-verified: regex
+verified: agent
 uniprot_id: G3MM57
 ---
 

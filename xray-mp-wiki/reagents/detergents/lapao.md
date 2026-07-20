@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [solubilization-detergent, subdirectory-detergents, detergent-zwitterionic]
 sources: [doi/10.1016##J.FEBSLET.2005.09.061]
-verified: false
+verified: none
 ---
 
 # LAPAO

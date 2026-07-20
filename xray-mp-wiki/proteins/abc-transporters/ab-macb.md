@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-017-01399-2]
-verified: regex
+verified: agent
 uniprot_id: A0A0D8G707
 ---
 
@@ -94,7 +94,7 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
       <td>Chelating Sepharose resin immobilized with Ni2+</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 100 mM NaCl, 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/udm/">UDM</a></td>
       <td>Eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> in wash buffer</td>

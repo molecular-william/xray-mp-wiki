@@ -1,5 +1,5 @@
 ---
-title: Spiro-Adamantyl Amine
+title: "Spiro-Adamantyl Amine"
 created: 2026-05-29
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##jacs.8b06741, doi/10.1021##acs.biochem.9b00971]
-verified: false
+verified: agent
 ---
 
 # Spiro-Adamantyl Amine

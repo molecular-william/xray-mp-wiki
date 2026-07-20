@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.2006027117, doi/10.1038##35015017, doi/10.1038##ncomms9004, doi/10.1073##pnas.0700979104, doi/10.1073##pnas.2014896117, doi/10.1126##science.1243352, doi/10.1038##nature02981]
-verified: false
+verified: regex
 ---
 
 # Large Domain Motion in P-type ATPases

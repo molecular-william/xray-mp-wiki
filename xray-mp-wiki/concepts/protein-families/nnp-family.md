@@ -1,13 +1,13 @@
 ---
-title: Nitrate/Nitrite Porter (NNP) Family
+title: "Nitrate/Nitrite Porter (NNP) Family"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-transport-mechanism, xray-crystallography]
+tags: [concept-protein-family, concept-transport-mechanism, xray-crystallography, subdirectory-protein-families]
 sources: [doi/10.1038##nature12139, doi/10.1016##j.celrep.2013.03.007]
-verified: false
+verified: regex
 ---
 
 # Nitrate/Nitrite Porter (NNP) Family

@@ -1,5 +1,5 @@
 ---
-title: Thapsigargin
+title: "Thapsigargin"
 created: 2026-05-29
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##35015017, doi/10.1038##SJ.EMBOJ.7601135, doi/10.1038##nature00944, doi/10.1038##nature11900]
-verified: false
+verified: none
 ---
 
 # Thapsigargin

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.3399]
-verified: regex
+verified: agent
 uniprot_id: ['Q9HVV6', 'Q9HXH4', 'Q9HXH5']
 ---
 
@@ -85,13 +85,13 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a>, pH 8.0, 150 mM NaCl, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Eluted from Ni-NTA agarose beads</td>
+      <td>Eluted from <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose beads</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 (GE Healthcare)</td>
       <td>20 mM Tris, pH 7.5, 150 mM NaCl + 0.06% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Used for ATPase activity assays; protein concentrations determined by Bradford assay</td>

@@ -1,13 +1,13 @@
 ---
-title: Dual-Topology Membrane Protein Architecture
+title: "Dual-Topology Membrane Protein Architecture"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design, membrane-protein]
+tags: [concept-construct-design, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.7554##eLife.18767]
-verified: false
+verified: none
 ---
 
 # Dual-Topology Membrane Protein Architecture

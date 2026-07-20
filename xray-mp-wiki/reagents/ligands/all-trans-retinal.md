@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1006##jmbi.1999.3027]
-verified: none
+verified: agent
 ---
 
 # All-trans Retinal

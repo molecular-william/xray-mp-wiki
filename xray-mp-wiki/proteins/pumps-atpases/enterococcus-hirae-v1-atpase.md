@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1073##pnas.1108810108, doi/10.1038##ncomms13235, doi/10.1038##nature11778]
-verified: regex
-uniprot_id: P43435
+verified: agent
+uniprot_id: ['P43435', 'P43455', 'Q08636', 'Q08637']
 ---
 
 # V1-ATPase from Enterococcus hirae (EhV1)
@@ -16,7 +16,7 @@ uniprot_id: P43435
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span> <span class="expr-badge expr-cell-free">Cell-free</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P43435">UniProt: P43435</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P43435">UniProt: P43435</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P43455">UniProt: P43455</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q08636">UniProt: Q08636</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q08637">UniProt: Q08637</a>
 
 <span class="expr-badge">Enterococcus hirae ATCC 9790</span>
 
@@ -192,10 +192,10 @@ uniprot_id: P43435
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td>20 mM  Hcl]] pH 8.0, 200 mM NaCl, 10 mM , 1 mM , 5 mM 2-mercaptoethanol</td>
-      <td>Peak fractions from Ni-NTA pooled</td>
+      <td>Peak fractions from <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> pooled</td>
     </tr>
   </tbody>
 </table>

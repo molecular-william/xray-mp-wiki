@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, potassium-channel]
 sources: [doi/10.1126##science.1180310, doi/10.1038##nature10370, doi/10.1085##jgp.201611616]
-verified: regex
+verified: agent
 uniprot_id: F1NHE9
 ---
 
@@ -596,21 +596,21 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
       <td>1. <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>1D4 antibody <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
-      <td>n-decyl-beta-D-maltopyranoside (DM) buffer</td>
+      <td>n-decyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>) buffer</td>
       <td>Protein expressed in Pichia pastoris with C-terminal GFP and 1D4 epitope</td>
     </tr>
     <tr>
       <td>2. Protease cleavage</td>
       <td><a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> cleavage</td>
       <td>—</td>
-      <td>DM-containing buffer</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>-containing buffer</td>
       <td>Cleavage to remove GFP and affinity tags</td>
     </tr>
     <tr>
       <td>3. Size-exclusion chromatography</td>
       <td>Gel filtration (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
       <td>—</td>
-      <td>DM-containing buffer</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>-containing buffer</td>
       <td>Purified protein concentrated to 9 mg/mL for crystallization</td>
     </tr>
   </tbody>
@@ -2770,7 +2770,7 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
       <td>3. Size-exclusion chromatography</td>
       <td>Gel filtration</td>
       <td>—</td>
-      <td>150 mM KCl, 20 mM Tris-HCl pH 8.0, 4 mM DM, 20 mM DTT, 3 mM TCEP</td>
+      <td>150 mM KCl, 20 mM Tris-HCl pH 8.0, 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 20 mM DTT, 3 mM TCEP</td>
       <td></td>
     </tr>
   </tbody>

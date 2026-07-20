@@ -1,13 +1,13 @@
 ---
-title: Tetraspanin Family
+title: "Tetraspanin Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1016##j.cell.2016.09.056, doi/10.15252##embj.2020105246]
-verified: false
+verified: regex
 ---
 
 # Tetraspanin Family

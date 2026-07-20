@@ -1,13 +1,13 @@
 ---
-title: Conformational Coupling Between Activation Gate and Selectivity Filter
+title: "Conformational Coupling Between Activation Gate and Selectivity Filter"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature09136]
-verified: false
+verified: regex
 ---
 
 # Conformational Coupling Between Activation Gate and Selectivity Filter

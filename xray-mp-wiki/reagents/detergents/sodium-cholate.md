@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-ionic, subdirectory-detergents]
 sources: [doi/10.1038##nature20613]
-verified: false
+verified: agent
 ---
 
 # Sodium Cholate

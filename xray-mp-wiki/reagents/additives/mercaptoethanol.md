@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-reductant, subdirectory-additives]
 sources: [doi/10.1038##s41467-023-40911-9]
-verified: none
+verified: regex
 ---
 
 # beta-Mercaptoethanol

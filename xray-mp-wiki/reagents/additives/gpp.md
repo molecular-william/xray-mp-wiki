@@ -1,5 +1,5 @@
 ---
-title: Geranyl Diphosphate (GPP)
+title: "Geranyl Diphosphate (GPP)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, ligand, subdirectory-additives]
 sources: [doi/10.1371##journal.pbio.1001911]
-verified: false
+verified: agent
 ---
 
 # Geranyl Diphosphate (GPP)

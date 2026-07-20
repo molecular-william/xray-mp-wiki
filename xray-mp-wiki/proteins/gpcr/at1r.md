@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1074##jbc.M115.689000, doi/10.1016##j.cell.2015.04.011, doi/10.1016##j.cell.2018.12.006, doi/10.1126##science.aay9813]
-verified: regex
+verified: agent
 uniprot_id: P30556
 ---
 
@@ -90,29 +90,29 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td></td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-AT1R in complex with <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a> solubilized from membranes; buffer contained 20 uM <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a> capture; buffer contained <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a> 100 uM; wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Tag cleavage and deglycosylation</td>
       <td>Protease and glycosidase treatment</td>
       <td></td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Overnight treatment with <a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> and PNGase F to cleave N-terminal tags and glycosylation sites</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Overnight treatment with <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His-tag</a>ged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> and PNGase F to cleave N-terminal tags and glycosylation sites</td>
     </tr>
     <tr>
       <td>Concentration</td>
       <td>Centrifugal concentration</td>
       <td></td>
       <td></td>
-      <td>Concentrated to 30 mg/ml with <a href="/xray-mp-wiki/reagents/additives/vivaspin/">Vivaspin</a> 100 kDa cutoff concentrator; monodispersity tested by analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+      <td>Concentrated to 30 mg/ml with <a href="/xray-mp-wiki/reagents/additives/vivaspin/">Vivaspin</a> 100 kDa cutoff concentrator; monodispersity tested by analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>
@@ -375,14 +375,14 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td></td>
-      <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-AT1R in complex with <a href="/xray-mp-wiki/reagents/ligands/zd7155/">ZD7155</a> solubilized from membranes</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
-      <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a> capture</td>
     </tr>
     <tr>
@@ -397,14 +397,14 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
       <td>Protease cleavage</td>
       <td></td>
       <td></td>
-      <td>Overnight treatment with <a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> to cleave N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a>/His</td>
+      <td>Overnight treatment with <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His-tag</a>ged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> to cleave N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a>/His</td>
     </tr>
     <tr>
       <td>Tag removal</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized Metal Affinity Chromatography</a> flow-through</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
       <td></td>
-      <td>Cleaved <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a>/<a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His tag</a>s and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> removed by <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
+      <td>Cleaved <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a>/<a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His tag</a>s and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> removed by <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
     </tr>
   </tbody>
 </table>
@@ -684,29 +684,29 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.4, 500 mM NaCl, 10 mM MgCl2, benzonase, <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a>, leupeptin, 5 uM losartan + 0.5% MNG + 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.4, 500 mM NaCl, 10 mM MgCl2, benzonase, <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a>, leupeptin, 5 uM losartan + 0.5% MNG + 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate ([CHS</a>)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>2 h stirring at room temperature then 4 C</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> affinity</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/">M1 FLAG Affinity Resin</a></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 2 mM CaCl2 + 0.01% MNG + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 2 mM CaCl2 + 0.01% MNG + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate ([CHS</a>)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a>-tagged AT1R captured on <a href="/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/">M1 FLAG Affinity Resin</a></td>
     </tr>
     <tr>
       <td>Elution</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> peptide elution</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/">M1 FLAG Affinity Resin</a></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.2 mg/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide, 5 mM EDTA + 0.01% MNG + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.2 mg/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide, 5 mM EDTA + 0.01% MNG + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate ([CHS</a>)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>AT1R eluted with <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> peptide</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 100 mM NaCl, 0.01% MNG, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (HNM buffer) + 0.01% MNG + 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a></td>
-      <td>Monomeric <a href="/xray-mp-wiki/proteins/gpcr/at1r/">Angiotensin II Type 1 Receptor</a> isolated; for crystallography, treated with EndoH for 90 min prior to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 100 mM NaCl, 0.01% MNG, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (HNM buffer) + 0.01% MNG + 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate ([CHS</a>)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Monomeric <a href="/xray-mp-wiki/proteins/gpcr/at1r/">Angiotensin II Type 1 Receptor</a> isolated; for crystallography, treated with EndoH for 90 min prior to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>
@@ -1106,14 +1106,14 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
       <td>Angiotensin II (AngII)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6os1">6OS1</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6os0">6OS0</a></td>
       <td>2.9</td>
       <td></td>
       <td>AT1R-AT110i1 nanobody complex</td>
       <td>TRV023</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6os2">6OS2</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6os0">6OS0</a></td>
       <td>2.9</td>
       <td></td>
       <td>AT1R-AT110i1 nanobody complex</td>

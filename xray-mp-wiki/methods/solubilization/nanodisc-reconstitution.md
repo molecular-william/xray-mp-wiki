@@ -1,5 +1,5 @@
 ---
-title: Nanodisc Reconstitution
+title: "Nanodisc Reconstitution"
 created: 2026-06-03
 updated: 2026-06-03
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [solubilization-nanodisc, subdirectory-solubilization]
 sources: [doi/10.1038##nature12232]
-verified: false
+verified: regex
 ---
 
 # Nanodisc Reconstitution

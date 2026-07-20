@@ -1,5 +1,5 @@
 ---
-title: Tricine Buffer
+title: "Tricine Buffer"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-tricine, subdirectory-buffers]
 sources: [doi/10.1021##bi049938l]
-verified: false
+verified: regex
 ---
 
 # Tricine Buffer

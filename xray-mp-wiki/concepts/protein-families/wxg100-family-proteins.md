@@ -1,13 +1,13 @@
 ---
-title: WxG100 Family Proteins
+title: "WxG100 Family Proteins"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1016##j.jsb.2015.06.003]
-verified: false
+verified: regex
 ---
 
 # WxG100 Family Proteins

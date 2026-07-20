@@ -1,13 +1,13 @@
 ---
-title: NTQ Motif in Chloride Pumping Rhodopsins
+title: "NTQ Motif in Chloride Pumping Rhodopsins"
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##NCOMMS12677, doi/10.1126##science.abj6663]
-verified: false
+verified: none
 ---
 
 # NTQ Motif in Chloride Pumping Rhodopsins

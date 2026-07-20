@@ -1,5 +1,5 @@
 ---
-title: Tridecyl Maltoside (TDM)
+title: "Tridecyl Maltoside (TDM)"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1002##anie.201302374]
-verified: false
+verified: regex
 ---
 
 # Tridecyl Maltoside (TDM)

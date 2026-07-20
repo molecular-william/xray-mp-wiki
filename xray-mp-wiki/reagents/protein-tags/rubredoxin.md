@@ -1,5 +1,5 @@
 ---
-title: Rubredoxin Fusion Protein
+title: "Rubredoxin Fusion Protein"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##nature14287, doi/10.1016##j.str.2012.04.019]
-verified: false
+verified: none
 ---
 
 # Rubredoxin Fusion Protein

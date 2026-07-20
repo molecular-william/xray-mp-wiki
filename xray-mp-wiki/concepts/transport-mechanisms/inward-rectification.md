@@ -1,13 +1,13 @@
 ---
-title: Inward Rectification in Potassium Channels
+title: "Inward Rectification in Potassium Channels"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
-sources: [doi/10.1126##science.1180310, doi/10.1085##jgp.120.6.857, doi/10.1038##nrn727]
-verified: false
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
+sources: [doi/10.1126##science.1180310, doi/10.1038##nrn727]
+verified: none
 ---
 
 # Inward Rectification in Potassium Channels

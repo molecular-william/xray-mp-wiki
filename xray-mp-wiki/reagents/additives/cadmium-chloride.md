@@ -1,5 +1,5 @@
 ---
-title: Cadmium Chloride
+title: "Cadmium Chloride"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2021.167226, doi/10.1016##j.str.2012.03.027, doi/10.1038##35055589, doi/10.1038##NSMB.1933]
-verified: false
+verified: none
 ---
 
 # Cadmium Chloride

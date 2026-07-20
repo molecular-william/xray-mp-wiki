@@ -1,5 +1,5 @@
 ---
-title: Daltroban
+title: "Daltroban"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41589-018-0170-9]
-verified: false
+verified: agent
 ---
 
 # Daltroban

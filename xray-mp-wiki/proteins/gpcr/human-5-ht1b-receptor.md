@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1232807]
-verified: regex
+verified: agent
 uniprot_id: P28222
 ---
 
@@ -95,35 +95,35 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>--</td>
-      <td>50 mM HEPES pH 7.5, 200 mM NaCl, 20 mM imidazole + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 200 mM NaCl, 20 mM imidazole + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>4 °C, 1 h incubation; supernatant clarified at 160,000×g for 30 min</td>
     </tr>
     <tr>
       <td>Immobilized metal affinity chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
-      <td>Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 50 µM ligand, 20 mM imidazole, 10% glycerol, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 mM ATP, 10 mM MgCl₂; Wash II: 50 mM HEPES pH 7.5, 500 mM NaCl, 50 mM imidazole, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> / 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (Wash I); 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> / 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (Wash II)</td>
-      <td>Eluted with 250 mM imidazole in 50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 50 µM ligand, 20 mM imidazole, 10% glycerol, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 mM ATP, 10 mM MgCl₂; Wash II: 50 mM HEPES pH 7.5, 500 mM NaCl, 50 mM imidazole, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> / 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (Wash I); 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> / 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (Wash II)</td>
+      <td>Eluted with 250 mM imidazole in 50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
     </tr>
     <tr>
       <td>Buffer exchange</td>
       <td>PD MiniTrap G-25 desalting</td>
       <td>PD MiniTrap G-25 (GE Healthcare)</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Removes imidazole</td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
       <td>AcTEV protease treatment</td>
       <td>--</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Overnight at 4 °C; His-tagged AcTEV and cleaved fragment removed by second <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC incubation</td>
     </tr>
     <tr>
       <td>Concentration</td>
       <td>Centrifugal concentration</td>
       <td>--</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 50 µM ligand, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Concentrated to 50-80 mg/ml using 100 kDa MWCO Vivaspin; purity >95% by SDS-PAGE; single peak by aSEC</td>
     </tr>
   </tbody>

@@ -1,13 +1,13 @@
 ---
-title: CO2-Concentrating Mechanism (CCM)
+title: "CO2-Concentrating Mechanism (CCM)"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-miscellaneous]
 sources: [doi/10.1073##pnas.2101632118]
-verified: false
+verified: regex
 ---
 
 # CO2-Concentrating Mechanism (CCM)

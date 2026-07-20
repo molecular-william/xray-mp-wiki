@@ -1,5 +1,5 @@
 ---
-title: N,N'-Dicyclohexylcarbodiimide (DCCD)
+title: "N,N'-Dicyclohexylcarbodiimide (DCCD)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nsmb.3068]
-verified: false
+verified: regex
 ---
 
 # N,N'-Dicyclohexylcarbodiimide (DCCD)

@@ -1,5 +1,5 @@
 ---
-title: Maltose
+title: "Maltose"
 created: 2026-06-11
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##anie.201302374, doi/10.1016##j.str.2016.04.003, doi/10.1038##nature14656]
-verified: false
+verified: agent
 ---
 
 # Maltose

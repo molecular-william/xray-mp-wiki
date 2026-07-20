@@ -6,8 +6,8 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family, subdirectory-protein-families]
-sources: [doi/10.1007##s00441-016-2531-2, doi/10.1016##j.bbabio.2013.01.004]
-verified: none
+sources: []
+verified: regex
 ---
 
 # Complex III Assembly
@@ -28,5 +28,5 @@ Complex III assembly occurs through a modular, stepwise pathway involving dedica
 
 
 ## Cross-References
-- [BCS1 Folded Protein Translocation](/xray-mp-wiki/concepts/enzyme-mechanisms/bcs1-folded-protein-translocation/) — BCS1 AAA-ATPase mediates folded protein translocation for Rieske protein insertion into complex III
-- [Binding Change Mechanism](/xray-mp-wiki/concepts/miscellaneous/binding-change-mechanism/) — Complex III is functionally coupled to ATP synthase via the Q-cycle in the ETC
+- [BCS1 Folded Protein Translocation](/xray-mp-wiki/concepts/transport-mechanisms/bcs1-folded-protein-translocation/) — BCS1 AAA-ATPase mediates folded protein translocation for Rieske protein insertion into complex III
+- [Binding Change Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/binding-change-mechanism/) — Complex III is functionally coupled to ATP synthase via the Q-cycle in the ETC

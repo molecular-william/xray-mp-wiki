@@ -1,5 +1,5 @@
 ---
-title: Succinate Buffer
+title: "Succinate Buffer"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-acetate, subdirectory-buffers]
 sources: [doi/10.1073##pnas.1314356110]
-verified: false
+verified: regex
 ---
 
 # Succinate Buffer

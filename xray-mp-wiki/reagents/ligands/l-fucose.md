@@ -1,5 +1,5 @@
 ---
-title: L-Fucose
+title: "L-Fucose"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature09406]
-verified: false
+verified: agent
 ---
 
 # L-Fucose

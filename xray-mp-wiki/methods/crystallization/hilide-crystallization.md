@@ -1,5 +1,5 @@
 ---
-title: HiLiDe Crystallization
+title: "HiLiDe Crystallization"
 created: 2026-06-02
 updated: 2026-06-16
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [crystallization-vapor-diffusion, subdirectory-crystallization]
 sources: [doi/10.1038##NSMB.2721, doi/10.1038##NSMB.2894, doi/10.1038##ncomms4110, doi/10.7554##eLife.73124]
-verified: false
+verified: none
 ---
 
 # HiLiDe Crystallization

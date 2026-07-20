@@ -1,5 +1,5 @@
 ---
-title: Calcium Chloride (CaCl2)
+title: "Calcium Chloride (CaCl2)"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1126##science.280.5360.69]
-verified: false
+verified: regex
 ---
 
 # Calcium Chloride (CaCl2)

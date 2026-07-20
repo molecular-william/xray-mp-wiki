@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature19367, doi/10.7554##eLife.47060, doi/10.1073##pnas.1800907115]
-verified: regex
+verified: agent
 uniprot_id: P56373
 ---
 

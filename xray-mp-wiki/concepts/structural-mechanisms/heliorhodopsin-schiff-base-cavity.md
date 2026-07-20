@@ -1,13 +1,13 @@
 ---
-title: Heliorhodopsin Schiff Base Cavity
+title: "Heliorhodopsin Schiff Base Cavity"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, membrane-protein]
+tags: [concept-structural, concept-functional, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.1915888117]
-verified: false
+verified: regex
 ---
 
 # Heliorhodopsin Schiff Base Cavity

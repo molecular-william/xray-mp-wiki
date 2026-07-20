@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1038##nature25985]
-verified: none
+verified: regex
 ---
 
 # SEDS Protein Family

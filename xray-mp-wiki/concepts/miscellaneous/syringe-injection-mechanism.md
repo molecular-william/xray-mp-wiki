@@ -1,13 +1,13 @@
 ---
-title: Syringe-Like Injection Mechanism of Tc Toxins
+title: "Syringe-Like Injection Mechanism of Tc Toxins"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism]
+tags: [concept-transport-mechanism, subdirectory-miscellaneous]
 sources: [doi/10.1038##nature13015]
-verified: false
+verified: regex
 ---
 
 # Syringe-Like Injection Mechanism of Tc Toxins

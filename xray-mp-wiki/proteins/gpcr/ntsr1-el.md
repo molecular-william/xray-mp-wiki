@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##srep38564]
-verified: regex
+verified: agent
 uniprot_id: P20789
 ---
 
@@ -82,23 +82,23 @@ NTSR1-EL is a constitutively active mutant of the rat [Neurotensin](/xray-mp-wik
     </tr>
     <tr>
       <td>Solubilization</td>
-      <td><a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/CHS detergent</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> detergent</td>
       <td>—</td>
-      <td>50 mM TrisHCl pH 7.4, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 200 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 uM NTS(8-13) + 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM TrisHCl pH 7.4, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 200 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 uM NTS(8-13) + 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilized for 2 h at 4 C. NaCl adjusted to 200 mM. Final volume 280 mL. Clarified by centrifugation at 125,000 g for 1 h.</td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin (Co-NTA)</td>
       <td>—</td>
-      <td>50 mM TrisHCl pH 7.4, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 200 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 uM NTS(8-13), 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Batch incubation overnight. Washed with Talon-A+ and Talon-A2+ buffers. Eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in Talon-B+ buffer (0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 uM NTS(8-13)). Peak fractions collected (2.5 mL).</td>
+      <td>50 mM TrisHCl pH 7.4, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 200 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 uM NTS(8-13), 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Batch incubation overnight. Washed with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a>-A+ and Talon-A2+ buffers. Eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in Talon-B+ buffer (0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 uM NTS(8-13)). Peak fractions collected (2.5 mL).</td>
     </tr>
     <tr>
       <td>Desalting</td>
       <td>PD10 desalting column</td>
       <td>—</td>
-      <td>50 mM TrisHCl pH 7.4, 200 mM NaCl, 0.003% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.0003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.003% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.0003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM TrisHCl pH 7.4, 200 mM NaCl, 0.003% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.0003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.003% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.0003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Desalted into PD10 buffer. NTS(8-13) added to 20 uM after desalting. ~3.3 mg from 3 L culture.</td>
     </tr>
   </tbody>

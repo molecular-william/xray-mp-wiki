@@ -1,5 +1,5 @@
 ---
-title: Allosteric Regulation in Membrane Proteins
+title: "Allosteric Regulation in Membrane Proteins"
 created: 2026-05-27
 updated: 2026-06-03
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1073##pnas.1901822116, doi/10.1073##pnas.1901346116, doi/10.1038##s41586-018-0083-5, doi/10.1038##s41467-021-27726-2, doi/10.1016##j.cell.2020.01.008, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature12232, doi/10.1038##nature12735, doi/10.1038##nature20605, doi/10.1038##nature23652, doi/10.1073##pnas.2101632118, doi/10.1038##s41467-021-24151-3]
-verified: false
+verified: regex
 ---
 
 # Allosteric Regulation in Membrane Proteins

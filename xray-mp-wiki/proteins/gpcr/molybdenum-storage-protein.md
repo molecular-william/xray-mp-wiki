@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-017-00630-4]
-verified: regex
+verified: agent
 uniprot_id: P00698
 ---
 
@@ -85,7 +85,7 @@ Molybdenum storage protein (MOSTO) is a heterohexameric (αβ)₃ cage-like prot
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>Not specified</td>
       <td>50 mM MOPS, 50 mM NaCl pH 6.5</td>
       <td>Final polishing step. Prior to crystallization, 1 mM ATP, 1 mM MgSO₄, and 1 mM Na₂MoO₄ were added.</td>

@@ -1,5 +1,5 @@
 ---
-title: Gadolinium Chloride (GdCl3)
+title: "Gadolinium Chloride (GdCl3)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-metal, subdirectory-additives]
 sources: [doi/10.1038##nature08198]
-verified: false
+verified: regex
 ---
 
 # Gadolinium Chloride (GdCl3)

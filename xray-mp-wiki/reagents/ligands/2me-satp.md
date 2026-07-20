@@ -1,5 +1,5 @@
 ---
-title: 2-Methylthio-ATP (2MeSATP)
+title: "2-Methylthio-ATP (2MeSATP)"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature13288]
-verified: false
+verified: agent
 ---
 
 # 2-Methylthio-ATP (2MeSATP)

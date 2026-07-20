@@ -1,13 +1,13 @@
 ---
-title: Retinal Isomerization in Microbial Rhodopsins
+title: "Retinal Isomerization in Microbial Rhodopsins"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, concept-functional]
+tags: [concept-transport-mechanism, concept-functional, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1038##s41467-020-20596-0]
-verified: false
+verified: regex
 ---
 
 # Retinal Isomerization in Microbial Rhodopsins

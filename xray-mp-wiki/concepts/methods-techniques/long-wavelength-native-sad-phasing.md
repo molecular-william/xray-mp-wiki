@@ -1,13 +1,13 @@
 ---
-title: Long-Wavelength Native-SAD Phasing
+title: "Long-Wavelength Native-SAD Phasing"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, membrane-protein]
+tags: [concept-crystallography-principle, membrane-protein, subdirectory-methods-techniques]
 sources: [doi/10.1038##s42004-023-01014-0, doi/10.1107##s205225252200971x]
-verified: false
+verified: regex
 ---
 
 # Long-Wavelength Native-SAD Phasing

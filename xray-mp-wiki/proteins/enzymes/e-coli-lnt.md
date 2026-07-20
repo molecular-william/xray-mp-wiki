@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms15948, doi/10.1038##ncomms15952, doi/10.1126##sciadv.adf5799]
-verified: regex
+verified: agent
 uniprot_id: ['P23930', 'Q9ZI86']
 ---
 
@@ -92,7 +92,7 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta)</td>
       <td>Lysis buffer with 2% <a href="/xray-mp-wiki/reagents/detergents/dm">n-decyl-beta-D-maltopyranoside</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/dm">n-decyl-beta-D-maltopyranoside</a></td>
       <td>Tagged proteins in supernatant purified by Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
     </tr>
@@ -410,14 +410,14 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> affinity</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA agarose</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> agarose](/xray-mp-wiki/reagents/additives/nickel-nta)</td>
       <td>20 mM Tris-HCl pH 8.0, 300 mM NaCl, 20 mM imidazole, 0.5 mM EDTA, 0.3% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.3% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Protein eluted with 300 mM imidazole in same buffer</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td><a href="/xray-mp-wiki/reagents/resins/superdex-200">Superdex 200</a> 10/300 GL</td>
       <td>20 mM Tris-HCl pH 8.0, 50 mM NaCl, 0.5 mM EDTA, 0.3% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.3% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Peak fractions concentrated to 5-10 mg/ml for crystallization</td>

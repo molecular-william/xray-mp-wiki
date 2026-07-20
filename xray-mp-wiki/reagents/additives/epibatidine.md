@@ -1,5 +1,5 @@
 ---
-title: Epibatidine
+title: "Epibatidine"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature19785]
-verified: false
+verified: agent
 ---
 
 # Epibatidine

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.0604567103]
-verified: regex
+verified: agent
 uniprot_id: P55931
 ---
 
@@ -96,7 +96,7 @@ ETF-QO (Electron Transfer Flavoprotein- Oxidoreductase) is a 4Fe4S flavoprotein 
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>12% (vol/vol) tertiary butanol, 3.5%  400, 0.1 M CaCl2, 0.1 M  pH 7.5 (UQ-free); similar conditions with UQ for the complex</td>
+      <td>12% (vol/vol) tertiary butanol, 3.5%  400, 0.1 M CaCl2, 0.1 M pH 7.5 (UQ-free); similar conditions with UQ for the complex</td>
     </tr>
     <tr>
       <td>Temperature</td>

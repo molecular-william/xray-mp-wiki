@@ -1,13 +1,13 @@
 ---
-title: Membrane-Protein Crystals for Neutron Diffraction
+title: "Membrane-Protein Crystals for Neutron Diffraction"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, membrane-protein]
+tags: [concept-crystallography-principle, membrane-protein, subdirectory-membrane-mimetics]
 sources: [doi/10.1107##s2059798318012561]
-verified: false
+verified: regex
 ---
 
 # Membrane-Protein Crystals for Neutron Diffraction

@@ -1,13 +1,13 @@
 ---
-title: Nucleobase-Cation-Symport-1 (NCS1) Family
+title: "Nucleobase-Cation-Symport-1 (NCS1) Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1126##science.1164440]
-verified: false
+verified: regex
 ---
 
 # Nucleobase-Cation-Symport-1 (NCS1) Family

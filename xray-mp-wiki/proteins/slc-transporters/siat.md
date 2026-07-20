@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1038##s41467-018-04045-7]
-verified: regex
+verified: agent
 uniprot_id: B4EZY7
 ---
 
@@ -97,7 +97,7 @@ SiaT is a secondary active sialic acid transporter from the uropathogen Proteus 
     <tr>
       <td>4. <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>PBS, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; eluted with 250-300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in PBS, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Purified protein buffer exchanged into PBS, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>

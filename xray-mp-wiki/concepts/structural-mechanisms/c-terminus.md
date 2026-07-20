@@ -1,13 +1,13 @@
 ---
-title: C-Terminus (C-Terminal Domain)
+title: "C-Terminus (C-Terminal Domain)"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural]
-sources: [doi/10.1038##nrm.2017.70]
-verified: false
+tags: [concept-structural, subdirectory-structural-mechanisms]
+sources: []
+verified: regex
 ---
 
 # C-Terminus (C-Terminal Domain)

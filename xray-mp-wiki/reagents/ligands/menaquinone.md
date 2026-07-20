@@ -1,5 +1,5 @@
 ---
-title: Menaquinone
+title: "Menaquinone"
 created: 2026-05-18
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1006##jmbi.1994.0097, doi/10.1038##NSMB.1434]
-verified: false
+verified: none
 ---
 
 # Menaquinone

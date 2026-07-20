@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-020-16032-y, doi/10.1038##nature14322, doi/10.1126##sciadv.aav2671]
-verified: regex
+verified: agent
 uniprot_id: N0DKS8
 ---
 
@@ -2993,34 +2993,34 @@ KR2 (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping rhodop
       <td><a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">Ultracentrifugation</a></td>
       <td>--</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0), 300 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Cells disrupted and membrane fraction collected by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 125,000g for 1 h. Solubilization buffer also contained 0.1 mM PMSF and 0.3% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Cells disrupted and membrane fraction collected by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 125,000g for 1 h. Solubilization buffer also contained 0.1 mM PMSF and 0.3% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0), 300 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.3% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Protein solubilized with <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin, eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0), 300 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.3% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Protein solubilized with <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin, eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient</td>
     </tr>
     <tr>
       <td>Tag cleavage and dialysis</td>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease cleavage</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0), 150 mM NaCl + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>After <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>, fractions treated with <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease and dialyzed against buffer A overnight</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0), 150 mM NaCl + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>After <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/), fractions treated with <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease and dialyzed against buffer A overnight</td>
     </tr>
     <tr>
       <td>Second <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (negative purification)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> flow-through</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0), 150 mM NaCl + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Cleaved His8 tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease removed by passing through <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin, collecting flow-through</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) flow-through</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0), 150 mM NaCl + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Cleaved His8 tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease removed by passing through <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin, collecting flow-through</td>
     </tr>
     <tr>
       <td>Gel filtration</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>Gel filtration column</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 8.0) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Purified further by gel-filtration chromatography. Final protein concentrated to 20 mg/ml using 100 kDa MWCO centrifugal filter</td>
     </tr>
   </tbody>
@@ -3757,16 +3757,16 @@ KR2 (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping rhodop
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>50 mM NaH2PO4/Na2HPO4 (pH 7.5), 0.1 M NaCl, 0.5 M <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Supernatant loaded on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column, eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient</td>
+      <td>Supernatant loaded on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) column, eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> prep grade (125 ml, GE Healthcare)</td>
       <td>50 mM NaH2PO4/Na2HPO4 (pH 7.5), 0.1 M NaCl + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Eluate subjected to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>. Fractions with minimal A280/A525 ratio pooled and concentrated to 60 mg/ml for crystallization</td>
+      <td>Eluate subjected to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/). Fractions with minimal A280/A525 ratio pooled and concentrated to 60 mg/ml for crystallization</td>
     </tr>
   </tbody>
 </table>

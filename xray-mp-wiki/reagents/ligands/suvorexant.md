@@ -1,5 +1,5 @@
 ---
-title: Suvorexant
+title: "Suvorexant"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature14035, doi/10.1016##j.str.2017.11.005, doi/10.1016##j.str.2022.11.001]
-verified: false
+verified: agent
 ---
 
 # Suvorexant

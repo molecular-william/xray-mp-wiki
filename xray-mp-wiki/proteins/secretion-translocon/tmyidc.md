@@ -1,13 +1,13 @@
 ---
 title: "TmYidC (Thermotoga maritima YidC Insertase)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.bbamem.2021.183825, doi/10.1096##fj.201700893RR]
-verified: regex
+verified: agent
 uniprot_id: Q9X1H2
 ---
 
@@ -68,13 +68,13 @@ TmYidC is the YidC insertase/chaperone from the thermophilic bacterium Thermotog
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>n-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>TmYidC expressed in E. coli and purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
       <td></td>
       <td>Final polishing step. TmYidC exists as a monomer in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> solution.</td>

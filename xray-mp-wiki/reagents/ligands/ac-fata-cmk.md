@@ -1,5 +1,5 @@
 ---
-title: Ac-FATA-cmk (N-Acetyl-Phe-Ala-Thr-Ala-Chloromethylketone)
+title: "Ac-FATA-cmk (N-Acetyl-Phe-Ala-Thr-Ala-Chloromethylketone)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-alkylating-agent]
 sources: [doi/10.15252##embj.201489367]
-verified: false
+verified: agent
 ---
 
 # Ac-FATA-cmk (N-Acetyl-Phe-Ala-Thr-Ala-Chloromethylketone)

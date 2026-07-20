@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.2006027117, doi/10.15252##embj.2018100020]
-verified: regex
+verified: agent
 uniprot_id: ['P11607', 'P16615']
 ---
 

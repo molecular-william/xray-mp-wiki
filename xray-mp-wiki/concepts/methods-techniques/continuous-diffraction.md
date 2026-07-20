@@ -1,13 +1,13 @@
 ---
-title: Continuous Diffraction in Macromolecular Crystallography
+title: "Continuous Diffraction in Macromolecular Crystallography"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, xray-crystallography]
+tags: [concept-crystallography-principle, xray-crystallography, subdirectory-methods-techniques]
 sources: [doi/10.1038##nature16949]
-verified: false
+verified: regex
 ---
 
 # Continuous Diffraction in Macromolecular Crystallography

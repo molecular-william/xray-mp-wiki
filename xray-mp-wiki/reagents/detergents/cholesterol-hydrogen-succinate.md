@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-detergents]
 sources: [doi/10.1038##nature12167, doi/10.1038##nature14656, doi/10.1038##ncomms15383, doi/10.1038##nature13083, doi/10.1038##nature21714, doi/10.1038##ncomms7112, doi/10.1038##ncomms8097, doi/10.1038##ncomms8177, doi/10.1126##sciadv.abp9011]
-verified: false
+verified: regex
 ---
 
 # Cholesteryl Hemisuccinate (CHS)

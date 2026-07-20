@@ -1,5 +1,5 @@
 ---
-title: Risperidone
+title: "Risperidone"
 created: 2026-06-03
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature25758, doi/10.1038##s41594-018-0180-z]
-verified: false
+verified: agent
 ---
 
 # Risperidone

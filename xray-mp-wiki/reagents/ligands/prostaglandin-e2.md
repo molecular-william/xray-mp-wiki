@@ -1,5 +1,5 @@
 ---
-title: Prostaglandin E2 (PGE2, Dinoprostone)
+title: "Prostaglandin E2 (PGE2, Dinoprostone)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41589-018-0160-y, doi/10.1038##s41589-018-0171-8]
-verified: false
+verified: regex
 ---
 
 # Prostaglandin E2 (PGE2, Dinoprostone)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10881]
-verified: regex
+verified: agent
 uniprot_id: Q186B7
 ---
 
@@ -123,7 +123,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
       <td>Not specified in supplementary information</td>
       <td>—</td>
       <td></td>
-      <td>Purified protein analyzed by SEC for thermostability screening and by MALDI-TOF mass spectrometry</td>
+      <td>Purified protein analyzed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> for thermostability screening and by MALDI-TOF mass spectrometry</td>
     </tr>
   </tbody>
 </table>

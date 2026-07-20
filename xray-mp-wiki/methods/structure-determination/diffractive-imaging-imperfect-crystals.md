@@ -1,5 +1,5 @@
 ---
-title: Diffractive Imaging of Imperfect Crystals
+title: "Diffractive Imaging of Imperfect Crystals"
 created: 2026-06-03
 updated: 2026-06-03
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-xray, subdirectory-structure-determination]
 sources: [doi/10.1038##nature16949]
-verified: false
+verified: regex
 ---
 
 # Diffractive Imaging of Imperfect Crystals

@@ -1,13 +1,13 @@
 ---
-title: Rhodopsin Photocycle
+title: "Rhodopsin Photocycle"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1016##j.jmb.2011.04.038, doi/10.1016##s0969-2126(99)80118-x, doi/10.1016##j.jmb.2011.06.028, doi/10.1126##science.aat0094]
-verified: false
+verified: regex
 ---
 
 # Rhodopsin Photocycle

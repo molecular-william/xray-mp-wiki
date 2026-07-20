@@ -1,13 +1,13 @@
 ---
-title: Disulfide Bond Formation in Bacteria
+title: "Disulfide Bond Formation in Bacteria"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, subdirectory-concepts]
+tags: [concept-enzyme-mechanism, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1016##j.cell.2006.10.034]
-verified: false
+verified: regex
 ---
 
 # Disulfide Bond Formation in Bacteria

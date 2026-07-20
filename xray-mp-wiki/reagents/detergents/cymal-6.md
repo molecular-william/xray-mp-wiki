@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1016##j.str.2015.06.021, doi/10.1073##pnas.1612927114]
-verified: false
+verified: regex
 ---
 
 # Cymal-6 (6-Cyclohexyl-1-hexyl-beta-D-maltoside)

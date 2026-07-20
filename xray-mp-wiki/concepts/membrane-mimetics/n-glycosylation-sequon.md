@@ -1,13 +1,13 @@
 ---
-title: N-Glycosylation Sequon
+title: "N-Glycosylation Sequon"
 created: 2026-05-29
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
-sources: [doi/10.1021##acs.biochem.6b01089, doi/10.1073##pnas.1314195110, doi/10.1021##acs.biochem.2007.00471, doi/10.1093##emboj/cdl094, doi/10.1038##nature04467]
-verified: false
+tags: [concept-functional, subdirectory-membrane-mimetics]
+sources: [doi/10.1021##acs.biochem.6b01089, doi/10.1073##pnas.1314195110, doi/10.1038##nature04467]
+verified: none
 ---
 
 # N-Glycosylation Sequon

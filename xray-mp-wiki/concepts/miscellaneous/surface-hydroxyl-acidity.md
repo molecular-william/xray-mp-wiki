@@ -1,13 +1,13 @@
 ---
-title: Surface Hydroxyl Acidity
+title: "Surface Hydroxyl Acidity"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-miscellaneous]
 sources: [doi/10.1038##s41586-021-03432-3]
-verified: false
+verified: none
 ---
 
 # Surface Hydroxyl Acidity

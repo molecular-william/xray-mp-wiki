@@ -1,5 +1,5 @@
 ---
-title: Ribosome Display
+title: "Ribosome Display"
 created: 2026-06-10
 updated: 2026-06-10
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [expression-system, subdirectory-expression-systems]
 sources: [doi/10.1371##journal.pbio.0050007]
-verified: false
+verified: regex
 ---
 
 # Ribosome Display

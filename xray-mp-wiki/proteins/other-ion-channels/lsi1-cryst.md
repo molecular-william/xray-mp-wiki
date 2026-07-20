@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-021-26535-x]
-verified: regex
+verified: agent
 uniprot_id: Q6Z2T3
 ---
 
@@ -71,14 +71,14 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
       <td>1</td>
       <td>Cell lysis by sonication</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Sf9 insect cell membranes solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Affinity chromatography (Ni-NTA)</td>
-      <td>Ni-NTA resin</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Octa-His tag purification</td>
     </tr>
     <tr>
@@ -105,7 +105,7 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 0.1 M Li2SO4, 0.1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/mgcl2">Magnesium Chloride (MgCl₂)</a>, 34% <a href="/xray-mp-wiki/reagents/additives/peg400">PEG400</a>, 5 mM <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a></td>
+      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 0.1 M Li2SO4, 0.1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">Magnesium Chloride (MgCl₂)</a>, 34% <a href="/xray-mp-wiki/reagents/additives/peg-400">PEG400</a>, 5 mM <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a></td>
     </tr>
     <tr>
       <td>Temperature</td>

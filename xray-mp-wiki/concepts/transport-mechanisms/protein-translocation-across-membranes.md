@@ -30,4 +30,4 @@ Different translocation systems employ distinct mechanisms. The SecYEG transloco
 ## Cross-References
 - [Tat Pathway](/xray-mp-wiki/concepts/transport-mechanisms/tat-pathway/) — Specialized translocation system for folded proteins
 - [Folded Protein Translocation](/xray-mp-wiki/concepts/transport-mechanisms/folded-protein-translocation/) — Describes the specialized systems for moving folded proteins across membranes
-- [YidC/OXA1/ALB3 Insertase Family](/xray-mp-wiki/concepts/structural-mechanisms/yidc-oxa1-alb3-insertase-family/) — The YidC family mediates a distinct mechanism of membrane protein insertion
+- [YidC/OXA1/ALB3 Insertase Family](/xray-mp-wiki/concepts/protein-families/yidc-oxa1-alb3-insertase-family/) — The YidC family mediates a distinct mechanism of membrane protein insertion

@@ -1,5 +1,5 @@
 ---
-title: S-Adenosyl-L-Homocysteine (AdoHcy)
+title: "S-Adenosyl-L-Homocysteine (AdoHcy)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [cofactor, subdirectory-cofactors]
 sources: [doi/10.1038##nature25439]
-verified: false
+verified: agent
 ---
 
 # S-Adenosyl-L-Homocysteine (AdoHcy)

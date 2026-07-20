@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-ionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1038##417515a]
-verified: none
+verified: regex
 ---
 
 # Sodium Dodecyl Sulfate (SDS)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.2783]
-verified: regex
+verified: agent
 uniprot_id: Q3U2S8
 ---
 
@@ -71,7 +71,7 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
       <td>Standard E. coli expression and purification</td>
       <td>Not specified</td>
       <td>Not specified + Not specified</td>
-      <td>Selenomethionine-labeled protein expressed in E. coli for MAD phasing; multiple crystal forms grown (Cryst-A, Cryst-B, Se-Met1-3 variants)</td>
+      <td>Selenomethionine-labeled protein expressed in E. coli for <a href="/xray-mp-wiki/methods/structure-determination/mad-phasing/">MAD</a> phasing; multiple crystal forms grown (Cryst-A, Cryst-B, Se-Met1-3 variants)</td>
     </tr>
   </tbody>
 </table>

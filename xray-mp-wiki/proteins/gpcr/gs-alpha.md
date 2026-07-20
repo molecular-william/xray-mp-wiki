@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10361]
-verified: regex
+verified: agent
 uniprot_id: P04896
 ---
 
@@ -39,7 +39,7 @@ The Gs protein alpha subunit (Galpha s) is the catalytic subunit of the stimulat
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3sny">3SNY</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3sn6">3SN6</a></td>
       <td>3.2 A</td>
       <td>P212121</td>
       <td>Gs heterotrimer (Galpha s short + His6-Gbeta1 + Ggamma2) in complex with T4L-beta2AR-<a href="/xray-mp-wiki/reagents/antibodies/nb35/">Nb35</a></td>

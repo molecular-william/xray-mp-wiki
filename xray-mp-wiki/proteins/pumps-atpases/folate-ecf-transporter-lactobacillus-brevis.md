@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature12046]
-verified: pdb
+verified: agent
 uniprot_id: ['Q03PY5', 'Q03PY6', 'Q03PY7', 'Q03S56']
 ---
 
@@ -69,8 +69,8 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td></td>
       <td>EcfT contains a 6-His tag; purification In the presence of 1 mM Atp and folate</td>
     </tr>

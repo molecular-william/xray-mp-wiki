@@ -1,13 +1,13 @@
 ---
-title: Inward-Facing Conformation of ABC Transporters
+title: "Inward-Facing Conformation of ABC Transporters"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##ncomms13411, doi/10.1038##nsmb.2417]
-verified: false
+verified: regex
 ---
 
 # Inward-Facing Conformation of ABC Transporters

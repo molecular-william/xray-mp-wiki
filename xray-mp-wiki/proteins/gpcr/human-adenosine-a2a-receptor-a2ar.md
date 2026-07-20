@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1164772, doi/10.1016##j.str.2011.06.014, doi/10.1038##NATURE18966, doi/10.1016##j.bbrc.2023.149393, doi/10.1016##j.str.2017.12.013, doi/10.1021##acs.jmedchem.0c01856, doi/10.1021##acs.jmedchem.2c00462, doi/10.1002##anie.202003788, doi/10.1038##NATURE10136, doi/10.1107##S2052252519013137, doi/10.1038##nature10750, doi/10.1038##s41598-020-76277-x, doi/10.1126##science.1219218, doi/10.1126##science.1202793, doi/10.1124##mol.114.097360, doi/10.1124##molpharm.122.000633, doi/10.1107##S1600576719012846, doi/10.1107##s2052252522001907, doi/10.1038##s41467-017-00630-4]
-verified: regex
+verified: agent
 uniprot_id: ['P29274', 'P63092']
 ---
 
@@ -76,7 +76,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
       <td>Baculovirus expression in Sf9 cells</td>
       <td>--</td>
       <td>not specified + --</td>
-      <td>Receptor stabilized during purification with NaCl, saturating <a href="/xray-mp-wiki/reagents/ligands/theophylline/">Theophylline</a>, and cholesteryl hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
+      <td>Receptor stabilized during purification with NaCl, saturating <a href="/xray-mp-wiki/reagents/ligands/theophylline/">Theophylline</a>, and cholesteryl hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/))</td>
     </tr>
     <tr>
       <td>Ligand exchange</td>
@@ -3171,7 +3171,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3pkk">3PKK</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3vg9">3VG9</a></td>
       <td>3.0</td>
       <td>P41212</td>
       <td>Full-length human A2AR (residues 1-316, N154Q), expressed in Pichia pastoris, purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/CHS, in complex with <a href="/xray-mp-wiki/reagents/antibodies/fab2838/">Fab2838 Antibody Fragment</a></td>
@@ -3841,7 +3841,7 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
       <td>not specified</td>
       <td>--</td>
       <td>not specified + --</td>
-      <td>Purification in presence of Na+ and <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Purification in presence of Na+ and <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
     </tr>
     <tr>
       <td>Ligand exchange</td>
@@ -4897,7 +4897,7 @@ The 2.6 A crystal structure of CGS21680-bound A2AR-GL31 (PDB 4UG2, 4UHR) reveals
 - <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> — Added to [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) mixture for membrane protein stability
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method used for structure determination
 - <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using Phaser
-- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression">Baculovirus Expression System</a> — Expression system used for protein production
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system">Baculovirus Expression System</a> — Expression system used for protein production
 - <a href="/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/">Human Adenosine A2A Receptor D52N Variant (A2AAR-D52N)</a> — Sodium-site variant solved in the same study with PDB 5WF5
 - <a href="/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar">Human Adenosine A2A Receptor (A2AR)</a> — A2A-StaR2-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) is an engineered construct of the human A2AR
 - <a href="/xray-mp-wiki/proteins/a2a-psb1-bril">A2A-PSB1-bRIL Adenosine A2A Receptor</a> — Another thermostabilized A2AR-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) construct for comparison

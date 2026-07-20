@@ -1,13 +1,13 @@
 ---
-title: PilZ Domain (c-di-GMP Binding Domain)
+title: "PilZ Domain (c-di-GMP Binding Domain)"
 created: 2026-06-11
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature11744]
-verified: false
+verified: regex
 ---
 
 # PilZ Domain (c-di-GMP Binding Domain)

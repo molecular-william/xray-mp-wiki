@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11054]
-verified: regex
+verified: agent
 uniprot_id: ['A0L5S6', 'D0RMU8']
 ---
 
@@ -40,7 +40,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4f4l">4F4L</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4dxw">4DXW</a></td>
       <td>3.05 A</td>
       <td>P42</td>
       <td>Full-length NavRh (G208S variant for improved diffraction), C-terminal His6 tag removed, expressed in E. coli BL21(DE3), purified in <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">NG</a> with <a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a>:<a href="/xray-mp-wiki/reagents/lipids/pope/">POPE</a>:<a href="/xray-mp-wiki/reagents/lipids/popg/">POPG</a> (3:1:1) lipids; crystallized with 100 mM CaCl2</td>
@@ -116,7 +116,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/30)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/30)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.4% <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">NG</a>, 0.1 mg/mL <a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a>:<a href="/xray-mp-wiki/reagents/lipids/pope/">POPE</a>:<a href="/xray-mp-wiki/reagents/lipids/popg/">POPG</a> (3:1:1) + 0.4% <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">NG</a></td>
       <td>Detergent exchanged to <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">NG</a> during purification; lipids added for stability</td>

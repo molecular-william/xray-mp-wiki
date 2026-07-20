@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1074##jbc.M700203200]
-verified: regex
-uniprot_id: P19483
+verified: agent
+uniprot_id: ['P00829', 'P05630', 'P05631', 'P05632', 'P19483']
 ---
 
 # Bovine F1-ATPase (azide-free ground state)
@@ -16,7 +16,7 @@ uniprot_id: P19483
 <div class="expr-badges"><span class="expr-badge expr-mammalian">Mammalian</span> <span class="expr-badge expr-native-tissue">Native tissue</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P19483">UniProt: P19483</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P00829">UniProt: P00829</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P05630">UniProt: P05630</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P05631">UniProt: P05631</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P05632">UniProt: P05632</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P19483">UniProt: P19483</a>
 
 <span class="expr-badge">Bos taurus</span>
 
@@ -27,7 +27,7 @@ Bovine F1-ATPase is the catalytic domain of the mitochondrial F1Fo-ATP synthase.
 
 ## Publications
 
-### doi/10.1074##jbc.M700203200
+### doi/10.1074/JBC.M700203200
 
 **Structures:**
 

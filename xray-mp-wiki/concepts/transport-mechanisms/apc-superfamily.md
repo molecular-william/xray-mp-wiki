@@ -1,13 +1,13 @@
 ---
-title: APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)
+title: "APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)"
 created: 2026-06-02
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1186##s12915-021-01102-4, doi/10.1038##nature08201, doi/10.1038##nature10917, doi/10.1126##science.1173654, doi/10.1073##pnas.1806206116]
-verified: false
+verified: regex
 ---
 
 # APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)

@@ -1,5 +1,5 @@
 ---
-title: S-Adenosyl-L-Methionine (SAM)
+title: "S-Adenosyl-L-Methionine (SAM)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [cofactor, subdirectory-cofactors]
 sources: [doi/10.1016##J.MOLCEL.2011.10.020]
-verified: false
+verified: none
 ---
 
 # S-Adenosyl-L-Methionine (SAM)

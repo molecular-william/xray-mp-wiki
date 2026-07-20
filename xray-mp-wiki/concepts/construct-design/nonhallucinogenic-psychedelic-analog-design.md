@@ -1,13 +1,13 @@
 ---
-title: Nonhallucinogenic Psychedelic Analog Design
+title: "Nonhallucinogenic Psychedelic Analog Design"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-construct-design]
 sources: [doi/10.1126##science.abl8615]
-verified: false
+verified: regex
 ---
 
 # Nonhallucinogenic Psychedelic Analog Design

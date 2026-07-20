@@ -1,5 +1,5 @@
 ---
-title: HEPES Buffer
+title: "HEPES Buffer"
 created: 2026-06-08
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-hepes, subdirectory-buffers]
 sources: [doi/10.1016##j.str.2014.07.013, doi/10.1038##417515a, doi/10.1038##nsmb.3417, doi/10.1038##nature20606, doi/10.1038##nsb969, doi/10.1038##s41467-017-00217-z, doi/10.1038##s41467-017-00887-9, doi/10.1038##s41422-020-00424-2, doi/10.1038##s41422-022-00679-x, doi/10.1038##s41598-020-57419-7, doi/10.1038##s41598-020-60332-8, doi/10.1126##science.280.5360.69, doi/10.1073##pnas.1314356110, doi/10.1073##pnas.1314997111, doi/10.7554##eLife.18767, doi/10.7554##eLife.31259]
-verified: false
+verified: none
 ---
 
 # HEPES Buffer

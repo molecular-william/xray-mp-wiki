@@ -1,13 +1,13 @@
 ---
-title: PepT_So2 Substrate-Binding Pockets (P1, P2, P3)
+title: "PepT_So2 Substrate-Binding Pockets (P1, P2, P3)"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, concept-functional, membrane-protein]
+tags: [concept-transport-mechanism, concept-functional, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nsmb.2860]
-verified: false
+verified: regex
 ---
 
 # PepT_So2 Substrate-Binding Pockets (P1, P2, P3)

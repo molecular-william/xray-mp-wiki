@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, pump, membrane-protein, xray-crystallography]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # MexY (Pseudomonas aeruginosa multidrug exporter)

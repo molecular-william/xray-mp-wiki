@@ -1,13 +1,13 @@
 ---
-title: Activation Gate–Selectivity Filter (AG–SF) Coupling
+title: "Activation Gate–Selectivity Filter (AG–SF) Coupling"
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-019-13227-w, doi/10.1038##nature13453, doi/10.1038##nature23269]
-verified: false
+verified: regex
 ---
 
 # Activation Gate–Selectivity Filter (AG–SF) Coupling

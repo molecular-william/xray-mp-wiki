@@ -1,5 +1,5 @@
 ---
-title: 6-n-Dodecyl-alpha,alpha-trehalose (6-DDTre)
+title: "6-n-Dodecyl-alpha,alpha-trehalose (6-DDTre)"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1016##j.cell.2019.01.003, doi/10.1016##j.jmb.2020.05.019]
-verified: false
+verified: agent
 ---
 
 # 6-n-Dodecyl-alpha,alpha-trehalose (6-DDTre)

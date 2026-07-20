@@ -1,5 +1,5 @@
 ---
-title: D-myo-Inositol-3-Phosphate
+title: "D-myo-Inositol-3-Phosphate"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##s42003-019-0427-1]
-verified: false
+verified: agent
 ---
 
 # D-myo-Inositol-3-Phosphate

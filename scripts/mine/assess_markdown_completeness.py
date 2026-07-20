@@ -9,7 +9,9 @@ Scores:
 
 Output: stdout table + scripts/raw_completeness_cache.json
 """
-import json, re
+
+import json
+import re
 from pathlib import Path
 
 RAW = Path("raw/papers")
@@ -33,7 +35,7 @@ for f in sorted(RAW.glob("*.md")):
         results[f.name] = 0
         continue
 
-    has_methods = any(METHOD_RE.match(l) for l in lines)
+    has_methods = any(METHOD_RE.match(line) for line in lines)
     has_refs = bool(DOI_RE.search(text[max(0, n - 150) :]))
 
     if not has_methods:
@@ -44,9 +46,7 @@ for f in sorted(RAW.glob("*.md")):
         results[f.name] = 3
 
 # Cache for downstream tools
-Path("scripts/raw_completeness_cache.json").write_text(
-    json.dumps(results, indent=2)
-)
+Path("scripts/raw_completeness_cache.json").write_text(json.dumps(results, indent=2))
 
 # Summary
 counts = {k: sum(1 for v in results.values() if v == k) for k in (0, 1, 2, 3)}

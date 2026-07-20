@@ -1,5 +1,5 @@
 ---
-title: Sodium Thiocyanate (NaSCN)
+title: "Sodium Thiocyanate (NaSCN)"
 created: 2026-05-28
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1016##j.str.2016.02.014]
-verified: false
+verified: regex
 ---
 
 # Sodium Thiocyanate (NaSCN)

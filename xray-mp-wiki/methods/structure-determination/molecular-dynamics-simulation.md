@@ -1,5 +1,5 @@
 ---
-title: Molecular Dynamics Simulation
+title: "Molecular Dynamics Simulation"
 created: 2026-05-29
 updated: 2026-06-16
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-refinement, subdirectory-structure-determination]
 sources: [doi/10.1016##j.bbamem.2021.183825, doi/10.1016##j.str.2012.12.018, doi/10.1021##acs.biochem.9b00971, doi/10.1038##nature09580, doi/10.1038##nature22035, doi/10.1038##ncomms3465, doi/10.1038##s41467-021-27726-2, doi/10.1073##pnas.2009624117, doi/10.1073##pnas.2014896117, doi/10.1085##jgp.201411219, doi/10.1085##jgp.201711884, doi/10.1093##nar##gkad910, doi/10.1107##s205225252100213x, doi/10.1107##s2052252522001907, doi/10.1126##science.1243352, doi/10.1126##science.aad3873, doi/10.1126##scisignal.ado8741, doi/10.1186##s12915-021-01102-4, doi/10.3390##ijms21093110]
-verified: false
+verified: regex
 ---
 
 # Molecular Dynamics Simulation

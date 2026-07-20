@@ -1,5 +1,5 @@
 ---
-title: Hoechst 33342
+title: "Hoechst 33342"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##s41594-020-0464-y]
-verified: false
+verified: agent
 ---
 
 # Hoechst 33342

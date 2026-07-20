@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10870, doi/10.7554##eLife.62389]
-verified: regex
+verified: agent
 uniprot_id: Q8RUT8
 ---
 
@@ -81,14 +81,14 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>300 mM NaCl, 50 mM Tris-HCl pH 8.0, 5% glycerol, 20 mM imidazole, 0.1 mM PMSF + 2.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
+      <td>300 mM NaCl, 50 mM Tris-HCl pH 8.0, 5% glycerol, 20 mM imidazole, 0.1 mM PMSF + 2.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
       <td>Insoluble material removed by ultracentrifugation at 45,000 rpm (Ti70) for 30 min</td>
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
       <td>Nickel affinity</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (QIAGEN)</td>
-      <td>300 mM NaCl, 50 mM Tris-HCl pH 8.0, 5% glycerol, 0.1 mM PMSF + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (QIAGEN)</td>
+      <td>300 mM NaCl, 50 mM Tris-HCl pH 8.0, 5% glycerol, 0.1 mM PMSF + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>1h binding; elution with 300 mM imidazole</td>
     </tr>
     <tr>
@@ -96,13 +96,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
       <td>Tag removal</td>
       <td>—</td>
       <td></td>
-      <td>EGFP-His8 cleaved by His-tagged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease; flow-through containing C1C2 collected after reloading on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td>EGFP-His8 cleaved by His-tagged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease; flow-through containing C1C2 collected after reloading on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
-      <td>150 mM NaCl, 50 mM Tris-HCl pH 8.0, 5% glycerol + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>150 mM NaCl, 50 mM Tris-HCl pH 8.0, 5% glycerol + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Final purification step</td>
     </tr>
   </tbody>
@@ -578,14 +578,14 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
       <td>Lysis and solubilization</td>
       <td>Cell lysis and detergent solubilization</td>
       <td>--</td>
-      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium chloride</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> (pH 8.0), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-dodecyl-beta-D-maltoside (DDM)</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesteryl hydrogen succinate (CHS)</a></td>
-      <td>Protein solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> mixture for membrane protein stability</td>
+      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium chloride</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> (pH 8.0), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-dodecyl-beta-D-maltoside (DDM)</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesteryl hydrogen succinate ([CHS</a>)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Protein solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) mixture for membrane protein stability</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column</td>
-      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium chloride</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> (pH 8.0), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column</td>
+      <td>150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium chloride</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> (pH 8.0), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Final purification step; protein concentrated to ~15 mg/ml for crystallization</td>
     </tr>
   </tbody>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature01580, doi/10.1073##pnas.1314356110]
-verified: regex
+verified: agent
 uniprot_id: Q9YDF8
 ---
 
@@ -96,19 +96,19 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
       <td>Affinity purification</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> Co2+ <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> Co2+ affinity resin (Clontech)</td>
-      <td>20 mM Tris pH 8.0, 100 mM KCl + 5 mM DM</td>
+      <td>20 mM Tris pH 8.0, 100 mM KCl + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Eluted with 300-400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/thrombin-protease/">Thrombin Protease</a> cleavage</td>
       <td>—</td>
-      <td>20 mM Tris pH 8.0, 100 mM KCl + 5 mM DM</td>
+      <td>20 mM Tris pH 8.0, 100 mM KCl + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Overnight at room temperature (21 C), 1 unit thrombin per 2 mg protein</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (10/30) (Pharmacia)</td>
       <td>30 mM n-octyl glucoside</td>
       <td></td>

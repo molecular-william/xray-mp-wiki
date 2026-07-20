@@ -1,13 +1,13 @@
 ---
-title: E. coli C41 Expression Strain
+title: "E. coli C41 Expression Strain"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [subdirectory-concepts]
+tags: [subdirectory-methods-techniques]
 sources: [doi/10.1038##nsmb.1788]
-verified: false
+verified: regex
 ---
 
 # E. coli C41 Expression Strain

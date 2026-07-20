@@ -1,13 +1,13 @@
 ---
-title: De Novo Design of Transmembrane Pores
+title: "De Novo Design of Transmembrane Pores"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s41586-020-2646-5]
-verified: false
+verified: regex
 ---
 
 # De Novo Design of Transmembrane Pores

@@ -1,5 +1,5 @@
 ---
-title: beta-FOA (beta-Fuoxymorphamine)
+title: "beta-FOA (beta-Fuoxymorphamine)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature14886]
-verified: false
+verified: regex
 ---
 
 # beta-FOA (beta-Fuoxymorphamine)

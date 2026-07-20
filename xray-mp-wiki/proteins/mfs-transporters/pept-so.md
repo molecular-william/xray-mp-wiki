@@ -6,8 +6,8 @@ type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##EMBOJ.2010.309, doi/10.1016##j.str.2014.12.012]
-verified: regex
+sources: [doi/10.1038##emboj.2010.309, doi/10.1016##j.str.2014.12.012]
+verified: agent
 uniprot_id: Q8EKT7
 ---
 
@@ -27,7 +27,7 @@ PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis.
 
 ## Publications
 
-### doi/10.1038##EMBOJ.2010.309
+### doi/10.1038##emboj.2010.309
 
 **Structures:**
 
@@ -41,8 +41,8 @@ PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis.
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3b97">3B97</a></td>
-      <td>3.6 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2xut">2XUT</a></td>
+      <td>3.6</td>
       <td>P3_2</td>
       <td>PepT_So from Shewanella oneidensis, wild-type, occluded conformation</td>
       <td>unidentified dipeptide-sized ligand in central cavity</td>
@@ -90,7 +90,7 @@ PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis.
     </tr>
   </tbody>
 </table>
-### doi/10.1016##j.str.2014.12.012
+### doi/10.1038/emboj.2010.309
 
 **Structures:**
 
@@ -105,7 +105,7 @@ PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis.
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2xut">2XUT</a></td>
-      <td>3.0 A</td>
+      <td>3.0</td>
       <td>not specified</td>
       <td>PepT_So from Shewanella oneidensis, wild-type, inward-occluded conformation</td>
       <td>dipeptide substrate</td>

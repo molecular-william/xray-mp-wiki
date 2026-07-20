@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.celrep.2015.10.025]
-verified: regex
+verified: agent
 uniprot_id: ['P38383', 'Q5SHE6', 'Q5SHQ8']
 ---
 
@@ -84,29 +84,29 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> + 2% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> + 2% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
       <td>1 hr at 4 C; ultracentrifugation at 138,000 x g for 30 min</td>
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
-      <td>Affinity chromatography (His-tag on SecY)</td>
-      <td>Ni-NTA agarose</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (His-tag on SecY)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Equilibration with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; wash with 40 mM imidazole; elution with 300 mM imidazole</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200 10/300 GL column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Concentrated to ~15 mg/ml using Amicon Ultra 50-kDa cutoff filter</td>
     </tr>
     <tr>
       <td>Ion-exchange chromatography</td>
       <td>Ion-exchange chromatography</td>
       <td>HiTrap SP HP column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.25% n-decyl-beta-D-maltoside (DM), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.25% DM</td>
-      <td>Elution with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.25% DM, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.25% n-decyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Elution with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>)</td>
     </tr>
   </tbody>
 </table>
@@ -804,7 +804,7 @@ TM2, TM7, and TM8 of SecY form a cytoplasmic hydrophobic crack and a following r
 - <a href="/xray-mp-wiki/proteins/secretion-translocon/secg/">Thermus thermophilus SecG Accessory Subunit</a> — SecG accessory subunit that covers the cytoplasmic side of the SecY channel
 - <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Primary lipid component for LCP crystallization of SecYEG
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method used for SecYEG structure determination
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> — Main buffer component in purification
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> — Main buffer component in purification
 - <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> — Cryoprotectant and buffer additive
 - <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> — Detergent used in solubilization and purification

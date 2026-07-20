@@ -1,5 +1,5 @@
 ---
-title: Minocycline
+title: "Minocycline"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature10641, doi/10.1038##nature05076]
-verified: false
+verified: agent
 ---
 
 # Minocycline

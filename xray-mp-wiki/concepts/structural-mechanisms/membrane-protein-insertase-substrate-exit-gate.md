@@ -1,13 +1,13 @@
 ---
-title: YidC Substrate Exit Gate and Helical Bundle Rearrangement
+title: "YidC Substrate Exit Gate and Helical Bundle Rearrangement"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1096##fj.201700893RR]
-verified: false
+verified: none
 ---
 
 # YidC Substrate Exit Gate and Helical Bundle Rearrangement

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.26508##lsa.202201491]
-verified: regex
+verified: agent
 uniprot_id: M1K561
 ---
 
@@ -106,7 +106,7 @@ comparable to human AQP4.
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200 Increase</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase</td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8, 100 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.4% NG, 2 mM beta-MeOH</td>
       <td>Monodisperse peak; protein concentrated to ~18 mg/ml</td>
@@ -136,14 +136,14 @@ comparable to human AQP4.
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>—</td>
       <td>pH 8.0 for His-tagged constructs</td>
       <td></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200 Increase</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase</td>
       <td>—</td>
       <td></td>
       <td>Protein concentrated to ~18 mg/ml, stored at -80 C</td>

@@ -1,13 +1,13 @@
 ---
-title: Fluc Family of Fluoride Ion Channels
+title: "Fluc Family of Fluoride Ion Channels"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.7554##eLife.18767]
-verified: false
+verified: none
 ---
 
 # Fluc Family of Fluoride Ion Channels

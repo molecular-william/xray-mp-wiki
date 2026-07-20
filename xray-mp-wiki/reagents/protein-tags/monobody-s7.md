@@ -1,5 +1,5 @@
 ---
-title: Monobody S7
+title: "Monobody S7"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##NATURE14981, doi/10.1038##nature13074]
-verified: false
+verified: none
 ---
 
 # Monobody S7

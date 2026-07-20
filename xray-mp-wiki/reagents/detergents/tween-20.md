@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, detergent-mild, subdirectory-detergents]
 sources: [doi/10.1038##nature13015]
-verified: false
+verified: regex
 ---
 
 # Tween-20 Polysorbate 20 Nonionic Detergent

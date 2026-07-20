@@ -1,13 +1,13 @@
 ---
-title: Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters
+title: "Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature06038, doi/10.1126##science.1147614]
-verified: false
+verified: regex
 ---
 
 # Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters

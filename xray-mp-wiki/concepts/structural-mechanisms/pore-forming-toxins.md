@@ -1,13 +1,13 @@
 ---
-title: Pore-Forming Toxins
+title: "Pore-Forming Toxins"
 created: 2026-05-29
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##NCOMMS4690, doi/10.1038##s41467-019-10777-x, doi/10.1038##s41598-021-85726-0, doi/10.1073##pnas.2024651118]
-verified: false
+verified: none
 ---
 
 # Pore-Forming Toxins

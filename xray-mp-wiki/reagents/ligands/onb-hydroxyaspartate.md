@@ -1,5 +1,5 @@
 ---
-title: ONB-hydroxyaspartate (o-nitrobenzyl-hydroxyaspartate)
+title: "ONB-hydroxyaspartate (o-nitrobenzyl-hydroxyaspartate)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##jacs.0c11336]
-verified: false
+verified: regex
 ---
 
 # ONB-hydroxyaspartate (o-nitrobenzyl-hydroxyaspartate)

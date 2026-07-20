@@ -6,7 +6,7 @@ type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1126##science.1088196, doi/10.1038##SJ.EMBOJ.7601028, doi/10.1073##pnas.1105687108, doi/10.1073##pnas.1324141111, doi/10.1073##pnas.1509854112, doi/10.1073##pnas.0707688104]
+sources: [doi/10.1126##science.1088196, doi/10.1038##sj.emboj.7601028, doi/10.1073##pnas.1105687108, doi/10.1073##pnas.1324141111, doi/10.1073##pnas.1509854112, doi/10.1073##pnas.0707688104]
 verified: regex
 uniprot_id: P02920
 ---
@@ -28,7 +28,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 ## Publications
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1126##science.1088196 (1 structure)</strong></summary>
+<summary><strong>doi/10.1126/science.1088196 (1 structure)</strong></summary>
 
 **Structures:**
 
@@ -42,8 +42,8 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2jhl">2JHL</a></td>
-      <td>3.5 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1pv7">1PV7</a></td>
+      <td>3.5</td>
       <td>P21</td>
       <td>Wild-type LacY, C154G mutant</td>
       <td>not specified (outward-facing conformation)</td>
@@ -59,7 +59,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##SJ.EMBOJ.7601028 (3 structures, 3 sequences)</strong></summary>
+<summary><strong>doi/10.1126/science.1088196 (3 structures, 3 sequences)</strong></summary>
 
 **Structures:**
 
@@ -74,21 +74,21 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2cfq">2CFQ</a></td>
-      <td>2.95 A</td>
+      <td>2.95</td>
       <td>P43212</td>
       <td>Wild-type LacY, ligand-free</td>
       <td>none (outward-facing, pH 6.5)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2cfq">2CFQ</a></td>
-      <td>3.3 A</td>
+      <td>3.3</td>
       <td>P43212</td>
       <td>Wild-type LacY, ligand-free</td>
       <td>none (outward-facing, pH 5.6)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1pv7">1PV7</a></td>
-      <td>2.2 A</td>
+      <td>2.2</td>
       <td>not specified</td>
       <td>Wild-type LacY</td>
       <td>TDG (thiodigalactoside)</td>
@@ -123,14 +123,14 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>not specified</td>
-      <td>not specified + DDM</td>
+      <td>not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Solubilization modified by increasing detergent:protein ratio to 2.5:1.0 (wt/wt); 10 mg protein/ml</td>
     </tr>
     <tr>
       <td>Purification</td>
-      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>not specified</td>
-      <td>not specified + DDM</td>
+      <td>not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>As described (Abramson et al, 2003)</td>
     </tr>
   </tbody>
@@ -904,7 +904,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1073##pnas.1105687108 (1 structure)</strong></summary>
+<summary><strong>doi/10.1073/PNAS.1105687108 (1 structure)</strong></summary>
 
 **Structures:**
 
@@ -918,8 +918,8 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3f6d">3F6D</a></td>
-      <td>2.8 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2y5y">2Y5Y</a></td>
+      <td>2.8</td>
       <td>not specified</td>
       <td>C117S, C148A, C154V, C176S, C234S, C333S, C353A, C355A LacY</td>
       <td>o-NPG (o-nitrophenyl-alpha-D-galactopyranoside)</td>
@@ -965,7 +965,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1073##pnas.1324141111 (1 structure)</strong></summary>
+<summary><strong>doi/10.1073/pnas.1324141111 (1 structure)</strong></summary>
 
 **Structures:**
 
@@ -979,8 +979,8 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3b80">3B80</a></td>
-      <td>2.8 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4oaa">4OAA</a></td>
+      <td>2.8</td>
       <td>not specified</td>
       <td>LacY G46W/G262W double-Trp mutant</td>
       <td>o-NPG (o-nitrophenyl-alpha-D-galactopyranoside)</td>
@@ -996,7 +996,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1073##pnas.1509854112 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1073/pnas.1509854112 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -1263,7 +1263,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1073##pnas.0707688104 (1 structure, 1 sequence)</strong></summary>
+<summary><strong>doi/10.1073/PNAS.0707688104 (1 structure, 1 sequence)</strong></summary>
 
 **Structures:**
 
@@ -1278,7 +1278,7 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2v8n">2V8N</a></td>
-      <td>3.6 A</td>
+      <td>3.6</td>
       <td>P2_12_12_1</td>
       <td>Wild-type LacY</td>
       <td>none (apo, inward-facing conformation)</td>

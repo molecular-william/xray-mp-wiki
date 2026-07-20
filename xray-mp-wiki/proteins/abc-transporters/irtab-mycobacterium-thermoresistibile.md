@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-020-2136-9]
-verified: regex
+verified: agent
 uniprot_id: ['A0A100XE85', 'A0A100XEC2']
 ---
 
@@ -111,24 +111,24 @@ to capture membrane-embedded mycobactin.
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
-      <td>Ni-NTA gravity flow column</td>
-      <td>TBS with 20-250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient + 0.03% β-DDM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> gravity flow column</td>
+      <td>TBS with 20-250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient + 0.03% β-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Imidazole added to 20 mM before loading; elution with 250 mM imidazole</td>
     </tr>
     <tr>
       <td>Ion exchange chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Anion Exchange</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/resource-q/">Resource Q</a> (GE Healthcare)</td>
-      <td>15 mM Tris pH 8.0, 20-350 mM NaCl gradient + 0.03% β-DDM</td>
+      <td>15 mM Tris pH 8.0, 20-350 mM NaCl gradient + 0.03% β-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Protein eluted at ~150 mM NaCl</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superose-6/">Superose 6 Increase</a> 10/300 GL</td>
-      <td>TBS + Various (0.3% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.03% β-DDM, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>)</td>
-      <td>Final polishing step; buffer exchanged to desired detergent during SEC</td>
+      <td>TBS + Various (0.3% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.03% β-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>)</td>
+      <td>Final polishing step; buffer exchanged to desired detergent during <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>

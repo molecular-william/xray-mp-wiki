@@ -1,5 +1,5 @@
 ---
-title: Rhodamine 6G - Fluorescent Xanthene Dye
+title: "Rhodamine 6G - Fluorescent Xanthene Dye"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1038##nature09408, doi/10.1126##science.1083137]
-verified: false
+verified: regex
 ---
 
 # Rhodamine 6G - Fluorescent Xanthene Dye

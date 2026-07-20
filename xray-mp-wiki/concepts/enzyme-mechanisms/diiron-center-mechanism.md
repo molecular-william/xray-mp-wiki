@@ -1,13 +1,13 @@
 ---
-title: Diiron Center Mechanism in Membrane Desaturases
+title: "Diiron Center Mechanism in Membrane Desaturases"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1038##nature14549]
-verified: false
+verified: regex
 ---
 
 # Diiron Center Mechanism in Membrane Desaturases

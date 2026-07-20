@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1067778, doi/10.1126##science.290.5491.481]
-verified: regex
+verified: agent
 uniprot_id: P0AER0
 ---
 
@@ -809,16 +809,16 @@ bipolar water orientation that blocks proton conduction.
     <tr>
       <td>Nickel affinity chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6 Tag</a> purification</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td></td>
-      <td>Purified by SEC after nickel affinity</td>
+      <td>Purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> after nickel affinity</td>
     </tr>
   </tbody>
 </table>

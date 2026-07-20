@@ -1,13 +1,13 @@
 ---
-title: Membrane Lipid Asymmetry
+title: "Membrane Lipid Asymmetry"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural]
+tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1016##j.cell.2016.07.036]
-verified: false
+verified: none
 ---
 
 # Membrane Lipid Asymmetry

@@ -6,8 +6,8 @@ type: method
 category: methods
 layout: default
 tags: [expression-system, subdirectory-expression-systems]
-sources: [doi/10.1006##meth.1996.0334]
-verified: none
+sources: []
+verified: regex
 ---
 
 # Hi5 Insect Cell Expression System

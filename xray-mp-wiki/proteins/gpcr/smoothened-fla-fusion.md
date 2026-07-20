@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms15383]
-verified: regex
-uniprot_id: P00323
+verified: agent
+uniprot_id: Q99835
 ---
 
 # SMO-FLA Fusion Construct (SMO-Flavodoxin)
@@ -16,7 +16,9 @@ uniprot_id: P00323
 <div class="expr-badges"><span class="expr-badge expr-hek293">HEK293</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P00323">UniProt: P00323</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q99835">UniProt: Q99835</a>
+
+<span class="expr-badge">Homo sapiens</span>
 
 ## Overview
 
@@ -101,35 +103,35 @@ The SMO-FLA fusion construct is an engineered human [SMO](/xray-mp-wiki/proteins
       <td>Solubilization</td>
       <td>Solubilization</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 200 mM NaCl + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 200 mM NaCl + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>2.5 h at 4 C</td>
     </tr>
     <tr>
       <td>IMAC (first capture)</td>
       <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
-      <td>50 mM HEPES pH 7.5, 200 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1.0 M NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 200 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1.0 M NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Overnight binding at 4 C</td>
     </tr>
     <tr>
       <td>Wash and detergent exchange</td>
       <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 800 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10 mM MgCl2, 6 mM ATP, 30 uM <a href="/xray-mp-wiki/reagents/ligands/tc114/">TC114 (SMO Ligand)</a> + <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 800 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10 mM MgCl2, 6 mM ATP, 30 uM <a href="/xray-mp-wiki/reagents/ligands/tc114/">TC114 (SMO Ligand)</a> + <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Wash I buffer; 2 h <a href="/xray-mp-wiki/proteins/miscellaneous/rocker/">ROCKER</a> incubation for complete detergent exchange</td>
     </tr>
     <tr>
       <td>Wash II</td>
       <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
-      <td>25 mM HEPES pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/tc114/">TC114 (SMO Ligand)</a> + <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM HEPES pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/tc114/">TC114 (SMO Ligand)</a> + <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Six-column volume wash</td>
     </tr>
     <tr>
       <td>Elution and TEV cleavage</td>
       <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
-      <td>25 mM HEPES pH 7.5, 500 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/tc114/">TC114 (SMO Ligand)</a></td>
+      <td>25 mM HEPES pH 7.5, 500 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/tc114/">TC114 (SMO Ligand)</a></td>
       <td>Eluted with high <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> cleavage of N-terminal tags</td>
     </tr>
   </tbody>

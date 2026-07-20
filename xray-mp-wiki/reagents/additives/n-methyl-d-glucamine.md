@@ -1,13 +1,13 @@
 ---
-title: N-Methyl-D-Glucamine (NMG)
+title: "N-Methyl-D-Glucamine (NMG)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
-sources: [doi/10.1016##j.str.2005.12.016, doi/10.1038##nsmb.1531]
-verified: false
+sources: [doi/10.1038##nsmb.1531]
+verified: regex
 ---
 
 # N-Methyl-D-Glucamine (NMG)

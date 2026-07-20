@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein]
 sources: [doi/10.1126##science.1110064]
-verified: regex
+verified: agent
 uniprot_id: P43457
 ---
 

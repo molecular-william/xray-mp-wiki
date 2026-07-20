@@ -1,5 +1,5 @@
 ---
-title: Carazolol
+title: "Carazolol"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1150577, doi/10.1038##nature06325, doi/10.1038##nature08650, doi/10.1038##s41422-020-00424-2]
-verified: false
+verified: agent
 ---
 
 # Carazolol

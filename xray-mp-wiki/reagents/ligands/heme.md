@@ -1,5 +1,5 @@
 ---
-title: Heme
+title: "Heme"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.biochem.2c00612]
-verified: false
+verified: agent
 ---
 
 # Heme

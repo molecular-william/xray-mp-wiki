@@ -1,5 +1,5 @@
 ---
-title: Guanosine Diphosphate (GDP)
+title: "Guanosine Diphosphate (GDP)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##NATURE18966]
-verified: false
+verified: none
 ---
 
 # Guanosine Diphosphate (GDP)

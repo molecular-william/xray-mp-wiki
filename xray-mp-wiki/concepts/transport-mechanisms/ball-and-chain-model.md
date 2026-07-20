@@ -1,13 +1,13 @@
 ---
-title: Ball-and-Chain Model for SLC38A9
+title: "Ball-and-Chain Model for SLC38A9"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.str.2020.11.014]
-verified: false
+verified: regex
 ---
 
 # Ball-and-Chain Model for SLC38A9

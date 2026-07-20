@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41594-018-0082-0]
-verified: regex
+verified: agent
 uniprot_id: C9CPP6
 ---
 
@@ -118,7 +118,7 @@ model of antiport.
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase (GE Healthcare)</td>
       <td>10 mM HEPES, 100 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, pH 7 (functional assays) + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>

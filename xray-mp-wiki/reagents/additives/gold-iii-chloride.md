@@ -1,5 +1,5 @@
 ---
-title: Gold(III) Chloride
+title: "Gold(III) Chloride"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-metal, subdirectory-additives]
 sources: [doi/10.1038##35055589]
-verified: false
+verified: regex
 ---
 
 # Gold(III) Chloride

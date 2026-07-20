@@ -1,13 +1,13 @@
 ---
-title: Intracellular Allosteric Antagonism at Chemokine Receptors
+title: "Intracellular Allosteric Antagonism at Chemokine Receptors"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, xray-crystallography]
+tags: [concept-structural, concept-functional, xray-crystallography, subdirectory-signaling-receptors]
 sources: [doi/10.1016##j.cell.2019.07.028]
-verified: false
+verified: regex
 ---
 
 # Intracellular Allosteric Antagonism at Chemokine Receptors

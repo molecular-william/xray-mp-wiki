@@ -1,5 +1,5 @@
 ---
-title: Fos-Choline 9 (FC-9)
+title: "Fos-Choline 9 (FC-9)"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-zwitterionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1038##cr.2017.83]
-verified: false
+verified: agent
 ---
 
 # Fos-Choline 9 (FC-9)

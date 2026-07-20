@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NCOMMS12677, doi/10.1073##pnas.2020486118, doi/10.1073##pnas.2117433119, doi/10.1126##science.abj6663, doi/10.1126##sciadv.aay2042]
-verified: regex
+verified: agent
 uniprot_id: W8VZW3
 ---
 
@@ -116,7 +116,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
     <tr>
       <td>Solubilization and <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 150 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
@@ -905,28 +905,28 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
       <td>all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>, chloride ion</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7cri">7CRI</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7crj">7CRJ</a></td>
       <td>1.85</td>
       <td>C 1 2 1</td>
       <td>CIR 1 ps after photoactivation (TR-SFX)</td>
       <td>13-cis <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>, chloride ion (dissociating)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7crk">7CRK</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7crj">7CRJ</a></td>
       <td>1.85</td>
       <td>C 1 2 1</td>
       <td>CIR 2 ps after photoactivation (TR-SFX)</td>
       <td>13-cis <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>, chloride ion (moving toward Thr102)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7crl">7CRL</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7crj">7CRJ</a></td>
       <td>1.85</td>
       <td>C 1 2 1</td>
       <td>CIR 50 ps after photoactivation (TR-SFX)</td>
       <td>13-cis <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>, chloride ion (near Thr102)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7crs">7CRS</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7crj">7CRJ</a></td>
       <td>1.85</td>
       <td>C 1 2 1</td>
       <td>CIR 100 ps after photoactivation (TR-SFX, 0.90 mJ/mm2)</td>
@@ -970,12 +970,12 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
       <td>Membrane solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> HCl pH 7.0, 150 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> HCl pH 7.0, 150 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilization for 2 h at 4 C</td>
     </tr>
     <tr>
       <td>Affinity purification and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> followed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> followed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> affinity resin; <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluate applied to <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column for final purification</td>
@@ -1788,10 +1788,10 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
   <tbody>
     <tr>
       <td>Protein expression and purification</td>
-      <td>E. coli expression with <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> induction, <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity, <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>; <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>E. coli expression with <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> induction, <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity, <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/); <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>NM-R3 purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> crystallization. Crystals grown in 1500 mM NaBr or NaI for halide replacement.</td>
+      <td>NM-R3 purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization. Crystals grown in 1500 mM NaBr or NaI for halide replacement.</td>
     </tr>
   </tbody>
 </table>
@@ -2173,7 +2173,7 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
       <td>E. coli expression and purification for TR-SFX</td>
       <td>—</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Purified NmHR used for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> crystallization and TR-SFX experiments at SwissFEL and SLS</td>
+      <td>Purified NmHR used for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization and TR-SFX experiments at SwissFEL and SLS</td>
     </tr>
   </tbody>
 </table>

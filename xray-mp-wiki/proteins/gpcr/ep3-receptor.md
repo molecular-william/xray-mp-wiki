@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41589-018-0160-y, doi/10.1038##s41589-018-0171-8]
-verified: regex
+verified: agent
 uniprot_id: P43115
 ---
 
@@ -42,7 +42,7 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6m9t">6M9T</a></td>
-      <td>2.50 A</td>
+      <td>2.50</td>
       <td>Not specified</td>
       <td>Human EP3 isoform A (modified), initial Met removed, ICL3 (residues 260-272) replaced with <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> (T4L, A73T), C-terminus truncated after Leu353, Gly286(6.39)Ala mutation</td>
       <td>-FA (free acid form of )</td>
@@ -91,22 +91,22 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
       <td>Solubilization</td>
       <td>Stirred for 2 h at 4C</td>
       <td>—</td>
-      <td>50 mM  pH 7.5, 800 mM NaCl, 1% , 0.2% <a href="/xray-mp-wiki/reagents/cholesteryl-hemisuccinate/">CHS</a></td>
+      <td>50 mM  pH 7.5, 800 mM NaCl, 1% , 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/additives/cholesteryl-hemisuccinate/)</td>
       <td></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td> resin (Clontech), overnight batch binding at 4C</td>
       <td> IMAC resin</td>
-      <td>Wash 1: 50 mM  pH 7.2, 150 mM NaCl, 10 mM , 8 mM , 0.1% , 0.01% <a href="/xray-mp-wiki/reagents/cholesteryl-hemisuccinate/">CHS</a>, 10% , 20 mM . Wash 2: 50 mM  pH 7.5, 150 mM NaCl, 0.05% , 0.01% <a href="/xray-mp-wiki/reagents/cholesteryl-hemisuccinate/">CHS</a>, 10% , 20 mM </td>
+      <td>Wash 1: 50 mM  pH 7.2, 150 mM NaCl, 10 mM , 8 mM , 0.1% , 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/additives/cholesteryl-hemisuccinate/), 10% , 20 mM . Wash 2: 50 mM  pH 7.5, 150 mM NaCl, 0.05% , 0.01% <a href="/xray-mp-wiki/reagents/additives/cholesteryl-hemisuccinate/">CHS</a>, 10% , 20 mM </td>
       <td>Eluted with 2.5 CV of elution buffer</td>
     </tr>
     <tr>
       <td>Concentration</td>
-      <td>Concentration for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> crystallization</td>
+      <td>Concentration for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) crystallization</td>
       <td>—</td>
       <td></td>
-      <td>Protein concentrated for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> reconstitution</td>
+      <td>Protein concentrated for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) reconstitution</td>
     </tr>
   </tbody>
 </table>
@@ -309,7 +309,7 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ak3">6AK3</a></td>
-      <td>2.90 A</td>
+      <td>2.90</td>
       <td>P 21</td>
       <td>Human EP3 with mbIIG2 fusion (modified ) in ICL2/ICL3, quadruple thermostabilizing mutations A173I(4.41), V185S(4.53), S258D(5.65), C289L(6.42)</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/prostaglandin-e2/">Prostaglandin E2 (PGE2, Dinoprostone)</a> (PGE2)</td>

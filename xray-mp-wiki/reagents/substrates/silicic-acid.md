@@ -1,5 +1,5 @@
 ---
-title: Silicic Acid
+title: "Silicic Acid"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [substrate, subdirectory-substrates]
 sources: [doi/10.1016##j.jmb.2021.167226]
-verified: false
+verified: agent
 ---
 
 # Silicic Acid

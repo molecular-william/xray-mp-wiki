@@ -1,5 +1,5 @@
 ---
-title: Nafcillin
+title: "Nafcillin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibiotic, subdirectory-antibiotics]
 sources: [doi/10.1016##j.str.2007.09.023, doi/10.1007##s10969-013-9154-x]
-verified: false
+verified: agent
 ---
 
 # Nafcillin

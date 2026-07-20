@@ -1,5 +1,5 @@
 ---
-title: PEG 550MME (Polyethylene Glycol 550 Monomethyl Ether)
+title: "PEG 550MME (Polyethylene Glycol 550 Monomethyl Ether)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1016##j.str.2018.02.004]
-verified: false
+verified: regex
 ---
 
 # PEG 550MME (Polyethylene Glycol 550 Monomethyl Ether)

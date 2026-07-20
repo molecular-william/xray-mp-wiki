@@ -1,5 +1,5 @@
 ---
-title: IPTG Induction of Protein Expression
+title: "IPTG Induction of Protein Expression"
 created: 2026-06-22
 updated: 2026-06-22
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [subdirectory-expression-systems, expression-system]
 sources: [doi/10.1016##j.jmb.2021.167226]
-verified: false
+verified: regex
 ---
 
 # IPTG Induction of Protein Expression

@@ -1,13 +1,13 @@
 ---
-title: Type II ABC Transporter Family
+title: "Type II ABC Transporter Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##ncomms13411, doi/10.1038##nsmb.2417, doi/10.1038##nature11442]
-verified: false
+verified: regex
 ---
 
 # Type II ABC Transporter Family

@@ -1,5 +1,5 @@
 ---
-title: tert-Butanol
+title: "tert-Butanol"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1021##bi4011489, doi/10.1038##nature04508]
-verified: false
+verified: regex
 ---
 
 # tert-Butanol

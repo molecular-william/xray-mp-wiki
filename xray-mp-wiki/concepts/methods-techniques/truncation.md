@@ -1,13 +1,13 @@
 ---
-title: Protein Truncation for Crystallization
+title: "Protein Truncation for Crystallization"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design]
+tags: [concept-construct-design, subdirectory-methods-techniques]
 sources: [doi/10.1038##nature06163, doi/10.1038##nature12357, doi/10.1085##jgp.201711884]
-verified: false
+verified: regex
 ---
 
 # Protein Truncation for Crystallization

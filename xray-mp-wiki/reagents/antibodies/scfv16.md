@@ -1,5 +1,5 @@
 ---
-title: scFv16 Antibody Fragment
+title: "scFv16 Antibody Fragment"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1016##j.cell.2020.01.008, doi/10.1038##s41422-022-00679-x]
-verified: false
+verified: regex
 ---
 
 # scFv16 Antibody Fragment

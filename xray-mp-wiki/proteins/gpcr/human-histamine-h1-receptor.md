@@ -1,13 +1,13 @@
 ---
 title: "Human Histamine H1 Receptor (H1R)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10236]
-verified: regex
+verified: agent
 uniprot_id: P35367
 ---
 
@@ -79,15 +79,15 @@ The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/si
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>not specified</td>
-      <td>not specified + 1% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a></td>
+      <td>not specified + 1% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate)</td>
       <td>Solubilized from P. pastoris membranes</td>
     </tr>
     <tr>
-      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a> purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a> purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
-      <td>not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">CHS</a></td>
-      <td>C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/gfp">GFP</a> tag cleaved by <a href="/xray-mp-wiki/reagents/protein-tags/tev-protease">TEV Protease</a>; reverse <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a> to remove cleaved His-tagged <a href="/xray-mp-wiki/reagents/protein-tags/gfp">GFP</a> and <a href="/xray-mp-wiki/reagents/protein-tags/tev-protease">TEV Protease</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a></td>
+      <td>not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate)</td>
+      <td>C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/gfp">GFP</a> tag cleaved by <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a>; reverse <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a> to remove cleaved His-tagged <a href="/xray-mp-wiki/reagents/protein-tags/gfp">GFP</a> and <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a></td>
     </tr>
   </tbody>
 </table>

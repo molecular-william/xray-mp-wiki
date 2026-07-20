@@ -1,5 +1,5 @@
 ---
-title: MSX-2
+title: "MSX-2"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1002##anie.202115545]
-verified: false
+verified: agent
 ---
 
 # MSX-2

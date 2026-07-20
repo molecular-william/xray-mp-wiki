@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature06264]
-verified: regex
+verified: agent
 uniprot_id: ['P02916', 'P0AEX9', 'P68183', 'Q1R3Q1']
 ---
 
@@ -120,8 +120,8 @@ residues.
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
-      <td>Superdex 200 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>20 mM Tris-HCl pH 8</td>
       <td>FPLC (AKTA) at 4 C</td>
     </tr>

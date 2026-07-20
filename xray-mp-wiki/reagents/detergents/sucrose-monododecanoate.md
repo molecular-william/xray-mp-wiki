@@ -1,5 +1,5 @@
 ---
-title: Sucrose Monododecanoate (SM)
+title: "Sucrose Monododecanoate (SM)"
 created: 2026-06-03
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents, solubilization-detergent]
 sources: [doi/10.1126##sciadv.abp9011, doi/10.1038##nature12300]
-verified: false
+verified: regex
 ---
 
 # Sucrose Monododecanoate (SM)

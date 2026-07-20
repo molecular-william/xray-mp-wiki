@@ -1,13 +1,13 @@
 ---
-title: Three-Finger Toxin Scaffold for GPCR Modulation
+title: "Three-Finger Toxin Scaffold for GPCR Modulation"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, xray-crystallography]
+tags: [concept-structural, concept-functional, xray-crystallography, subdirectory-signaling-receptors]
 sources: [doi/10.1126##science.aax2517]
-verified: false
+verified: regex
 ---
 
 # Three-Finger Toxin Scaffold for GPCR Modulation

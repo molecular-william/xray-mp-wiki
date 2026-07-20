@@ -1,13 +1,13 @@
 ---
-title: GABA Transporters (GATs)
+title: "GABA Transporters (GATs)"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-functional, membrane-protein]
+tags: [concept-protein-family, concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.15252##embj.2022110735]
-verified: false
+verified: regex
 ---
 
 # GABA Transporters (GATs)

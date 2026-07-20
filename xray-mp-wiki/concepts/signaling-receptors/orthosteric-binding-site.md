@@ -43,5 +43,5 @@ the conformational switches required for alternating access transport.
 
 
 ## Cross-References
-- [Beta-2 Adrenergic Receptor](/xray-mp-wiki/proteins/gpcrs/beta2-adrenergic-receptor/) — Well-characterized orthosteric binding site for catecholamine ligands
-- [Allosteric Regulation](/xray-mp-wiki/concepts/signaling-receptors/allosteric-regulation/) — Orthosteric vs allosteric binding distinguished by location and mechanism
+- [Beta-2 Adrenergic Receptor](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Well-characterized orthosteric binding site for catecholamine ligands
+- [Allosteric Regulation](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Orthosteric vs allosteric binding distinguished by location and mechanism

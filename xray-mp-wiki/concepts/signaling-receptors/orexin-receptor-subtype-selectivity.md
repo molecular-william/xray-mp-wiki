@@ -1,13 +1,13 @@
 ---
-title: Structure-Based GPCR Subtype Selectivity via Single Residue Differences
+title: "Structure-Based GPCR Subtype Selectivity via Single Residue Differences"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-structural, membrane-protein]
+tags: [concept-functional, concept-structural, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1073##pnas.2002704117]
-verified: false
+verified: regex
 ---
 
 # Structure-Based GPCR Subtype Selectivity via Single Residue Differences

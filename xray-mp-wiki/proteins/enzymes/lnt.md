@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
 sources: [doi/10.1038##s41598-020-57419-7]
-verified: regex
+verified: agent
 uniprot_id: P23930
 ---
 
@@ -79,17 +79,17 @@ Apolipoprotein N-acyltransferase (Lnt) is an integral membrane enzyme that catal
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>—</td>
       <td></td>
       <td>Purification via <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a></td>
     </tr>
     <tr>
       <td>Tag removal</td>
-      <td>TEV protease cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage</td>
       <td>—</td>
       <td></td>
-      <td>Lnt-C2 only — TEV cleavage removed N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a></td>
+      <td>Lnt-C2 only — <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> cleavage removed N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a></td>
     </tr>
   </tbody>
 </table>

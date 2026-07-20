@@ -1,13 +1,13 @@
 ---
-title: CpE-Induced Tight Junction Disassembly
+title: "CpE-Induced Tight Junction Disassembly"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.1908929116, doi/10.1126##science.1261833, doi/10.1073##pnas.2024651118]
-verified: false
+verified: regex
 ---
 
 # CpE-Induced Tight Junction Disassembly

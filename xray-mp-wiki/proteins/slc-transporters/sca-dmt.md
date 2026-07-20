@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.2904]
-verified: regex
+verified: agent
 uniprot_id: A0A0S4MEX1
 ---
 
@@ -42,7 +42,7 @@ ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5m94">5M94</a></td>
-      <td>3.6 A</td>
+      <td>3.6</td>
       <td>P3_1 2 1</td>
       <td>Selenomethionine-labeled ScaDMT^tru-<a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> complex</td>
       <td>SeMet (for structural determination by X-ray crystallography)</td>
@@ -70,21 +70,21 @@ ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging
       <td>Cell lysis and membrane preparation</td>
       <td>Cell disruption with custom-made cell disruptor; ultracentrifugation to harvest membranes</td>
       <td>--</td>
-      <td>50 mM potassium phosphate pH 7.5, 150 mM NaCl + DM (1-2% w/v)</td>
-      <td>Membrane vesicles extracted with 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> and 1-2% DM</td>
+      <td>50 mM potassium phosphate pH 7.5, 150 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (1-2% w/v)</td>
+      <td>Membrane vesicles extracted with 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> and 1-2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (IMAC)</td>
-      <td>Ni-NTA</td>
-      <td>DM-containing buffer + DM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>-containing buffer + <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>His10-tagged protein purified; <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> cleavage during dialysis</td>
     </tr>
     <tr>
       <td>Tag cleavage and SEC</td>
       <td><a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> cleavage followed by size-exclusion chromatography</td>
       <td>Superdex S200</td>
-      <td>10 mM HEPES pH 7.5, 150 mM NaCl, 0.25% DM + DM</td>
+      <td>10 mM HEPES pH 7.5, 150 mM NaCl, 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Cleaved protein concentrated and pooled for experiments</td>
     </tr>
   </tbody>
@@ -483,4 +483,4 @@ outward-facing state.
 - <a href="/xray-mp-wiki/reagents/protein-tags/nanobody">Nanobody</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> — Entity mentioned in text
-- <a href="/xray-mp-wiki/concepts/truncation">Protein Truncation for Crystallization</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">Protein Truncation for Crystallization</a> — Entity mentioned in text

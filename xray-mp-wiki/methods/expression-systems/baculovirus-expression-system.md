@@ -1,13 +1,13 @@
 ---
-title: Baculovirus Expression System in Sf9 Cells
+title: "Baculovirus Expression System in Sf9 Cells"
 created: 2026-05-29
 updated: 2026-06-22
 type: method
 category: methods
 layout: default
 tags: [expression-system, subdirectory-expression-systems]
-sources: [doi/10.1021##acs.jmedchem.0c01620, doi/10.1021##acs.jmedchem.3c01822, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature08650, doi/10.1038##nature10753, doi/10.1038##nature13306, doi/10.1038##nprot.2011.344]
-verified: false
+sources: [doi/10.1021##acs.jmedchem.0c01620, doi/10.1021##acs.jmedchem.3c01822, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##nature08650, doi/10.1038##nature10753, doi/10.1038##nature13306]
+verified: regex
 ---
 
 # Baculovirus Expression System in Sf9 Cells

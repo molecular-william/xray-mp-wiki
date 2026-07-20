@@ -1,13 +1,13 @@
 ---
-title: Carboxylate Shift
+title: "Carboxylate Shift"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s42003-019-0427-1]
-verified: false
+verified: regex
 ---
 
 # Carboxylate Shift

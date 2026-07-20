@@ -1,13 +1,13 @@
 ---
-title: GPCR Dimerization
+title: "GPCR Dimerization"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1126##science.1194396]
-verified: false
+verified: regex
 ---
 
 # GPCR Dimerization

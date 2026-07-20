@@ -7,14 +7,14 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2012.08.020]
-verified: regex
-uniprot_id: P48836
+verified: agent
+uniprot_id: ['P22203', 'P31412', 'P48836']
 ---
 
 # Yeast V-ATPase EGC_head Peripheral Stalk Complex
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P48836">UniProt: P48836</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P22203">UniProt: P22203</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P31412">UniProt: P31412</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P48836">UniProt: P48836</a>
 
 <span class="expr-badge">Saccharomyces cerevisiae</span>
 

@@ -1,13 +1,13 @@
 ---
-title: 2-Hydroxycarboxylate Transporter (2-HCT) Family
+title: "2-Hydroxycarboxylate Transporter (2-HCT) Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.7554##eLife.09375]
-verified: false
+verified: none
 ---
 
 # 2-Hydroxycarboxylate Transporter (2-HCT) Family

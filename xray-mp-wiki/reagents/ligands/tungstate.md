@@ -1,5 +1,5 @@
 ---
-title: Tungstate (WO4 2-)
+title: "Tungstate (WO4 2-)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##ncomms13596]
-verified: false
+verified: regex
 ---
 
 # Tungstate (WO4 2-)

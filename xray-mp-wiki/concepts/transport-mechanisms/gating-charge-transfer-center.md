@@ -1,13 +1,13 @@
 ---
-title: Gating Charge Transfer Center in Voltage Sensors
+title: "Gating Charge Transfer Center in Voltage Sensors"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1126##science.1185954]
-verified: false
+verified: regex
 ---
 
 # Gating Charge Transfer Center in Voltage Sensors

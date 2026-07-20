@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography, transporter]
 sources: [doi/10.15252##embj.2022110735]
-verified: regex
+verified: agent
 uniprot_id: Q7K4Y6
 ---
 
@@ -40,7 +40,7 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7wgd">7WGD</a></td>
-      <td>3.2 A</td>
+      <td>3.2</td>
       <td>not specified</td>
       <td>dDAT_GAT — ts2-L415A, V74A with 11 GAT1-like substitutions (F43Y, D46G, V120A, D121N, F325L, S422Q, G425T, S426V, Y124F, I113V, E384S)</td>
       <td>substrate-free (water molecules modeled in binding site)</td>
@@ -88,7 +88,7 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 4 mM CHS in TBS (20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 100 mM NaCl)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 4 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> in TBS (20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 100 mM NaCl)</td>
       <td></td>
     </tr>
     <tr>
@@ -107,9 +107,9 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200</a> Increase 10/300</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">[Superdex 200</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) Increase 10/300</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 300 mM NaCl, 4 mM decyl-β-D-maltoside, 0.2 mM CHS, 0.001% POPE</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 300 mM NaCl, 4 mM decyl-β-D-maltoside, 0.2 mM <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.001% POPE</td>
       <td></td>
     </tr>
   </tbody>

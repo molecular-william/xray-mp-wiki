@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2017.01.010]
-verified: regex
+verified: agent
 uniprot_id: O67184
 ---
 
@@ -68,7 +68,7 @@ uniprot_id: O67184
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta)</td>
       <td>Not specified + dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
       <td>AaPrtD expressed in E. coli and purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> via metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
     </tr>

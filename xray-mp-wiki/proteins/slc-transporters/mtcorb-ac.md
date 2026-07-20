@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-021-24282-7]
-verified: regex
+verified: agent
 uniprot_id: A0A1G8XA46
 ---
 
@@ -85,14 +85,14 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
       <td>1</td>
       <td>Cell lysis by sonication</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.0, 0.5 mM Na-<a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MgCl2</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.0, 0.5 mM Na-<a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MgCl2</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Membrane fraction collected by ultracentrifugation</td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a>)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> Superflow (Qiagen)</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/udm">UDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta))</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) Superflow (Qiagen)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/udm">UDM</a></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">Polyhistidine Tag (His6)</a> purification</td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 0.1 M Li2SO4, 0.1 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MgCl2</a>, 34% <a href="/xray-mp-wiki/reagents/additives/peg400">PEG400</a>, 5 mM <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a></td>
+      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 0.1 M Li2SO4, 0.1 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MgCl2</a>, 34% <a href="/xray-mp-wiki/reagents/additives/peg-400">PEG400</a>, 5 mM <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a></td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -143,7 +143,7 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 50 mM Li2SO4, 11% <a href="/xray-mp-wiki/reagents/additives/peg400">PEG400</a>0, 10 mM MgSO4</td>
+      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 50 mM Li2SO4, 11% <a href="/xray-mp-wiki/reagents/additives/peg-400">PEG400</a>0, 10 mM MgSO4</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -609,7 +609,7 @@ Liposome-based Mg2+ transport assays with [MAG](/xray-mp-wiki/reagents/lipids/ma
 - <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA Agarose Resin</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">Sodium Chloride</a> — Entity mentioned in text
-- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/ligands/valinomycin">Valinomycin</a> — Entity mentioned in text

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # HsTPC2 - Human Two-pore Channel 2

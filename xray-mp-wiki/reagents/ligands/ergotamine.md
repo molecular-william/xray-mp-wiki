@@ -1,5 +1,5 @@
 ---
-title: Ergotamine (ERG)
+title: "Ergotamine (ERG)"
 created: 2026-06-08
 updated: 2026-06-21
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1232808, doi/10.1126##science.1244142]
-verified: false
+verified: regex
 ---
 
 # Ergotamine (ERG)

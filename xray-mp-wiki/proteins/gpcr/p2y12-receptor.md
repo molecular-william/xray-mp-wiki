@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein]
 sources: [doi/10.1016##j.bcp.2022.115291, doi/10.1038##nature13083, doi/10.1038##nature13288]
-verified: regex
+verified: agent
 uniprot_id: Q9H244
 ---
 
@@ -447,20 +447,20 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
       <td>Incubation with 20 uM ligand</td>
       <td>—</td>
       <td></td>
-      <td>2Me<a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD</a>P or 2MeSATP in presence of 2 mg/ml iodoacetamide and EDTA-free protease inhibitor cocktail, 30 min</td>
+      <td>2Me<a href="/xray-mp-wiki/methods/structure-determination/single-anomalous-dispersion/">[SAD</a>](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/)P or 2MeSATP in presence of 2 mg/ml iodoacetamide and EDTA-free protease inhibitor cocktail, 30 min</td>
     </tr>
     <tr>
       <td>3. Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% cholesteryl hemisuccinate (CHS)</td>
+      <td>0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% cholesteryl hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
       <td>4 deg C, 2.5 h</td>
     </tr>
     <tr>
       <td>4. <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td>TALON IMAC</td>
-      <td>TALON IMAC resin (Clontech)</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 1 M NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% CHS</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 1 M NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Wash with 30 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a>, elute with 270 mM imidazole</td>
     </tr>
     <tr>
@@ -468,7 +468,7 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
       <td>PD MiniTrap G-25, PreScission protease + PNGase F treatment</td>
       <td>—</td>
       <td></td>
-      <td>Ligand increased to 2 mM after buffer exchange. <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a> removed by PreScission protease. Deglycosylated by PNGase F. Cleaved tag removed by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>.</td>
+      <td>Ligand increased to 2 mM after buffer exchange. <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His-tag</a> removed by PreScission protease. Deglycosylated by PNGase F. Cleaved tag removed by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/).</td>
     </tr>
   </tbody>
 </table>

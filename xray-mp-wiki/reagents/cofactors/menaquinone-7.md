@@ -1,5 +1,5 @@
 ---
-title: Menaquinone-7 (MK-7)
+title: "Menaquinone-7 (MK-7)"
 created: 2026-05-29
 updated: 2026-06-04
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [cofactor, subdirectory-cofactors]
 sources: [doi/10.1038##NSMB.1434, doi/10.1016##j.jmb.2012.03.020, doi/10.1038##ncomms3911]
-verified: false
+verified: none
 ---
 
 # Menaquinone-7 (MK-7)

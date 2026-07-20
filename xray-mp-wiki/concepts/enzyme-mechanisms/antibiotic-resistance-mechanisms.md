@@ -6,8 +6,8 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-functional, membrane-protein, subdirectory-enzyme-mechanisms]
-sources: [doi/10.1038##nrmicro.2016.194, doi/10.1126##science.1098645]
-verified: none
+sources: []
+verified: regex
 ---
 
 # Antibiotic Resistance Mechanisms

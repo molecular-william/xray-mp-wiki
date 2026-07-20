@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2015.06.002, doi/10.1016##j.cell.2020.01.008, doi/10.1038##nature20613, doi/10.1016##j.cell.2016.10.004, doi/10.1038##s41589-019-0387-2, doi/10.1038##s41589-022-01038-y, doi/10.1038##nature23272]
-verified: regex
+verified: agent
 uniprot_id: ['P04899', 'P21554', 'P59768', 'P62873', 'P63096']
 ---
 
@@ -42,10 +42,10 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5zty">5ZTY</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4z34">4Z34</a></td>
       <td>3.0</td>
       <td></td>
-      <td>CB1 with N-terminal deletion and C-terminal <a href="/xray-mp-wiki/concepts/truncation">Truncation</a>; antagonist <a href="/xray-mp-wiki/reagents/ligands/am10257/">AM10257</a> bound; inactive state</td>
+      <td>CB1 with N-terminal deletion and C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">Truncation</a>; antagonist <a href="/xray-mp-wiki/reagents/ligands/am10257/">AM10257</a> bound; inactive state</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/am10257">Am10257</a></td>
     </tr>
   </tbody>
@@ -288,9 +288,9 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.00075% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.00025% <a href="/xray-mp-wiki/reagents/detergents/gdn/">GDN</a>, 0.0001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 100 uM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 5 uM <a href="/xray-mp-wiki/reagents/ligands/am841/">AM841</a> + 0.00075% <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a> + 0.00025% <a href="/xray-mp-wiki/reagents/detergents/gdn/">GDN</a> + 0.0001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.00075% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.00025% <a href="/xray-mp-wiki/reagents/detergents/gdn/">GDN</a>, 0.0001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 100 uM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 5 uM <a href="/xray-mp-wiki/reagents/ligands/am841/">AM841</a> + 0.00075% <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a> + 0.00025% <a href="/xray-mp-wiki/reagents/detergents/gdn/">GDN</a> + 0.0001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Monomeric CB1-Gi-<a href="/xray-mp-wiki/reagents/antibodies/scfv16/">scFv16</a> complex isolated; concentrated to 1 mg/mL for <a href="/xray-mp-wiki/methods/structure-determination/cryo-em">Cryo em</a></td>
     </tr>
   </tbody>
@@ -684,7 +684,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kpr">5KPR</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5u09">5U09</a></td>
       <td>2.6</td>
       <td>P21</td>
       <td>CB1(T210A)-<a href="/xray-mp-wiki/reagents/protein-tags/pgs/">PGS</a> fusion construct; N-terminal 89 residues truncated; C-terminal 51 residues truncated; ICL3 replaced with <a href="/xray-mp-wiki/reagents/protein-tags/pgs/">PGS</a>; T210A thermostabilizing mutation; <a href="/xray-mp-wiki/reagents/ligands/taranabant">Taranabant</a> bound; inactive state</td>
@@ -718,14 +718,14 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td></td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 160 ug/mL <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a>, 100 ug/mL leupeptin, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 uM <a href="/xray-mp-wiki/reagents/ligands/taranabant">Taranabant</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 160 ug/mL <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a>, 100 ug/mL leupeptin, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 uM <a href="/xray-mp-wiki/reagents/ligands/taranabant">Taranabant</a></td>
       <td><a href="/xray-mp-wiki/methods/expression-systems/sf9-expression-system/">Sf9</a> cell membranes solubilized 1 hr at 4C; ultracentrifugation 30 min at 100,000g</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose (GE Healthcare)</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 160 ug/mL <a href="/xray-mp-wiki/reagents/ligands/benzamidine">Benzamidine</a>, 100 ug/mL leupeptin, 1 uM <a href="/xray-mp-wiki/reagents/ligands/taranabant/">Taranabant</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose (GE Healthcare)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 160 ug/mL <a href="/xray-mp-wiki/reagents/ligands/benzamidine">Benzamidine</a>, 100 ug/mL leupeptin, 1 uM <a href="/xray-mp-wiki/reagents/ligands/taranabant/">Taranabant</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Batch incubation 3 hr at 4C; washed with 15 column volumes; eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> and 2 mM calcium</td>
     </tr>
     <tr>
@@ -744,10 +744,10 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 1 uM <a href="/xray-mp-wiki/reagents/ligands/taranabant">Taranabant</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a> + 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Final polishing step; <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> microcrystals obtained from purified sample</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM <a href="/xray-mp-wiki/reagents/ligands/taranabant">Taranabant</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG</a> + 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Final polishing step; <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) microcrystals obtained from purified sample</td>
     </tr>
   </tbody>
 </table>
@@ -835,14 +835,14 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td></td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, protease inhibitors + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 uM <a href="/xray-mp-wiki/reagents/ligands/am6538/">AM6538</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, protease inhibitors + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 uM <a href="/xray-mp-wiki/reagents/ligands/am6538/">AM6538</a></td>
       <td>Membranes solubilized for 1 hr at 4C; ultracentrifugation at 100,000g</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">sodium cholate</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Batch incubation for 3 hr at 4C; washed with 15 column volumes; eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> and 2 mM calcium</td>
     </tr>
     <tr>
@@ -854,10 +854,10 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 1 uM <a href="/xray-mp-wiki/reagents/ligands/am6538/">AM6538</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Final polishing step; concentrated to ~50 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> crystallization</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM <a href="/xray-mp-wiki/reagents/ligands/am6538/">AM6538</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Final polishing step; concentrated to ~50 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization</td>
     </tr>
   </tbody>
 </table>

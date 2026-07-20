@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [membrane-protein, xray-crystallography, pump]
 sources: [doi/10.1074##jbc.m109.006916]
-verified: regex
+verified: agent
 uniprot_id: P69447
 ---
 
@@ -25,7 +25,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 
 ## Publications
 
-### doi/10.1074##jbc.m109.006916
+### doi/10.1074/jbc.M109.006916
 
 **Structures:**
 

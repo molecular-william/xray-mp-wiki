@@ -1,5 +1,5 @@
 ---
-title: LCP Serial Millisecond Crystallography (LCP-SMX)
+title: "LCP Serial Millisecond Crystallography (LCP-SMX)"
 created: 2026-06-08
 updated: 2026-06-08
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-xray, subdirectory-structure-determination]
 sources: [doi/10.1107##S2052252514026487]
-verified: false
+verified: none
 ---
 
 # LCP Serial Millisecond Crystallography (LCP-SMX)

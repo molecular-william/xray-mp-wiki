@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1817271116]
-verified: regex
+verified: agent
 ---
 
 # GgTRIC-A (Chicken Trimeric Intracellular Cation Channel A)
@@ -88,10 +88,10 @@ GgTRIC-A is the Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel (Gallus ga
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> purification</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.06% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a></td>
-      <td>Solubilized In OG <a href="/xray-mp-wiki/proteins/mfs-transporters/hglut1/">hGLUT1 (Human Glucose Transporter 1)</a>-neopentyl <a href="/xray-mp-wiki/reagents/detergents/c12e8/">C12E8</a> (OGNG) amphiphiles</td>
+      <td>Solubilized In <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> <a href="/xray-mp-wiki/proteins/mfs-transporters/hglut1/">hGLUT1 (Human Glucose Transporter 1)</a>-neopentyl <a href="/xray-mp-wiki/reagents/detergents/c12e8/">C12E8</a> (OGNG) amphiphiles</td>
     </tr>
   </tbody>
 </table>

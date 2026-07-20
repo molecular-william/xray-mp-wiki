@@ -1,5 +1,5 @@
 ---
-title: Chlorophacinone
+title: "Chlorophacinone"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.abc5667]
-verified: false
+verified: agent
 ---
 
 # Chlorophacinone

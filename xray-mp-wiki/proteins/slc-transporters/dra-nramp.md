@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2016.09.017, doi/10.7554##eLife.84006]
-verified: regex
+verified: agent
 uniprot_id: Q9RTP8
 ---
 
@@ -90,15 +90,15 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
       <td>IMAC</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Ni-Sepharose (GE Healthcare)</td>
-      <td>20 mM NaPO4 pH 7.0, 75 mM imidazole-HCl pH 7.0, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.03% beta-DDM + 0.03% beta-DDM</td>
-      <td>Pre-equilibrated with lysis buffer + 0.03% beta-DDM. Washed thrice with 50 mL. Eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient to 450 mM.</td>
+      <td>20 mM NaPO4 pH 7.0, 75 mM imidazole-HCl pH 7.0, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.03% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Pre-equilibrated with lysis buffer + 0.03% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>. Washed thrice with 50 mL. Eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient to 450 mM.</td>
     </tr>
     <tr>
       <td>SEC</td>
       <td>Size-exclusion chromatography</td>
       <td>Superdex S200 (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 150 mM NaCl, 0.1% (w/v) beta-decylmaltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>) + 0.1% beta-DM</td>
-      <td>Protein concentrated to ~1 mL in 50 kDa cutoff centrifugal concentrator before SEC. Pooled fractions concentrated to ~5 mg/mL.</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 150 mM NaCl, 0.1% (w/v) beta-decylmaltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>) + 0.1% beta-<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Protein concentrated to ~1 mL in 50 kDa cutoff centrifugal concentrator before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>. Pooled fractions concentrated to ~5 mg/mL.</td>
     </tr>
   </tbody>
 </table>
@@ -473,7 +473,7 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
       <td>On-column exchange</td>
       <td>--</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 150 mM NaCl, 0.003% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a></td>
-      <td>Eluted protein concentrated, exchanged into <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> buffer, and purified by SEC on Superdex S200 in 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 150 mM NaCl, 0.003% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>. Peak fractions concentrated to ~25-40 mg/mL.</td>
+      <td>Eluted protein concentrated, exchanged into <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> buffer, and purified by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on Superdex S200 in 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 150 mM NaCl, 0.003% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>. Peak fractions concentrated to ~25-40 mg/mL.</td>
     </tr>
   </tbody>
 </table>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
 sources: [doi/10.1126##science.1259723]
-verified: pdb-pass
+verified: agent
 uniprot_id: S7AS11
 ---
 

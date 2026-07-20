@@ -1,13 +1,13 @@
 ---
-title: Gating Modifier Toxin Binding Mechanism
+title: "Gating Modifier Toxin Binding Mechanism"
 created: 2026-06-04
 updated: 2026-06-04
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##ncomms1917]
-verified: false
+verified: regex
 ---
 
 # Gating Modifier Toxin Binding Mechanism

@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##sj.emboj.7601410, doi/10.1098##rsob.120164]
-verified: regex
-uniprot_id: P21306
+verified: agent
+uniprot_id: ['P00830', 'P01097', 'P07251', 'P21306', 'P38077', 'Q12165']
 ---
 
 # Yeast Mitochondrial F1 ATPase from Saccharomyces cerevisiae
@@ -16,7 +16,7 @@ uniprot_id: P21306
 <div class="expr-badges"><span class="expr-badge expr-s-cerevisiae">S. cerevisiae</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P21306">UniProt: P21306</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P00830">UniProt: P00830</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P01097">UniProt: P01097</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P07251">UniProt: P07251</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P21306">UniProt: P21306</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P38077">UniProt: P38077</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q12165">UniProt: Q12165</a>
 
 <span class="expr-badge">Saccharomyces cerevisiae</span>
 

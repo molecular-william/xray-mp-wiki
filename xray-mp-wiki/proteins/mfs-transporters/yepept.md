@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [membrane-protein, transporter, transporter, xray-crystallography]
 sources: [doi/10.1186##s12915-015-0167-8, doi/10.1038##s42004-022-00636-0]
-verified: regex
+verified: agent
 uniprot_id: A0A2R9TD79
 ---
 
@@ -119,13 +119,13 @@ to the inward-open state, revealing the inhibition mechanism.
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA Superflow Beads</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow Beads</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Washed with 10 CV of washing buffer (20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 5 mM histidine, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>). Eluted by HRV3C protease cleavage overnight.</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Concentrated to ~10 mg/mL for crystallization</td>
@@ -151,7 +151,7 @@ to the inward-open state, revealing the inhibition mechanism.
     </tr>
     <tr>
       <td>Mixing ratio</td>
-      <td>1:1</td>
+      <td>61</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -433,14 +433,14 @@ to the inward-open state, revealing the inhibition mechanism.
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7pz3">7PZ3</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7q0l">7Q0L</a></td>
       <td>3.10</td>
       <td>P2_1_2_1_2_1</td>
       <td>YePEPT K314A mutant with C-terminal HRV3C cleavage site and deca-His tag</td>
       <td>LZNV (Lys[Z(NO2)]-Val)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7pz4">7PZ4</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7q0l">7Q0L</a></td>
       <td>2.93</td>
       <td>P2_1_2_1_2_1</td>
       <td>YePEPT K314A mutant with C-terminal HRV3C cleavage site and deca-His tag</td>
@@ -493,8 +493,8 @@ to the inward-open state, revealing the inhibition mechanism.
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
-      <td>Affinity chromatography</td>
-      <td>Ni-NTA Superflow resin</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow resin</td>
       <td>20 mM Tris-HCl pH 8.0, 150 mM NaCl, 0.075% (w/v) UDM</td>
       <td>Washed with 20 mM Tris-HCl pH 8.0, 300 mM NaCl, 5 mM L-histidine, 0.1% (w/v) UDM. Eluted by on-column HRV3C protease cleavage overnight.</td>
     </tr>

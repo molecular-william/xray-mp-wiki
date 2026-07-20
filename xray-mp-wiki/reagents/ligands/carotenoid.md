@@ -1,5 +1,5 @@
 ---
-title: Carotenoid
+title: "Carotenoid"
 created: 2026-05-18
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##s0022-2836(03)00024-x, doi/10.1073##pnas.85.21.7993]
-verified: false
+verified: agent
 ---
 
 # Carotenoid

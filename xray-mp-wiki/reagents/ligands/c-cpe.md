@@ -1,5 +1,5 @@
 ---
-title: C-CPE (Clostridium perfringens Enterotoxin)
+title: "C-CPE (Clostridium perfringens Enterotoxin)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1261833, doi/10.1073##pnas.2024651118]
-verified: false
+verified: regex
 ---
 
 # C-CPE (Clostridium perfringens Enterotoxin)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature23448]
-verified: regex
+verified: agent
 uniprot_id: Q08BG4
 ---
 
@@ -81,14 +81,14 @@ Lysophosphatidic acid receptor 6 (LPA6, also known as P2Y5 or LPAR6) is a class 
       <td>Membrane solubilization</td>
       <td>Detergent solubilization</td>
       <td></td>
-      <td>50 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">citrate</a> pH 5.0, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">iodoacetamide</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">citrate</a> pH 5.0, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">iodoacetamide</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilization for 2 h at 4 C; insoluble material removed by ultracentrifugation at 125,000g for 30 min</td>
     </tr>
     <tr>
       <td>Ni Sepharose affinity chromatography</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Ni Sepharose excel resin (GE Healthcare)</td>
-      <td>50 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">citrate</a> pH 5.0, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM Na-<a href="/xray-mp-wiki/reagents/buffers/citrate/">citrate</a> pH 5.0, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a>, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Batch incubation for 1.5 h at 4 C; washed with 10 column volumes; eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a></td>
     </tr>
   </tbody>

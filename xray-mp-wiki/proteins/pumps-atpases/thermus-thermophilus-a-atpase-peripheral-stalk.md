@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms1693]
-verified: regex
+verified: agent
 uniprot_id: Q8A183
 ---
 
@@ -40,7 +40,7 @@ The Thermus thermophilus A-ATPase peripheral stalk (PS2) is a heterodimer of sub
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4c1r">4C1R</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3v6i">3V6I</a></td>
       <td>2.25 A</td>
       <td>P2_1 2_1 2</td>
       <td>EG heterodimer from Thermus thermophilus A-ATPase; subunit G truncated by 17 N-terminal residues; N-terminal six-histidine tag with TEV protease cleavage site</td>

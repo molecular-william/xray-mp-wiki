@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [receptor, xray-crystallography]
 sources: [doi/10.1038##s41467-017-01402-w]
-verified: regex
-uniprot_id: Q9BXP5
+verified: agent
+uniprot_id: ['Q09161', 'P52298']
 ---
 
 # Nuclear Cap-Binding Complex (CBC)
@@ -16,7 +16,7 @@ uniprot_id: Q9BXP5
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span> <span class="expr-badge expr-sf9">Sf9</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q9BXP5">UniProt: Q9BXP5</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q09161">UniProt: Q09161</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P52298">UniProt: P52298</a>
 
 <span class="expr-badge">Homo sapiens</span>
 
@@ -100,14 +100,14 @@ The nuclear cap-binding complex (CBC) is a heterodimer of CBP20 (NCBP2, 20 kDa) 
       <td>Proteolytic cleavage</td>
       <td>—</td>
       <td></td>
-      <td>Overnight dialysis into 20 mM HEPES pH 7.8, 120 mM NaCl, 10% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5 mM β-mercaptoethanol with His-tagged TEV protease at 1:100 ratio</td>
+      <td>Overnight dialysis into 20 mM HEPES pH 7.8, 120 mM NaCl, 10% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5 mM β-mercaptoethanol with His-tagged <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease at 1:100 ratio</td>
     </tr>
     <tr>
       <td>Reverse Ni-NTA</td>
       <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (flow-through)</td>
       <td>—</td>
       <td></td>
-      <td>Post-cleavage sample passed over Ni-sepharose to remove TEV and uncleaved protein</td>
+      <td>Post-cleavage sample passed over Ni-sepharose to remove <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> and uncleaved protein</td>
     </tr>
     <tr>
       <td>Anion exchange chromatography</td>

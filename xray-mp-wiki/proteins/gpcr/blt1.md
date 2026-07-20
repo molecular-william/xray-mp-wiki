@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nchembio.2547, doi/10.1038##s41467-021-23149-1]
-verified: regex
+verified: agent
 uniprot_id: P00323
 ---
 
@@ -39,7 +39,7 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5x33">5X33</a></td>
-      <td>3.7 A</td>
+      <td>3.7</td>
       <td>Not specified</td>
       <td>Thermostabilized guinea pig BLT1 mutant lacking residues 1-14, with H83G/K88G/V212A/S309A mutations, fused with <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme">T4 Lysozyme</a> (T4L) at intracellular loop 3 (construct ICL3-10) </td>
       <td><a href="/xray-mp-wiki/reagents/ligands/biil260">BIIL260</a></td>
@@ -238,7 +238,7 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7k15">7K15</a></td>
-      <td>2.9 A</td>
+      <td>2.9</td>
       <td>P 21 2 21</td>
       <td>Human BLT1 (hBLT1) with N-terminal residues 1-4 and C-terminal residues 311-352 truncated, flavodoxin fusion in ICL3 between residues 212 and 213, and five thermostabilizing point mutations (L1063.41W, S1163.51Y, A1965.53I, C2877.55F, S310A)</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/mk-d-046">MK-D-046</a> (selective antagonist)</td>

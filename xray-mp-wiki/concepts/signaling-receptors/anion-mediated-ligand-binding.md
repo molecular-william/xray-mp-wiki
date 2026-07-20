@@ -1,13 +1,13 @@
 ---
-title: Anion-Mediated Ligand Binding in iGluRs
+title: "Anion-Mediated Ligand Binding in iGluRs"
 created: 2026-05-28
 updated: 2026-05-28
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein, xray-crystallography]
+tags: [concept-functional, membrane-protein, xray-crystallography, subdirectory-signaling-receptors]
 sources: [doi/10.1016##j.str.2013.01.006]
-verified: false
+verified: regex
 ---
 
 # Anion-Mediated Ligand Binding in iGluRs

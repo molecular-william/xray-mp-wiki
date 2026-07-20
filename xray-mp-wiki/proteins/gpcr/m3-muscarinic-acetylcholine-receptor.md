@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10867, doi/10.1016##j.str.2014.08.022]
-verified: regex
+verified: agent
 uniprot_id: P08483
 ---
 
@@ -42,7 +42,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4daj">4DAJ</a></td>
-      <td>3.4 A</td>
+      <td>3.4</td>
       <td>P 1</td>
       <td>Rat M3 muscarinic receptor, N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG tag</a>, N-glycosylation mutants (4 asparagine to glutamine at positions N6, N15, N41, N48), <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease site at residues 50-56, ICL3 replaced by T4 lysozyme (residues 259-482), C-terminal His tag (6His)
 </td>
@@ -107,10 +107,10 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>Size exclusion column</td>
       <td>-- + --</td>
-      <td>Final purification step; monodispersity confirmed by analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Final purification step; monodispersity confirmed by analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>
@@ -331,7 +331,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u14">4U14</a></td>
-      <td>3.6 A</td>
+      <td>3.6</td>
       <td>P41212</td>
       <td>Rat M3 muscarinic receptor, N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG tag</a>, N-glycosylation mutants (4 asparagine to glutamine), <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease site at residues 50-56, ICL3 replaced by T4 lysozyme (residues 259-482), C-terminal His tag
 </td>
@@ -339,7 +339,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u15">4U15</a></td>
-      <td>2.8 A</td>
+      <td>2.8</td>
       <td>C2</td>
       <td>Rat M3 muscarinic receptor, N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG tag</a>, N-glycosylation mutants, <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease site at residues 50-56, ICL3 replaced by mT4L (minimal T4 lysozyme with GGSGG linker), C-terminal truncation at residue 569, His tag
 </td>
@@ -347,7 +347,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u16">4U16</a></td>
-      <td>3.7 A</td>
+      <td>3.7</td>
       <td>C2</td>
       <td>Rat M3 muscarinic receptor, N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG tag</a>, N-glycosylation mutants, <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> protease site at residues 50-56, ICL3 replaced by mT4L (minimal T4 lysozyme with GGSGG linker), C-terminal truncation at residue 569, His tag
 </td>

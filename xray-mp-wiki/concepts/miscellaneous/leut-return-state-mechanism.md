@@ -1,13 +1,13 @@
 ---
-title: LeuT Return State Mechanism
+title: "LeuT Return State Mechanism"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein, xray-crystallography]
+tags: [concept-transport-mechanism, membrane-protein, xray-crystallography, subdirectory-miscellaneous]
 sources: [doi/10.1038##ncomms11673]
-verified: false
+verified: regex
 ---
 
 # LeuT Return State Mechanism

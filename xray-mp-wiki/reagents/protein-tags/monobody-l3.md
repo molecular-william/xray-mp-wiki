@@ -1,5 +1,5 @@
 ---
-title: Monobody L3
+title: "Monobody L3"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1016##j.str.2018.02.004, doi/10.1016##j.jmb.2014.06.018]
-verified: false
+verified: none
 ---
 
 # Monobody L3

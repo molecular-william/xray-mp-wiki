@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature07461]
-verified: regex
+verified: none
 uniprot_id: P58154
 ---
 
@@ -40,7 +40,7 @@ uniprot_id: P58154
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/1uv6">1UV6</a></td>
-      <td>2.6 A</td>
+      <td>2.6</td>
       <td>Not specified in supplementary paper</td>
       <td>Soluble AChBP from Biomphalaria glabrata</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/carbamylcholine/">Carbamylcholine</a> (bound at orthosteric site)</td>

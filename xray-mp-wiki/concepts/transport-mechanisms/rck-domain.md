@@ -1,13 +1,13 @@
 ---
-title: RCK Domain (Regulator of Conductance of K+)
+title: "RCK Domain (Regulator of Conductance of K+)"
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature09252]
-verified: false
+verified: regex
 ---
 
 # RCK Domain (Regulator of Conductance of K+)

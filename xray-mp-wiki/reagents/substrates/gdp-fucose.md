@@ -1,5 +1,5 @@
 ---
-title: GDP-Fucose
+title: "GDP-Fucose"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [substrate, subdirectory-substrates]
 sources: [doi/10.1038##nature24464]
-verified: false
+verified: agent
 ---
 
 # GDP-Fucose

@@ -1,5 +1,5 @@
 ---
-title: Neurotensin
+title: "Neurotensin"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature11558, doi/10.1038##ncomms8895, doi/10.1073##PNAS.1317903111]
-verified: false
+verified: none
 ---
 
 # Neurotensin

@@ -1,5 +1,5 @@
 ---
-title: 2D Crystallization by Detergent Dialysis
+title: "2D Crystallization by Detergent Dialysis"
 created: 2026-06-16
 updated: 2026-06-16
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [crystallization-dialysis, subdirectory-crystallization]
 sources: [doi/10.1016##j.jmb.2011.01.029]
-verified: false
+verified: regex
 ---
 
 # 2D Crystallization by Detergent Dialysis

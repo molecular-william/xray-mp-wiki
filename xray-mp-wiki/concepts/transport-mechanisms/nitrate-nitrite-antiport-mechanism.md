@@ -1,13 +1,13 @@
 ---
-title: Nitrate/Nitrite Antiport Mechanism
+title: "Nitrate/Nitrite Antiport Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [subdirectory-concepts]
+tags: [subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature12139, doi/10.1038##ncomms8097]
-verified: false
+verified: regex
 ---
 
 # Nitrate/Nitrite Antiport Mechanism

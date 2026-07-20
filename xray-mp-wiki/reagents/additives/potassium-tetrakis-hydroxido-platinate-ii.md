@@ -1,5 +1,5 @@
 ---
-title: Potassium Tetrakis(Hydroxido)platinate(II) K2Pt(NO2)4 Heavy Metal Derivative
+title: "Potassium Tetrakis(Hydroxido)platinate(II) K2Pt(NO2)4 Heavy Metal Derivative"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-metal, subdirectory-additives]
 sources: [doi/10.1038##nature13015]
-verified: false
+verified: regex
 ---
 
 # Potassium Tetrakis(Hydroxido)platinate(II) K2Pt(NO2)4 Heavy Metal Derivative

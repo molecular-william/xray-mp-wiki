@@ -1,5 +1,5 @@
 ---
-title: Nicotinic Acid Adenine Dinucleotide (NaAD)
+title: "Nicotinic Acid Adenine Dinucleotide (NaAD)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [cofactor, subdirectory-cofactors]
 sources: [doi/10.1021##acs.biochem.3c00242]
-verified: false
+verified: agent
 ---
 
 # Nicotinic Acid Adenine Dinucleotide (NaAD)

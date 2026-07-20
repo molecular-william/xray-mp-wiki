@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein]
 sources: [doi/10.1038##s41589-021-00866-8]
-verified: pdb
+verified: agent
 uniprot_id: ['P01350', 'P04899', 'P32239', 'P50148', 'P59768', 'P62873']
 ---
 
@@ -83,28 +83,28 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
       <td>1. Membrane preparation and solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 μM ligand</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM ligand</td>
       <td>Sf9 cell membranes solubilized for 2 h at 4°C</td>
     </tr>
     <tr>
       <td>2. Ni-NTA affinity chromatography</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM imidazole</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM imidazole</td>
       <td>Protein eluted with 200 mM imidazole</td>
     </tr>
     <tr>
       <td>3. PreScission protease cleavage</td>
       <td>Protease treatment</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Overnight cleavage at 4°C to remove N-terminal tag</td>
     </tr>
     <tr>
       <td>4. Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
       <td>—</td>
-      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 μM ligand</td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM ligand</td>
       <td>Peak fractions concentrated to 20 mg/ml for crystallization</td>
     </tr>
   </tbody>

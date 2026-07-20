@@ -1,5 +1,5 @@
 ---
-title: Antibiotic Efflux Pumps
+title: "Antibiotic Efflux Pumps"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1038##s41467-021-27726-2, doi/10.1038##ncomms7874]
-verified: false
+verified: regex
 ---
 
 # Antibiotic Efflux Pumps

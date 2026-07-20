@@ -1,5 +1,5 @@
 ---
-title: Carboxymycobactin (Fe-cMBT)
+title: "Carboxymycobactin (Fe-cMBT)"
 created: 2026-06-21
 updated: 2026-06-21
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41586-020-2136-9]
-verified: false
+verified: regex
 ---
 
 # Carboxymycobactin (Fe-cMBT)

@@ -1,13 +1,13 @@
 ---
-title: Inward Facing Occluded State in MFS Transporters
+title: "Inward Facing Occluded State in MFS Transporters"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1371##journal.pone.0173126, doi/10.1038##nrm.2015.25]
-verified: false
+verified: none
 ---
 
 # Inward Facing Occluded State in MFS Transporters

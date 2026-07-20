@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, potassium-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##417515a, doi/10.1038##nsmb.1865, doi/10.1038##ncomms3621, doi/10.1038##s41467-019-13227-w, doi/10.1073##pnas.2009624117]
-verified: regex
+verified: agent
 uniprot_id: O27564
 ---
 
@@ -79,7 +79,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> Co2+ affinity column</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> Co2+ resin</td>
-      <td>5 mM DM, 20 mM Tris pH 8.0, 100 mM KCl</td>
+      <td>5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 20 mM Tris pH 8.0, 100 mM KCl</td>
       <td>Wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (10/30)</td>
       <td>5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, 20 mM Tris pH 8.0, 100 mM KCl</td>
       <td></td>
@@ -601,7 +601,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
       <td>Cell lysis and affinity purification</td>
       <td>—</td>
       <td>Standard buffer + <a href="/xray-mp-wiki/reagents/detergents/dm/">n-Decyl-β-D-maltoside</a> (DM)</td>
-      <td>MthK channel expressed and purified in DM as described previously</td>
+      <td>MthK channel expressed and purified in <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> as described previously</td>
     </tr>
     <tr>
       <td>Limited <a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> digestion</td>
@@ -612,7 +612,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
     <tr>
       <td>Gel filtration</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 100 mM KCl</td>
       <td></td>
@@ -1758,14 +1758,14 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>20 mM Tris, 100 mM KCl, pH 7.6 + 50 mM decyl maltoside (DM)</td>
+      <td>20 mM Tris, 100 mM KCl, pH 7.6 + 50 mM decyl maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Incubation for 2 h, followed by centrifugation at 30,500 g for 45 min</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Co2+-charged HiTrap metal affinity column</td>
       <td>Co2+-charged HiTrap (GE Healthcare)</td>
-      <td>20 mM Tris, 100 mM KCl, pH 7.6 + 5 mM DM</td>
+      <td>20 mM Tris, 100 mM KCl, pH 7.6 + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
@@ -1777,10 +1777,10 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM Tris, 100 mM KCl, pH 7.6 + 5 mM DM</td>
-      <td>Concentrated to 5 mg/mL after SEC</td>
+      <td>20 mM Tris, 100 mM KCl, pH 7.6 + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Concentrated to 5 mg/mL after <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>
@@ -2298,14 +2298,14 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
       <td>Cell lysis and extraction</td>
       <td>HiTrap Co2+ charged metal-affinity</td>
       <td>—</td>
-      <td>100 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>, 5 mM DM, pH 8.0 + <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (DM)</td>
+      <td>100 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>, 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, pH 8.0 + <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (DM)</td>
       <td></td>
     </tr>
     <tr>
       <td>Gel filtration</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>—</td>
-      <td>100 mM KCl, 20 mM Hepes, pH 8.0 + 5 mM DM</td>
+      <td>100 mM KCl, 20 mM Hepes, pH 8.0 + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2319,7 +2319,7 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
       <td>Gel filtration (pore)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>—</td>
-      <td>100 mM KCl, 10 mM Mops, pH 8.0 + 5 mM DM</td>
+      <td>100 mM KCl, 10 mM Mops, pH 8.0 + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>
     </tr>
     <tr>

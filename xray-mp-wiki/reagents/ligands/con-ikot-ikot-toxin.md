@@ -1,5 +1,5 @@
 ---
-title: Con-ikot-ikot Toxin
+title: "Con-ikot-ikot Toxin"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1258409]
-verified: false
+verified: agent
 ---
 
 # Con-ikot-ikot Toxin

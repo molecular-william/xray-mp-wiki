@@ -1,5 +1,5 @@
 ---
-title: Heptylthioglucoside (HpTG)
+title: "Heptylthioglucoside (HpTG)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1016##j.jmb.2004.07.044]
-verified: false
+verified: regex
 ---
 
 # Heptylthioglucoside (HpTG)

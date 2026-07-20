@@ -1,5 +1,5 @@
 ---
-title: Verapamil
+title: "Verapamil"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature11448, doi/10.1038##nature19102, doi/10.1038##ncomms8995]
-verified: false
+verified: agent
 ---
 
 # Verapamil

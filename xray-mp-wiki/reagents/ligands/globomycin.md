@@ -1,5 +1,5 @@
 ---
-title: Globomycin
+title: "Globomycin"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.aad3747, doi/10.1038##s41467-019-13724-y]
-verified: false
+verified: agent
 ---
 
 # Globomycin

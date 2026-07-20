@@ -1,5 +1,5 @@
 ---
-title: Two-Electrode Voltage Clamp (TEVC)
+title: "Two-Electrode Voltage Clamp (TEVC)"
 created: 2026-06-16
 updated: 2026-06-16
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1016##j.celrep.2015.12.087, doi/10.1021##acs.biochem.9b00971]
-verified: false
+verified: regex
 ---
 
 # Two-Electrode Voltage Clamp (TEVC)

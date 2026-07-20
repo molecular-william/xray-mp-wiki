@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.cell.2018.11.025]
-verified: regex
+verified: agent
 uniprot_id: F6MIW5
 ---
 
@@ -38,14 +38,14 @@ The Thermothelomyces thermophila ADP/ATP carrier (TtAac) is a mitochondrial inne
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6gj2">6GJ2</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6gci">6GCI</a></td>
       <td>3.3 A</td>
       <td>P3221</td>
       <td>TtAac residues 4-315 with Q302K mutation, N-terminal MetSer tag, complex with <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a></td>
       <td><a href="/xray-mp-wiki/reagents/ligands/bongkrekic-acid/">Bongkrekic Acid</a> (BKA); tetraoleoyl <a href="/xray-mp-wiki/reagents/lipids/cardiolipin/">Cardiolipin</a>; <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6gj3">6GJ3</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6gci">6GCI</a></td>
       <td>3.6 A</td>
       <td>P212121</td>
       <td>TtAac residues 8-311 with Q302K mutation, N-terminal His8 tag with Factor Xa cleavage site</td>

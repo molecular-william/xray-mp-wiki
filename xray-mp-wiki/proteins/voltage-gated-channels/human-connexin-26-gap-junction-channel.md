@@ -1,13 +1,13 @@
 ---
 title: "Human Connexin 26 (Cx26/GJB2) Gap Junction Channel"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
 sources: [doi/10.1038##nature07869]
-verified: regex
+verified: agent
 uniprot_id: P29033
 ---
 
@@ -77,7 +77,7 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
       <td>Detergent solubilization</td>
       <td>—</td>
       <td>10 mM CAPS (pH 10.5), 1 M NaCl, 10 mM DTT + 1-1.5% n-dodecyl-β-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
-      <td>Membrane fraction solubilized in DDM-containing buffer</td>
+      <td>Membrane fraction solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>-containing buffer</td>
     </tr>
     <tr>
       <td>3. Cation exchange chromatography</td>

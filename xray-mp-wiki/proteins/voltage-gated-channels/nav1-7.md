@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.aac5464]
-verified: regex
+verified: agent
 ---
 
 # Human Nav1.7 Voltage-Gated Sodium Channel
@@ -36,21 +36,21 @@ Nav1.7 (encoded by SCN9A) is a voltage-gated sodium channel isoform highly expre
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/n/a (not explicitly stated in paper)">N/A (NOT EXPLICITLY STATED IN PAPER)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ek0">5EK0</a></td>
       <td>3.53</td>
       <td>—</td>
       <td>Nav1.7 VSD4-<a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> chimeric channel — human Nav1.7 VSD4 (S1-S4, residues 1525-1625) grafted onto bacterial <a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> channel scaffold</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/gx-936/">GX-936</a> (aryl sulfonamide antagonist)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/n/a (not explicitly stated in paper)">N/A (NOT EXPLICITLY STATED IN PAPER)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ek0">5EK0</a></td>
       <td>3.85</td>
       <td>—</td>
       <td>Nav1.7 VSD4-<a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> with GX-629 (brominated analog for SAD phasing)</td>
       <td>GX-629</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/n/a (not explicitly stated in paper)">N/A (NOT EXPLICITLY STATED IN PAPER)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ek0">5EK0</a></td>
       <td>4.35</td>
       <td>—</td>
       <td>Nav1.7 VSD4-<a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> (selenomethionine-incorporated, 5 Met landmarks)</td>

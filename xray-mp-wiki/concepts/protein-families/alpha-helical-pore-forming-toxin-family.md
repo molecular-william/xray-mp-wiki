@@ -1,13 +1,13 @@
 ---
-title: Alpha-Helical Pore-Forming Toxin Family (pfam05791)
+title: "Alpha-Helical Pore-Forming Toxin Family (pfam05791)"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1186##s12915-016-0295-9]
-verified: false
+verified: regex
 ---
 
 # Alpha-Helical Pore-Forming Toxin Family (pfam05791)

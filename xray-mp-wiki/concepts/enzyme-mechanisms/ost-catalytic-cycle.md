@@ -1,13 +1,13 @@
 ---
-title: Catalytic Cycle of Oligosaccharyltransferase
+title: "Catalytic Cycle of Oligosaccharyltransferase"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1073##pnas.1309777110]
-verified: false
+verified: regex
 ---
 
 # Catalytic Cycle of Oligosaccharyltransferase

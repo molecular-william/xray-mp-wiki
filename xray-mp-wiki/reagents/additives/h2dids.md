@@ -1,5 +1,5 @@
 ---
-title: H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)
+title: "H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1126##science.aaa4335]
-verified: false
+verified: regex
 ---
 
 # H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)

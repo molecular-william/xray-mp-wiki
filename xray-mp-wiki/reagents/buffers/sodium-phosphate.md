@@ -1,5 +1,5 @@
 ---
-title: Sodium Phosphate
+title: "Sodium Phosphate"
 created: 2026-06-03
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-phosphate, subdirectory-buffers]
 sources: [doi/10.1006##jmbi.1999.3027, doi/10.1038##NATURE06717, doi/10.1038##nature12648]
-verified: false
+verified: none
 ---
 
 # Sodium Phosphate

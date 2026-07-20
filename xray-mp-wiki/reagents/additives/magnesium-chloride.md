@@ -1,5 +1,5 @@
 ---
-title: Magnesium Chloride
+title: "Magnesium Chloride"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-metal, subdirectory-additives]
 sources: [doi/10.1038##ncomms4110, doi/10.1038##ncomms9004, doi/10.1002##pro.215, doi/10.1016##j.jbc.2021.100479, doi/10.1016##j.str.2016.04.003, doi/10.1038##nature13306]
-verified: false
+verified: regex
 ---
 
 # Magnesium Chloride

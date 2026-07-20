@@ -1,5 +1,5 @@
 ---
-title: D-Galactose
+title: "D-Galactose"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature09580]
-verified: false
+verified: agent
 ---
 
 # D-Galactose

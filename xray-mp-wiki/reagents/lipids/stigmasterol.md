@@ -1,5 +1,5 @@
 ---
-title: Stigmasterol
+title: "Stigmasterol"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid-sterol, subdirectory-lipids]
 sources: [doi/10.1016##j.jmb.2022.167795]
-verified: false
+verified: agent
 ---
 
 # Stigmasterol

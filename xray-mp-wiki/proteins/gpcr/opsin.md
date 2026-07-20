@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature07063, doi/10.1038##nature07330, doi/10.1002##anie.201302374, doi/10.1016##j.str.2015.09.015, doi/10.1038##ncomms5801]
-verified: regex
+verified: agent
 uniprot_id: P02699
 ---
 
@@ -595,7 +595,7 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gzm">4GZM</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4j4q">4J4Q</a></td>
       <td>2.65 A</td>
       <td>not specified</td>
       <td>Ops* conformation (retinal-free rhodopsin apoprotein) in complex with synthetic G protein peptide GalphaCT2</td>

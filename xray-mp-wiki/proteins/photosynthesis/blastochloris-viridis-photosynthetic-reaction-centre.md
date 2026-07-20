@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2017.07.002, doi/10.1038##ncomms3911, doi/10.1107##s2059798322004144]
-verified: regex
+verified: agent
 uniprot_id: ['P06008', 'P06009', 'P06010', 'P07173']
 ---
 
@@ -1280,9 +1280,9 @@ The photosynthetic reaction center from Blastochloris viridis (RCvir, formerly R
   <tbody>
     <tr>
       <td>Purification</td>
-      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion exchange</a> and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
-      <td>POROS "50 micron" HQ media (ion exchange), HiPrep 26/60 Sephacryl S-300 (SEC)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.5, 1% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (ion exchange); 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.5, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (SEC) + <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion exchange</a> and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td>POROS "50 micron" HQ media (ion exchange), HiPrep 26/60 Sephacryl S-300 (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.5, 1% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (ion exchange); 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.5, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>) + <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
       <td>Protein eluted with gradient 0-0.5 M NaCl in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.5, 1% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>. Yield ~3 mg pure RCvir per litre of cell culture.</td>
     </tr>
   </tbody>

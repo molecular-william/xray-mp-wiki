@@ -1,13 +1,13 @@
 ---
-title: FNT Family (Formate/Nitrite Transporter Family)
+title: "FNT Family (Formate/Nitrite Transporter Family)"
 created: 2026-06-02
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature10881, doi/10.1038##nsmb.1740, doi/10.1126##science.1199098]
-verified: false
+verified: regex
 ---
 
 # FNT Family (Formate/Nitrite Transporter Family)

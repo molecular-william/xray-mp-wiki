@@ -1,5 +1,5 @@
 ---
-title: Mavoglurant (AFQ056)
+title: "Mavoglurant (AFQ056)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.jmedchem.5b00892, doi/10.1021##acs.jmedchem.7b01722, doi/10.1038##nature13396]
-verified: false
+verified: regex
 ---
 
 # Mavoglurant (AFQ056)

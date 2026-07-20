@@ -1,5 +1,5 @@
 ---
-title: BRIL (Thermostabilized Apocytochrome b562RIL)
+title: "BRIL (Thermostabilized Apocytochrome b562RIL)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1126##science.aan5468]
-verified: false
+verified: regex
 ---
 
 # BRIL (Thermostabilized Apocytochrome b562RIL)

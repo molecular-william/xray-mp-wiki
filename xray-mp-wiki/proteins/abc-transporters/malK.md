@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature06264]
-verified: regex
+verified: agent
 uniprot_id: ['P02916', 'P0AEX9', 'P68183', 'Q1R3Q1']
 ---
 
@@ -110,7 +110,7 @@ MalK is the cytoplasmic ATP-binding cassette (NBD) subunit of the Escherichia co
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>--</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8, 200 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>--</td>

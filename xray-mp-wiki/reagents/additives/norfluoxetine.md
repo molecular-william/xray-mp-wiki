@@ -1,5 +1,5 @@
 ---
-title: Norfluoxetine
+title: "Norfluoxetine"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1126##science.1261512]
-verified: false
+verified: agent
 ---
 
 # Norfluoxetine

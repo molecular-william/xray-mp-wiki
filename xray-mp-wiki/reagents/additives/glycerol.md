@@ -1,5 +1,5 @@
 ---
-title: Glycerol
+title: "Glycerol"
 created: 2026-05-18
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.jmb.2018.02.026, doi/10.1016##j.str.2016.04.003, doi/10.1038##NATURE13293, doi/10.1038##SJ.EMBOJ.7600585, doi/10.1038##nature11010, doi/10.1038##nature11900, doi/10.1038##nature13306, doi/10.1038##nature14549, doi/10.1038##ncomms15383, doi/10.1038##ncomms4110, doi/10.1038##ncomms5355, doi/10.1038##ncomms8895, doi/10.1038##ncomms8947, doi/10.1038##ncomms8995, doi/10.1038##ncomms9004, doi/10.1038##nsmb.3049]
-verified: false
+verified: none
 ---
 
 # Glycerol

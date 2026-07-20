@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1612035113]
-verified: regex
-uniprot_id: F5LA74
+verified: agent
+uniprot_id: ['F5LA71', 'F5LA72', 'F5LA73', 'F5LA74']
 ---
 
 # F1-ATPase from Caldalkalibacillus thermarum
@@ -16,7 +16,7 @@ uniprot_id: F5LA74
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/F5LA74">UniProt: F5LA74</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/F5LA71">UniProt: F5LA71</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/F5LA72">UniProt: F5LA72</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/F5LA73">UniProt: F5LA73</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/F5LA74">UniProt: F5LA74</a>
 
 <span class="expr-badge">Caldalkalibacillus thermarum TA2.A1</span>
 
@@ -80,17 +80,17 @@ The F1-ATPase from Caldalkalibacillus thermarum is the water-soluble catalytic d
   <tbody>
     <tr>
       <td>Nickel affinity chromatography</td>
-      <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>Purification buffer (detailed in SI Materials and Methods)</td>
-      <td>His10-tagged F1-ATPase bound to Ni-NTA resin</td>
+      <td>His10-tagged F1-ATPase bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
     </tr>
     <tr>
       <td>TEV protease cleavage</td>
       <td>On-column cleavage</td>
       <td></td>
       <td></td>
-      <td>His10 tag cleaved with TEV protease while bound to Ni-NTA column</td>
+      <td>His10 tag cleaved with <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease while bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column</td>
     </tr>
   </tbody>
 </table>

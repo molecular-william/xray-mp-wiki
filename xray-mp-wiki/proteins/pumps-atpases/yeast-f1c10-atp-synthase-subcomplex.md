@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.286.5445.1700, doi/10.1074##jbc.m110.124529]
-verified: regex
+verified: agent
 uniprot_id: ['P00829', 'P00830', 'P05631', 'P07251', 'P0A6E6', 'P19483', 'P21306', 'P38077', 'P61829', 'P68699', 'Q12165']
 ---
 
@@ -1206,7 +1206,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
     <tr>
       <td>Enzyme purification</td>
       <td>Nickel-nitrilotriacetic acid <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 100 mM NaCl, 2 mM MgCl2, 25 mM <a href="/xray-mp-wiki/reagents/additives/trehalose/">Trehalose</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 3 mM sodium azide, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0 + 0.64 mM n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Enzyme purified as described previously (ref 21)</td>
     </tr>

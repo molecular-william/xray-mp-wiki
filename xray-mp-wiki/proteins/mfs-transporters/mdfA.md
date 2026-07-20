@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2018.02.026, doi/10.1038##cr.2015.94, doi/10.1038##s41467-018-06306-x]
-verified: regex
+verified: agent
 uniprot_id: P0AEY8
 ---
 
@@ -42,7 +42,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6euq">6EUQ</a></td>
-      <td>2.2 A</td>
+      <td>2.2</td>
       <td>P21</td>
       <td>MdfA(Q131R/L339E) double mutant with <a href="/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/">C-terminal</a> <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">hexahistidine</a> tag</td>
       <td><a href="/xray-mp-wiki/reagents/additives/deoxycholate/">deoxycholate</a> (DXC)</td>
@@ -71,27 +71,27 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
       <td>E. coli cells grown at 37 C, diluted and induced with 0.2% arabinose for 18 h at 16 C. Cells disrupted by pressure cell homogenizer at 15 kPsi. Membranes collected by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 167,000g for 1 h.</td>
       <td>--</td>
       <td>50 mM KPi pH 7.3, 2 mM MgSO4, 10 ug/mL <a href="/xray-mp-wiki/reagents/additives/dnase/">DNase</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a> + --</td>
-      <td>Membranes resuspended in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.5 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> and stored at -80 C</td>
+      <td>Membranes resuspended in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.5 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> and stored at -80 C</td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Membranes solubilized with 1.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (10% stock), insoluble material removed by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 167,000g for 30 min</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.5 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 1.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 1.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.5 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 1.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 1.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Solubilized at 4 C for 2 hr</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> using <a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> beads, washed with solubilization buffer, eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> beads (Clontech)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.2, 0.5 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.2, 0.5 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Agitated for 2 hr at 4 C, eluted in 30 column volumes of wash buffer</td>
     </tr>
     <tr>
       <td>Dialysis and concentration</td>
       <td>Dialyzed overnight against dialysis buffer at 4 C, protein concentration determined by A280 (1 mg/mL = 2.1 A280)</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.2, 0.12 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.2, 0.12 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Purified MdfA used for binding assays, crystallization, and MD simulations</td>
     </tr>
   </tbody>
@@ -108,16 +108,16 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
   <tbody>
     <tr>
       <td>MdfA(Q131R/L339E) purification for crystallization</td>
-      <td>Membranes solubilized with 0.5% DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>), <a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a>, <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on <a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/30 column</td>
+      <td>Membranes solubilized with 0.5% DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>), <a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a>, <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on <a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/30 column</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> beads (Clontech)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.5 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.2% DM, 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.2% DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
-      <td>Concentrated to 10 mg/mL before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 0.5 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.2% DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>Concentrated to 10 mg/mL before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/30 column pre-equilibrated with <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> buffer</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/30 (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 1.2 mM sodium <a href="/xray-mp-wiki/reagents/additives/deoxycholate/">deoxycholate</a> (omitted in some experiments), 0.2-0.4% n-nonyl-beta-D-glucopyranoside (Anatrace), 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (Anatrace) + 0.2-0.4% NG (n-nonyl-beta-D-glucopyranoside), 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 column pre-equilibrated with <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> buffer</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 (GE Healthcare)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 1.2 mM sodium <a href="/xray-mp-wiki/reagents/additives/deoxycholate/">deoxycholate</a> (omitted in some experiments), 0.2-0.4% n-nonyl-beta-D-glucopyranoside (Anatrace), 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (Anatrace) + 0.2-0.4% NG (n-nonyl-beta-D-glucopyranoside), 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
       <td>Peak fractions pooled and concentrated to 15 mg/mL for crystallization</td>
     </tr>
   </tbody>
@@ -423,28 +423,28 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
       <td>Expression and membrane preparation</td>
       <td>Full-length MdfA gene cloned from E. coli BL21(DE3) genome. Overexpressed in E. coli C43 (DE3) with <a href="/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/">C-terminal</a> <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6</a> tag, induced with 0.5 mM <a href="/xray-mp-wiki/methods/expression-systems/iptg-induction/">IPTG</a> at OD600 0.8, grown at 16 C for 18 h. Cells homogenized at 10,000-15,000 p.s.i., membrane fraction collected by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 100,000g for 1 h.</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a> + --</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a> + --</td>
       <td>Incidental Q131R mutation introduced during cloning; considered WT</td>
     </tr>
     <tr>
       <td>Solubilization</td>
-      <td>Membrane fraction solubilized with 0.5% DM for 2 h at 4 C, clarified by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 100,000g for 30 min</td>
+      <td>Membrane fraction solubilized with 0.5% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> for 2 h at 4 C, clarified by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 100,000g for 30 min</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 0.5% DM + 0.5% DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.5% DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Solubilized at 4 C for 2 hr</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity resin, washed with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, eluted with 350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 0.2% DM, 350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.2% DM</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity resin, washed with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, eluted with 350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 350 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Concentrated to 10-15 mg/mL</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/30 column pre-equilibrated with <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> buffer</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/30 (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 1.2 mM sodium <a href="/xray-mp-wiki/reagents/additives/deoxycholate/">deoxycholate</a>, 0.2% n-nonyl-beta-D-glucopyranoside, 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> + 0.2% NG (n-nonyl-beta-D-glucopyranoside), 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 column pre-equilibrated with <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> buffer</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 (GE Healthcare)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 1.2 mM sodium <a href="/xray-mp-wiki/reagents/additives/deoxycholate/">deoxycholate</a>, 0.2% n-nonyl-beta-D-glucopyranoside, 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> + 0.2% NG (n-nonyl-beta-D-glucopyranoside), 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
       <td>Peak fractions pooled and concentrated to 15 mg/mL before crystallization</td>
     </tr>
   </tbody>
@@ -460,7 +460,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>15 mg/mL MdfA(Q131R) in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 1.2 mM sodium <a href="/xray-mp-wiki/reagents/additives/deoxycholate/">deoxycholate</a>, 0.2% NG, 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+      <td>15 mg/mL MdfA(Q131R) in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-mercaptoethanol</a>, 1.2 mM sodium <a href="/xray-mp-wiki/reagents/additives/deoxycholate/">deoxycholate</a>, 0.2% NG, 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
     </tr>
     <tr>
       <td>Reservoir</td>

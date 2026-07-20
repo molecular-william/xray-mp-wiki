@@ -1,5 +1,5 @@
 ---
-title: 2,6-di-t-butyl-p-cresol
+title: "2,6-di-t-butyl-p-cresol"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##ncomms9004]
-verified: false
+verified: agent
 ---
 
 # 2,6-di-t-butyl-p-cresol

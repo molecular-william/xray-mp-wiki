@@ -1,13 +1,13 @@
 ---
-title: P2X Receptor Family
+title: "P2X Receptor Family"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature08198, doi/10.1038##nature11010]
-verified: false
+verified: regex
 ---
 
 # P2X Receptor Family

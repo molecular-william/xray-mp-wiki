@@ -1,13 +1,13 @@
 ---
-title: Steric Trigger Mechanism in Rhodopsin Signaling
+title: "Steric Trigger Mechanism in Rhodopsin Signaling"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1016##j.jmb.2011.11.025, doi/10.1074##jbc.M604208200, doi/10.1074##jbc.M701915200]
-verified: false
+verified: none
 ---
 
 # Steric Trigger Mechanism in Rhodopsin Signaling

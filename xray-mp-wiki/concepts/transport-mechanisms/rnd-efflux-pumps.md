@@ -1,13 +1,13 @@
 ---
-title: RND Efflux Pumps
+title: "RND Efflux Pumps"
 created: 2026-05-28
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
-sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1073##pnas.2215072120, doi/10.1073##pnas.1901346116, doi/10.1073##pnas.1114944109, doi/10.1038##s41467-021-27726-2, doi/10.1016##j.str.2005.11.015, doi/10.1128##jb.00684-06, doi/10.1080##09687680802552257, doi/10.3389##fmicb.2017.02095, doi/10.1038##nature05076]
-verified: false
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
+sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1073##pnas.2215072120, doi/10.1073##pnas.1901346116, doi/10.1073##pnas.1114944109, doi/10.1038##s41467-021-27726-2, doi/10.1016##j.str.2005.11.015, doi/10.1128##jb.00684-06, doi/10.1080##09687680802552257, doi/10.3389##fmicb.2017.02095, doi/10.1038##nature05076, doi/10.1038##s41467-021-24151-3]
+verified: regex
 ---
 
 # RND Efflux Pumps

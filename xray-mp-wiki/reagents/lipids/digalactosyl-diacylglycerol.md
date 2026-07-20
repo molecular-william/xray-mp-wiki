@@ -1,5 +1,5 @@
 ---
-title: Digalactosyl Diacylglycerol
+title: "Digalactosyl Diacylglycerol"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, subdirectory-lipids]
 sources: [doi/10.1038##SJ.EMBOJ.7600585, doi/10.1038##nature02373]
-verified: false
+verified: none
 ---
 
 # Digalactosyl Diacylglycerol

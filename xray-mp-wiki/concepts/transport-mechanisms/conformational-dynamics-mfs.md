@@ -1,13 +1,13 @@
 ---
-title: Conformational Dynamics in MFS Transporters
+title: "Conformational Dynamics in MFS Transporters"
 created: 2026-05-27
 updated: 2026-05-27
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.str.2014.06.008, doi/10.1016##j.jmb.2018.02.026, doi/10.1016##j.str.2014.12.012, doi/10.1038##nature13306]
-verified: false
+verified: regex
 ---
 
 # Conformational Dynamics in MFS Transporters

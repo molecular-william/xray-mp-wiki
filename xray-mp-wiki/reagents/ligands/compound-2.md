@@ -1,5 +1,5 @@
 ---
-title: Compound 2 (AT2R dual ligand)
+title: "Compound 2 (AT2R dual ligand)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature22035]
-verified: false
+verified: regex
 ---
 
 # Compound 2 (AT2R dual ligand)

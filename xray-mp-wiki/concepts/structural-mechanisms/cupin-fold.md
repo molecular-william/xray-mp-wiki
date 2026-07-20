@@ -1,13 +1,13 @@
 ---
-title: Cupin Fold
+title: "Cupin Fold"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature17391]
-verified: false
+verified: regex
 ---
 
 # Cupin Fold

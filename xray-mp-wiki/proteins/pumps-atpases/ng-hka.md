@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-022-32793-0]
-verified: regex
+verified: agent
 uniprot_id: ['P07340', 'P54708']
 ---
 
@@ -367,7 +367,7 @@ The SPWC quadruple mutant (Lys794Ser, Ile943Trp, Arg949Cys, Ala797Pro) converts 
 - <a href="/xray-mp-wiki/reagents/ligands/atp">ATP</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/additives/peg300">PEG300</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/protein-tags/nanobody">Nanobody</a> — Entity mentioned in text
-- <a href="/xray-mp-wiki/reagents/additives/mgcl2">MGCL2</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MGCL2</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/detergents/c12e8">C12E8</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/ligands/alf4">ALF4</a> — Entity mentioned in text
 - <a href="/xray-mp-wiki/reagents/additives/dtt">DTT</a> — Entity mentioned in text

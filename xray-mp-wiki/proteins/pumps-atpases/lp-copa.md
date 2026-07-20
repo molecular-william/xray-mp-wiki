@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10191, doi/10.1038##NSMB.2721]
-verified: regex
-uniprot_id: ['P04191', 'Q5ZWR1']
+verified: agent
+uniprot_id: ['Q5ZWR1']
 ---
 
 # LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)
@@ -16,9 +16,9 @@ uniprot_id: ['P04191', 'Q5ZWR1']
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P04191">UniProt: P04191</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q5ZWR1">UniProt: Q5ZWR1</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q5ZWR1">UniProt: Q5ZWR1</a>
 
-<span class="expr-badge">Oryctolagus cuniculus</span>
+<span class="expr-badge">Legionella pneumophila</span>
 
 ## Overview
 
@@ -27,7 +27,7 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
 
 ## Publications
 
-### doi/10.1038##nature10191
+### doi/10.1038/nature10191
 
 **Structures:**
 
@@ -234,7 +234,7 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
 </div>
 
 </div>
-### doi/10.1038##NSMB.2721
+### doi/10.1038/nature10191
 
 **Structures:**
 
@@ -249,14 +249,14 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3rfu">3RFU</a></td>
-      <td>2.0 A</td>
+      <td>2.0</td>
       <td>C2</td>
       <td>Full-length LpCopA from Legionella pneumophila in E2.Pi state trapped with AlF4-</td>
       <td>AlF4- (aluminum fluoride) phosphate analog, Mg2+, Cu+ transport site</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3b9b">3B9B</a></td>
-      <td>2.0 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4bbj">4BBJ</a></td>
+      <td>2.0</td>
       <td>P2_12_12_1</td>
       <td>Full-length LpCopA from Legionella pneumophila in E2P state trapped with BeF3-</td>
       <td>BeF3- (beryllium fluoride) phosphate analog, Mg2+</td>
@@ -504,7 +504,7 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
 </div>
 
 <div class="sequence-entry" markdown="1">
-**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3b9b">3B9B</a> — Chain A (10 TMs, alpha)**
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4bbj">4BBJ</a> — Chain A (10 TMs, alpha)**
 
 <div class="sequence-display">
 <div class="topo-legend">

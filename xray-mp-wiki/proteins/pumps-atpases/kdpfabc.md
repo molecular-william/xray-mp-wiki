@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature22970]
-verified: pdb-pass
+verified: agent
 uniprot_id: ['P03959', 'P03960', 'P03961', 'P36937']
 ---
 
@@ -77,14 +77,14 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Gradient elution (20-500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>)</td>
       <td>Ni2+-charged HiTrap chelating column (GE Healthcare)</td>
-      <td>50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% DM, 20-500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+      <td>50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 20-500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td>Gel filtration</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
-      <td>50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% DM</td>
+      <td>50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>
     </tr>
   </tbody>

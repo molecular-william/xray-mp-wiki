@@ -1,5 +1,5 @@
 ---
-title: Amiloride
+title: "Amiloride"
 created: 2026-05-27
 updated: 2026-05-27
 type: reagent

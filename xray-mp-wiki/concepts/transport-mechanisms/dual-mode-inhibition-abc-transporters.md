@@ -1,13 +1,13 @@
 ---
-title: Dual-Mode Inhibition of ABC Transporters
+title: "Dual-Mode Inhibition of ABC Transporters"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41586-018-0083-5]
-verified: false
+verified: regex
 ---
 
 # Dual-Mode Inhibition of ABC Transporters

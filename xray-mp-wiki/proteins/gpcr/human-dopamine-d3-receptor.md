@@ -1,13 +1,13 @@
 ---
 title: "Human Dopamine D3 Receptor (D3R)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.1197410]
-verified: regex
+verified: agent
 uniprot_id: P35462
 ---
 

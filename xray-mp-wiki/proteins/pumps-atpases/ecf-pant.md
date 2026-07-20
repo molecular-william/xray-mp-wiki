@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.64389, doi/10.1073##pnas.1412246112]
-verified: regex
+verified: agent
 uniprot_id: ['Q03PY5', 'Q03PY6', 'Q03PY7', 'Q03SM0', 'Q1GBG0', 'Q1GBI8', 'Q1GBI9', 'Q1GBJ0']
 ---
 
@@ -84,13 +84,13 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
       <td> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (IMAC)</td>
       <td>Nickel-Sepharose</td>
-      <td>50 mM potassium phosphate pH 7.5, 300 mM NaCl, 50 mM  (wash); 500 mM  (elution) + 0.05% (w/v) </td>
+      <td>50 mM potassium phosphate pH 7.5, 300 mM NaCl, 50 mM (wash); 500 mM  (elution) + 0.05% (w/v) </td>
       <td>Solubilized protein mixed with Ni-Sepharose resin for 1 h. Washed with 20 CV of wash buffer. Protein eluted in three-step gradient. Second fraction (highest protein content) supplemented with 1 mM Na-.</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> (with )</td>
       <td>Gel filtration</td>
-      <td>Superdex 200 10/300 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 (GE Healthcare)</td>
       <td>50 mM  Hcl]] pH 7.5, 150 mM NaCl + 0.05% (w/v) </td>
       <td>Purified  Nb81 mixed with ECF-PanT complex and applied to gel filtration column. Fractions containing -bound ECF-PanT pooled and concentrated.</td>
     </tr>

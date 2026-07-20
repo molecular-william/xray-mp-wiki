@@ -1,5 +1,5 @@
 ---
-title: Amino-Methoxy-Isocoumarin (JLK-6)
+title: "Amino-Methoxy-Isocoumarin (JLK-6)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##emboj.2010.243]
-verified: agent
+verified: regex
 ---
 
 # Amino-Methoxy-Isocoumarin (JLK-6)

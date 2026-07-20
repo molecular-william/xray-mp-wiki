@@ -1,13 +1,13 @@
 ---
-title: Central Core Disease and Ryanodine Receptor SPRY1 Domain
+title: "Central Core Disease and Ryanodine Receptor SPRY1 Domain"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-signaling-receptors]
 sources: [doi/10.1038##ncomms8947]
-verified: false
+verified: regex
 ---
 
 # Central Core Disease and Ryanodine Receptor SPRY1 Domain

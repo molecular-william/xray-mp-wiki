@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1006##jmbi.1997.0966, doi/10.1016##S0022-2836(03)00024-X]
-verified: regex
+verified: agent
 uniprot_id: ['P26789', 'P26790']
 ---
 
@@ -69,7 +69,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
       <td>LH2 complex purification</td>
       <td>Purification as described in McDermott et al., 1995 (reference 8 of the paper)</td>
       <td>--</td>
-      <td>Not specified in detail + beta-octylglucoside (OG)</td>
+      <td>Not specified in detail + beta-octylglucoside (<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>)</td>
       <td>LH2 complex purified from Rhodopseudomonas acidophila strain 10050 and crystallized using the protocol described in McDermott et al., 1995 and Howard et al., 1993</td>
     </tr>
   </tbody>

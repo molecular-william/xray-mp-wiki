@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.85.21.7993, doi/10.1016##J.JMB.2007.04.082, doi/10.1126##science.276.5313.812, doi/10.1107##s2052252520012142, doi/10.1107##s2052252521013178, doi/10.3390##membranes13020154, doi/10.3390##membranes13020157, doi/10.1021##bi00236a005, doi/10.1016##S0022-2836(03)00751-4, doi/10.1016##j.bbabio.2013.11.015, doi/10.1021##bi00181a020]
-verified: regex
+verified: agent
 uniprot_id: ['P0C0Y7', 'P0C0Y8', 'P0C0Y9', 'Q3J170', 'Q3J1A5', 'Q3J1A6']
 ---
 
@@ -6076,7 +6076,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
       <td><a href="/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/">Bacteriochlorophyll</a>, <a href="/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/">Bacteriopheophytin</a>, <a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a>, non-<a href="/xray-mp-wiki/reagents/ligands/heme/">HEME</a> Fe2+, spheroidene</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6z27">6Z27</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6z02">6Z02</a></td>
       <td>2.07</td>
       <td>P4_2_21_2</td>
       <td>LCP crystallization (microbatch)</td>
@@ -8074,10 +8074,10 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td>Ni-NTA agarose column</td>
-      <td>Ni-NTA agarose (Serva)</td>
-      <td>20 mM Tris-HCl pH 8.0, 0.2% sodium cholate or 0.05% Triton X-100 + LDAO (lauryldimethylamine oxide) for solubilization; exchanged to sodium cholate or Triton X-100 after purification</td>
-      <td>RCs solubilized using LDAO, purified by Ni-NTA agarose column. After purification, detergent replaced with 0.2% sodium cholate or 0.05% Triton X-100.</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose (Serva)</td>
+      <td>20 mM Tris-HCl pH 8.0, 0.2% sodium cholate or 0.05% Triton X-100 + <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (lauryldimethylamine oxide) for solubilization; exchanged to sodium cholate or Triton X-100 after purification</td>
+      <td>RCs solubilized using <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose column. After purification, detergent replaced with 0.2% sodium cholate or 0.05% Triton X-100.</td>
     </tr>
   </tbody>
 </table>

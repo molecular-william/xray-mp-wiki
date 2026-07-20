@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-020-19457-7]
-verified: regex
+verified: agent
 uniprot_id: F2Y337
 ---
 
@@ -99,7 +99,7 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>OLPVR1 at 20 mg/ml with 10 mM CaCl2, 10 mM <a href="/xray-mp-wiki/reagents/additives/mgcl2">MGCL2</a></td>
+      <td>OLPVR1 at 20 mg/ml with 10 mM CaCl2, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MGCL2</a></td>
     </tr>
     <tr>
       <td>Temperature</td>

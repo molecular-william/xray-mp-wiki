@@ -1,5 +1,8 @@
 """Fill year/pmid/journal/PDB Release/MW from RCSB GraphQL."""
-import json, csv, time
+
+import csv
+import json
+import time
 from pathlib import Path
 from urllib.request import Request, urlopen
 
@@ -8,8 +11,9 @@ GRAPHQL = "https://data.rcsb.org/graphql"
 BATCH_SIZE = 500
 DELAY = 0.5
 
+
 def query(pdb_ids):
-    gql = '''{ entries(entry_ids: %s) { rcsb_id rcsb_primary_citation { year journal_abbrev pdbx_database_id_PubMed } rcsb_entry_info { molecular_weight } rcsb_accession_info { initial_release_date } } }'''
+    gql = """{ entries(entry_ids: %s) { rcsb_id rcsb_primary_citation { year journal_abbrev pdbx_database_id_PubMed } rcsb_entry_info { molecular_weight } rcsb_accession_info { initial_release_date } } }"""
     body = json.dumps({"query": gql % json.dumps(pdb_ids)})
     req = Request(GRAPHQL, data=body.encode(), headers={"Content-Type": "application/json"})
     try:
@@ -18,6 +22,7 @@ def query(pdb_ids):
     except Exception as e:
         print(f"  Error batch of {len(pdb_ids)}: {e}")
         return []
+
 
 # Read CSV
 with open(CSV_PATH, newline="") as f:
@@ -31,8 +36,8 @@ print(f"Rows: {len(reader)}, missing year: {total_missing} unique PDBs")
 # Batch query
 results = {}
 for i in range(0, len(missing_pdbs), BATCH_SIZE):
-    batch = missing_pdbs[i:i+BATCH_SIZE]
-    print(f"  Batch {i//BATCH_SIZE + 1} ({len(batch)} PDBs)...")
+    batch = missing_pdbs[i : i + BATCH_SIZE]
+    print(f"  Batch {i // BATCH_SIZE + 1} ({len(batch)} PDBs)...")
     for entry in query(batch):
         pdb = entry["rcsb_id"].lower()
         cit = entry.get("rcsb_primary_citation") or {}

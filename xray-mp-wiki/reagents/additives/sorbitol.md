@@ -1,5 +1,5 @@
 ---
-title: Sorbitol
+title: "Sorbitol"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##nsmb.1531]
-verified: false
+verified: agent
 ---
 
 # Sorbitol

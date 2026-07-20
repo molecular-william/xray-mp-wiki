@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [protease, enzyme, subdirectory-additives]
 sources: [doi/10.1038##nature05076]
-verified: none
+verified: regex
 ---
 
 # Thrombin

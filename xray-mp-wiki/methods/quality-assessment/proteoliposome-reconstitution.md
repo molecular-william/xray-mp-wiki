@@ -1,5 +1,5 @@
 ---
-title: Proteoliposome Reconstitution
+title: "Proteoliposome Reconstitution"
 created: 2026-05-29
 updated: 2026-05-29
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.7554##eLife.34995, doi/10.1038##EMBOJ.2012.157, doi/10.1038##nsmb.2417]
-verified: false
+verified: none
 ---
 
 # Proteoliposome Reconstitution

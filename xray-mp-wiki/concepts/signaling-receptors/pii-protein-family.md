@@ -1,13 +1,13 @@
 ---
-title: PII Signal Transduction Protein Family
+title: "PII Signal Transduction Protein Family"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-signaling-receptors]
 sources: [doi/10.1073##pnas.2101632118]
-verified: false
+verified: regex
 ---
 
 # PII Signal Transduction Protein Family

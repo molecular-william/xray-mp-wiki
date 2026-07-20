@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.27829]
-verified: regex
+verified: agent
 uniprot_id: ['A0A0X8F058', 'M4XKU7', 'Q5QUJ8']
 ---
 
@@ -43,7 +43,7 @@ residues.
 
 ## Publications
 
-### doi/10.7554##eLife.27829
+### doi/10.7554/eLife.27829
 
 **Structures:**
 
@@ -100,28 +100,28 @@ residues.
       <td>Cell lysis</td>
       <td>Microfluidizer</td>
       <td>--</td>
-      <td>20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">Hepes</a> pH 7.0, 200 mM NaCl, 1 mM TCEP-HCl, 20 mM Na₂SO₄ + 1% (w/v) decyl maltopyranoside (DM)</td>
+      <td>20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">Hepes</a> pH 7.0, 200 mM NaCl, 1 mM TCEP-HCl, 20 mM Na₂SO₄ + 1% (w/v) decyl maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Solubilization for 1 hr at 4°C, insoluble material removed by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation">ultracentrifugation</a> at 100,000 x g</td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> Sepharose</td>
-      <td>20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">Hepes</a> pH 7.0, 200 mM NaCl, 0.2% DM, 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a> (wash); 250 mM imidazole (elution) + 0.2% decyl maltopyranoside (DM)</td>
-      <td>Eluted protein dialyzed overnight with His-tagged TEV protease at 4°C against 20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">Hepes</a> pH 7.0, 200 mM NaCl, 0.2% DM, 1 mM TCEP-HCl, 20 mM Na₂SO₄ for tag cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) Sepharose</td>
+      <td>20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">Hepes</a> pH 7.0, 200 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a> (wash); 250 mM imidazole (elution) + 0.2% decyl maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>Eluted protein dialyzed overnight with His-tagged <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease at 4°C against 20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">Hepes</a> pH 7.0, 200 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 1 mM TCEP-HCl, 20 mM Na₂SO₄ for tag cleavage</td>
     </tr>
     <tr>
       <td>Reverse Ni-NTA</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> Sepharose</td>
-      <td>Same as dialysis buffer + 0.2% decyl maltopyranoside (DM)</td>
-      <td>Passaged over Ni-NTA to remove uncleaved CysZ, TEV protease, and cleaved His₁₀ tag</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) Sepharose</td>
+      <td>Same as dialysis buffer + 0.2% decyl maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>Passaged over <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> to remove uncleaved CysZ, <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease, and cleaved His₁₀ tag</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> 10/300 HR</td>
-      <td>20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">Hepes</a> pH 7.0, 200 mM NaCl, 1 mM TCEP-HCl, 20 mM Na₂SO₄ + For IlCysZ: 0.06% LDAO; for PfCysZ and PdCysZ: 1% beta-OG (beta-octyl glucopyranoside)</td>
+      <td>20 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes">Hepes</a> pH 7.0, 200 mM NaCl, 1 mM TCEP-HCl, 20 mM Na₂SO₄ + For IlCysZ: 0.06% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>; for PfCysZ and PdCysZ: 1% beta-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> (beta-octyl glucopyranoside)</td>
       <td>Typical yield ~1.5 mg from 1 L culture</td>
     </tr>
   </tbody>

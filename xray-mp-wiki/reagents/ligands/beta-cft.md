@@ -1,5 +1,5 @@
 ---
-title: beta-CFT (CFT)
+title: "beta-CFT (CFT)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature14431]
-verified: false
+verified: regex
 ---
 
 # beta-CFT (CFT)

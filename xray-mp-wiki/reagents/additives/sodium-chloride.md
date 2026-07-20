@@ -1,5 +1,5 @@
 ---
-title: Sodium Chloride
+title: "Sodium Chloride"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
 sources: [doi/10.1038##nature12648, doi/10.1038##ncomms15383, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109, doi/10.1038##ncomms4110, doi/10.1038##ncomms5355, doi/10.1038##ncomms5521, doi/10.1038##ncomms8895, doi/10.1038##ncomms8947, doi/10.1038##ncomms8995, doi/10.1038##nsmb.1531, doi/10.1038##s41422-020-00424-2, doi/10.1038##s41422-022-00679-x]
-verified: false
+verified: regex
 ---
 
 # Sodium Chloride

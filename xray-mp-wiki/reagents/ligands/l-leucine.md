@@ -1,5 +1,5 @@
 ---
-title: L-Leucine
+title: "L-Leucine"
 created: 2026-06-02
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature03978, doi/10.1038##nature10737, doi/10.1038##ncomms11673]
-verified: false
+verified: agent
 ---
 
 # L-Leucine

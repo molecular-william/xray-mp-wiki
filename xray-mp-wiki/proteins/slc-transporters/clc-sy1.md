@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1021##bi1019258]
-verified: regex
+verified: agent
 uniprot_id: P73745
 ---
 
@@ -41,14 +41,14 @@ CLC-sy1 (SY) is a CLC Cl-/H+ exchange transporter from the cyanobacterium Synech
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3nco">3NCO</a></td>
-      <td>3.2 A</td>
+      <td>3.2</td>
       <td>unknown</td>
       <td>CLC-sy1 residues 26-450 from Synechocystis sp. PCC6803, expressed in E. coli, treated with lysine-C endoproteinase to remove first 14 N-terminal residues</td>
       <td>Cl- (central binding site)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3q17">3Q17</a></td>
-      <td>3.2 A</td>
+      <td>3.2</td>
       <td>unknown</td>
       <td>Same construct as 3NCO, crystallized with Br-</td>
       <td>Br- (anomalous difference data)</td>
@@ -75,9 +75,9 @@ CLC-sy1 (SY) is a CLC Cl-/H+ exchange transporter from the cyanobacterium Synech
     <tr>
       <td>Gel filtration</td>
       <td>Size-exclusion chromatography</td>
-      <td>Superdex 200</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> (pH 7.5) + 5 mM DM (<a href="/xray-mp-wiki/reagents/detergents/dm/">Decylmaltoside</a>)</td>
-      <td>Lysine-C endoproteinase treatment (1 h, 0.01 unit/mg, 25 C) before Superdex 200 step to remove first 14 N-terminal residues</td>
+      <td>Lysine-C endoproteinase treatment (1 h, 0.01 unit/mg, 25 C) before <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> step to remove first 14 N-terminal residues</td>
     </tr>
   </tbody>
 </table>

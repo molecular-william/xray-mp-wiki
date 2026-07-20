@@ -1,13 +1,13 @@
 ---
-title: SERCA E2 to E1 Transition Mechanism
+title: "SERCA E2 to E1 Transition Mechanism"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1073##pnas.1815472115]
-verified: false
+verified: regex
 ---
 
 # SERCA E2 to E1 Transition Mechanism

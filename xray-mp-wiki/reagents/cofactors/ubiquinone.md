@@ -1,5 +1,5 @@
 ---
-title: Ubiquinone
+title: "Ubiquinone"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [cofactor, subdirectory-cofactors]
 sources: [doi/10.1006##jmbi.1994.0097, doi/10.1016##j.febslet.2008.07.063]
-verified: false
+verified: agent
 ---
 
 # Ubiquinone

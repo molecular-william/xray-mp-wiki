@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1817271116]
-verified: regex
+verified: agent
 ---
 
 # XTRIC-B (Xenopus TRIC-B Channel)
@@ -36,14 +36,14 @@ XTRIC-B is the Xenopus tropicalis ortholog of the TRIC-B subtype of trimeric int
   </tr></thead>
   <tbody>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6iyu">6IYU</a></td>
       <td>3.1</td>
       <td></td>
       <td>Xenopus XTRIC-B, full-length</td>
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6iyu">6IYU</a></td>
       <td></td>
       <td></td>
       <td>Xenopus XTRIC-B, Ca2+-free state</td>
@@ -74,7 +74,7 @@ XTRIC-B is the Xenopus tropicalis ortholog of the TRIC-B subtype of trimeric int
   <tbody>
     <tr>
       <td>Affinity purification</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
       <td>20 mM HEPES pH 7.5, 150 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.06% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a></td>
       <td>Solubilized in octyl glucose-neopentyl glycol (<a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a>) amphiphiles; purification similar to <a href="/xray-mp-wiki/proteins/voltage-gated-channels/ggtric-a/">GgTRIC-A (Chicken Trimeric Intracellular Cation Channel A)</a></td>

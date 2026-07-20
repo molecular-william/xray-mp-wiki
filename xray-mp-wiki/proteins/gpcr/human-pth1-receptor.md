@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41594-018-0151-4]
-verified: regex
+verified: agent
 uniprot_id: Q37979
 ---
 
@@ -41,7 +41,7 @@ The human parathyroid hormone 1 receptor (PTH1R) is a class B G-protein-coupled 
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hx0">6HX0</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6fj3">6FJ3</a></td>
       <td>3.00</td>
       <td>P 2_1 2_1 2_1</td>
       <td>PTH1R_XTAL (ECD-PTH1R_S-PGS fusion) with N-terminal HA signal, FLAG tag, His10 tag, 3C cleavage site; ECD deletion (61-104), C-term deletion (481-593), ICL3 (389-397) replaced by PGS fusion; 10 thermostabilising mutations from yeast evolution</td>
@@ -90,17 +90,17 @@ The human parathyroid hormone 1 receptor (PTH1R) is a class B G-protein-coupled 
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) / <a href="/xray-mp-wiki/reagents/additives/talon/">talon</a> immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/) / <a href="/xray-mp-wiki/reagents/additives/talon/">talon</a> immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
       <td>—</td>
       <td></td>
       <td>His10 tag purification</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>—</td>
       <td></td>
-      <td>Final polishing step in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)-compatible buffer</td>
+      <td>Final polishing step in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)-compatible buffer</td>
     </tr>
   </tbody>
 </table>

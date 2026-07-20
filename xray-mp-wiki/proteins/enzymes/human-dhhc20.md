@@ -1,13 +1,13 @@
 ---
 title: "Human DHHC20 Palmitoyltransferase"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.aao6326]
-verified: regex
+verified: agent
 uniprot_id: Q5W0Z9
 ---
 
@@ -59,10 +59,10 @@ cancers resistant to EGFR-targeted therapy.
       <td></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bml">6BML</a></td>
-      <td>2.44</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bmm">6BMM</a></td>
+      <td>2.54</td>
       <td>—</td>
-      <td>hDHHC20 C263A mutant with 2-bromopalmitate (2-BP) covalent inhibitor</td>
+      <td>zfDHHS15 (zebrafish DHHC15 C153S mutant), tetragonal P42212 form</td>
       <td></td>
     </tr>
   </tbody>
@@ -98,17 +98,17 @@ cancers resistant to EGFR-targeted therapy.
     </tr>
     <tr>
       <td>SEC / Tag removal</td>
-      <td>PreScission cleavage overnight at 4C, then <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase SEC</td>
+      <td>PreScission cleavage overnight at 4C, then <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td>50 mM HEPES pH 7.5, 150 mM NaCl, 2 mM TCEP + 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>GFP tag and <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> removed by SEC; fractions pooled and concentrated using 50 kDa MWCO Amicon</td>
+      <td>GFP tag and <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> removed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>; fractions pooled and concentrated using 50 kDa MWCO Amicon</td>
     </tr>
     <tr>
       <td>Reductive methylation (for crystallization)</td>
       <td>Formaldehyde and DMAB complex treatment</td>
       <td>—</td>
       <td>50 mM HEPES pH 7.5, 250 mM NaCl, 2 mM TCEP, 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Methylation quenched with Tris HCl pH 8.0 and <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>; then SEC on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase</td>
+      <td>Methylation quenched with Tris HCl pH 8.0 and <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>; then <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase</td>
     </tr>
   </tbody>
 </table>

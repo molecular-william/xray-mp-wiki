@@ -1,5 +1,5 @@
 ---
-title: 2-Methyl-2,4-pentanediol (MPD)
+title: "2-Methyl-2,4-pentanediol (MPD)"
 created: 2026-06-05
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.jsbmb.2022.106228, doi/10.1016##j.jmb.2012.03.020, doi/10.1038##NATURE12179, doi/10.1038##nature11900, doi/10.1038##ncomms9004, doi/10.1038##nsmb.2284]
-verified: false
+verified: none
 ---
 
 # 2-Methyl-2,4-pentanediol (MPD)

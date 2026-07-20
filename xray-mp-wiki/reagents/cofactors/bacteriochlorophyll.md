@@ -1,5 +1,5 @@
 ---
-title: Bacteriochlorophyll
+title: "Bacteriochlorophyll"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [cofactor, subdirectory-cofactors]
 sources: [doi/10.1016##j.bbabio.2013.11.015, doi/10.1038##ncomms3911]
-verified: false
+verified: agent
 ---
 
 # Bacteriochlorophyll

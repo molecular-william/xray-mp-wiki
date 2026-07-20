@@ -1,13 +1,13 @@
 ---
-title: Symmetry Mismatch in Rotary Molecular Motors
+title: "Symmetry Mismatch in Rotary Molecular Motors"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1126##science.286.5445.1700]
-verified: false
+verified: regex
 ---
 
 # Symmetry Mismatch in Rotary Molecular Motors

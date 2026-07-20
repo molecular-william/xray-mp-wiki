@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2007.09.023]
-verified: regex
+verified: agent
 uniprot_id: ['P0ADZ7', 'P31224']
 ---
 
@@ -42,7 +42,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/2rdd">2RDD</a></td>
-      <td>3.5 A</td>
+      <td>3.5</td>
       <td>P3221</td>
       <td>YajC single transmembrane helix (residues 20-40 modeled), associated with <a href="/xray-mp-wiki/proteins/abc-transporters/acrb/">ACRB</a> trimer</td>
       <td><a href="/xray-mp-wiki/reagents/antibiotics/ampicillin/">Ampicillin</a></td>
@@ -100,7 +100,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> (Sephacryl S300 16/60)</td>
       <td>Sephacryl S300 16/60 (GE Healthcare)</td>
       <td>20 mM HEPES (pH 7.0), 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>SEC used to improve sample homogeneity. Protein concentrated to 10 mg/mL prior to crystallization.</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> used to improve sample homogeneity. Protein concentrated to 10 mg/mL prior to crystallization.</td>
     </tr>
   </tbody>
 </table>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, gpcr, membrane-protein]
 sources: [doi/10.1126##scisignal.ado8741]
-verified: regex
+verified: agent
 uniprot_id: ['P46095', 'P59768', 'P62873', 'P63092']
 ---
 
@@ -112,7 +112,7 @@ intrinsic conformational preference of the protein itself.
     </tr>
     <tr>
       <td>Solubilization</td>
-      <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 2.5 h at 4°C</td>
+      <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 2.5 h at 4°C</td>
       <td>—</td>
       <td></td>
       <td></td>
@@ -128,7 +128,7 @@ intrinsic conformational preference of the protein itself.
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
       <td></td>
     </tr>
   </tbody>

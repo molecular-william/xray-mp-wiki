@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1073##pnas.1620009114]
-verified: regex
+verified: agent
 uniprot_id: ['Q72J04', 'Q72J05']
 ---
 
@@ -83,7 +83,7 @@ TmrAB (TmrA/TmrB) from *Thermus thermophilus* is a heterodimeric ABC half-transp
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td></td>
       <td>Detailed in Materials and Methods</td>

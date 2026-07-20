@@ -1,5 +1,5 @@
 ---
-title: Thrombin Protease
+title: "Thrombin Protease"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [enzyme, protease, protein-tag, subdirectory-protein-tags]
 sources: [doi/10.1038##ncomms5355, doi/10.1038##ncomms5521, doi/10.1038##ncomms8995]
-verified: false
+verified: regex
 ---
 
 # Thrombin Protease

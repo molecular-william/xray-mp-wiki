@@ -1,13 +1,13 @@
 ---
-title: Computational Design of Multipass Transmembrane Proteins
+title: "Computational Design of Multipass Transmembrane Proteins"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design, membrane-protein]
+tags: [concept-construct-design, membrane-protein, subdirectory-membrane-mimetics]
 sources: [doi/10.1126##science.aaq1739]
-verified: false
+verified: regex
 ---
 
 # Computational Design of Multipass Transmembrane Proteins

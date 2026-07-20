@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature03018, doi/10.1038##nature05455, doi/10.1038##nsmb.2233, doi/10.1038##nature08616, doi/10.15252##embj.2020105415, doi/10.1038##s41586-021-03240-9, doi/10.7554##eLife.02283, doi/10.1126##sciadv.aba9854]
-verified: regex
+verified: agent
 uniprot_id: O59010
 ---
 
@@ -28,7 +28,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 ## Publications
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1038##nature03018 (1 structure, 3 sequences)</strong></summary>
+<summary><strong>doi/10.1038/nature03018 (1 structure, 3 sequences)</strong></summary>
 
 **Structures:**
 
@@ -42,7 +42,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2nwx">2NWX</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1xfh">1XFH</a></td>
       <td>3.5</td>
       <td>P3121</td>
       <td>His8-tagged GltPh H7 (C-terminal truncation)</td>
@@ -737,15 +737,15 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a>-tag affinity purification using <a href="/xray-mp-wiki/reagents/additives/talon">TALON Cobalt Affinity Resin</a> or <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a> resin with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient elution</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a> or <a href="/xray-mp-wiki/reagents/additives/talon">TALON Cobalt Affinity Resin</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a>-tag affinity purification using <a href="/xray-mp-wiki/reagents/additives/talon">TALON Cobalt Affinity Resin</a> or <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) resin with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> gradient elution</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) or <a href="/xray-mp-wiki/reagents/additives/talon">TALON Cobalt Affinity Resin</a></td>
       <td>Not specified (standard <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a> purification) + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a>)</td>
       <td>Purified as described in Yernool et al. (2004)</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a> / dialysis</td>
       <td>Concentrated and dialysed against HEPES/Tris buffer</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column</td>
       <td>200 mM <a href="/xray-mp-wiki/reagents/ligands/choline">Choline</a> chloride, 1 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a>, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a>, HEPES/Tris pH 7.4 + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
       <td>Final buffer for assays and crystallization</td>
     </tr>
@@ -3477,16 +3477,16 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     <tr>
       <td>Ni-NTA affinity chromatography</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA resin (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (Qiagen)</td>
       <td>20 mM HEPES-Tris pH 7.5, 200 mM NaCl, 5 mM Na-Asp + -- (after solubilization)</td>
       <td>His-tag removed by thrombin digestion after elution</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC polishing</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> polishing</td>
       <td>Superdex200 16/60 HiLoad (GE Healthcare)</td>
       <td>For XL1 and wild-type: 20 mM HEPES-Tris pH 7.5, 25 mM NaCl, 25 mM KCl, 5 mM Na-Asp + 7 mM n-decyl-beta-D-maltopyranoside (C10M, Anatrace)</td>
-      <td>For XL2 and XL3: SEC buffer 10 mM HEPES-KOH/NaOH pH 7.5, 100 mM NaCl, 0.1 mM Na-Asp + 7 mM C10M. Concentrated to 6-7 mg/ml.</td>
+      <td>For XL2 and XL3: <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> buffer 10 mM HEPES-KOH/NaOH pH 7.5, 100 mM NaCl, 0.1 mM Na-Asp + 7 mM C10M. Concentrated to 6-7 mg/ml.</td>
     </tr>
   </tbody>
 </table>
@@ -5841,7 +5841,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.7554##eLife.02283 (7 structures, 18 sequences)</strong></summary>
+<summary><strong>doi/10.7554/eLife.02283 (7 structures, 18 sequences)</strong></summary>
 
 **Structures:**
 
@@ -9632,7 +9632,7 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 </details>
 
 <details class="pub-entry" markdown="1">
-<summary><strong>doi/10.1126##sciadv.aba9854 (2 structures, 6 sequences)</strong></summary>
+<summary><strong>doi/10.1126/sciadv.aba9854 (2 structures, 6 sequences)</strong></summary>
 
 **Structures:**
 

@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography, transporter]
 sources: [doi/10.1038##nature22064, doi/10.15252##embj.2021108341]
-verified: regex
-uniprot_id: Q15758
+verified: agent
+uniprot_id: P43003
 ---
 
 # Human Excitatory Amino Acid Transporter 1 (EAAT1)
@@ -16,7 +16,7 @@ uniprot_id: Q15758
 <div class="expr-badges"><span class="expr-badge expr-hek293">HEK293</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q15758">UniProt: Q15758</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P43003">UniProt: P43003</a>
 
 <span class="expr-badge">Homo sapiens</span>
 
@@ -114,21 +114,21 @@ to glutamine alters the ion-bound conformation.
       <td>Solubilization</td>
       <td>Resuspension and douce homogenization</td>
       <td>—</td>
-      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">Pmsf</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 2% DDS (dodecanoyl <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a>) + 0.4% CHS</td>
+      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">Pmsf</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 2% DDS (dodecanoyl <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a>) + 0.4% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>1 h incubation at 4 C; ultracentrifugation at 247,000g for 45 min</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
       <td>Strep-Tactin affinity</td>
       <td>Strep-Tactin resin</td>
-      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 3x CMC DDS + 0.01% CHS</td>
+      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 3x CMC DDS + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Fractions analyzed by FSEC; elution with <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin/">Desthiobiotin</a></td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>SEC polishing</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> polishing</td>
       <td>Superose 6 10/300</td>
-      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.0632% DDS + 0.01264% CHS</td>
+      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.0632% DDS + 0.01264% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
       <td>Final purification step before crystallization</td>
     </tr>
   </tbody>

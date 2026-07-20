@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-018-03066-6]
-verified: regex
+verified: agent
 uniprot_id: ['A5A616', 'Q5L1G5']
 ---
 
@@ -89,17 +89,17 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA affinity resin, washed with 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity resin, washed with 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (GE Healthcare)</td>
       <td>1x PBS, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Protein eluted and then dialyzed overnight with TEV protease to cleave <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a> tag</td>
+      <td>Protein eluted and then dialyzed overnight with <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease to cleave <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a> tag</td>
     </tr>
     <tr>
       <td>Tag removal and SEC</td>
-      <td>Dialyzed material passed through HisTrap column to remove TEV protease and <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a> tag; pure protein concentrated and applied to <a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/300 column</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/histrap/">HisTrap</a> (GE Healthcare), <a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/300 (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (crystallization grade, Glycon) + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>For functional assays, detergent exchanged to 0.3% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> via SEC</td>
+      <td>Dialyzed material passed through HisTrap column to remove <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease and <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a> tag; pure protein concentrated and applied to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/300 column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/histrap/">HisTrap</a> (GE Healthcare), <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/300 (GE Healthcare)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (crystallization grade, Glycon) + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>For functional assays, detergent exchanged to 0.3% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> via <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>
@@ -114,7 +114,7 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>10 mg/mL GkApcT in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, supplemented with 10 mM L-Ala or L-Arg, incubated on ice for at least 2 h</td>
+      <td>10 mg/mL GkApcT in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, supplemented with 10 mM L-Ala or L-Arg, incubated on ice for at least 2 h</td>
     </tr>
     <tr>
       <td>Temperature</td>

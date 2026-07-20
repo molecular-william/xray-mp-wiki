@@ -1,13 +1,13 @@
 ---
-title: Proton Pump Mechanism in Bacteriorhodopsin
+title: "Proton Pump Mechanism in Bacteriorhodopsin"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1006##jmbi.1999.3027, doi/10.1016##j.str.2012.12.018]
-verified: false
+verified: regex
 ---
 
 # Proton Pump Mechanism in Bacteriorhodopsin

@@ -45,6 +45,6 @@ are tuned by residue substitutions at position 105.
 
 
 ## Cross-References
-- [Proton-Release Channel in Archaeal Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/proton-release-channel-archaeal-rhodopsins/) — Structural feature for proton release in light-driven proton pumps
+- [Proton-Release Channel in Archaeal Rhodopsins](/xray-mp-wiki/concepts/transport-mechanisms/proton-release-channel-archaeal-rhodopsins/) — Structural feature for proton release in light-driven proton pumps
 - [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/bacteriorhodopsin-photocycle/) — The photocycle that drives proton pumping by bacteriorhodopsin
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal light-driven proton pump

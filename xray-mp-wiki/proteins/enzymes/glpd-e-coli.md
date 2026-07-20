@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.0712331105]
-verified: regex
+verified: agent
 uniprot_id: P13035
 ---
 
@@ -113,7 +113,7 @@ E. coli glycerol-3-phosphate dehydrogenase (GlpD) is an essential monotopic memb
       <td>Detergent solubilization and protein purification (details in SI)</td>
       <td>--</td>
       <td>Crystallization solution with PEG 6000 + <a href="/xray-mp-wiki/reagents/detergents/og/">beta-OG (n-octyl-beta-D-glucopyranoside)</a></td>
-      <td>Five beta-OG detergent molecules found interacting with GlpD dimer. Activity measured in 1% beta-OG. Enzyme can be functionally reconstituted with E. coli membrane vesicles.</td>
+      <td>Five beta-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> detergent molecules found interacting with GlpD dimer. Activity measured in 1% beta-OG. Enzyme can be functionally reconstituted with E. coli membrane vesicles.</td>
     </tr>
   </tbody>
 </table>

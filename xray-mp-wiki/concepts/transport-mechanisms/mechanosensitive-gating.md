@@ -1,13 +1,13 @@
 ---
-title: Mechanosensitive Gating in Ion Channels
+title: "Mechanosensitive Gating in Ion Channels"
 created: 2026-05-28
 updated: 2026-05-28
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.neuron.2021.07.009, doi/10.1038##nsmb.3120]
-verified: false
+verified: regex
 ---
 
 # Mechanosensitive Gating in Ion Channels
@@ -70,7 +70,7 @@ In K2P channels such as [TRAAK](/xray-mp-wiki/proteins/voltage-gated-channels/tr
 - [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — General channel gating mechanism for comparison
 - [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/) — Voltage-gated channel gating mechanism for comparison
 - [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/) — Related conformational dynamics concept
-- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics) — Membrane environment essential for mechanosensitive gating
+- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/) — Membrane environment essential for mechanosensitive gating
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Allosteric coupling between membrane tension and channel conformation
 - [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/membrane-mimetics/force-from-lipid-principle/) — Mechanistic model for how lipid bilayer tension gates mechanosensitive channels
 - [MSCL](/xray-mp-wiki/proteins/other-ion-channels/mscl/) — Related protein structure

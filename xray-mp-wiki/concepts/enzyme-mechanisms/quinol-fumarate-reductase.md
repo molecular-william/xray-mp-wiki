@@ -1,13 +1,13 @@
 ---
-title: Quinol-Fumarate Reductase (QFR)
+title: "Quinol-Fumarate Reductase (QFR)"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, subdirectory-concepts]
+tags: [concept-enzyme-mechanism, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1093##jb##mvs051]
-verified: false
+verified: regex
 ---
 
 # Quinol-Fumarate Reductase (QFR)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41422-020-00424-2]
-verified: pdb
+verified: agent
 uniprot_id: P08588
 ---
 
@@ -92,21 +92,21 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
       <td>Solubilization</td>
       <td>Membrane solubilization</td>
       <td></td>
-      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>For inactive-state beta1 AR (carazolol-bound)</td>
     </tr>
     <tr>
       <td>M1 Flag <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>M1 <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> affinity resin (Sigma)</td>
-      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Purified with 10 uM <a href="/xray-mp-wiki/reagents/ligands/carazolol/">Carazolol</a> for inactive state</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column</td>
-      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column</td>
+      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Final buffer with 10 uM <a href="/xray-mp-wiki/reagents/ligands/carazolol/">Carazolol</a> for inactive state</td>
     </tr>
   </tbody>
@@ -125,28 +125,28 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
       <td>Solubilization and M1 Flag affinity</td>
       <td>Same as inactive but with agonists</td>
       <td>M1 <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> affinity resin</td>
-      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Purified with target agonists (100 nM <a href="/xray-mp-wiki/reagents/ligands/bi-167107/">BI-167107</a>, 1 mM <a href="/xray-mp-wiki/reagents/ligands/epinephrine/">Epinephrine</a>, or 1 mM <a href="/xray-mp-wiki/reagents/ligands/norepinephrine/">Norepinephrine</a>)</td>
     </tr>
     <tr>
       <td>Nb6B9 incubation</td>
       <td>Complex formation</td>
       <td></td>
-      <td>Same as above + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Same as above + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Mixed with 1.2-fold molar excess of Nb6B9 overnight at 4 C</td>
     </tr>
     <tr>
       <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (pull-down)</td>
       <td>Nickel affinity resin</td>
-      <td>Same as above + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Same as above + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Pull-down of functional receptor-Nb6B9 complex via His-tagged Nb6B9</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column</td>
-      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column</td>
+      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Excess Nb6B9 removed; agonists maintained in buffer</td>
     </tr>
   </tbody>

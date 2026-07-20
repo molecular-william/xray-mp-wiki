@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41594-018-0180-z, doi/10.1038##s41594-022-00796-6, doi/10.1126##science.abl8615]
-verified: regex
+verified: agent
 uniprot_id: ['P28223', 'P47898', 'Q9V2J8']
 ---
 
@@ -42,14 +42,14 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6a93">6A93</a></td>
-      <td>3.0 A</td>
+      <td>3.0</td>
       <td>C2</td>
       <td>Human 5-HT2A receptor with N-terminal (1-69) and C-terminal (404-471) deletions, ICL3 (Thr266-Met312) replaced with mbIIG fusion (modified apocytochrome b562 IIG), thermostability mutations S162K^3.39 and M164W^3.41. N-terminal HA signal sequence + <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag">FLAG Tag</a> + 10xHis tag + TEV protease recognition site.</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/risperidone">Risperidone</a></td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6a94">6A94</a></td>
-      <td>2.9 A</td>
+      <td>2.9</td>
       <td>C2</td>
       <td>Human 5-HT2A receptor with N-terminal (1-69) and C-terminal (404-471) deletions, ICL3 (Thr266-Met312) replaced with mbIIG fusion (modified apocytochrome b562 IIG), thermostability mutations S162K^3.39 and M164W^3.41. N-terminal HA signal sequence + <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag">FLAG Tag</a> + 10xHis tag + TEV protease recognition site.</td>
       <td>Zotepine</td>
@@ -101,15 +101,15 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a> resin</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 800 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>C-terminal 10xHis tag used for affinity capture</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) column</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 800 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Final purification step to obtain monodisperse 5-HT2A-R-<a href="/xray-mp-wiki/reagents/protein-tags/bril">mbIIG</a> complex</td>
     </tr>
@@ -1185,28 +1185,28 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7wc4">7WC4</a></td>
-      <td>3.0 A</td>
+      <td>3.0</td>
       <td></td>
       <td>Human 5-HT2AR in complex with serotonin</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/serotonin">Serotonin</a></td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7wc5">7WC5</a></td>
-      <td>3.0 A</td>
+      <td>3.0</td>
       <td></td>
       <td>Human 5-HT2AR in complex with psilocin</td>
       <td>Psilocin</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7wc6">7WC6</a></td>
-      <td>2.6 A</td>
+      <td>2.6</td>
       <td></td>
       <td>Human 5-HT2AR in complex with LSD</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/lsd">LSD</a></td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7wc7">7WC7</a></td>
-      <td>2.6 A</td>
+      <td>2.6</td>
       <td></td>
       <td>Human 5-HT2AR in complex with lisuride</td>
       <td>Lisuride</td>

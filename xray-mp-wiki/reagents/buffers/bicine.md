@@ -1,13 +1,13 @@
 ---
-title: Bicine Buffer
+title: "Bicine Buffer"
 created: 2026-05-29
 updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
 tags: [buffer-bicine, subdirectory-buffers]
-sources: [doi/10.1016##j.jmb.2012.09.038, doi/10.1038##NATURE09746, doi/10.1126##science.290.5491.481]
-verified: false
+sources: [doi/10.1038##NATURE09746, doi/10.1126##science.290.5491.481]
+verified: none
 ---
 
 # Bicine Buffer

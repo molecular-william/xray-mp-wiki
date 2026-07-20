@@ -1,13 +1,13 @@
 ---
-title: Light-Adapted State of Microbial Rhodopsins
+title: "Light-Adapted State of Microbial Rhodopsins"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-transport-mechanism]
+tags: [concept-functional, concept-transport-mechanism, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1038##s41467-020-20596-0]
-verified: false
+verified: regex
 ---
 
 # Light-Adapted State of Microbial Rhodopsins

@@ -1,13 +1,13 @@
 ---
-title: Gas-Conducting Aquaporins
+title: "Gas-Conducting Aquaporins"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-protein-family, concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.0509469102, doi/10.1073##pnas.0506254102]
-verified: false
+verified: regex
 ---
 
 # Gas-Conducting Aquaporins

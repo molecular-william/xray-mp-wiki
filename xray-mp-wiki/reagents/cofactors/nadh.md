@@ -1,5 +1,5 @@
 ---
-title: NADH
+title: "NADH"
 created: 2026-05-27
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [cofactor, subdirectory-cofactors]
 sources: [doi/10.1016##j.jmb.2020.05.017, doi/10.1038##nature12056]
-verified: false
+verified: agent
 ---
 
 # NADH

@@ -1,13 +1,13 @@
 ---
-title: Sugar Porter (SP) Family
+title: "Sugar Porter (SP) Family"
 created: 2026-06-02
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-protein-families]
 sources: [doi/10.1038##nature11524, doi/10.1038##nature13306, doi/10.26508##lsa.202000858, doi/10.1038##nature14655]
-verified: false
+verified: regex
 ---
 
 # Sugar Porter (SP) Family

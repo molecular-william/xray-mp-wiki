@@ -1,13 +1,13 @@
 ---
-title: Substrate-Protonation Coupling in MFS Symporters
+title: "Substrate-Protonation Coupling in MFS Symporters"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.str.2014.06.008, doi/10.1038##nature13306]
-verified: false
+verified: regex
 ---
 
 # Substrate-Protonation Coupling in MFS Symporters

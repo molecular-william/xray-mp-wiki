@@ -1,5 +1,5 @@
 ---
-title: Vapor Diffusion Crystallization
+title: "Vapor Diffusion Crystallization"
 created: 2026-06-22
 updated: 2026-06-22
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [subdirectory-crystallization, crystallization-vapor-diffusion]
 sources: [doi/10.1107##s2053230x14024558]
-verified: false
+verified: regex
 ---
 
 # Vapor Diffusion Crystallization

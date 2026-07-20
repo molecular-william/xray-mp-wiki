@@ -1,5 +1,5 @@
 ---
-title: Diisopropyl Fluorophosphate (DFP)
+title: "Diisopropyl Fluorophosphate (DFP)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##bi300368b]
-verified: false
+verified: agent
 ---
 
 # Diisopropyl Fluorophosphate (DFP)

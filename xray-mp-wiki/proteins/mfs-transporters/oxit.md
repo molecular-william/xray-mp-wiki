@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-023-36883-5]
-verified: regex
+verified: agent
 uniprot_id: Q51330
 ---
 
@@ -78,7 +78,7 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
       <td>Membrane preparation</td>
       <td>Cell lysis and membrane fractionation</td>
       <td>not specified</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 200 mM <a href="/xray-mp-wiki/reagents/additives/potassium-acetate">Potassium Acetate</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/mgcl2">MGCL2</a>, 20 ug/mL DNase I, 0.23 mg/mL lysozyme + not specified</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 200 mM <a href="/xray-mp-wiki/reagents/additives/potassium-acetate">Potassium Acetate</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride">MGCL2</a>, 20 ug/mL DNase I, 0.23 mg/mL lysozyme + not specified</td>
       <td>Cells disrupted with Emulsiflex C-5; debris removed by centrifugation at 9,600xg for 30min; membranes collected at 185,000xg for 1h</td>
     </tr>
     <tr>
@@ -90,8 +90,8 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">Ni-NTA Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA Agarose Resin</a> Superflow (QIAGEN) or HisTrap FF crude (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a>](/xray-mp-wiki/methods/purification/affinity-chromatography)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) Superflow (QIAGEN) or HisTrap FF crude (GE Healthcare)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>-KOH pH 8.0, 200 mM <a href="/xray-mp-wiki/reagents/additives/potassium-acetate">Potassium Acetate</a>, 10 mM potassium oxalate, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 30-50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> (wash); 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> (elution) + <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
       <td>Column washed with 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> and 30-50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
     </tr>
@@ -112,7 +112,7 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 0.05 M NaCl, 26% <a href="/xray-mp-wiki/reagents/additives/peg400">PEG400</a></td>
+      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.5, 0.05 M NaCl, 26% <a href="/xray-mp-wiki/reagents/additives/peg-400">PEG400</a></td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -132,7 +132,7 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>OxIT-20D033Fv complex in lipidic mesophase (50% protein, 45% <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>, 5% <a href="/xray-mp-wiki/reagents/additives/cholesterol">Cholesterol</a>)</td>
+      <td>OxIT-20D033Fv complex in lipidic mesophase (50% protein, 45% <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>, 5% <a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a>)</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -645,12 +645,12 @@ The transition between occluded and outward-facing states involves a rocker-swit
 ## Cross-References
 
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase Crystallization</a> — Crystallization method used for structure determination
-- <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">Immobilized Metal Affinity Chromatography (IMAC)</a> — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Immobilized Metal Affinity Chromatography (IMAC)</a> — Purification method used in protein preparation
 - <a href="/xray-mp-wiki/reagents/ligands/succinate">Succinate</a> — Related entity
 - <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate</a> — Buffer component in purification and crystallization
 - <a href="/xray-mp-wiki/reagents/additives/potassium-acetate">Potassium Acetate</a> — Additive used in purification or crystallization buffers
 - <a href="/xray-mp-wiki/reagents/buffers/glycine">Glycine</a> — Buffer component in purification and crystallization
 - <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for membrane protein solubilization
 - <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA Agarose Resin</a> — Additive used in purification or crystallization buffers
-- <a href="/xray-mp-wiki/reagents/additives/cholesterol">Cholesterol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> — Additive used in purification or crystallization buffers
 - <a href="/xray-mp-wiki/reagents/ligands/retinal">Retinal</a> — Related entity

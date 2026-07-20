@@ -1,5 +1,5 @@
 ---
-title: Carbamylcholine
+title: "Carbamylcholine"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature07461]
-verified: false
+verified: agent
 ---
 
 # Carbamylcholine

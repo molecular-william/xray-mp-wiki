@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.3068]
-verified: regex
+verified: agent
 ---
 
 # PsbS from Spinach (Spinacia oleracea)
@@ -36,21 +36,21 @@ PsbS is a photosystem II protein essential for qE-type non-photochemical quenchi
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not yet assigned (native 1)">NOT YET ASSIGNED (NATIVE 1)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ri2">4RI2</a></td>
       <td>3.10</td>
       <td>P2(1)2(1)2(1)</td>
       <td>PsbS from spinach (residues after limited proteolysis removing N-terminal LFKSK)</td>
       <td>Hg (derivative), Chl a</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not yet assigned (native 2)">NOT YET ASSIGNED (NATIVE 2)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ri2">4RI2</a></td>
       <td>2.35</td>
       <td>P2(1)2(1)2(1)</td>
       <td>PsbS from spinach (residues after limited proteolysis)</td>
       <td>Chl a</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not yet assigned (dccd-modified)">NOT YET ASSIGNED (DCCD-MODIFIED)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ri2">4RI2</a></td>
       <td>2.70</td>
       <td>P2(1)2(1)2(1)</td>
       <td>PsbS from spinach, DCCD-soaked crystal</td>
@@ -97,7 +97,7 @@ PsbS is a photosystem II protein essential for qE-type non-photochemical quenchi
       <td>Resolubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>20 mM sodium acetate pH 5.0, 20 mM NaCl + 2% OG</td>
+      <td>20 mM sodium acetate pH 5.0, 20 mM NaCl + 2% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Overnight incubation at 4 °C, then centrifugation at 40,000g for 30 min</td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ PsbS is a photosystem II protein essential for qE-type non-photochemical quenchi
     <tr>
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td>Superdex 200 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>20 mM sodium acetate pH 5.0, 100 mM NaCl + 0.4% NG</td>
       <td></td>
     </tr>

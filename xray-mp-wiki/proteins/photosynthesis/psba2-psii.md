@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jbc.2022.102668]
-verified: regex
+verified: agent
 uniprot_id: ['P0A386', 'P0A431', 'P0A446', 'P59087', 'Q8CM25', 'Q8DHA7', 'Q8DHJ2', 'Q8DIF8', 'Q8DIN8', 'Q8DIN9', 'Q8DIP0', 'Q8DIQ0', 'Q8DIQ1', 'Q8DJ43', 'Q8DJI1', 'Q8DJZ6', 'Q8DKM3', 'Q9F1K9', 'Q9F1L5', 'Q9F1R6']
 ---
 
@@ -41,7 +41,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7yq2">7YQ2</a></td>
-      <td>1.90 A</td>
+      <td>1.90</td>
       <td>P212121</td>
       <td>PSII dimer expressing only psbA2 gene (pABA2 strain, lacking psbA1 and psbA3)</td>
       <td>Chlorophyll a, pheophytin a, <a href="/xray-mp-wiki/reagents/ligands/plastoquinone/">Plastoquinone</a>, <a href="/xray-mp-wiki/reagents/ligands/heme/">HEME</a>, nonheme <a href="/xray-mp-wiki/reagents/additives/iron/">IRON</a>, Mn4CaO5 cluster, bicarbonate, chloride ions, <a href="/xray-mp-wiki/reagents/lipids/sulfoquinovosyl-diacylglycerol/">SQDG</a>, DGDG, <a href="/xray-mp-wiki/reagents/lipids/monogalactosyl-diacylglycerol/">MGDG</a>, carotenoids</td>

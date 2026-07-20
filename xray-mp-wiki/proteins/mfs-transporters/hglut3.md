@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature14655, doi/10.1073##pnas.2017749118]
-verified: regex
+verified: agent
 uniprot_id: P11169
 ---
 
@@ -58,14 +58,14 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
       <td>D-Glucose (α- and β-anomers), monoolein</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4zwb">4ZWB</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4zw9">4ZW9</a></td>
       <td>2.6</td>
       <td>P2₁</td>
       <td>Human GLUT3(N43T) in complex with maltose, outward-open conformation</td>
       <td>Maltose</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4zwc">4ZWC</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4zw9">4ZW9</a></td>
       <td>2.4</td>
       <td>P2₁</td>
       <td>Human GLUT3(N43T) in complex with maltose, outward-occluded conformation</td>
@@ -101,19 +101,19 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>25 mM MES pH 6.0, 150 mM NaCl, 50 mM D-glucose or maltose + 2% (w/v) n-dodecyl-β-D-maltoside (DDM)</td>
+      <td>25 mM MES pH 6.0, 150 mM NaCl, 50 mM D-glucose or maltose + 2% (w/v) n-dodecyl-β-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Solubilized at 4°C for 2 h; insoluble fraction removed by ultracentrifugation (150,000g, 30 min)</td>
     </tr>
     <tr>
       <td>Ni-NTA affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> (Ni-NTA)</td>
-      <td>Ni-NTA resin (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (Qiagen)</td>
       <td>25 mM MES pH 6.0, 500 mM NaCl, 30 mM imidazole + 0.06% (w/v) 6-cyclohexyl-1-hexyl-β-D-maltoside (CYMAL-6)</td>
       <td>Incubated 30 min at 4°C; rinsed 3 times; eluted with 300 mM imidazole; concentrated to 10 mg ml⁻¹; 50 mM D-glucose or maltose present throughout</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> 10/300 GL</td>
       <td>25 mM MES pH 6.0, 150 mM NaCl + 0.06% (w/v) CYMAL-6</td>
       <td>Pre-equilibrated with same buffer; peak fractions collected for transport assay or crystallization</td>

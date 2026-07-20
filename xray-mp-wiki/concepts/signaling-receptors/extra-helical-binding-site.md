@@ -1,13 +1,13 @@
 ---
-title: Extra-helical Binding Site in GPCRs
+title: "Extra-helical Binding Site in GPCRs"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-membrane-mimetic]
+tags: [concept-functional, concept-membrane-mimetic, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature17414, doi/10.1038##nature25025, doi/10.1038##s41467-017-01240-w]
-verified: false
+verified: regex
 ---
 
 # Extra-helical Binding Site in GPCRs

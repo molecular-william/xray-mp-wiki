@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.3450]
-verified: regex
+verified: agent
 uniprot_id: P24530
 ---
 
@@ -44,7 +44,7 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5x93">5X93</a></td>
       <td>2.2</td>
       <td>C2221</td>
-      <td>ETB-Y5-mT4L thermostabilized mutant with mT4L fusion in ICL3, C-terminal <a href="/xray-mp-wiki/concepts/truncation">Protein Truncation for Crystallization</a> after Ser407, C396A/C400A/C405A mutations, five thermostabilizing mutations, HA signal peptide, Flag tag, and 9-aa linker</td>
+      <td>ETB-Y5-mT4L thermostabilized mutant with mT4L fusion in ICL3, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">Protein Truncation for Crystallization</a> after Ser407, C396A/C400A/C405A mutations, five thermostabilizing mutations, HA signal peptide, Flag tag, and 9-aa linker</td>
       <td>K-8794 (ETB-selective antagonist, 10 uM throughout purification)</td>
     </tr>
     <tr>
@@ -77,42 +77,42 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
       <td>Membrane preparation</td>
       <td>Sonication and ultracentrifugation</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 20% glycerol + --</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 20% glycerol + --</td>
       <td>Harvested Sf9 cells disrupted by sonication; crude membrane fraction collected by ultracentrifugation at 180,000g for 1 h</td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>50 mM Tris-HCl pH 7.5, 200 mM NaCl, 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM Tris-HCl pH 7.5, 200 mM NaCl, 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilized for 2 h at 4 C; antagonists added to 10 uM final concentration</td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON Cobalt Affinity Resin</a> resin (Clontech)</td>
-      <td>20 mM Tris-HCl pH 7.5, 500 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> (wash); 200 mM imidazole (elution) + <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG (Lauryl Maltose Neopentyl Glycol)</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM Tris-HCl pH 7.5, 500 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> (wash); 200 mM imidazole (elution) + <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG (Lauryl Maltose Neopentyl Glycol)</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Incubated with resin for 30 min; eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
     </tr>
     <tr>
       <td>Tag cleavage</td>
       <td>Protease digestion and dialysis</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 500 mM NaCl + --</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 500 mM NaCl + --</td>
       <td>Eluate treated with <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a> and dialyzed to remove imidazole</td>
     </tr>
     <tr>
       <td>Tag removal</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA Agarose Resin</a> resin</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 500 mM NaCl + --</td>
-      <td>Cleaved GFP-His10 tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a> removed with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) resin</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 7.5, 500 mM NaCl + --</td>
+      <td>Cleaved GFP-His10 tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a> removed with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/300 Increase column</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES Buffer</a>-NaOH pH 7.5, 200 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG (Lauryl Maltose Neopentyl Glycol)</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/300 Increase column</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES Buffer</a>-NaOH pH 7.5, 200 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG (Lauryl Maltose Neopentyl Glycol)</a>, <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Peak fractions concentrated to 40 mg/ml; antagonists added to 100 uM for crystallization</td>
     </tr>
   </tbody>
@@ -128,7 +128,7 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
     </tr>
     <tr>
       <td>Protein sample</td>
-      <td>ETB receptor at 40 mg/ml reconstituted into <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> of monoolein with <a href="/xray-mp-wiki/reagents/additives/cholesterol">Cholesterol</a> at 8:9:1 ratio</td>
+      <td>ETB receptor at 40 mg/ml reconstituted into <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> of monoolein with <a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> at 8:9:1 ratio</td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -506,7 +506,7 @@ The high-resolution K-8794-bound structure reveals a detailed water-mediated hyd
 
 - <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM (N-Dodecyl-beta-D-maltoside)</a> — Primary solubilization detergent (0.5%) for ETB membrane extraction
 - <a href="/xray-mp-wiki/reagents/detergents/lmng">LMNG (Lauryl Maltose Neopentyl Glycol)</a> — Used in IMAC wash/elution (0.1-0.01%) and [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) (0.01%) buffers
-- <a href="/xray-mp-wiki/reagents/lipids/cholesterol-hemisuccinate">Cholesterol Hemisuccinate (CHS)</a> — Added at 0.1% during solubilization and 0.001% in [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) for receptor stability
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">Cholesterol Hemisuccinate (CHS)</a> — Added at 0.1% during solubilization and 0.001% in [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) for receptor stability
 - <a href="/xray-mp-wiki/reagents/buffers/tris">Tris Buffer</a> — Primary buffer (20-50 mM pH 7.5) for membrane prep and affinity purification
 - <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES Buffer</a> — Used at 10 mM pH 7.5 in [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) buffer
 - <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">Sodium Chloride</a> — 200-500 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride) in purification buffers

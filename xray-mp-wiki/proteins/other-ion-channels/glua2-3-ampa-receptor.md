@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1126##science.aad3873]
-verified: regex
+verified: agent
 uniprot_id: P19491
 ---
 
@@ -96,10 +96,10 @@ GluA2/3 is a heteromeric AMPA-type ionotropic glutamate receptor composed of Glu
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>SEC - S200 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> - S200 (GE Healthcare)</td>
       <td>—</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.4, 150 mM NaCl</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/endoh/">Endoh</a> treatment for deglycosylation in 100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate</a> pH 5.2, followed by final SEC</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/endoh/">Endoh</a> treatment for deglycosylation in 100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate</a> pH 5.2, followed by final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
     </tr>
   </tbody>
 </table>

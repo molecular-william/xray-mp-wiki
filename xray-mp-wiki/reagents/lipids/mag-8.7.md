@@ -1,5 +1,5 @@
 ---
-title: MAG 8.7 (Monoolein, Avanti)
+title: "MAG 8.7 (Monoolein, Avanti)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-monoacyl, subdirectory-lipids]
 sources: [doi/10.1016##j.str.2017.05.022, doi/10.1038##NATURE12179]
-verified: false
+verified: none
 ---
 
 # MAG 8.7 (Monoolein, Avanti)

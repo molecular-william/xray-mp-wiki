@@ -1,13 +1,13 @@
 ---
-title: DHHC Palmitoyltransferase Family
+title: "DHHC Palmitoyltransferase Family"
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1126##science.aao6326]
-verified: false
+verified: regex
 ---
 
 # DHHC Palmitoyltransferase Family

@@ -1,13 +1,13 @@
 ---
-title: Cys-Loop Receptor Family
+title: "Cys-Loop Receptor Family"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism]
+tags: [concept-transport-mechanism, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature13552, doi/10.1038##ncomms1703]
-verified: false
+verified: regex
 ---
 
 # Cys-Loop Receptor Family

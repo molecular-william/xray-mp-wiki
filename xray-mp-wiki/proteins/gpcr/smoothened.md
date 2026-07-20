@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein]
 sources: [doi/10.1038##s41586-019-1355-4]
-verified: regex
+verified: agent
 uniprot_id: P56726
 ---
 
@@ -67,37 +67,37 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
   <tbody>
     <tr>
       <td>1. Membrane solubilization</td>
-      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> extraction</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) extraction</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 300 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 5 mM MgCl2, 20 mM KCl, 5 mM ATP, 1 µM vismodegib</td>
+      <td>50 mM HEPES pH 7.5, 300 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5 mM MgCl2, 20 mM KCl, 5 mM ATP, 1 µM vismodegib</td>
       <td>Solubilization from frozen cell pellets for 1 h at 4°C</td>
     </tr>
     <tr>
       <td>2. Affinity purification</td>
       <td>M1 anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> antibody Sepharose</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Detergent exchange to 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, ligand exchange from vismodegib to SAG21k on-column</td>
+      <td>50 mM HEPES pH 7.5, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Detergent exchange to 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), ligand exchange from vismodegib to SAG21k on-column</td>
     </tr>
     <tr>
       <td>3. Elution and deglycosylation</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide elution + endoglycosidase treatment</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 150 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 1 pM SAG21k</td>
+      <td>50 mM HEPES pH 7.5, 150 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 pM SAG21k</td>
       <td>Deglycosylated with endoglycosidase F1 and H for 30 min at RT</td>
     </tr>
     <tr>
       <td>4. Nanobody complex formation</td>
       <td>3-fold molar excess NbSmo8 incubation</td>
       <td>—</td>
-      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Overnight incubation at 4°C</td>
     </tr>
     <tr>
       <td>5. Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
       <td>—</td>
-      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 0.1 pM SAG21k, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 0.1 pM SAG21k, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Peak fractions concentrated to 50 mg/ml for crystallization</td>
     </tr>
   </tbody>

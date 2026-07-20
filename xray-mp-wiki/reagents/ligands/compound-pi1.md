@@ -1,5 +1,5 @@
 ---
-title: Compound PI1 (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione)
+title: "Compound PI1 (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1073##pnas.1406855111]
-verified: false
+verified: regex
 ---
 
 # Compound PI1 (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione)

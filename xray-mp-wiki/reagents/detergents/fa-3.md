@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, additive-stabilizer, subdirectory-detergents]
 sources: [doi/10.1016##j.str.2019.04.007]
-verified: false
+verified: regex
 ---
 
 # FA-3 (Facade-EM Facial Amphiphile)

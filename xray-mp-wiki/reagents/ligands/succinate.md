@@ -1,5 +1,5 @@
 ---
-title: Succinate (Succinic Acid)
+title: "Succinate (Succinic Acid)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.jmedchem.0c01020]
-verified: false
+verified: regex
 ---
 
 # Succinate (Succinic Acid)

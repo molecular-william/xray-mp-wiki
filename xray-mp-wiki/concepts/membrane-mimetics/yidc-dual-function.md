@@ -1,13 +1,13 @@
 ---
-title: YidC Dual Insertase/Chaperone Function
+title: "YidC Dual Insertase/Chaperone Function"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, subdirectory-concepts]
+tags: [concept-enzyme-mechanism, subdirectory-membrane-mimetics]
 sources: [doi/10.1016##j.bbamem.2021.183825]
-verified: false
+verified: regex
 ---
 
 # YidC Dual Insertase/Chaperone Function

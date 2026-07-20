@@ -1,13 +1,13 @@
 ---
-title: Kok Cycle
+title: "Kok Cycle"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, subdirectory-concepts]
-sources: [doi/10.1038##nature04224, doi/10.1016##j.bbabio.2001.08.012, doi/10.1016##j.bbabio.2001.08.009, doi/10.1016##j.bbabio.2001.08.008]
-verified: false
+tags: [concept-crystallography-principle, subdirectory-enzyme-mechanisms]
+sources: [doi/10.1038##nature04224]
+verified: regex
 ---
 
 # Kok Cycle

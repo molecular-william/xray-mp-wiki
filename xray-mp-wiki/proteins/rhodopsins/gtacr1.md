@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.7554##eLife.41741, doi/10.7554##eLife.65903]
-verified: regex
+verified: agent
 uniprot_id: L1J207
 ---
 
@@ -90,13 +90,13 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
     <tr>
       <td>Ni-NTA affinity chromatography</td>
       <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA resin (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (Qiagen)</td>
       <td>Buffer A with 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; 15 mM and 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> for washes; 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> for elution + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Supernatant supplemented with 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> incubated with Ni resin for 1 hr at 4 C; step-wise washes with 15 mM and 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; eluted with 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in Buffer A + 0.03% DDM.</td>
+      <td>Supernatant supplemented with 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> incubated with Ni resin for 1 hr at 4 C; step-wise washes with 15 mM and 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; eluted with 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in Buffer A + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>.</td>
     </tr>
     <tr>
       <td>Size exclusion chromatography</td>
-      <td>Size exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superdex Increase 10/300 GL column (GE Healthcare)</td>
       <td>Buffer B (350 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>) + not specified</td>
       <td>Eluted protein further purified on Superdex Increase 10/300 GL column equilibrated with Buffer B.</td>

@@ -1,13 +1,13 @@
 ---
-title: ABC Transporter Allosteric Regulation
+title: "ABC Transporter Allosteric Regulation"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein, xray-crystallography]
+tags: [concept-functional, membrane-protein, xray-crystallography, subdirectory-transport-mechanisms]
 sources: [doi/10.1126##science.1157987, doi/10.1126##science.1071142]
-verified: false
+verified: regex
 ---
 
 # ABC Transporter Allosteric Regulation

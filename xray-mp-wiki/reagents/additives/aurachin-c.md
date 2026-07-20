@@ -1,5 +1,5 @@
 ---
-title: Aurachin C
+title: "Aurachin C"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent

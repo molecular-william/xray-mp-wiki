@@ -1,5 +1,5 @@
 ---
-title: Mercury (HgCl2) - Aquaporin Inhibitor
+title: "Mercury (HgCl2) - Aquaporin Inhibitor"
 created: 2026-06-08
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2007.02.070, doi/10.1016##j.str.2014.06.008, doi/10.1038##35055589, doi/10.1038##nsmb.1788]
-verified: false
+verified: regex
 ---
 
 # Mercury (HgCl2) - Aquaporin Inhibitor

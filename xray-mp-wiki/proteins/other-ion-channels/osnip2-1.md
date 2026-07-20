@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2021.167226]
-verified: regex
+verified: agent
 uniprot_id: Q6Z2T3
 ---
 
@@ -85,14 +85,14 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
       <td>Membrane solubilization</td>
       <td>--</td>
       <td>TSB buffer (20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, pH 8) with Complete <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>-free protease inhibitor + 1:1 (w/w) mixture of <a href="/xray-mp-wiki/reagents/detergents/ddm">dodecyl-beta-D-maltoside ([DDM</a>)] and <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (total 1% w/v detergent)</td>
-      <td>Homogenization in TSB with DDM/DM mixture; stirred at 4 C for 1 hr or overnight; 1 g total detergent per 2 liters of cells</td>
+      <td>Homogenization in TSB with <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> mixture; stirred at 4 C for 1 hr or overnight; 1 g total detergent per 2 liters of cells</td>
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>--</td>
-      <td>TSB buffer with <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + <a href="/xray-mp-wiki/reagents/detergents/decylmaltoside">'[DM</a>']</td>
-      <td>Centrifuged membrane extract loaded onto <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td>TSB buffer with <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + <a href="/xray-mp-wiki/reagents/detergents/dm">'[DM</a>']</td>
+      <td>Centrifuged membrane extract loaded onto <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin</td>
     </tr>
   </tbody>
 </table>

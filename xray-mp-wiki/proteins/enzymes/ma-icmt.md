@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.molcel.2011.10.020]
-verified: regex
+verified: agent
 uniprot_id: Q8TMG0
 ---
 
@@ -75,9 +75,9 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) is an integral membrane meth
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (His-tag affinity)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin (His-tag affinity)</td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Ma-ICMT-GFP-His7 purified with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> using the C-terminal His7 tag</td>
+      <td>Ma-ICMT-GFP-His7 purified with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) using the C-terminal His7 tag</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>

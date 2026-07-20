@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature05076]
-verified: none
+verified: agent
 ---
 
 # AgRP (Agouti-Related Peptide)

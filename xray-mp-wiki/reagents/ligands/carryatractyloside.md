@@ -1,5 +1,5 @@
 ---
-title: Carboxyatractyloside
+title: "Carboxyatractyloside"
 created: 2026-05-18
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##NATURE02056]
-verified: false
+verified: none
 ---
 
 # Carboxyatractyloside

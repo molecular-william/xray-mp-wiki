@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-019-08646-8, doi/10.1016##j.str.2019.11.020]
-verified: regex
+verified: agent
 uniprot_id: ['O67181', 'O67182']
 ---
 
@@ -83,7 +83,7 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
     <tr>
       <td>Ni-NTA affinity chromatography</td>
       <td>Immobilized metal-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) agarose</td>
       <td>Sequential washes with 22 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao">LDAO</a>, 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao">LDAO</a>, 1.5 M NaCl + 22 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao">LDAO</a></td>
       <td>Eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 5 mM <a href="/xray-mp-wiki/reagents/detergents/ldao">LDAO</a></td>
     </tr>
@@ -490,8 +490,8 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
   <tbody>
     <tr>
       <td>Affinity purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) agarose</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> HCl pH 8.5, 0.5 M NaCl, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 5 mM beta-ME (wash 1); 25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> HCl pH 8.5, 50 mM NaCl, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 5 mM beta-ME (wash 2)</td>
       <td>CBD construct (residues 235-395) with C-terminal hexahistidine tag</td>
     </tr>

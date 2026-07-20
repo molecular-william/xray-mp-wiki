@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.neuron.2021.07.009, doi/10.1038##nature14013, doi/10.7554##eLife.50403, doi/10.1126##science.1213808, doi/10.1073##pnas.1218950110]
-verified: regex
+verified: agent
 uniprot_id: ['O88454', 'Q9NYG8']
 ---
 
@@ -48,21 +48,21 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
       <td>K+, Fab</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7lj6">7LJ6</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7lj5">7LJ5</a></td>
       <td>2.7</td>
       <td>P21</td>
       <td>Human TRAAK A198E mutant with N-terminal extension, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, His-tag, co-crystallized with Fab</td>
       <td>K+, Fab</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7lj7">7LJ7</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7lj5">7LJ5</a></td>
       <td>2.9</td>
       <td>P21</td>
       <td>Human TRAAK A270P mutant with N-terminal extension, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, His-tag, co-crystallized with Fab</td>
       <td>K+, Fab</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7lj8">7LJ8</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7lj5">7LJ5</a></td>
       <td>3.3</td>
       <td>P21</td>
       <td>Human TRAAK G158D mutant with N-terminal extension, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, His-tag</td>
@@ -121,14 +121,14 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
     <tr>
       <td>Affinity purification</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>1% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>His-tag purification with <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> elution at 250 mM</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>20 mM Tris (pH 8.8), 150 mM NaCl + 0.03% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>
@@ -553,16 +553,16 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>20 mM Tris pH 8.0, 150 mM KCl, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
-      <td>Concentrated 50 kDa MWCO before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Concentrated 50 kDa MWCO before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
     <tr>
       <td>Fab complex formation</td>
       <td>Complex formation</td>
       <td>—</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> buffer (20 mM Tris pH 8.0, 150 mM KCl, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>) + 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) buffer (20 mM Tris pH 8.0, 150 mM KCl, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>) + 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Purified TRAAK (~10 mg/ml) incubated with purified 13E9 Fab (~30 mg/ml) at 1:2.5 molar ratio for 10 min at 4 C; complex separated from excess Fab on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
     </tr>
   </tbody>
@@ -1782,7 +1782,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>20 mM Tris pH 8.0, 150 mM KCl, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 1 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Concentrated 50 kDa MWCO. Peak fractions pooled for subsequent procedures</td>
@@ -2576,7 +2576,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>20 mM Tris (pH 8.0), 150 mM KCl, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Concentrated using 50-kDa MWCO</td>

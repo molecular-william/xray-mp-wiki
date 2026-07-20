@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1074##jbc.RA120.014118]
-verified: regex
+verified: agent
 uniprot_id: ['A0A7M4DUE4', 'O59010']
 ---
 
@@ -27,7 +27,7 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
 
 ## Publications
 
-### doi/10.1074##jbc.RA120.014118
+### doi/10.1074/jbc.RA120.014118
 
 **Structures:**
 
@@ -41,15 +41,15 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6x13">6X13</a></td>
-      <td>2.33 A</td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xl3">6XL3</a></td>
+      <td>2.33</td>
       <td>not specified</td>
       <td>Full-length MastR with C-terminal hexahistidine tag (wild-type, chloride pump)</td>
       <td>all-trans-<a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>, chloride ion</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wp8">6WP8</a></td>
-      <td>2.50 A</td>
+      <td>2.50</td>
       <td>not specified</td>
       <td>MastR T74D mutant with C-terminal hexahistidine tag (proton pump)</td>
       <td>all-trans-<a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a></td>
@@ -97,15 +97,15 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>HisTrap 1 mL Ni-NTA</td>
+      <td>HisTrap 1 mL <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 mM MES pH 6.5, 300 mM NaCl</td>
-      <td>Detergent exchanged to 2% OG during wash before elution</td>
+      <td>Detergent exchanged to 2% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> during wash before elution</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td>—</td>
-      <td>10 mM MES pH 6.5, 300 mM NaCl, 0.8% OG</td>
+      <td>10 mM MES pH 6.5, 300 mM NaCl, 0.8% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Purity >95% by SDS-PAGE (A537nm/A280nm > 0.6)</td>
     </tr>
   </tbody>
@@ -137,7 +137,7 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
 **Sequences (PDBTM):**
 
 <div class="sequence-entry" markdown="1">
-**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6x13">6X13</a> — Chain A (10 TMs, alpha)**
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6xl3">6XL3</a> — Chain A (10 TMs, alpha)**
 
 <div class="sequence-display">
 <div class="topo-legend">

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1002##1873-3468.14136]
-verified: regex
+verified: agent
 uniprot_id: A3KDM5
 ---
 
@@ -83,14 +83,14 @@ NtMATE2 is a multidrug and toxic compound extrusion (MATE) family transporter fr
       <td>Affinity chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (Clontech)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> cobalt affinity resin (Clontech)</td>
-      <td>Equilibration: 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-Na pH 7.0, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> pH 8.0 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his8-tag/">His8-Tag</a>-tagged NtMATE2 bound; washed with buffer containing 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20-40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> pH 8.0; eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> pH 8.0</td>
+      <td>Equilibration: 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-Na pH 7.0, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> pH 8.0 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.005% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his8-tag/">His8-Tag</a>-tagged NtMATE2 bound; washed with buffer containing 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20-40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> pH 8.0; eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> pH 8.0</td>
     </tr>
     <tr>
       <td>Tag cleavage and SEC polishing</td>
       <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> tag cleavage followed by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>Superdex 200 Increase 10/30 GL (GE Healthcare)</td>
-      <td>300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-Na pH 7.0, 1% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/30 GL (GE Healthcare)</td>
+      <td>300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-Na pH 7.0, 1% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.03% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Eluate concentrated using Amicon Ultra 100K filter; mixed with <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV(S219V) Protease</a> at 4 C for 16 h to remove GFP-His8 tag; concentrated to 12 mg/mL for crystallization</td>
     </tr>
   </tbody>

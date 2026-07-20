@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NATURE13293]
-verified: regex
+verified: agent
 uniprot_id: P28472
 ---
 
@@ -95,7 +95,7 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> 3.2/300 <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> 3.2/300 (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/) 3.2/300 (GE Healthcare)</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.2, 300 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>HPLC Sf9 Insect Cell Expression System with automated micro-volume loader and In-line <a href="/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/">FSEC</a> detection (Shimadzu). Peak fractions concentrated to 3 mg/ml.
 </td>

@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, detergent-mild, subdirectory-detergents]
 sources: [doi/10.1002##anie.201302374]
-verified: false
+verified: regex
 ---
 
 # Hexyl Maltoside (HxM)

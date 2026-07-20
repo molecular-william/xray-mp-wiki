@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##emboj.2009.310, doi/10.1038##embor.2009.202, doi/10.1016##j.jmb.2013.04.022]
-verified: regex
-uniprot_id: Q56404
+verified: agent
+uniprot_id: ['O87880', 'P74903', 'Q56403', 'Q56404']
 ---
 
 # V1-ATPase from Thermus thermophilus
@@ -16,7 +16,7 @@ uniprot_id: Q56404
 <div class="expr-badges"><span class="expr-badge expr-t-thermophilus">T. thermophilus</span> <span class="expr-badge expr-native-tissue">Native tissue</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q56404">UniProt: Q56404</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/O87880">UniProt: O87880</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P74903">UniProt: P74903</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q56403">UniProt: Q56403</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q56404">UniProt: Q56404</a>
 
 <span class="expr-badge">Thermus thermophilus</span>
 
@@ -41,7 +41,7 @@ V-type ATPase (V-ATPase) is a rotary ATPase complex that mediates energy convers
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3gqb">3GQB</a></td>
-      <td>2.8 A</td>
+      <td>2.8</td>
       <td>P321</td>
       <td>A3B3 subcomplex from Thermus thermophilus V-ATPase (cysteine mutant: A/C28S/C255S/C508S, B/C265S); nucleotide-free</td>
       <td>None (nucleotide-free; bound nucleotides removed by Pi-<a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> treatment)</td>

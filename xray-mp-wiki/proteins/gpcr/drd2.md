@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature25758, doi/10.1038##s41467-020-20221-0, doi/10.1038##s41467-020-14884-y]
-verified: regex
+verified: agent
 uniprot_id: P14416
 ---
 
@@ -43,7 +43,7 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6c38">6C38</a></td>
       <td>2.9 A</td>
       <td>P212121</td>
-      <td>Human DRD2 long variant with N-terminal <a href="/xray-mp-wiki/concepts/truncation">TRUNCATION</a>, T4L fused into ICL3, thermostabilizing mutations I122A, L375A, L379A</td>
+      <td>Human DRD2 long variant with N-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">TRUNCATION</a>, T4L fused into ICL3, thermostabilizing mutations I122A, L375A, L379A</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/risperidone">RISPERIDONE</a></td>
     </tr>
   </tbody>
@@ -71,7 +71,7 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7dfp">7DFP</a></td>
       <td>3.1 A</td>
       <td>C2</td>
-      <td>Human DRD2-mbIIIG S121K/L123W with N-terminal <a href="/xray-mp-wiki/concepts/truncation">TRUNCATION</a> (residues 1-34), ICL3 replaced by loop-modified cytochrome b562 (mbIIIG), Fab3089 bound</td>
+      <td>Human DRD2-mbIIIG S121K/L123W with N-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">TRUNCATION</a> (residues 1-34), ICL3 replaced by loop-modified cytochrome b562 (mbIIIG), Fab3089 bound</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/spiperone">SPIPERONE</a></td>
     </tr>
   </tbody>

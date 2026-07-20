@@ -1,13 +1,13 @@
 ---
-title: Substrate-Induced Transition Fit in 5+5 Inverted Repeat Transporters
+title: "Substrate-Induced Transition Fit in 5+5 Inverted Repeat Transporters"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.1018081108]
-verified: false
+verified: regex
 ---
 
 # Substrate-Induced Transition Fit in 5+5 Inverted Repeat Transporters

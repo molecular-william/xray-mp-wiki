@@ -1,5 +1,5 @@
 ---
-title: Ethylene Glycol
+title: "Ethylene Glycol"
 created: 2026-05-28
 updated: 2026-05-28
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.molcel.2015.12.022]
-verified: false
+verified: agent
 ---
 
 # Ethylene Glycol

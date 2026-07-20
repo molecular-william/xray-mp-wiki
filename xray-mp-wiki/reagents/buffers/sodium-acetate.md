@@ -1,5 +1,5 @@
 ---
-title: Sodium Acetate
+title: "Sodium Acetate"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-acetate, subdirectory-buffers]
 sources: [doi/10.1126##science.1110064, doi/10.1126##science.1111199]
-verified: false
+verified: regex
 ---
 
 # Sodium Acetate

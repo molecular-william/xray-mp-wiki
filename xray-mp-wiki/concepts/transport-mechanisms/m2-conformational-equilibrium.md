@@ -1,13 +1,13 @@
 ---
-title: M2 Proton Channel Conformational Equilibrium
+title: "M2 Proton Channel Conformational Equilibrium"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1021##jacs.9b02196, doi/10.1073##pnas.1007071107]
-verified: false
+verified: regex
 ---
 
 # M2 Proton Channel Conformational Equilibrium

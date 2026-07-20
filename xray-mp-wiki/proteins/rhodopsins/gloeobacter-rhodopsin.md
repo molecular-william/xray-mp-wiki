@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41598-019-47445-5]
-verified: regex
+verified: agent
 uniprot_id: Q7NP59
 ---
 
@@ -81,7 +81,7 @@ resolution from crystals grown in bicelles.
       <td>1. Solubilization</td>
       <td>Detergent solubilization</td>
       <td>—</td>
-      <td>1.0% <a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">OG</a> (OG) or <a href="/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltoside/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>1.0% <a href="/xray-mp-wiki/reagents/detergents/og/">[OG</a>](/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/) (OG) or <a href="/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltoside/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Solubilization at room temperature; ultracentrifugation at 100,000 x g to remove unsolubilized material</td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ resolution from crystals grown in bicelles.
       <td>3. Size-exclusion chromatography</td>
       <td>Gel filtration</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
-      <td>20 mM HEPES pH 7.5, 300 mM NaCl + 1.0% OG or 0.04% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>20 mM HEPES pH 7.5, 300 mM NaCl + 1.0% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> or 0.04% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
   </tbody>

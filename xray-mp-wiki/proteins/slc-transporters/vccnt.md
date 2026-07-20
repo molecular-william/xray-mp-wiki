@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature10882]
-verified: regex
+verified: agent
 uniprot_id: Q9KPL5
 ---
 
@@ -103,7 +103,7 @@ vcCNT is a concentrative nucleoside transporter from Vibrio cholerae, a member o
       <td>Size-exclusion chromatography</td>
       <td>Size-exclusion chromatography</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
-      <td>20 mM Tris-HCl pH 8.0, 150 mM NaCl, 2 mM dithiothreitol + 5 mM decyl maltoside (DM)</td>
+      <td>20 mM Tris-HCl pH 8.0, 150 mM NaCl, 2 mM dithiothreitol + 5 mM decyl maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Presence of 1 mM uridine</td>
     </tr>
   </tbody>

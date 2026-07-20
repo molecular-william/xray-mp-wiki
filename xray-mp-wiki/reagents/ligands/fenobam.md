@@ -1,5 +1,5 @@
 ---
-title: Fenobam
+title: "Fenobam"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.jmedchem.7b01722]
-verified: false
+verified: agent
 ---
 
 # Fenobam

@@ -1,13 +1,13 @@
 ---
-title: Rocking-Bundle Mechanism
+title: "Rocking-Bundle Mechanism"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##cr.2017.83, doi/10.1038##nature12179, doi/10.1038##nature12188]
-verified: false
+verified: none
 ---
 
 # Rocking-Bundle Mechanism

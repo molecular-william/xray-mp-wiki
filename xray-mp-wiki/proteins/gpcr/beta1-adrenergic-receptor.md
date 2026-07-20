@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1100185108, doi/10.1126##science.aau5595]
-verified: regex
+verified: agent
 uniprot_id: ['P07700', 'P0AA25']
 ---
 
@@ -81,7 +81,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     <tr>
       <td>Affinity chromatography</td>
       <td>Ni2+-affinity</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td></td>
       <td>First purification step</td>
     </tr>

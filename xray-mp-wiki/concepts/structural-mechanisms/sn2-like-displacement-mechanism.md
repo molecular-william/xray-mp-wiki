@@ -1,13 +1,13 @@
 ---
-title: SN2-Like Displacement Mechanism in Phosphotransferases
+title: "SN2-Like Displacement Mechanism in Phosphotransferases"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##ncomms5169]
-verified: false
+verified: regex
 ---
 
 # SN2-Like Displacement Mechanism in Phosphotransferases

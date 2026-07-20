@@ -1,13 +1,13 @@
 ---
-title: Designed Ankyrin Repeat Protein (DARPin)
+title: "Designed Ankyrin Repeat Protein (DARPin)"
 created: 2026-06-08
 updated: 2026-06-10
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design, membrane-protein]
+tags: [concept-construct-design, membrane-protein, subdirectory-construct-design]
 sources: [doi/10.1073##pnas.1114944109, doi/10.1016##j.jsb.2011.01.014, doi/10.1371##journal.pbio.0050007]
-verified: false
+verified: regex
 ---
 
 # Designed Ankyrin Repeat Protein (DARPin)

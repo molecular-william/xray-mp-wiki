@@ -1,5 +1,5 @@
 ---
-title: Sodium Ethylmercurithiosalicylate
+title: "Sodium Ethylmercurithiosalicylate"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##nsmb.1788]
-verified: false
+verified: regex
 ---
 
 # Sodium Ethylmercurithiosalicylate

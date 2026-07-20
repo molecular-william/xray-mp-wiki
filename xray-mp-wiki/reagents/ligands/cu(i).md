@@ -1,5 +1,5 @@
 ---
-title: Copper(I) Ion
+title: "Copper(I) Ion"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-metal, subdirectory-ligands]
 sources: [doi/10.1016##j.jmb.2009.08.029]
-verified: false
+verified: regex
 ---
 
 # Copper(I) Ion

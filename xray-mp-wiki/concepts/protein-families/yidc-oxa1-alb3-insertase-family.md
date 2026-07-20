@@ -1,5 +1,5 @@
 ---
-title: YidC/Oxa1/Alb3 Insertase Family
+title: "YidC/Oxa1/Alb3 Insertase Family"
 created: 2026-05-28
 updated: 2026-06-16
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1016##j.bbamem.2021.183825, doi/10.1016##j.str.2015.06.025, doi/10.1038##srep07299, doi/10.1096##fj.201700893RR]
-verified: true
+verified: agent
 ---
 
 # YidC/Oxa1/Alb3 Insertase Family

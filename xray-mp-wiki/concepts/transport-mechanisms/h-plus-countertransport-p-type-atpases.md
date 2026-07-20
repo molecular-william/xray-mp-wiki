@@ -1,13 +1,13 @@
 ---
-title: H⁺ Countertransport in P-type ATPases
+title: "H⁺ Countertransport in P-type ATPases"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, concept-protein-family, subdirectory-concepts]
+tags: [concept-transport-mechanism, concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.0506222102, doi/10.1038##nature00944, doi/10.1038##nature02680]
-verified: false
+verified: regex
 ---
 
 # H⁺ Countertransport in P-type ATPases

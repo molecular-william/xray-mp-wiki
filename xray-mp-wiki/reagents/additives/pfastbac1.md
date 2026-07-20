@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [substrate, subdirectory-additives]
 sources: [doi/10.1038##nature22035]
-verified: none
+verified: regex
 ---
 
 # pFastBac1 Vector

@@ -1,13 +1,13 @@
 ---
-title: PNPT Superfamily (Polypropenyl-phosphate N-acetyl hexosamine 1-phosphate Transferase)
+title: "PNPT Superfamily (Polypropenyl-phosphate N-acetyl hexosamine 1-phosphate Transferase)"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
-sources: [doi/10.1126##science.1236501]
-verified: false
+tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
+sources: [doi/10.1126##science.1236501, doi/10.1038##s41467-019-10957-9, doi/10.1038##nature17636]
+verified: regex
 ---
 
 # PNPT Superfamily (Polypropenyl-phosphate N-acetyl hexosamine 1-phosphate Transferase)

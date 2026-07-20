@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jsb.2015.06.003]
-verified: regex
+verified: agent
 uniprot_id: P02787
 ---
 
@@ -39,7 +39,7 @@ MycP1 (Mycobacterial Protease 1) is a membrane-anchored serine protease of the m
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4h0w">4H0W</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xwp">4XWP</a></td>
       <td>2.1 A</td>
       <td>C2221</td>
       <td>Mycosin-1 protease (MycP1) domain</td>

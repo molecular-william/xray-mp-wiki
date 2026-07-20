@@ -1,13 +1,13 @@
 ---
-title: Cholesterol-Dependent Cytolysins
+title: "Cholesterol-Dependent Cytolysins"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-miscellaneous]
 sources: [doi/10.1038##NCOMMS4690]
-verified: false
+verified: none
 ---
 
 # Cholesterol-Dependent Cytolysins

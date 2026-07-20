@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature14287]
-verified: regex
+verified: agent
 uniprot_id: Q7K4Y6
 ---
 
@@ -41,7 +41,7 @@ The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4m48">4M48</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xnv">4XNV</a></td>
       <td>2.70 A</td>
       <td>P1</td>
       <td>Human P2Y1R construct 1: residues 1-341 with N-terminal HA signal sequence, Flag tag, and C-terminal PreScission protease site plus 10x His tag. ICL3 (residues K247-P253) replaced by rubredoxin (M1-E54). D320(7.49)N mutation for improved yield and stability.
@@ -49,7 +49,7 @@ The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/
       <td>MRS2500</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4m49">4M49</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xnv">4XNV</a></td>
       <td>2.20 A</td>
       <td>R3H</td>
       <td>Human P2Y1R construct 2: residues 1-341 with N-terminal HA signal sequence, Flag tag, and C-terminal PreScission protease site plus 10x His tag. A23-L128 of thermostabilized BRIL (PDB 1M6T) fused before residue A8. D320(7.49)N mutation for improved yield and stability.
@@ -89,15 +89,15 @@ The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Purified membranes solubilized in 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> and 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> for 3h at 4C in presence of 1 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> and 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a>. Supernatant isolated by centrifugation at 160,000g for 30 min.
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Purified membranes solubilized in 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> and 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) for 3h at 4C in presence of 1 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> and 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a>. Supernatant isolated by centrifugation at 160,000g for 30 min.
 </td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
-      <td>Wash: 25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 1 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a>. Elution: 25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>.
+      <td>Wash: 25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a>. Elution: 25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>.
 </td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin incubated overnight at 4C. Resin washed with 10 column volumes of wash buffer, then eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>.
 </td>

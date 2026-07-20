@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature24464]
-verified: regex
+verified: agent
 ---
 
 # SLC35C1 Human GDP-Fucose Transporter
@@ -34,7 +34,7 @@ SLC35C1 is the human [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/)
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/homology model (based on vrg4, pdb 5oge)">HOMOLOGY MODEL (BASED ON VRG4, PDB 5OGE)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5oge">5OGE</a></td>
       <td>N/A</td>
       <td>N/A</td>
       <td>Full-length SLC35C1 homology model</td>

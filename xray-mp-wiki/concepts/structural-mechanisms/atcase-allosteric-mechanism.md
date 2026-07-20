@@ -1,13 +1,13 @@
 ---
-title: Allosteric Mechanism of Aspartate Carbamoyltransferase
+title: "Allosteric Mechanism of Aspartate Carbamoyltransferase"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1021##bi00485a020]
-verified: false
+verified: regex
 ---
 
 # Allosteric Mechanism of Aspartate Carbamoyltransferase

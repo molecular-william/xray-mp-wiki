@@ -1,13 +1,13 @@
 ---
-title: Side-Entry Ion Conduction Pathway
+title: "Side-Entry Ion Conduction Pathway"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1107##s205225252100213x]
-verified: false
+verified: regex
 ---
 
 # Side-Entry Ion Conduction Pathway

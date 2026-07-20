@@ -1,5 +1,5 @@
 ---
-title: Lisuride
+title: "Lisuride"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##s41594-022-00796-6]
-verified: false
+verified: agent
 ---
 
 # Lisuride

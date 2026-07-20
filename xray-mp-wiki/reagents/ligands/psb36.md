@@ -1,5 +1,5 @@
 ---
-title: PSB36
+title: "PSB36"
 created: 2026-05-27
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.cell.2017.01.042, doi/10.1016##j.str.2017.06.012]
-verified: false
+verified: agent
 ---
 
 # PSB36

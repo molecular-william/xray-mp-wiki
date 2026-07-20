@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature13306, doi/10.1073##pnas.1603735113, doi/10.26508##lsa.202000858]
-verified: regex
+verified: agent
 uniprot_id: P11166
 ---
 
@@ -75,14 +75,14 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
       <td>Cell disruption</td>
       <td>Dounce homogenization</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a></td>
       <td>80 cycles on ice</td>
     </tr>
     <tr>
       <td>Membrane preparation</td>
       <td>Ultracentrifugation</td>
       <td>—</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a></td>
       <td>150,000g for 1 h; membrane fraction harvested</td>
     </tr>
     <tr>
@@ -94,17 +94,17 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES Buffer</a> pH 6.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
       <td>30 min at 4 C; elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> (GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200) (GE Healthcare)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES Buffer</a> pH 6.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.4% beta-NG + 0.4% beta-NG</td>
-      <td>Concentrated to 10 mg/ml before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+      <td>Concentrated to 10 mg/ml before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
     </tr>
   </tbody>
 </table>
@@ -430,9 +430,9 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
   <tbody>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA</td>
-      <td>Ni-NTA (GE Biosciences, 1 mL column)</td>
-      <td>not specified + n-dodecyl-beta-D-maltopyranoside (beta-DDM)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (GE Biosciences, 1 mL column)</td>
+      <td>not specified + n-dodecyl-beta-D-maltopyranoside (beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
       <td>Protein was not glycosylated at N45 despite known glycosylation site</td>
     </tr>
   </tbody>

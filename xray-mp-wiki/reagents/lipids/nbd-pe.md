@@ -1,5 +1,5 @@
 ---
-title: NBD-Phosphatidylethanolamine (NBD-PE)
+title: "NBD-Phosphatidylethanolamine (NBD-PE)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-diacyl, lipid-analog, subdirectory-lipids]
 sources: [doi/10.1038##nature13984]
-verified: false
+verified: regex
 ---
 
 # NBD-Phosphatidylethanolamine (NBD-PE)

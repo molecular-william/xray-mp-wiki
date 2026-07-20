@@ -1,5 +1,5 @@
 ---
-title: Dequalinium - Quaternary Ammonium Cation
+title: "Dequalinium - Quaternary Ammonium Cation"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1083137]
-verified: false
+verified: regex
 ---
 
 # Dequalinium - Quaternary Ammonium Cation

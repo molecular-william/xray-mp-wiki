@@ -1,5 +1,5 @@
 ---
-title: IPTG (Isopropyl-beta-D-thiogalactopyranoside)
+title: "IPTG (Isopropyl-beta-D-thiogalactopyranoside)"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1038##ncomms7112, doi/10.1038##ncomms7874, doi/10.1038##ncomms8177, doi/10.1038##ncomms8995]
-verified: false
+verified: regex
 ---
 
 # IPTG (Isopropyl-beta-D-thiogalactopyranoside)

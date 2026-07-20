@@ -1,5 +1,5 @@
 ---
-title: Tris(2-carboxyethyl)phosphine (TCEP)
+title: "Tris(2-carboxyethyl)phosphine (TCEP)"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-reductant, subdirectory-additives]
 sources: [doi/10.1038##nsmb.3049]
-verified: false
+verified: regex
 ---
 
 # Tris(2-carboxyethyl)phosphine (TCEP)

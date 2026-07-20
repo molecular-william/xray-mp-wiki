@@ -1,13 +1,13 @@
 ---
-title: Resistance-Nodulation-Cell Division (RND) Superfamily
+title: "Resistance-Nodulation-Cell Division (RND) Superfamily"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism]
+tags: [concept-transport-mechanism, subdirectory-protein-families]
 sources: [doi/10.1038##nature11524]
-verified: false
+verified: regex
 ---
 
 # Resistance-Nodulation-Cell Division (RND) Superfamily

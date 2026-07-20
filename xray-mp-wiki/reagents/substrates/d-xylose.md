@@ -1,5 +1,5 @@
 ---
-title: D-Xylose
+title: "D-Xylose"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [substrate, subdirectory-substrates]
 sources: [doi/10.1038##nature11524]
-verified: false
+verified: agent
 ---
 
 # D-Xylose

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-018-07939-8, doi/10.1073##pnas.1812717115]
-verified: regex
+verified: agent
 uniprot_id: P25103
 ---
 
@@ -42,7 +42,7 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hll">6HLL</a></td>
-      <td>3.27 A</td>
+      <td>3.27</td>
       <td>C2221</td>
       <td>Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
 </td>
@@ -50,7 +50,7 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hlo">6HLO</a></td>
-      <td>2.40 A</td>
+      <td>2.40</td>
       <td>P212121</td>
       <td>Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
 </td>
@@ -58,7 +58,7 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hlp">6HLP</a></td>
-      <td>2.20 A</td>
+      <td>2.20</td>
       <td>P212121</td>
       <td>Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
 </td>
@@ -97,30 +97,30 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Membranes solubilized for 1 h at 4 C with <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Membranes solubilized for 1 h at 4 C with <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
     </tr>
     <tr>
       <td>Ni-NTA affinity</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin</td>
       <td>50 mM HEPES pH 7.5, 500 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>
- + 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged receptor bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin, eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+ + 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His-tag</a>ged receptor bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin, eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
     <tr>
       <td>Buffer exchange and tag cleavage</td>
       <td>Desalting (PD MiniTrap G-25)</td>
       <td>—</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> removed; <a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged 3C protease and PNGaseF added for 6 h at 4 C</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> removed; <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His-tag</a>ged 3C protease and PNGaseF added for 6 h at 4 C</td>
     </tr>
     <tr>
       <td>Reverse Ni-NTA</td>
       <td>Flow-through collection</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
-      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>
- + 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) resin</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
+ + 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Cleaved receptor collected as flow-through; uncleaved and 3C protease bind resin</td>
     </tr>
     <tr>
@@ -706,7 +706,7 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6e59">6E59</a></td>
-      <td>3.4 A</td>
+      <td>3.4</td>
       <td>not specified</td>
       <td>Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
 </td>
@@ -749,33 +749,33 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
       <td>Solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a>, 5 uM L760735 + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% Na Cholate, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a>, 5 uM L760735 + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% Na Cholate, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilization for 1 h at 4 C, ultracentrifugation at 100,000 x g</td>
     </tr>
     <tr>
       <td>Ni-NTA batch binding</td>
-      <td>Batch binding with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 uM L760735</td>
+      <td>Batch binding with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 uM L760735</td>
       <td>20 GE <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> added before binding, batch mode for 4 h at 4 C</td>
     </tr>
     <tr>
       <td>Ni-NTA elution</td>
       <td>Column elution</td>
       <td>—</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 uM L760735</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 uM L760735</td>
       <td>Eluted with 5 volumes of elution buffer</td>
     </tr>
     <tr>
       <td>M1 anti-FLAG affinity</td>
       <td>M1 <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> with detergent exchange</td>
       <td>M1 anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> agarose</td>
-      <td>200 ug/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide, 5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + Detergent exchanged from <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/Na Cholate/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> to 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> on M1 beads</td>
+      <td>200 ug/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide, 5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + Detergent exchanged from <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/Na Cholate/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) to 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> on M1 beads</td>
       <td>2 mM CaCl2 added before loading; eluted with <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide + <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td></td>
       <td>Single monomeric peak collected, purity checked by SDS/PAGE</td>

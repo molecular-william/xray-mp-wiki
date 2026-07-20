@@ -1,5 +1,5 @@
 ---
-title: Proton Wire (Chain of Hydrogen Bonds)
+title: "Proton Wire (Chain of Hydrogen Bonds)"
 created: 2026-06-08
 updated: 2026-06-11
 type: concept
@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-transport-mechanism, concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1016##j.jmb.2007.04.082, doi/10.1073##pnas.2006027117, doi/10.1073##pnas.2016328118, doi/10.1038##s41594-022-00762-2, doi/10.1038##s41594-023-01020-9, doi/10.1126##science.aaw8634]
-verified: false
+verified: regex
 ---
 
 # Proton Wire (Chain of Hydrogen Bonds)

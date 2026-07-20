@@ -1,5 +1,5 @@
 ---
-title: Fab5 Antibody Fragment
+title: "Fab5 Antibody Fragment"
 created: 2026-06-02
 updated: 2026-06-02
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1038##nature06325, doi/10.1038##nature08650]
-verified: false
+verified: regex
 ---
 
 # Fab5 Antibody Fragment

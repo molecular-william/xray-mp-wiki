@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1021##jacs.8b11343]
-verified: regex
+verified: agent
 uniprot_id: P77304
 ---
 
@@ -101,23 +101,23 @@ DtpA is a proton-dependent oligopeptide transporter (POT) from Escherichia coli 
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA affinity</td>
-      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
       <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">HIS6-TAG</a> affinity purification</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>HiLoad 16/600 Superdex 75 pg</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl, 0.03% DDM + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>DtpA-N00 complex formation evaluated by analytical gel filtration on Superdex 200 5/150 GL</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>DtpA-N00 complex formation evaluated by analytical gel filtration on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 5/150 GL</td>
     </tr>
     <tr>
       <td>Final sample</td>
       <td>Concentration</td>
       <td>--</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl, 0.03% DDM + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Concentrated to 13 mg/ml using 5 kDa cut-off concentrator, flash-frozen and stored at -80C</td>
     </tr>
   </tbody>

@@ -1,13 +1,13 @@
 ---
-title: Heterotrimeric G Protein
+title: "Heterotrimeric G Protein"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural]
+tags: [concept-structural, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature10361]
-verified: false
+verified: regex
 ---
 
 # Heterotrimeric G Protein

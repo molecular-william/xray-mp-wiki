@@ -1,5 +1,5 @@
 ---
-title: Stearoyl-CoA
+title: "Stearoyl-CoA"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nsmb.3049]
-verified: false
+verified: agent
 ---
 
 # Stearoyl-CoA

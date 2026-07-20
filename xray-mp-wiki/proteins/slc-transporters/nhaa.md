@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature03692, doi/10.1038##s41467-022-34120-z, doi/10.1085##jgp.201411219]
-verified: regex
+verified: agent
 uniprot_id: P13738
 ---
 
@@ -41,7 +41,7 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1yqy">1YQY</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1zcd">1ZCD</a></td>
       <td>2.3 A</td>
       <td>P 21 21 21</td>
       <td>Wild-type NhaA from E. coli K-12 (residues 1-393)</td>
@@ -71,22 +71,22 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
       <td>Membrane preparation</td>
       <td>Cell lysis and membrane fractionation</td>
       <td>not specified</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl</a> pH 7.5, 150 mM NaCl + not specified</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl</a> pH 7.5, 150 mM NaCl + not specified</td>
       <td>Membrane fractions collected by ultracentrifugation</td>
     </tr>
     <tr>
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>not specified</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl</a> pH 7.5, 150 mM NaCl + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl</a> pH 7.5, 150 mM NaCl + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Solubilized with 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> (n-dodecyl-beta-D-maltopyranoside)</td>
     </tr>
     <tr>
       <td>Purification</td>
       <td>Chromatography</td>
       <td>not specified</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.02% DDM + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>Purified by chromatography; final sample in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.02% DDM</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Purified by chromatography; final sample in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
     </tr>
   </tbody>
 </table>
@@ -105,7 +105,7 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
     </tr>
     <tr>
       <td>Reservoir</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/peg400">PEG 400</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/peg-400">PEG 400</a></td>
     </tr>
     <tr>
       <td>Temperature</td>
@@ -178,16 +178,16 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
     <tr>
       <td>IMAC purification</td>
       <td>Nickel-nitrilotriacetic acid <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> Superflow (QIAGEN) or HisTrap FF crude (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-KOH pH 8.0, 200 mM <a href="/xray-mp-wiki/reagents/additives/potassium-acetate">Potassium Acetate</a>, 10 mM potassium oxalate, 20% glycerol, 1 mM DDM, 30-50 mM imidazole (wash), 250 mM imidazole (elution) + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>WT-like triple mutant (A109T, Q277G, L296M) purified with TEV-cleavable C-terminal GFP-His8 tag</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) Superflow (QIAGEN) or HisTrap FF crude (GE Healthcare)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-KOH pH 8.0, 200 mM <a href="/xray-mp-wiki/reagents/additives/potassium-acetate">Potassium Acetate</a>, 10 mM potassium oxalate, 20% glycerol, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 30-50 mM imidazole (wash), 250 mM imidazole (elution) + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>WT-like triple mutant (A109T, Q277G, L296M) purified with <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a>-cleavable C-terminal GFP-His8 tag</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td>HiLoad 16/60 Superdex200 pg column (GE Healthcare)</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a>-KOH pH 6.2, 200 mM <a href="/xray-mp-wiki/reagents/additives/potassium-acetate">Potassium Acetate</a>, 10 mM potassium oxalate, 20% glycerol, 0.51 mM DDM + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
-      <td>Concentrated to 36 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> crystallization</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a>-KOH pH 6.2, 200 mM <a href="/xray-mp-wiki/reagents/additives/potassium-acetate">Potassium Acetate</a>, 10 mM potassium oxalate, 20% glycerol, 0.51 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Concentrated to 36 mg/mL for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) crystallization</td>
     </tr>
   </tbody>
 </table>

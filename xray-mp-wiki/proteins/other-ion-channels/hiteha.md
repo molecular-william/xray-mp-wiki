@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature09487, doi/10.1107##s139900471500423x]
-verified: regex
+verified: agent
 uniprot_id: P44741
 ---
 
@@ -49,7 +49,7 @@ demonstrating the first in situ membrane protein structure determination at a sy
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3m7b">3M7B</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3m71">3M71</a></td>
       <td>1.20</td>
       <td>R3</td>
       <td>Full-length <a href="/xray-mp-wiki/proteins/other-ion-channels/teha/">TEHA</a> from Haemophilus influenzae (residues 6-313) with Flag and deca-His tag, <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> cleavable</td>
@@ -89,14 +89,14 @@ demonstrating the first in situ membrane protein structure determination at a sy
     <tr>
       <td>Metal affinity purification</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> screening</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td>Analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td>Analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column</td>
       <td>12 different detergents tested</td>
       <td></td>
     </tr>

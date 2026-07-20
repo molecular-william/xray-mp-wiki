@@ -1,13 +1,13 @@
 ---
-title: Proton-Release Channel in Archaeal Rhodopsins
+title: "Proton-Release Channel in Archaeal Rhodopsins"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein, xray-crystallography]
+tags: [concept-functional, membrane-protein, xray-crystallography, subdirectory-transport-mechanisms]
 sources: [doi/10.1107##s1399004714017313, doi/10.1016##j.jmb.2007.11.039, doi/10.1016##j.jmb.2006.02.032]
-verified: false
+verified: regex
 ---
 
 # Proton-Release Channel in Archaeal Rhodopsins

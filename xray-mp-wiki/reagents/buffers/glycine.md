@@ -1,5 +1,5 @@
 ---
-title: Glycine
+title: "Glycine"
 created: 2026-06-03
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-glycine, subdirectory-buffers]
 sources: [doi/10.1038##nature12648, doi/10.1038##nsmb.1531, doi/10.1038##s41422-020-00424-2, doi/10.1126##science.1251915, doi/10.1126##sciadv.abe5504]
-verified: false
+verified: agent
 ---
 
 # Glycine

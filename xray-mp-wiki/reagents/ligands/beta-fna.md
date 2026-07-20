@@ -1,5 +1,5 @@
 ---
-title: beta-FNA (beta-Funaltrexamine)
+title: "beta-FNA (beta-Funaltrexamine)"
 created: 2026-06-03
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature14886, doi/10.1038##nature10954]
-verified: false
+verified: regex
 ---
 
 # beta-FNA (beta-Funaltrexamine)

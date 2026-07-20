@@ -1,5 +1,5 @@
 ---
-title: Lutetium Acetate
+title: "Lutetium Acetate"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##ncomms1693]
-verified: false
+verified: regex
 ---
 
 # Lutetium Acetate

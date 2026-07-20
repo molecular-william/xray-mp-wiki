@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.0709387104, doi/10.7554##eLife.76766]
-verified: regex
+verified: agent
 uniprot_id: P23895
 ---
 
@@ -741,17 +741,17 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Clarified lysate loaded onto TALON cobalt resin, washed with wash buffer + 10 mM imidazole, eluted with 400 mM imidazole</td>
+      <td>Clarified lysate loaded onto <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt resin, washed with wash buffer + 10 mM imidazole, eluted with 400 mM imidazole</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt resin (Clontech)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-Cl</a> pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 5 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Eluted with wash buffer supplemented with 400 mM imidazole</td>
     </tr>
     <tr>
       <td>Thrombin cleavage and SEC</td>
-      <td>Buffer exchanged into wash buffer using PD-10 desalting columns. His tags cleaved with thrombin (1 U/mg EmrE3) overnight at 21 C. Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) using <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column.</td>
+      <td>Buffer exchanged into wash buffer using PD-10 desalting columns. His tags cleaved with thrombin (1 U/mg EmrE3) overnight at 21 C. Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) using <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column.</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
-      <td>SEC performed for final polishing step</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> performed for final polishing step</td>
     </tr>
   </tbody>
 </table>

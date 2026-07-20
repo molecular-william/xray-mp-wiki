@@ -1,13 +1,13 @@
 ---
 title: "Human Emopamil-Binding Protein (EBP)"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-13
 type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-019-10279-w]
-verified: regex
+verified: agent
 ---
 
 # Human Emopamil-Binding Protein (EBP)
@@ -36,14 +36,14 @@ Emopamil-Binding Protein (EBP), also known as 3-beta-hydroxysteroid-Delta8,Delta
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/(u18666a-bound structure)">(U18666A-BOUND STRUCTURE)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6oht">6OHT</a></td>
       <td>3.2</td>
       <td>P2(1)2(1)2</td>
       <td>Full-length human EBP (residues 1-230), residues 1-6, 53-59, 220-230 not visible</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/u18666a/">U18666A</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/(tamoxifen-bound structure)">(TAMOXIFEN-BOUND STRUCTURE)</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ohu">6OHU</a></td>
       <td>3.5</td>
       <td>P2(1)2(1)2</td>
       <td>Full-length human EBP (residues 1-230), residues 1-6, 53-59, 220-230 not visible</td>
@@ -89,10 +89,10 @@ Emopamil-Binding Protein (EBP), also known as 3-beta-hydroxysteroid-Delta8,Delta
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Strep-Tactin or Ni-NTA affinity</td>
-      <td>Strep-Tactin (IBA) or Ni-NTA (Qiagen)</td>
+      <td>Strep-Tactin or <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td>Strep-Tactin (IBA) or <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
       <td>20 mM HEPES pH 7.5, 150 mM NaCl, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a></td>
-      <td>Eluted with 2.5 mM <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin/">Desthiobiotin</a> (Strep) or 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (Ni-NTA)</td>
+      <td>Eluted with 2.5 mM <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin/">Desthiobiotin</a> (Strep) or 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>)</td>
     </tr>
   </tbody>
 </table>

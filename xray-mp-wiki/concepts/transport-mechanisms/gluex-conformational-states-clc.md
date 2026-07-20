@@ -1,13 +1,13 @@
 ---
-title: Gluex Conformational States in CLC Transport Cycle
+title: "Gluex Conformational States in CLC Transport Cycle"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.1901822116, doi/10.1126##science.1195230]
-verified: false
+verified: regex
 ---
 
 # Gluex Conformational States in CLC Transport Cycle

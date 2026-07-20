@@ -1,13 +1,13 @@
 ---
-title: Anion-&#x3C0; Interaction in Ion Transport
+title: "Anion-&#x3C0; Interaction in Ion Transport"
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein]
+tags: [concept-functional, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1126##science.abj6663]
-verified: false
+verified: regex
 ---
 
 # Anion-&#x3C0; Interaction in Ion Transport

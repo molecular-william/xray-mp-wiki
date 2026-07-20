@@ -1,13 +1,13 @@
 ---
-title: Periplasmic Drug-Binding Site in RND Efflux Pumps
+title: "Periplasmic Drug-Binding Site in RND Efflux Pumps"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
-sources: [doi/10.1128##jb.187.19.6804-6815.2005]
-verified: false
+tags: [concept-functional, subdirectory-transport-mechanisms]
+sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1038##s41467-021-24151-3]
+verified: regex
 ---
 
 # Periplasmic Drug-Binding Site in RND Efflux Pumps

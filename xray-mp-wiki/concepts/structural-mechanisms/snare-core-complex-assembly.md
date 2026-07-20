@@ -1,13 +1,13 @@
 ---
-title: SNARE Core Complex Assembly and Layer Architecture
+title: "SNARE Core Complex Assembly and Layer Architecture"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, subdirectory-concepts]
+tags: [concept-structural, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.2006997117]
-verified: false
+verified: regex
 ---
 
 # SNARE Core Complex Assembly and Layer Architecture

@@ -1,5 +1,5 @@
 ---
-title: Hydroxyapatite Chromatography
+title: "Hydroxyapatite Chromatography"
 created: 2026-05-28
 updated: 2026-06-11
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [purification-ion-exchange, subdirectory-purification]
 sources: [doi/10.1016##j.str.2012.11.010]
-verified: false
+verified: regex
 ---
 
 # Hydroxyapatite Chromatography

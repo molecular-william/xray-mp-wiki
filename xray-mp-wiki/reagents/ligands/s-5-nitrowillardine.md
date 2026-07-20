@@ -1,5 +1,5 @@
 ---
-title: (S)-5-Nitrowillardine (NOW)
+title: "(S)-5-Nitrowillardine (NOW)"
 created: 2026-06-10
 updated: 2026-06-10
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1126##science.1256508, doi/10.1126##science.1258409]
-verified: false
+verified: regex
 ---
 
 # (S)-5-Nitrowillardine (NOW)

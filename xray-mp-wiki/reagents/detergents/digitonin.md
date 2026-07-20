@@ -1,5 +1,5 @@
 ---
-title: Digitonin
+title: "Digitonin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, detergent-mild, subdirectory-detergents]
 sources: [doi/10.1016##j.cell.2019.06.031, doi/10.1016##j.celrep.2015.04.045, doi/10.1038##nature10753]
-verified: false
+verified: agent
 ---
 
 # Digitonin

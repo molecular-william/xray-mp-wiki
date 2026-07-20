@@ -1,13 +1,13 @@
 ---
-title: Sodium Solute Symporter (SSS) Family
+title: "Sodium Solute Symporter (SSS) Family"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41467-018-04045-7, doi/10.1038##nature09293]
-verified: false
+verified: none
 ---
 
 # Sodium Solute Symporter (SSS) Family

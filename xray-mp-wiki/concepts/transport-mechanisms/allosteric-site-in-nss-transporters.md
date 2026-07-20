@@ -1,13 +1,13 @@
 ---
-title: Allosteric Site in NSS Transporters
+title: "Allosteric Site in NSS Transporters"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature17629, doi/10.1073##pnas.0811322106, doi/10.15252##embj.2022110735]
-verified: false
+verified: regex
 ---
 
 # Allosteric Site in NSS Transporters

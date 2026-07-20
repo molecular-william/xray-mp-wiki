@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein]
 sources: [doi/10.1038##nature13494, doi/10.1038##nsmb.3417, doi/10.1038##s41467-017-01240-w]
-verified: regex
+verified: agent
 uniprot_id: O14842
 ---
 
@@ -285,7 +285,7 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
     <tr>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a>)</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>Buffer containing <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> exchanged to <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> during <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
       <td>Receptor purified from supernatant after expression</td>
     </tr>
@@ -299,15 +299,15 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
     <tr>
       <td>FLAG <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Anti-FLAG resin</td>
+      <td>Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> resin</td>
       <td></td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> purification</td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography (SEC)</td>
       <td>Gel filtration</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> column</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.0003% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Polishing step, monomeric fractions pooled</td>
     </tr>
   </tbody>

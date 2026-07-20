@@ -1,5 +1,5 @@
 ---
-title: SRP2070Fab (Anti-BRIL Antibody Fragment)
+title: "SRP2070Fab (Anti-BRIL Antibody Fragment)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
 sources: [doi/10.1038##s41598-020-68355-x]
-verified: false
+verified: regex
 ---
 
 # SRP2070Fab (Anti-BRIL Antibody Fragment)

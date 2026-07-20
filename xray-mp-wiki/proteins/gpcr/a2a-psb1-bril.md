@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1002##anie.202115545]
-verified: regex
+verified: agent
 uniprot_id: P29274
 ---
 
@@ -77,21 +77,21 @@ The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is
       <td>Sf9 insect cell expression</td>
       <td>--</td>
       <td>-- + --</td>
-      <td>Receptor expressed in <a href="/xray-mp-wiki/methods/expression-systems/sf9-insect-cells">Sf9 Insect Cells</a>; membranes harvested for binding assays and purification</td>
+      <td>Receptor expressed in <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system">Sf9 Insect Cells</a>; membranes harvested for binding assays and purification</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta)</td>
       <td>--</td>
-      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His Tag</a> on <a href="/xray-mp-wiki/reagents/protein-tags/bril">bRIL</a> fusion partner used for affinity capture</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">His Tag</a> on <a href="/xray-mp-wiki/reagents/protein-tags/bril">bRIL</a> fusion partner used for affinity capture</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) column</td>
       <td>--</td>
-      <td>Analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> confirmed presence of fluorophore in A2A-PSB1-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a>-PSB-2115 complex at 495 <a href="/xray-mp-wiki/reagents/detergents/nm/">nm</a> absorption maximum</td>
+      <td>Analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) confirmed presence of fluorophore in A2A-PSB1-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a>-PSB-2115 complex at 495 <a href="/xray-mp-wiki/reagents/detergents/nm/">nm</a> absorption maximum</td>
     </tr>
   </tbody>
 </table>

@@ -1,13 +1,13 @@
 ---
-title: Autophagic SNARE Fusion Mechanism
+title: "Autophagic SNARE Fusion Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-construct-design]
 sources: [doi/10.1073##pnas.2006997117]
-verified: false
+verified: regex
 ---
 
 # Autophagic SNARE Fusion Mechanism

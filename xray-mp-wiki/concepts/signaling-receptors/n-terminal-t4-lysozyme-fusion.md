@@ -1,13 +1,13 @@
 ---
-title: N-Terminal T4 Lysozyme Fusion for GPCR Crystallization
+title: "N-Terminal T4 Lysozyme Fusion for GPCR Crystallization"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-construct-design, concept-functional, membrane-protein]
+tags: [concept-construct-design, concept-functional, membrane-protein, subdirectory-signaling-receptors]
 sources: [doi/10.1371##journal.pone.0046039]
-verified: false
+verified: regex
 ---
 
 # N-Terminal T4 Lysozyme Fusion for GPCR Crystallization

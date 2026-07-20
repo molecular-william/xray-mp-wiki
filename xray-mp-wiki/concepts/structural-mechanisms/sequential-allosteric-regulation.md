@@ -1,13 +1,13 @@
 ---
-title: Sequential Allosteric Regulation
+title: "Sequential Allosteric Regulation"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional]
+tags: [concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.1209018109]
-verified: false
+verified: regex
 ---
 
 # Sequential Allosteric Regulation

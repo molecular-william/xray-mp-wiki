@@ -1,13 +1,13 @@
 ---
-title: Antiparallel Dimerization in GPCR Crystallization
+title: "Antiparallel Dimerization in GPCR Crystallization"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-crystallography-principle, xray-crystallography]
+tags: [concept-crystallography-principle, xray-crystallography, subdirectory-signaling-receptors]
 sources: [doi/10.1038##nature10867]
-verified: false
+verified: regex
 ---
 
 # Antiparallel Dimerization in GPCR Crystallization

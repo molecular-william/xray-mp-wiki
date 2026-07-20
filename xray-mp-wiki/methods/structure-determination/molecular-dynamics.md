@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-refinement, subdirectory-structure-determination]
 sources: [doi/10.1038##s41467-022-28946-w]
-verified: none
+verified: regex
 ---
 
 # Molecular Dynamics Simulation

@@ -26,7 +26,7 @@ The Ser-His catalytic dyad is a minimal catalytic apparatus for peptide bond hyd
 
 ## Related Concepts
 - [Serine Protease Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/serine-protease-mechanism/) — The Ser-His dyad is a minimal variant of the classical serine protease machinery lacking the third Asp residue
-- [Catalytic Triad](/xray-mp-wiki/concepts/enzyme-mechanisms/catalytic-triad/) — The Ser-His dyad contrasts with the Ser-His-Asp catalytic triad found in eukaryotic serine proteases
+- [Catalytic Triad](/xray-mp-wiki/concepts/structural-mechanisms/catalytic-triad/) — The Ser-His dyad contrasts with the Ser-His-Asp catalytic triad found in eukaryotic serine proteases
 
 ## Cross-References
 - [Serine Protease Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/serine-protease-mechanism/) — The Ser-His catalytic dyad represents a minimal catalytic variant of the serine protease mechanism

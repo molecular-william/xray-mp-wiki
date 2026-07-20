@@ -1,13 +1,13 @@
 ---
-title: Retinal
+title: "Retinal"
 created: 2026-05-27
-updated: 2026-06-11
+updated: 2026-06-16
 type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1016##j.jbc.2022.101722, doi/10.1016##S0969-2126(99)80118-X, doi/10.1016##j.jmb.2011.04.038, doi/10.1038##ncomms8177, doi/10.1038##s41467-018-06421-9, doi/10.1016##S0022-2836(02)00681-2, doi/10.1038##NATURE01109]
-verified: false
+sources: [doi/10.1016##j.jbc.2022.101722, doi/10.1016##S0969-2126(99)80118-X, doi/10.1016##j.jmb.2011.04.038, doi/10.1038##ncomms8177, doi/10.1038##s41467-018-06421-9, doi/10.1016##S0022-2836(02)00681-2, doi/10.1038##NATURE01109, doi/10.1006##jmbi.1999.3027]
+verified: none
 ---
 
 # Retinal

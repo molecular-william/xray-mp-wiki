@@ -1,13 +1,13 @@
 ---
-title: Blue-Shifted Rhodopsin Design Principle
+title: "Blue-Shifted Rhodopsin Design Principle"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, concept-construct-design, subdirectory-concepts]
+tags: [concept-functional, concept-construct-design, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1038##ncomms8177]
-verified: false
+verified: regex
 ---
 
 # Blue-Shifted Rhodopsin Design Principle

@@ -1,13 +1,13 @@
 ---
-title: Bcs1 Folded Protein Translocation Mechanism
+title: "Bcs1 Folded Protein Translocation Mechanism"
 created: 2026-06-17
 updated: 2026-06-17
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41594-020-0373-0]
-verified: false
+verified: regex
 ---
 
 # Bcs1 Folded Protein Translocation Mechanism

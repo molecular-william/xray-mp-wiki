@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-018-0568-2]
-verified: regex
+verified: agent
 uniprot_id: ['Q5M4V3', 'Q5M4V4']
 ---
 
@@ -41,21 +41,21 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bug">6BUG</a></td>
-      <td>3.30 A</td>
+      <td>3.30</td>
       <td>P2_1</td>
       <td>Full-length DltB from Streptococcus thermophilus</td>
       <td>None (apo state)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6buh">6BUH</a></td>
-      <td>3.15 A</td>
+      <td>3.15</td>
       <td>P2_1</td>
       <td>DltB in complex with DltC-Ppant (4'-phosphopantetheine-modified DltC)</td>
       <td>4'-phosphopantetheine (Ppant) on DltC Ser35</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bui">6BUI</a></td>
-      <td>3.30 A</td>
+      <td>3.30</td>
       <td>P2_1_2_1_2</td>
       <td>Full-length DltB from Streptococcus thermophilus</td>
       <td>None (apo state)</td>
@@ -95,8 +95,8 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA affinity</td>
-      <td>Ni-NTA (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.0, 500 mM NaCl, 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Wash buffer; eluted with 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
@@ -105,7 +105,7 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
       <td>Gel filtration</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/30 (GE Healthcare)</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.0, 150 mM NaCl + 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (or other detergents from Anatrace)</td>
-      <td>Concentrated to 10 mg/ml before SEC; peak fractions collected</td>
+      <td>Concentrated to 10 mg/ml before <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>; peak fractions collected</td>
     </tr>
   </tbody>
 </table>

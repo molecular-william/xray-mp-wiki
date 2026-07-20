@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1503202112]
-verified: regex
-uniprot_id: Q58584
+verified: agent
+uniprot_id: Q8TNK0
 ---
 
 # MaMscL (Methanosarcina acetivorans Mechanosensitive Channel of Large Conductance)
@@ -16,9 +16,9 @@ uniprot_id: Q58584
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q58584">UniProt: Q58584</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8TNK0">UniProt: Q8TNK0</a>
 
-<span class="expr-badge">Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440)</span>
+<span class="expr-badge">Methanosarcina acetivorans</span>
 
 ## Overview
 

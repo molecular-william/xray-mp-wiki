@@ -1,5 +1,5 @@
 ---
-title: French Press Cell Lysis
+title: "French Press Cell Lysis"
 created: 2026-06-02
 updated: 2026-06-02
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [cell-lysis, cell-lysis-pressure, subdirectory-cell-lysis]
 sources: [doi/10.1038##nature10917]
-verified: false
+verified: regex
 ---
 
 # French Press Cell Lysis

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature06163, doi/10.1016##j.cell.2014.01.011, doi/10.1038##nature11375, doi/10.1038##ncomms1917, doi/10.1038##nature25782]
-verified: regex
+verified: agent
 uniprot_id: ['G9I929', 'G9I930', 'P60514', 'Q1XA76']
 ---
 
@@ -41,7 +41,7 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3hv4">3HV4</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qts">2QTS</a></td>
       <td>1.9 A</td>
       <td>P21</td>
       <td>Chicken delta ASIC1 (residues 147-526)</td>
@@ -1839,14 +1839,14 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4h2n">4H2N</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4fz0">4FZ0</a></td>
       <td>3.35 A</td>
       <td>R3</td>
       <td>Chicken delta13 ASIC1a</td>
       <td>PcTx1</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4h2o">4H2O</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4fz0">4FZ0</a></td>
       <td>2.80 A</td>
       <td>C2</td>
       <td>Chicken delta13 ASIC1a</td>

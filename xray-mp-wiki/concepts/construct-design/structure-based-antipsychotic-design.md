@@ -1,13 +1,13 @@
 ---
-title: Structure-Based Design of Third-Generation Antipsychotics
+title: "Structure-Based Design of Third-Generation Antipsychotics"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-construct-design]
 sources: [doi/10.1038##s41593-021-00971-w]
-verified: false
+verified: regex
 ---
 
 # Structure-Based Design of Third-Generation Antipsychotics

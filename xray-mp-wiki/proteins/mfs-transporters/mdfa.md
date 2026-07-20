@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein]
 sources: [doi/10.1038##s41598-020-60332-8]
-verified: regex
+verified: agent
 uniprot_id: P0AEY8
 ---
 
@@ -108,8 +108,8 @@ uniprot_id: P0AEY8
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA</td>
-      <td>Ni-NTA column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-NaOH pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 1.5 mM TCEP</td>
       <td>Eluted with 450 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
@@ -122,7 +122,7 @@ uniprot_id: P0AEY8
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a>)</td>
       <td>—</td>
       <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.2% NG, 0.025% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, 0.05% <a href="/xray-mp-wiki/reagents/additives/deoxycholate/">DXC</a>, 1.5 mM TCEP</td>
       <td></td>

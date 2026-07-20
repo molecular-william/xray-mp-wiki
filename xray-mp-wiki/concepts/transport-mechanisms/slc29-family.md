@@ -1,13 +1,13 @@
 ---
-title: SLC29 Family of Nucleoside Transporters
+title: "SLC29 Family of Nucleoside Transporters"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##s41594-019-0245-7, doi/10.1080##00498250801927427, doi/10.1080##15257770.2016.1210805, doi/10.1016##j.mam.2012.05.007]
-verified: false
+verified: none
 ---
 
 # SLC29 Family of Nucleoside Transporters

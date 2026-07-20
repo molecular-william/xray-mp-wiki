@@ -1,5 +1,5 @@
 ---
-title: Sodium Citrate (Na-Citrate Buffer)
+title: "Sodium Citrate (Na-Citrate Buffer)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-citrate, subdirectory-buffers]
 sources: [doi/10.1073##pnas.1207912109, doi/10.7554##eLife.09375]
-verified: false
+verified: none
 ---
 
 # Sodium Citrate (Na-Citrate Buffer)

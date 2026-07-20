@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature13552]
-verified: regex
+verified: agent
 uniprot_id: P09874
 ---
 
@@ -41,7 +41,7 @@ The mouse [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4hhz">4HHZ</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4pir">4PIR</a></td>
       <td>3.5</td>
       <td>P2₁2₁2₁</td>
       <td>residues 9-275, 280-334, 399-459 with N-terminal Strept-tag (trypsin-split construct)</td>
@@ -120,7 +120,7 @@ The mouse [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>Superose 6 column (GE Healthcare)</td>
       <td>50 mM Tris pH 7.4, 125 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/c12e9/">C12E9</a></td>
       <td>Pentameric receptor-detergent complex pooled</td>

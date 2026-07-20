@@ -1,5 +1,5 @@
 ---
-title: Pyridinium-3,5-Biscarboxylic Acid Mononucleotide (P2CMN)
+title: "Pyridinium-3,5-Biscarboxylic Acid Mononucleotide (P2CMN)"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.biochem.3c00242]
-verified: false
+verified: agent
 ---
 
 # Pyridinium-3,5-Biscarboxylic Acid Mononucleotide (P2CMN)

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-018-0046-x]
-verified: regex
+verified: agent
 uniprot_id: P25929
 ---
 
@@ -61,7 +61,7 @@ bone disorders.
       <td>UR-MK299 (argininamide-type antagonist)</td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5zbh">5ZBH</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5zbq">5ZBQ</a></td>
       <td>3.0</td>
       <td>C2221</td>
       <td>Human Y1R with <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> fusion at ICL3, F129(3.41)W mutation, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, N-terminal HA signal sequence, <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>, C-terminal 10xHis tag</td>
@@ -97,21 +97,21 @@ bone disorders.
       <td>Solubilization</td>
       <td>Detergent solubilization</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.5% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.5% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.5% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.5% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Incubated at 4 C for 3 h with 100 uM ligand, 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a>, and <a href="/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/">protease inhibitor cocktail</a></td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
-      <td>Wash buffer (25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 uM ligand) + 0.05% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Wash buffer (25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 uM ligand) + 0.05% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Resin incubated with solubilized material overnight at 4 C with 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>. Washed with 10 column volumes of wash buffer.</td>
     </tr>
     <tr>
       <td>Elution</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a> elution</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
-      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 uM ligand + 0.05% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 50 uM ligand + 0.05% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% w/v <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Eluted Y1R-ligand complex concentrated and used directly for crystallization trials.</td>
     </tr>
   </tbody>

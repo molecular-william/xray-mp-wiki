@@ -1,5 +1,5 @@
 ---
-title: Bucindolol
+title: "Bucindolol"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##J.STR.2012.03.014]
-verified: false
+verified: none
 ---
 
 # Bucindolol

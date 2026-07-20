@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, pump, membrane-protein]
 sources: [doi/10.1126##science.1246729]
-verified: regex
+verified: agent
 uniprot_id: P40416
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: Binding-Change Mechanism
+title: "Binding-Change Mechanism"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1126##science.1222505, doi/10.1038##370621a0, doi/10.1073##pnas.93.18.9420, doi/10.1098##rsob.120164]
-verified: false
+verified: regex
 ---
 
 # Binding-Change Mechanism

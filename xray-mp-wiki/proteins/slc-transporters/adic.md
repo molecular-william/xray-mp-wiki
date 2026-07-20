@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature08201, doi/10.1038##nature08741, doi/10.1126##science.1173654, doi/10.1073##pnas.1605442113, doi/10.1073##pnas.1018081108, doi/10.1186##s12915-021-01102-4]
-verified: regex
+verified: agent
 uniprot_id: ['P60061', 'P60063', 'P60066']
 ---
 
@@ -70,7 +70,7 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200)</td>
       <td>100 mM NaCl, 5 mM Decylmaltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>), 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 8 + 5 mM Decylmaltoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
       <td>Purified from Salmonella enterica serovar Typhimurium AdiC-<a href="/xray-mp-wiki/reagents/antibodies/fab21">Fab21 Antibody Fragment</a> complex</td>
     </tr>

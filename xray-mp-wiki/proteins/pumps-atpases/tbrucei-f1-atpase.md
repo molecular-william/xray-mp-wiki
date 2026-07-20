@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.1720940115]
-verified: regex
-uniprot_id: Q57XX1
+verified: agent
+uniprot_id: ['Q38B96', 'Q38CM0', 'Q57TX9', 'Q57XX1', 'Q57ZP0', 'Q586H1']
 ---
 
 # F1-ATPase from Trypanosoma brucei
@@ -16,7 +16,7 @@ uniprot_id: Q57XX1
 <div class="expr-badges"><span class="expr-badge expr-native-tissue">Native tissue</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q57XX1">UniProt: Q57XX1</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q38B96">UniProt: Q38B96</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q38CM0">UniProt: Q38CM0</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q57TX9">UniProt: Q57TX9</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q57XX1">UniProt: Q57XX1</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q57ZP0">UniProt: Q57ZP0</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q586H1">UniProt: Q586H1</a>
 
 <span class="expr-badge">Trypanosoma brucei brucei</span>
 

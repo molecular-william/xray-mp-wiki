@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-021-21030-9]
-verified: pdb-check
+verified: agent
 uniprot_id: P49146
 ---
 
@@ -76,21 +76,21 @@ The human neuropeptide Y (NPY) Y2 receptor (Y2R, NPY2R) is a class A G-protein-c
       <td>Solubilization</td>
       <td>Incubation with detergent</td>
       <td>--</td>
-      <td>50 mM HEPES pH 7.5, 300 mM NaCl, 0.5% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 50 µM JNJ-31020028, 2 mg/ml iodoacetamide, protease inhibitor cocktail + n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>), cholesterol hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>)</td>
+      <td>50 mM HEPES pH 7.5, 300 mM NaCl, 0.5% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 50 µM JNJ-31020028, 2 mg/ml iodoacetamide, protease inhibitor cocktail + n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>), cholesterol hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/))</td>
       <td></td>
     </tr>
     <tr>
       <td>Affinity purification</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
-      <td>Wash: 25 mM HEPES pH 7.5, 300 mM NaCl, 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 mM imidazole pH 7.4; Elution: wash buffer with 200 mM imidazole + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Wash: 25 mM HEPES pH 7.5, 300 mM NaCl, 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 mM imidazole pH 7.4; Elution: wash buffer with 200 mM imidazole + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td></td>
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> increase 10/300 column</td>
-      <td>25 mM HEPES pH 7.5, 300 mM NaCl, 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 µM JNJ-31020028 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>25 mM HEPES pH 7.5, 300 mM NaCl, 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 µM JNJ-31020028 + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td></td>
     </tr>
   </tbody>

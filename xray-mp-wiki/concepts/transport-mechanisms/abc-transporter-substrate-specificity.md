@@ -1,13 +1,13 @@
 ---
-title: ABC Transporter Substrate Specificity
+title: "ABC Transporter Substrate Specificity"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, membrane-protein, xray-crystallography]
+tags: [concept-functional, membrane-protein, xray-crystallography, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.2006526117, doi/10.1073##pnas.1311407110]
-verified: false
+verified: regex
 ---
 
 # ABC Transporter Substrate Specificity

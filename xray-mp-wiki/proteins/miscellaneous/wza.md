@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [porin, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NATURE05267]
-verified: regex
+verified: agent
 uniprot_id: Q9X4B7
 ---
 

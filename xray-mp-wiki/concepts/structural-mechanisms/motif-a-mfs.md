@@ -1,13 +1,13 @@
 ---
-title: MFS Motif A and Charge-Helix Dipole Interactions
+title: "MFS Motif A and Charge-Helix Dipole Interactions"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-structural-mechanisms]
 sources: [doi/10.1073##pnas.1308127110]
-verified: false
+verified: regex
 ---
 
 # MFS Motif A and Charge-Helix Dipole Interactions

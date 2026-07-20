@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms13411]
-verified: regex
+verified: agent
 ---
 
 # Burkholderia cenocepacia Haem Importer Complex BhuUV-T
@@ -81,8 +81,8 @@ The BhuUV-T complex is a type II ATP-binding cassette (ABC) haem importer from t
     </tr>
     <tr>
       <td>Affinity chromatography</td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td>Ni-NTA agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
       <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.5, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>His-tagged <a href="/xray-mp-wiki/proteins/abc-transporters/bhuuv/">Bhuuv</a> captured; GST-BhuT co-purified</td>
     </tr>

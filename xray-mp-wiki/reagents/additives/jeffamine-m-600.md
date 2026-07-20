@@ -1,5 +1,5 @@
 ---
-title: Jeffamine M-600
+title: "Jeffamine M-600"
 created: 2026-06-16
 updated: 2026-06-16
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1016##S0022-2836(03)00751-4]
-verified: false
+verified: none
 ---
 
 # Jeffamine M-600

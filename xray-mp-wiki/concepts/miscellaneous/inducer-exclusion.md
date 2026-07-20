@@ -1,13 +1,13 @@
 ---
-title: Inducer Exclusion
+title: "Inducer Exclusion"
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-miscellaneous]
 sources: [doi/10.1038##nature12232]
-verified: false
+verified: regex
 ---
 
 # Inducer Exclusion

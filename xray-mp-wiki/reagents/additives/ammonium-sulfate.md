@@ -1,5 +1,5 @@
 ---
-title: Ammonium Sulfate
+title: "Ammonium Sulfate"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-precipitant, subdirectory-additives]
 sources: [doi/10.1038##NATURE06717, doi/10.1016##j.jmb.2013.04.022, doi/10.1016##j.jmb.2004.07.044, doi/10.1016##j.jmb.2007.11.039, doi/10.1016##j.jsb.2011.01.014, doi/10.1038##nature06925, doi/10.1038##s41422-020-00424-2]
-verified: false
+verified: none
 ---
 
 # Ammonium Sulfate

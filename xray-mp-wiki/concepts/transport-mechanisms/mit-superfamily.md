@@ -1,13 +1,13 @@
 ---
-title: Metal Ion Transporter (MIT) Superfamily
+title: "Metal Ion Transporter (MIT) Superfamily"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1002##pro.215]
-verified: false
+verified: regex
 ---
 
 # Metal Ion Transporter (MIT) Superfamily

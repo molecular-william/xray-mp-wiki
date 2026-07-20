@@ -1,13 +1,13 @@
 ---
-title: Conformational Asymmetry in ABC Transporters
+title: "Conformational Asymmetry in ABC Transporters"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.2006526117, doi/10.1126##science.1145950]
-verified: false
+verified: regex
 ---
 
 # Conformational Asymmetry in ABC Transporters

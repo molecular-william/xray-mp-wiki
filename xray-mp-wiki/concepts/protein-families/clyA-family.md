@@ -6,8 +6,8 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
-sources: [doi/10.1186##s12915-016-0295-9, doi/10.1038##emboj.2009.243]
-verified: none
+sources: [doi/10.1186##s12915-016-0295-9]
+verified: regex
 ---
 
 # ClyA Family (Alpha-Helical Pore-Forming Toxins)

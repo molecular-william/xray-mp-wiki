@@ -1,13 +1,13 @@
 ---
-title: SemiSWEET Transporter Family
+title: "SemiSWEET Transporter Family"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##cr.2014.144, doi/10.1038##nature13670, doi/10.1016##j.cell.2017.03.010]
-verified: false
+verified: regex
 ---
 
 # SemiSWEET Transporter Family

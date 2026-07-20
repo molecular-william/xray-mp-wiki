@@ -28,7 +28,7 @@ In the inactive state, the positively charged guanidinium group of Arg3.50 forms
 
 
 ## Cross-References
-- [DRY Motif](/xray-mp-wiki/concepts/signaling-receptors/dry-motif/) — The DRY motif provides the arginine that forms the ionic lock
+- [DRY Motif](/xray-mp-wiki/concepts/structural-mechanisms/dry-motif/) — The DRY motif provides the arginine that forms the ionic lock
 - [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — Breaking the ionic lock is required for GPCR activation
 - [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — The ionic lock is a defining feature of the inactive GPCR state
 - [GPCR G Protein Coupling](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — Ionic lock disruption enables G protein binding

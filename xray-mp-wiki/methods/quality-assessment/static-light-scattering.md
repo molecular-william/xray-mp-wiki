@@ -1,5 +1,5 @@
 ---
-title: Static Light Scattering
+title: "Static Light Scattering"
 created: 2026-06-02
 updated: 2026-06-16
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1021##acs.jmedchem.5b00330, doi/10.1038##cr.2017.83]
-verified: false
+verified: regex
 ---
 
 # Static Light Scattering

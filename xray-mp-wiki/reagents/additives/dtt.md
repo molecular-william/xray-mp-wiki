@@ -1,5 +1,5 @@
 ---
-title: Dithiothreitol (DTT)
+title: "Dithiothreitol (DTT)"
 created: 2026-05-28
 updated: 2026-06-04
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-reductant, subdirectory-additives]
 sources: [doi/10.1016##j.str.2015.06.025, doi/10.1038##NATURE12179, doi/10.1038##nature10917, doi/10.1038##ncomms8947, doi/10.1126##science.280.5360.69]
-verified: true
+verified: agent
 ---
 
 # Dithiothreitol (DTT)

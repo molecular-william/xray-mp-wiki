@@ -1,13 +1,13 @@
 ---
 title: "Influenza A M2 Proton Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein]
 sources: [doi/10.1038##nature06528, doi/10.1021##jacs.8b06741, doi/10.1021##jacs.9b02196, doi/10.1073##pnas.1007071107, doi/10.1073##pnas.1518493112, doi/10.1073##pnas.1705624114, doi/10.1021##acs.biochem.9b00971]
-verified: regex
+verified: agent
 uniprot_id: ['A0A0R5TVW3', 'A4D7H3', 'O70632', 'P0DOF5', 'Q0HD59', 'Q3YPZ4', 'Q9Q0L9']
 ---
 

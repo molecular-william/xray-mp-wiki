@@ -1,5 +1,5 @@
 ---
-title: Cardiolipin
+title: "Cardiolipin"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, subdirectory-lipids]
 sources: [doi/10.1038##srep30815, doi/10.1128##mBio.03277-19]
-verified: false
+verified: none
 ---
 
 # Cardiolipin

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, potassium-channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1074##jbc.m112.415091]
-verified: regex
+verified: agent
 uniprot_id: Q8Y5K1
 ---
 
@@ -27,7 +27,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 
 ## Publications
 
-### doi/10.1074##jbc.m112.415091
+### doi/10.1074/jbc.M112.415091
 
 **Structures:**
 
@@ -98,14 +98,14 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
       <td>IMAC <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>Cobalt IMAC (Co2+) resin</td>
       <td>Cobalt IMAC (Clontech)</td>
-      <td>50 mM Hepes pH 7.5, 200-400 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1-10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5-15 mM DM + 5-15 mM DM</td>
+      <td>50 mM Hepes pH 7.5, 200-400 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1-10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5-15 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 5-15 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td>Rigorous three-step wash: 20 CV high salt, 20 CV medium salt, 20 CV low salt. Eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>.</td>
     </tr>
     <tr>
       <td>Desalting</td>
       <td>PD-10 desalting column (GE Healthcare)</td>
       <td>—</td>
-      <td>50 mM Hepes pH 7.5, 200 mM KCl, 3 mM DM, 0.1 mM TCEP (crystallization buffer) + 3 mM DM</td>
+      <td>50 mM Hepes pH 7.5, 200 mM KCl, 3 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, 0.1 mM TCEP (crystallization buffer) + 3 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>
     </tr>
     <tr>

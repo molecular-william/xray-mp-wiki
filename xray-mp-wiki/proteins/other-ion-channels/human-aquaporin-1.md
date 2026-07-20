@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1107##s2053230x14024558]
-verified: regex
+verified: agent
 uniprot_id: P29972
 ---
 
@@ -42,7 +42,7 @@ solved from bovine red blood cells.
 
 ## Publications
 
-### doi/10.1107##s2053230x14024558
+### doi/10.1107/S2053230X14024558
 
 **Structures:**
 
@@ -97,26 +97,26 @@ solved from bovine red blood cells.
       <td>Cell lysis</td>
       <td>Sonication</td>
       <td>—</td>
-      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8, 300 mM NaCl, 2 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-Mercaptoethanol</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, cOmplete protease inhibitor cocktail, benzonase, 2% OG</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8, 300 mM NaCl, 2 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-Mercaptoethanol</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, cOmplete protease inhibitor cocktail, benzonase, 2% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>10 min sonication</td>
     </tr>
     <tr>
       <td>Membrane solubilization</td>
       <td>Solubilization</td>
       <td>—</td>
-      <td>2% n-octyl-beta-D-glucopyranoside (OG)</td>
+      <td>2% n-octyl-beta-D-glucopyranoside (<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>)</td>
       <td>Insoluble material removed by centrifugation</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td>—</td>
       <td></td>
-      <td>His-tagged hAQP1 purified by Ni-NTA</td>
+      <td>His-tagged hAQP1 purified by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td>—</td>
       <td></td>
       <td>hAQP1 elutes at 72 mL corresponding to homotetramer</td>

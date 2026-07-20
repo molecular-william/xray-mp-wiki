@@ -1,5 +1,5 @@
 ---
-title: ACES Buffer (N-(2-Acetamido)iminodiacetic Acid)
+title: "ACES Buffer (N-(2-Acetamido)iminodiacetic Acid)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [buffer-acetate, subdirectory-buffers]
 sources: [doi/10.1038##NATURE13293, doi/10.7554##eLife.18767]
-verified: false
+verified: none
 ---
 
 # ACES Buffer (N-(2-Acetamido)iminodiacetic Acid)

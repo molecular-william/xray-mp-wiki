@@ -1,13 +1,13 @@
 ---
-title: Gamma-Secretase Complex
+title: "Gamma-Secretase Complex"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1073##pnas.1414837111]
-verified: false
+verified: regex
 ---
 
 # Gamma-Secretase Complex

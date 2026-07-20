@@ -1,13 +1,13 @@
 ---
-title: Periplasm (Periplasmic Space)
+title: "Periplasm (Periplasmic Space)"
 created: 2026-06-22
 updated: 2026-06-22
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural]
+tags: [concept-structural, subdirectory-miscellaneous]
 sources: [doi/10.1038##nrmicro.2016.171]
-verified: false
+verified: none
 ---
 
 # Periplasm (Periplasmic Space)

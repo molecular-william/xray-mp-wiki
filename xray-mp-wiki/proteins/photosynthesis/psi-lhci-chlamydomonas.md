@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.bbabio.2023.148986]
-verified: regex
+verified: agent
 uniprot_id: ['A8IFG7', 'A8IKC8', 'A8IL32', 'A8ITV3', 'A8JF10', 'P09144', 'P12154', 'P12352', 'P12356', 'P14224', 'P14225', 'P59777', 'Q00914', 'Q05093', 'Q39615', 'Q75VY6', 'Q75VY7', 'Q75VY8', 'Q75VY9', 'Q75VZ0', 'Q84Y02']
 ---
 
@@ -39,14 +39,14 @@ The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the 
   <tbody>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7wyi">7WYI</a></td>
-      <td>3.98 A</td>
+      <td>3.98</td>
       <td>C1 (single particle cryo-EM)</td>
       <td>PSI-8LHCI Form B (<a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> resting state structure)</td>
       <td>Chlorophyll a, carotenoids, iron-sulfur clusters (Fx, Fa, Fb), unidentified stromal binding partners (sigma1, sigma2, sigma3)</td>
     </tr>
     <tr>
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/7wzn">7WZN</a></td>
-      <td>4.94 A</td>
+      <td>4.94</td>
       <td>C1 (single particle cryo-EM)</td>
       <td>PSI-8LHCI with gallium-substituted ferredoxin (Fd_Ga) Form C (<a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> active state structure)</td>
       <td>Chlorophyll a, carotenoids, iron-sulfur clusters, gallium-ferredoxin (GaFd)</td>

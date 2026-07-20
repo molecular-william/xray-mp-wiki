@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, subdirectory-detergents]
 sources: [doi/10.1038##ncomms4009]
-verified: false
+verified: regex
 ---
 
 # Octyl-beta-D-galactopyranoside

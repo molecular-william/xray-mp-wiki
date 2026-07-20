@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2018.02.004, doi/10.1038##NATURE14981]
-verified: regex
+verified: agent
 uniprot_id: Q7VYU0
 ---
 
@@ -27,7 +27,7 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
 
 ## Publications
 
-### doi/10.1016##j.str.2018.02.004
+### doi/10.1016/j.str.2018.02.004
 
 **Structures:**
 
@@ -78,7 +78,7 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
     <tr>
       <td>Purification</td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> (via <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">hexahistidine tag</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta) (via <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">hexahistidine tag</a>)</td>
       <td>-- + --</td>
       <td>Purification as described in Stockbridge et al. 2013</td>
     </tr>
@@ -247,7 +247,7 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
 </div>
 
 </div>
-### doi/10.1038##NATURE14981
+### doi/10.1038/NATURE14981
 
 **Structures:**
 

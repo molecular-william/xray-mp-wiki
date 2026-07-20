@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.str.2008.05.001, doi/10.1126##science.1150577, doi/10.1038##nature06325, doi/10.1021##ja105108q, doi/10.1038##nature10361, doi/10.1038##nature09648, doi/10.1038##nature23652, doi/10.1016##j.cell.2019.04.021, doi/10.1038##nature09665, doi/10.1038##s41467-023-37808-y, doi/10.1038##s41589-020-0549-2, doi/10.1371##journal.pone.0046039]
-verified: regex
+verified: agent
 uniprot_id: ['P00720', 'P07550']
 ---
 
@@ -43,7 +43,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/3d4s">3D4S</a></td>
       <td>2.8 A</td>
       <td>P 2 2 2</td>
-      <td>beta2AR(E122W)-T4L fusion; E122W mutation, T4 lysozyme fused in ICL3, C-terminal <a href="/xray-mp-wiki/concepts/truncation">TRUNCATION</a> at residue 348; expressed in Sf9 insect cells via <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression">BACULOVIRUS</a></td>
+      <td>beta2AR(E122W)-T4L fusion; E122W mutation, T4 lysozyme fused in ICL3, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">TRUNCATION</a> at residue 348; expressed in Sf9 insect cells via <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system">BACULOVIRUS</a></td>
       <td><a href="/xray-mp-wiki/reagents/ligands/timolol">TIMOLOL</a>, <a href="/xray-mp-wiki/reagents/lipids/cholesterol">CHOLESTEROL</a></td>
     </tr>
   </tbody>
@@ -472,7 +472,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
       <td><a href="/xray-mp-wiki/reagents/ligands/carazolol">CARAZOLOL</a></td>
     </tr>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2r4s">2R4S</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2r4r">2R4R</a></td>
       <td>3.4 A</td>
       <td>C2</td>
       <td>beta2 AR24/365-<a href="/xray-mp-wiki/reagents/antibodies/fab5">FAB5</a> complex (TEV-cleavable N-terminus, truncated at residue 365)</td>
@@ -1545,7 +1545,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3sny">3SNY</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3sn6">3SN6</a></td>
       <td>3.2 A</td>
       <td>P212121</td>
       <td>T4L-beta2 AR fusion (N-terminal T4L, residues 29-365, N187E, M96T, M98T mutations) in complex with Gs heterotrimer (Galpha s short + His6-Gbeta1 + Ggamma2) and Nb35 <a href="/xray-mp-wiki/reagents/protein-tags/nanobody">NANOBODY</a></td>
@@ -1594,7 +1594,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ny7">3NY7</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3p0g">3P0G</a></td>
       <td>3.5 A</td>
       <td>P212121</td>
       <td>beta2 AR-T4L fusion (T4 lysozyme replacing ICL3) stabilized by G protein mimetic <a href="/xray-mp-wiki/reagents/protein-tags/nanobody">NANOBODY</a> Nb80; expressed in Sf9 insect cells; purified in MNG-3 amphiphile; deglycosylated with PNGaseF</td>
@@ -1870,7 +1870,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
   <tbody>
     <tr>
       <td>Expression</td>
-      <td><a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression">Baculovirus</a> expression in Sf9 cells</td>
+      <td><a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system">Baculovirus</a> expression in Sf9 cells</td>
       <td></td>
       <td></td>
       <td>Sf9 cells infected with recombinant baculovirus; harvested 48 h post-infection</td>
@@ -1912,7 +1912,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">SUPERDEX-200</a> 10/300 GL</td>
       <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 10 uM <a href="/xray-mp-wiki/reagents/ligands/bi-167107">BI-167107</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
       <td>Final purification step; concentrated for crystallization</td>
@@ -1961,7 +1961,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3p0g">3P0G</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3pds">3PDS</a></td>
       <td>3.5 A</td>
       <td>P21212</td>
       <td>beta2 AR(H93C)-T4L fusion; H93C mutation for disulfide tether to FAUC50; T4 lysozyme fused in ICL3; expressed in Sf9 insect cells via baculovirus</td>
@@ -2245,9 +2245,9 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)</td>
       <td>—</td>
-      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% MNG, 0.001% <a href="/xray-mp-wiki/reagents/additives/cholesteryl-hemisuccinate">CHS</a>, 100 uM c-Epi</td>
+      <td>20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% MNG, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate), 100 uM c-Epi</td>
       <td>Removal of excess Nb6B9; final purification step</td>
     </tr>
   </tbody>
@@ -2892,7 +2892,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
       <td>Baculovirus expression in Sf9 cells</td>
       <td>—</td>
       <td></td>
-      <td>Sf9 cells at 4 million/ml infected with <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)ond-passage virus. Expression evaluated by whole cell binding with [3H]DHA.</td>
+      <td>Sf9 cells at 4 million/ml infected with <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)ond-passage virus. Expression evaluated by whole cell binding with [3H]DHA.</td>
     </tr>
     <tr>
       <td>Membrane preparation</td>

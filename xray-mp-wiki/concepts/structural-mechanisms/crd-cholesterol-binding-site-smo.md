@@ -1,13 +1,13 @@
 ---
-title: CRD Cholesterol Binding Site of Smoothened
+title: "CRD Cholesterol Binding Site of Smoothened"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, subdirectory-concepts]
+tags: [concept-structural, concept-functional, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##nature18934]
-verified: false
+verified: regex
 ---
 
 # CRD Cholesterol Binding Site of Smoothened

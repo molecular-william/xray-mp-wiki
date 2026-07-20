@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature11684]
-verified: regex
+verified: agent
 ---
 
 # Helicobacter pylori Urea Channel (HpUrel)

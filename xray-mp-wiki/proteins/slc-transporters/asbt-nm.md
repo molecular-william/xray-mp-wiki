@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##NATURE10450]
-verified: regex
+verified: agent
 uniprot_id: Q9K0A9
 ---
 
@@ -74,8 +74,8 @@ ASBT-NM is a bacterial homologue of the apical sodium-dependent bile acid transp
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> affinity</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Superflow</a> (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a> Superflow](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>1× PBS, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> (wash); 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (elution) + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Washed with 20 CV of low-<a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> buffer, then 20 CV of 50 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a>; eluted in 2 CV of 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
@@ -84,11 +84,11 @@ ASBT-NM is a bacterial homologue of the apical sodium-dependent bile acid transp
       <td>Dialysis and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV</a> cleavage</td>
       <td>—</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 7.5, 150 mM NaCl + Not specified</td>
-      <td>Dialysed overnight with <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6</a>-tagged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> to remove GFP-His8 tag; subsequent <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> flow-through to remove cleaved tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a></td>
+      <td>Dialysed overnight with <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6</a>-tagged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> to remove GFP-His8 tag; subsequent <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) flow-through to remove cleaved tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size exclusion chromatography</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td>Not specified</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 7.5, 150 mM NaCl, 0.06% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> + 0.06% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (n-dodecyl-N,N-dimethylamine-N-oxide)</td>
       <td>Final polishing step; ASBT-NM exchanged into <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> for crystallization</td>

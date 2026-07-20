@@ -7,8 +7,8 @@ category: proteins
 layout: default
 tags: [membrane-protein, xray-crystallography, pump]
 sources: [doi/10.1074##jbc.M114.622688]
-verified: regex
-uniprot_id: P39111
+verified: agent
+uniprot_id: ['P32610', 'P39111']
 ---
 
 # Yeast V-ATPase Subunits D and F (ScDF Assembly)
@@ -16,7 +16,7 @@ uniprot_id: P39111
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P39111">UniProt: P39111</a>
+<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P32610">UniProt: P32610</a> <a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/P39111">UniProt: P39111</a>
 
 <span class="expr-badge">Saccharomyces cerevisiae</span>
 
@@ -68,7 +68,7 @@ The DF assembly of the Saccharomyces cerevisiae V-ATPase (ScDF) is a central sta
   <tbody>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Nickel-nitrilotriacetic acid (Ni-NTA) chromatography</td>
+      <td>Nickel-nitrilotriacetic acid (<a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>) chromatography</td>
       <td>—</td>
       <td></td>
       <td>As described previously (ref 18). <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> used in all buffers for SeMet protein to avoid selenium oxidation.</td>

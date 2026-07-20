@@ -1,5 +1,5 @@
 ---
-title: Cellobiose
+title: "Cellobiose"
 created: 2026-06-11
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
 sources: [doi/10.1038##nature11744]
-verified: false
+verified: agent
 ---
 
 # Cellobiose

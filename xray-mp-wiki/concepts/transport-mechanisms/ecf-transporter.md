@@ -1,13 +1,13 @@
 ---
-title: ECF Transporter (Energy-Coupling Factor Transporter)
+title: "ECF Transporter (Energy-Coupling Factor Transporter)"
 created: 2026-06-02
 updated: 2026-06-21
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-protein-family, concept-transport-mechanism, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature09488, doi/10.7554##eLife.64389, doi/10.1038##nature12046, doi/10.1038##nature12045]
-verified: true
+verified: agent
 ---
 
 # ECF Transporter (Energy-Coupling Factor Transporter)

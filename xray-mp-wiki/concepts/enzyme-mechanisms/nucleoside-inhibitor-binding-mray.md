@@ -7,7 +7,7 @@ category: concepts
 layout: default
 tags: [concept-enzyme-mechanism, concept-functional, membrane-protein, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1038##s41467-019-10957-9, doi/10.1126##science.1236501, doi/10.1038##nature17636]
-verified: false
+verified: regex
 ---
 
 # Nucleoside Inhibitor Binding to MraY: Chemical Logic and Hotspot Barcode

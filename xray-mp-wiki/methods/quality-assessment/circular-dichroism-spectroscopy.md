@@ -1,5 +1,5 @@
 ---
-title: Circular Dichroism Spectroscopy
+title: "Circular Dichroism Spectroscopy"
 created: 2026-06-02
 updated: 2026-06-02
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
 sources: [doi/10.1073##pnas.2006997117, doi/10.1038##nature08156]
-verified: false
+verified: regex
 ---
 
 # Circular Dichroism Spectroscopy

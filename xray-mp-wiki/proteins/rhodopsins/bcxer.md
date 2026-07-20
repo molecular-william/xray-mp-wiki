@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41594-023-01020-9]
-verified: regex
+verified: agent
 uniprot_id: ['A0AA82WP37', 'A0AA82WPB4']
 ---
 
@@ -165,14 +165,14 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
-      <td>Supernatant loaded on Ni-NTA column, washed, eluted with 0.4 M imidazole</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td>Supernatant loaded on <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column, washed, eluted with 0.4 M imidazole</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen)</td>
       <td>50 mM NaH2PO4/Na2HPO4 pH 7.5, 0.15 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.4 M <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Eluted with imidazole gradient</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
-      <td>Eluate subjected to SEC on 125-ml <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> PG column</td>
+      <td>Eluate subjected to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on 125-ml <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> PG column</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> PG (GE Healthcare)</td>
       <td>50 mM NaH2PO4/Na2HPO4 pH 7.5, 0.15 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Final purification step</td>

@@ -1,13 +1,13 @@
 ---
-title: CorA-Mrs2-Alr1 Superfamily of Mg2+ Channels
+title: "CorA-Mrs2-Alr1 Superfamily of Mg2+ Channels"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family]
+tags: [concept-protein-family, subdirectory-transport-mechanisms]
 sources: [doi/10.1073##pnas.1209018109]
-verified: false
+verified: regex
 ---
 
 # CorA-Mrs2-Alr1 Superfamily of Mg2+ Channels

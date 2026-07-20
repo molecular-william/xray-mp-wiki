@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-019-12718-0]
-verified: regex
+verified: agent
 uniprot_id: A0A8I3AZZ2
 ---
 
@@ -41,7 +41,7 @@ OLPVRII (Organic Lake Phycodnavirus Rhodopsin II) is a viral rhodopsin from grou
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6s7i">6S7I</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6sqg">6SQG</a></td>
       <td>2.50</td>
       <td>P21</td>
       <td>Full-length OLPVRII (residues 1-211)</td>
@@ -92,13 +92,13 @@ OLPVRII (Organic Lake Phycodnavirus Rhodopsin II) is a viral rhodopsin from grou
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
       <td>Immobilized metal-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (IMAC)</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
       <td>50 mM Tris-HCl pH 7.6, 300 mM NaCl, 20 mM imidazole + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>His-tag purification</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
       <td>10 mM Tris-HCl pH 7.6, 100 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Monomeric and pentameric fractions separated</td>

@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-023-37543-4]
-verified: pdb
+verified: agent
 uniprot_id: ['P06136', 'P0A6S5', 'P0AEN4']
 ---
 
@@ -118,14 +118,14 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     <tr>
       <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (His-tag)</td>
-      <td>Ni-NTA agarose gravity column</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose gravity column</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 200 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>-5</td>
       <td>Washed extensively with 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/">Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters</a> in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> or cleaved On-column by <a href="/xray-mp-wiki/reagents/protein-tags/thrombin-protease/">Thrombin Protease</a> At room temperature overnight</td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
       <td>Gel filtration</td>
-      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a>-200 10/300 GL column</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Superdex 200 Increase [SEC</a> Resin](/xray-mp-wiki/reagents/additives/superdex-200/)-200 10/300 GL column</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 200 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>-5 + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>-5</td>
       <td>Final purification step; concentrated to ~10 mg/mL using 50 kDa MWCO centrifugal concentrator</td>
     </tr>

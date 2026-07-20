@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
 sources: [doi/10.1073##pnas.0706563104]
-verified: regex
+verified: agent
 uniprot_id: Q82X47
 ---
 
@@ -71,8 +71,8 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
       <td>Membrane solubilization</td>
       <td>Detergent extraction</td>
       <td></td>
-      <td>5% (wt/vol) n-octyl-beta-D-glucopyranoside (OG)</td>
-      <td>Protein solubilized from membrane with 5% OG</td>
+      <td>5% (wt/vol) n-octyl-beta-D-glucopyranoside (<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>)</td>
+      <td>Protein solubilized from membrane with 5% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
@@ -85,7 +85,7 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
       <td>Desalting and concentration</td>
       <td>Size exclusion (desalting)</td>
       <td>NAP-10 column</td>
-      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 7.6), 100 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.5% OG + 0.5% OG</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> (pH 7.6), 100 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.5% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
       <td>Concentrated to approximately 15 mg/ml</td>
     </tr>
   </tbody>

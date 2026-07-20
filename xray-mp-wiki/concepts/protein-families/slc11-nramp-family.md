@@ -1,13 +1,13 @@
 ---
-title: SLC11 (NRAMP) Family
+title: "SLC11 (NRAMP) Family"
 created: 2026-06-05
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, concept-transport-mechanism, membrane-protein]
+tags: [concept-protein-family, concept-transport-mechanism, membrane-protein, subdirectory-protein-families]
 sources: [doi/10.1038##nsmb.2904, doi/10.1038##ncomms14033]
-verified: false
+verified: regex
 ---
 
 # SLC11 (NRAMP) Family

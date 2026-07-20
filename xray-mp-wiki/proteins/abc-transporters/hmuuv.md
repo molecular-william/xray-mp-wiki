@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nsmb.2417]
-verified: regex
+verified: agent
 ---
 
 # Yersinia pestis Heme Transporter HmuUV
@@ -35,7 +35,7 @@ The HmuUV complex is the transmembrane and nucleotide-binding domain core of the
   </tr></thead>
   <tbody>
     <tr>
-      <td><a class="pdb-link" href="https://www.rcsb.org/structure/unspecified">UNSPECIFIED</a></td>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4g1u">4G1U</a></td>
       <td>3.0</td>
       <td>P2₁</td>
       <td>HmuU (TMD) dimer + HmuV (NBD) dimer (nucleotide-free)</td>
@@ -74,8 +74,8 @@ The HmuUV complex is the transmembrane and nucleotide-binding domain core of the
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow (Qiagen)</td>
       <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>-NaOH pH 8.0, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>His10-tagged HmuUV captured</td>
     </tr>

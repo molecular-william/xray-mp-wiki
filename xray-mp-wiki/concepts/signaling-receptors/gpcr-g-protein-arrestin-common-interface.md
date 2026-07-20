@@ -1,13 +1,13 @@
 ---
-title: GPCR G Protein-Arrestin Common Interface
+title: "GPCR G Protein-Arrestin Common Interface"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-structural, concept-functional, concept-protein-family]
+tags: [concept-structural, concept-functional, concept-protein-family, subdirectory-signaling-receptors]
 sources: [doi/10.1038##ncomms5801]
-verified: false
+verified: regex
 ---
 
 # GPCR G Protein-Arrestin Common Interface

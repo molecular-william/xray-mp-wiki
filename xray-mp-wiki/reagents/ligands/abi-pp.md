@@ -1,5 +1,5 @@
 ---
-title: ABI-PP (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine)
+title: "ABI-PP (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature12300]
-verified: false
+verified: agent
 ---
 
 # ABI-PP (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine)

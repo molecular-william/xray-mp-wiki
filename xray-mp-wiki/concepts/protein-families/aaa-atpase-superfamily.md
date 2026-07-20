@@ -6,8 +6,8 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family, membrane-protein, subdirectory-protein-families]
-sources: [doi/10.1038##nrm.2017.90, doi/10.1146##annurev-biochem-060614-034248]
-verified: none
+sources: []
+verified: regex
 ---
 
 # AAA ATPase Superfamily

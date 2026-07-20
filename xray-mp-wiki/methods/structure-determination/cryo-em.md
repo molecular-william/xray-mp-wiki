@@ -1,13 +1,13 @@
 ---
-title: Cryo-Electron Microscopy
+title: "Cryo-Electron Microscopy"
 created: 2026-06-08
 updated: 2026-06-09
 type: method
 category: methods
 layout: default
 tags: [structure-cryoem, subdirectory-structure-determination]
-sources: [doi/10.1016##j.cell.2019.06.031, doi/10.1016##j.cell.2020.01.008, doi/10.1038##nature17679, doi/10.1038##ncomms8947, doi/10.1016##jsb.2004.09.003, doi/10.15252##embj.2021108341, doi/10.1126##scisignal.ado8741]
-verified: false
+sources: [doi/10.1016##j.cell.2019.06.031, doi/10.1016##j.cell.2020.01.008, doi/10.1038##nature17679, doi/10.1038##ncomms8947, doi/10.15252##embj.2021108341, doi/10.1126##scisignal.ado8741]
+verified: regex
 ---
 
 # Cryo-Electron Microscopy

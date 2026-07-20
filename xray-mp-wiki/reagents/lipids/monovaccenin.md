@@ -1,5 +1,5 @@
 ---
-title: Monovaccenin
+title: "Monovaccenin"
 created: 2026-06-11
 updated: 2026-06-11
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [lipid, lipid-monoacyl, subdirectory-lipids]
 sources: [doi/10.1016##j.cell.2017.03.010]
-verified: false
+verified: agent
 ---
 
 # Monovaccenin

@@ -1,13 +1,13 @@
 ---
-title: CLC Two-Gate Transport Mechanism
+title: "CLC Two-Gate Transport Mechanism"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, concept-structural, subdirectory-concepts]
+tags: [concept-transport-mechanism, concept-structural, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nsmb.2814]
-verified: false
+verified: regex
 ---
 
 # CLC Two-Gate Transport Mechanism

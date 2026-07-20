@@ -1,13 +1,13 @@
 ---
-title: SPRY Domain in Ryanodine Receptors
+title: "SPRY Domain in Ryanodine Receptors"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
+tags: [concept-protein-family, subdirectory-signaling-receptors]
 sources: [doi/10.1038##ncomms8947]
-verified: false
+verified: regex
 ---
 
 # SPRY Domain in Ryanodine Receptors

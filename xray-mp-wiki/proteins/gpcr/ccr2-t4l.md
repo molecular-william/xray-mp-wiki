@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##nature20605]
-verified: regex
+verified: agent
 uniprot_id: P41597
 ---
 
@@ -44,7 +44,7 @@ CC chemokine receptor 2 (CCR2) is a class A G protein-coupled receptor expressed
       <td><a class="pdb-link" href="https://www.rcsb.org/structure/5t1a">5T1A</a></td>
       <td>2.80</td>
       <td>P212121</td>
-      <td>Human CCR2 isoform B (Uniprot P41597-2) with C-terminal <a href="/xray-mp-wiki/concepts/truncation">Truncation</a> (residues 329-360 removed) and T4 lysozyme (T4L) inserted into ICL3. Native CCR2 residues L226(5.62)-R240(6.32) replaced with M2 muscarinic receptor residues (PDB 3UON): S226(5.62)-RASKSRI-T4L-PPPSREK-K240(6.32). N-terminal HA signal sequence, Flag tag, PreScission protease site, and C-terminal 10xHis tag plus Flag tag. Crystallized in ternary complex with orthosteric antagonist BMS-681 and allosteric antagonist CCR2-RA-[R].</td>
+      <td>Human CCR2 isoform B (Uniprot P41597-2) with C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">Truncation</a> (residues 329-360 removed) and T4 lysozyme (T4L) inserted into ICL3. Native CCR2 residues L226(5.62)-R240(6.32) replaced with M2 muscarinic receptor residues (PDB 3UON): S226(5.62)-RASKSRI-T4L-PPPSREK-K240(6.32). N-terminal HA signal sequence, Flag tag, PreScission protease site, and C-terminal 10xHis tag plus Flag tag. Crystallized in ternary complex with orthosteric antagonist BMS-681 and allosteric antagonist CCR2-RA-[R].</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/bms-681">Bms 681</a> (orthosteric antagonist), CCR2-RA-[R] (allosteric antagonist)</td>
     </tr>
   </tbody>
@@ -77,7 +77,7 @@ CC chemokine receptor 2 (CCR2) is a class A G protein-coupled receptor expressed
       <td>Solubilization</td>
       <td>Solubilization of membranes with detergent</td>
       <td>--</td>
-      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 400 mM NaCl + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 400 mM NaCl + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Solubilized at 4 C for 3 h with 50 uM BMS-681 and 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a>; clarified by centrifugation at 50,000g for 30 min</td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ CC chemokine receptor 2 (CCR2) is a class A G protein-coupled receptor expressed
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> IMAC (Ni-IMAC)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> IMAC resin (Clontech)</td>
       <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 400 mM NaCl + --</td>
-      <td>Incubated with resin overnight at 4 C; washed without ligands with ten column volumes of Wash I Buffer (50 mM HEPES pH 7.5, 400 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">ddm</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)); eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> gradient</td>
+      <td>Incubated with resin overnight at 4 C; washed without ligands with ten column volumes of Wash I Buffer (50 mM HEPES pH 7.5, 400 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">ddm</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)); eluted with <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> gradient</td>
     </tr>
   </tbody>
 </table>
@@ -317,5 +317,5 @@ Double-antagonist-bound CCR2 exhibits the full inactive-state conformational sig
 - <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a> — Co-detergent used during solubilization and purification
 - <a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> — Ni-IMAC resin used for His-tag affinity purification
 - <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Primary crystallization method used
-- <a href="/xray-mp-wiki/concepts/truncation">Protein Truncation for Crystallization</a> — Entity mentioned in overview or biological insights
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation">Protein Truncation for Crystallization</a> — Entity mentioned in overview or biological insights
 - <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a> — Entity mentioned in overview or biological insights

@@ -1,5 +1,5 @@
 ---
-title: Gamma-Butyrobetaine (4-Trimethylaminobutyrate)
+title: "Gamma-Butyrobetaine (4-Trimethylaminobutyrate)"
 created: 2026-06-05
 updated: 2026-06-05
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, additive-ligand, subdirectory-ligands]
 sources: [doi/10.1038##nsmb.1788, doi/10.1073##pnas.1309071110]
-verified: false
+verified: regex
 ---
 
 # Gamma-Butyrobetaine (4-Trimethylaminobutyrate)

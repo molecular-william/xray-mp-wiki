@@ -1,5 +1,5 @@
 ---
-title: SBL-MC-31
+title: "SBL-MC-31"
 created: 2026-05-29
 updated: 2026-05-29
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1021##acs.jmedchem.3c01822]
-verified: false
+verified: agent
 ---
 
 # SBL-MC-31

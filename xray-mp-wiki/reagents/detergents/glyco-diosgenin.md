@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, detergent-mild, subdirectory-detergents]
 sources: [doi/10.1016##j.bbabio.2023.148986]
-verified: false
+verified: agent
 ---
 
 # Glyco-diosgenin (GDN)

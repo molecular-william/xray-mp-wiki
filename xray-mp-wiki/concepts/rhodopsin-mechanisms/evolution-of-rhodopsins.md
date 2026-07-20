@@ -1,13 +1,13 @@
 ---
-title: Evolution of Rhodopsins
+title: "Evolution of Rhodopsins"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-rhodopsin-mechanisms]
 sources: [doi/10.1107##S0907444913017575, doi/10.1038##s42003-021-02326-4, doi/10.1073##pnas.2016328118]
-verified: false
+verified: none
 ---
 
 # Evolution of Rhodopsins

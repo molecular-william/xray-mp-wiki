@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms9004, doi/10.1073##pnas.0907054106, doi/10.1073##pnas.2123226119]
-verified: regex
+verified: agent
 uniprot_id: ['C4IX13', 'P05024', 'P05027', 'Q4H132', 'Q58K79', 'Q70Q12']
 ---
 
@@ -1280,8 +1280,8 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
     </tr>
     <tr>
       <td>Size-exclusion chromatography</td>
-      <td>SEC</td>
-      <td>Superdex 200 Increase (Cytiva)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase (Cytiva)</td>
       <td>1 mM MgCl2, 0.01% C12E8, 1 mM DTT, 20 mM MOPS-NMDG pH 6.1 or 20 mM imidazole-HCl pH 7.5</td>
       <td>Peak fractions concentrated to 8 mg/mL and stored in liquid nitrogen</td>
     </tr>

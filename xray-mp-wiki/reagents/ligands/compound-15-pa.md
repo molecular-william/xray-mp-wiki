@@ -1,5 +1,5 @@
 ---
-title: Cmpd-15PA (Compound-15PA)
+title: "Cmpd-15PA (Compound-15PA)"
 created: 2026-06-03
 updated: 2026-06-03
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1038##nature23652]
-verified: false
+verified: regex
 ---
 
 # Cmpd-15PA (Compound-15PA)

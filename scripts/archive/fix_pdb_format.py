@@ -201,7 +201,6 @@ def main():
 
     total_fixed = 0
     total_review = 0
-    total_unchanged = 0
 
     for yf in sorted(YAML_DIR.glob("*.yaml")):
         name = yf.stem
@@ -231,8 +230,6 @@ def main():
             stripped = pdb.strip().strip("—").strip("-")
             if not stripped:
                 continue
-
-            pdb_upper = pdb.strip().upper()
 
             # Check for exact match no-PDB patterns first
             if stripped.lower() in NO_PDB_EXACT:

@@ -1,13 +1,13 @@
 ---
-title: Flickering-Gate Mechanism
+title: "Flickering-Gate Mechanism"
 created: 2026-06-05
 updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-miscellaneous]
 sources: [doi/10.1038##ncomms9004]
-verified: false
+verified: regex
 ---
 
 # Flickering-Gate Mechanism

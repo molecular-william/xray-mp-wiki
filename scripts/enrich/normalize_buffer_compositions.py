@@ -28,14 +28,16 @@ for yf in sorted(rd.glob("*.yaml")):
     slug = yf.stem
     try:
         data = yaml.safe_load(yf.read_text())
-        if not isinstance(data, dict): continue
+        if not isinstance(data, dict):
+            continue
         tags = data.get("tags", []) or []
         category = None
         for t in tags:
             if t.startswith("subdirectory-"):
                 category = t.replace("subdirectory-", "")
                 break
-        if not category: continue
+        if not category:
+            continue
         title = data.get("title", slug)
         REAGENT_NAME_MAP[title.lower().strip()] = (slug, category)
         m = re.search(r"\(([^)]+)\)", title)
@@ -48,33 +50,53 @@ for yf in sorted(rd.glob("*.yaml")):
         continue
 
 ADDITIONAL = {
-    "nacl": ("sodium-chloride", "additives"), "mgcl2": ("magnesium-chloride", "additives"),
-    "kcl": ("potassium-chloride", "additives"), "beta-me": ("beta-mercaptoethanol", "additives"),
-    "tcep": ("tcep", "additives"), "dtt": ("dtt", "additives"), "edta": ("edta", "additives"),
-    "glycerol": ("glycerol", "additives"), "sucrose": ("sucrose", "additives"),
-    "imidazole": ("imidazole", "additives"), "tris-hcl": ("tris", "buffers"),
-    "hepes": ("hepes", "buffers"), "tris": ("tris", "buffers"),
-    "sodium phosphate": ("sodium-phosphate", "buffers"), "na-phosphate": ("sodium-phosphate", "buffers"),
-    "phosphate": ("sodium-phosphate", "buffers"), "pbs": ("pbs", "buffers"),
+    "nacl": ("sodium-chloride", "additives"),
+    "mgcl2": ("magnesium-chloride", "additives"),
+    "kcl": ("potassium-chloride", "additives"),
+    "beta-me": ("beta-mercaptoethanol", "additives"),
+    "tcep": ("tcep", "additives"),
+    "dtt": ("dtt", "additives"),
+    "edta": ("edta", "additives"),
+    "glycerol": ("glycerol", "additives"),
+    "sucrose": ("sucrose", "additives"),
+    "imidazole": ("imidazole", "additives"),
+    "tris-hcl": ("tris", "buffers"),
+    "hepes": ("hepes", "buffers"),
+    "tris": ("tris", "buffers"),
+    "sodium phosphate": ("sodium-phosphate", "buffers"),
+    "na-phosphate": ("sodium-phosphate", "buffers"),
+    "phosphate": ("sodium-phosphate", "buffers"),
+    "pbs": ("pbs", "buffers"),
     "tbs": ("tbs", "buffers"),
-    "mops": ("mops", "buffers"), "mes": ("mes", "buffers"),
-    "bis-tris": ("bis-tris", "buffers"), "sodium-citrate": ("sodium-citrate", "buffers"),
-    "capss": ("caps", "buffers"), "caps": ("caps", "buffers"),
-    "kpi": ("potassium-phosphate", "buffers"), "na-k-tartrate": ("sodium-potassium-tartrate", "additives"),
-    "kh2po4": ("kh2po4", "additives"), "k2hpo4": ("k2hpo4", "additives"),
-    "nah2po4": ("sodium-phosphate-monobasic", "additives"), "na2hpo4": ("sodium-phosphate-dibasic", "additives"),
+    "mops": ("mops", "buffers"),
+    "mes": ("mes", "buffers"),
+    "bis-tris": ("bis-tris", "buffers"),
+    "sodium-citrate": ("sodium-citrate", "buffers"),
+    "capss": ("caps", "buffers"),
+    "caps": ("caps", "buffers"),
+    "kpi": ("potassium-phosphate", "buffers"),
+    "na-k-tartrate": ("sodium-potassium-tartrate", "additives"),
+    "kh2po4": ("kh2po4", "additives"),
+    "k2hpo4": ("k2hpo4", "additives"),
+    "nah2po4": ("sodium-phosphate-monobasic", "additives"),
+    "na2hpo4": ("sodium-phosphate-dibasic", "additives"),
 }
 REAGENT_NAME_MAP.update(ADDITIONAL)
 
 # ── Regexes ───┘
 
 REAGENT_LINK = re.compile(r"\[([^\]]+)\]\([^)]*/reagents/(buffers|additives|detergents)/([^/)]+)/?\)")
-CONC_RE = re.compile(r"~?([\d.]+)\s*((?:%\s*\([vw]/[vw]\)|%(?!\w)|mg\s*/\s*ml|mg/ml|mM|M|µM|μM|×?\s*x\b)(?=\s|$|\)|,|;))", re.IGNORECASE)
+CONC_RE = re.compile(
+    r"~?([\d.]+)\s*((?:%\s*\([vw]/[vw]\)|%(?!\w)|mg\s*/\s*ml|mg/ml|mM|M|µM|μM|×?\s*x\b)(?=\s|$|\)|,|;))", re.IGNORECASE
+)
 PH_RE = re.compile(r"pH\s*([\d.]+)", re.IGNORECASE)
 # Also catch (pH X.X) with surrounding parens
 PH_PAREN_RE = re.compile(r"\(pH\s*([\d.]+)\)", re.IGNORECASE)
 COMPONENT_SPLIT = re.compile(r",\s*(?![^()]*\))")
-SKIP_PATTERNS = re.compile(r"(protease inhibitor|complete\s*protease|supplemented with|containing|in the presence of|see supplementary|not specified|n/a|none)\b", re.IGNORECASE)
+SKIP_PATTERNS = re.compile(
+    r"(protease inhibitor|complete\s*protease|supplemented with|containing|in the presence of|see supplementary|not specified|n/a|none)\b",
+    re.IGNORECASE,
+)
 UNIT_QUALIFIER = re.compile(r"\s*\([vw]/[vw]\)", re.IGNORECASE)
 
 
@@ -106,8 +128,16 @@ def parse_buffer(buf_text):
     # Pre-clean: strip ]] noise, double spaces
     buf_text = re.sub(r"\]+", "", buf_text)
     buf_text = re.sub(r"\s{2,}", " ", buf_text)
-    skip_words = {"not specified", "n/a", "-", "--", "none", "not applicable",
-                  "see supplementary", "see supplementary materials"}
+    skip_words = {
+        "not specified",
+        "n/a",
+        "-",
+        "--",
+        "none",
+        "not applicable",
+        "see supplementary",
+        "see supplementary materials",
+    }
     if not buf_text or buf_text.lower() in skip_words:
         return []
     results, seen_slugs = [], set()
@@ -115,7 +145,8 @@ def parse_buffer(buf_text):
     for m in REAGENT_LINK.finditer(buf_text):
         slug = m.group(3).lower().strip()
         cat = m.group(2)
-        if slug in seen_slugs: continue
+        if slug in seen_slugs:
+            continue
         comp_start = buf_text.rfind(",", 0, m.start())
         comp_start = 0 if comp_start == -1 else comp_start + 1
         comp_end = buf_text.find(",", m.end())
@@ -130,9 +161,14 @@ def parse_buffer(buf_text):
         ph = None
         if cat == "buffers":
             ph = _extract_ph(component)
-        results.append({"reagent": reagent_path(cat, slug),
-                        "concentration": str(conc) if conc is not None else None,
-                        "unit": unit, "ph": ph})
+        results.append(
+            {
+                "reagent": reagent_path(cat, slug),
+                "concentration": str(conc) if conc is not None else None,
+                "unit": unit,
+                "ph": ph,
+            }
+        )
         seen_slugs.add(slug)
     # Second pass: split on commas, resolve unlinked components
     text_plain = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", buf_text)
@@ -144,7 +180,8 @@ def parse_buffer(buf_text):
         m = REAGENT_LINK.search(comp)
         if m:
             slug, cat = m.group(3).lower().strip(), m.group(2)
-            if slug in seen_slugs: continue
+            if slug in seen_slugs:
+                continue
             cm = CONC_RE.search(comp)
             conc = cm.group(1) if cm else None
             unit = cm.group(2).strip() if cm else None
@@ -153,8 +190,14 @@ def parse_buffer(buf_text):
                 unit = re.sub(r"\s+", "", unit)
             if cat == "buffers":
                 ph = _extract_ph(comp)
-            results.append({"reagent": reagent_path(cat, slug), "concentration": str(conc) if conc is not None else None,
-                            "unit": unit, "ph": ph})
+            results.append(
+                {
+                    "reagent": reagent_path(cat, slug),
+                    "concentration": str(conc) if conc is not None else None,
+                    "unit": unit,
+                    "ph": ph,
+                }
+            )
             seen_slugs.add(slug)
         else:
             cm = CONC_RE.search(comp)
@@ -193,9 +236,14 @@ def parse_buffer(buf_text):
             if name_match:
                 slug, cat = name_match
                 if slug not in seen_slugs:
-                    results.append({"reagent": reagent_path(cat, slug),
-                                    "concentration": str(conc) if conc is not None else None,
-                                    "unit": unit, "ph": None})
+                    results.append(
+                        {
+                            "reagent": reagent_path(cat, slug),
+                            "concentration": str(conc) if conc is not None else None,
+                            "unit": unit,
+                            "ph": None,
+                        }
+                    )
                     seen_slugs.add(slug)
     return results
 
@@ -209,16 +257,19 @@ def main():
             data = yaml.safe_load(yf.read_text())
         except Exception:
             continue
-        if not isinstance(data, dict): continue
+        if not isinstance(data, dict):
+            continue
         modified = False
         purif_sources = list(data.get("purifications", []) or [])
         for pub in data.get("publications", []) or []:
             if isinstance(pub, dict):
                 purif_sources.extend(pub.get("purifications", []) or [])
         for p in purif_sources:
-            if not isinstance(p, dict): continue
+            if not isinstance(p, dict):
+                continue
             for s in p.get("steps", []) or []:
-                if not isinstance(s, dict): continue
+                if not isinstance(s, dict):
+                    continue
                 total_steps += 1
                 if s.get("buffer_details") is not None:
                     skipped += 1

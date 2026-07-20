@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, membrane-protein]
 sources: []
-verified: regex
+verified: agent
 ---
 
 # Human CXCR4 Chemokine Receptor

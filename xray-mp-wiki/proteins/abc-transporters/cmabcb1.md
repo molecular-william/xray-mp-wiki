@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41467-018-08007-x, doi/10.1073##pnas.1321562111]
-verified: regex
+verified: agent
 uniprot_id: M1VAN7
 ---
 
@@ -115,7 +115,7 @@ apparatus, including extracellular, intramembranous, and cytosolic gates.
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
-      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase (GE Healthcare)</td>
       <td>20 mM Tris pH 7.0, 150 mM NaCl, 0.2% (w/v) β-<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
       <td></td>

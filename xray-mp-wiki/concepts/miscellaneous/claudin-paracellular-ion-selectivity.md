@@ -1,13 +1,13 @@
 ---
-title: Claudin-Mediated Paracellular Ion Selectivity
+title: "Claudin-Mediated Paracellular Ion Selectivity"
 created: 2026-06-11
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
+tags: [concept-transport-mechanism, subdirectory-miscellaneous]
 sources: [doi/10.1073##pnas.1908929116, doi/10.1073##pnas.2024651118, doi/10.1126##science.1248571]
-verified: false
+verified: regex
 ---
 
 # Claudin-Mediated Paracellular Ion Selectivity

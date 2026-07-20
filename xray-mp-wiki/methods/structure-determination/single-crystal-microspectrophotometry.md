@@ -1,5 +1,5 @@
 ---
-title: Single-Crystal Microspectrophotometry
+title: "Single-Crystal Microspectrophotometry"
 created: 2026-06-11
 updated: 2026-06-11
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-xray, subdirectory-structure-determination]
 sources: [doi/10.1038##44623]
-verified: false
+verified: regex
 ---
 
 # Single-Crystal Microspectrophotometry

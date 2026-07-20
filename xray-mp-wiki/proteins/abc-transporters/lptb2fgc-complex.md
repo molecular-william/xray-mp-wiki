@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##s41586-019-1039-0]
-verified: regex
+verified: agent
 uniprot_id: ['A0A0H3CQA2', 'A0A0H3CR83', 'A0A0H3CU18', 'A0A421IFY4', 'O30650', 'Q9KP51', 'Q9KP75', 'Q9KP76']
 ---
 
@@ -90,24 +90,24 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     </tr>
     <tr>
       <td>Ni-NTA affinity</td>
-      <td>Ni-NTA agarose gravity flow</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose gravity flow</td>
       <td>—</td>
       <td>20 mM Tris pH 7.4, 300 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
       <td>Washed with 20 CV of 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, then 30 CV wash buffer</td>
     </tr>
     <tr>
       <td>Gel filtration</td>
-      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
       <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300</td>
       <td>300 mM NaCl, 20 mM Tris pH 7.4, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.025% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
-      <td>Supplemented with 0.5 mM THP. Tag cleaved with thrombin, then flowed through Ni-NTA to remove uncleaved protein</td>
+      <td>Supplemented with 0.5 mM THP. Tag cleaved with thrombin, then flowed through <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> to remove uncleaved protein</td>
     </tr>
     <tr>
       <td>Tag removal</td>
       <td>Thrombin cleavage</td>
       <td>—</td>
       <td></td>
-      <td>Incubated overnight at 4 C with restriction grade thrombin; removed by passing through Ni-NTA with 8 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+      <td>Incubated overnight at 4 C with restriction grade thrombin; removed by passing through <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> with 8 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
     </tr>
   </tbody>
 </table>

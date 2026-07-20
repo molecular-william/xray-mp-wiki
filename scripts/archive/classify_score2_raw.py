@@ -9,7 +9,10 @@ Classification:
   1 = usable as-is — Methods has actual detergent/purification/crystallization
       details, even if references after it are partially truncated.
 """
-import json, re, sys
+
+import json
+import re
+import sys
 from pathlib import Path
 
 RAW = Path("raw/papers")
@@ -70,8 +73,8 @@ for fname in sorted(set(filenames)):
 
     # Find first Methods-section header
     method_start = None
-    for i, l in enumerate(lines):
-        if METHOD_RE.match(l):
+    for i, line in enumerate(lines):
+        if METHOD_RE.match(line):
             method_start = i
             break
 
@@ -82,8 +85,8 @@ for fname in sorted(set(filenames)):
     # Find where this section ends (next top-level ##, ignoring ###)
     method_end = n
     for i in range(method_start + 1, n):
-        l = lines[i].strip()
-        if re.match(r"^## (?![#])", l):
+        line = lines[i].strip()
+        if re.match(r"^## (?![#])", line):
             method_end = i
             break
 
@@ -100,8 +103,8 @@ for fname in sorted(set(filenames)):
         if online_start is not None:
             om_end = n
             for i in range(online_start + 1, n):
-                ll = lines[i].strip()
-                if re.match(r"^## (?![#])", ll):
+                lline = lines[i].strip()
+                if re.match(r"^## (?![#])", lline):
                     om_end = i
                     break
             om_text = "\n".join(lines[online_start:om_end])

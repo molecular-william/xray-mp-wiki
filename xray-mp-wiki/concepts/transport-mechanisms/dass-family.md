@@ -1,13 +1,13 @@
 ---
-title: Divalent Anion/Na+ Symporter (DASS) Family
+title: "Divalent Anion/Na+ Symporter (DASS) Family"
 created: 2026-06-08
 updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein]
+tags: [concept-protein-family, membrane-protein, subdirectory-transport-mechanisms]
 sources: [doi/10.1038##nature11542]
-verified: false
+verified: regex
 ---
 
 # Divalent Anion/Na+ Symporter (DASS) Family

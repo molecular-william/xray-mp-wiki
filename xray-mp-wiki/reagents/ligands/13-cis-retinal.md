@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##j.jmb.2011.07.022]
-verified: none
+verified: agent
 ---
 
 # 13-cis-Retinal

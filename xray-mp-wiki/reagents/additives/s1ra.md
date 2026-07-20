@@ -1,5 +1,5 @@
 ---
-title: S1RA (4-[2-(5-methyl-1-(naphthalene-2-yl)-1H-pyrazol-3-yl)oxy]ethyl]morpholine)
+title: "S1RA (4-[2-(5-methyl-1-(naphthalene-2-yl)-1H-pyrazol-3-yl)oxy]ethyl]morpholine)"
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
@@ -7,7 +7,7 @@ category: reagents
 layout: default
 tags: [additive-ligand, ligand]
 sources: [doi/10.1038##s41467-022-28946-w]
-verified: false
+verified: regex
 ---
 
 # S1RA (4-[2-(5-methyl-1-(naphthalene-2-yl)-1H-pyrazol-3-yl)oxy]ethyl]morpholine)

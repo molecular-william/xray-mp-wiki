@@ -7,7 +7,7 @@ category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein]
 sources: [doi/10.1038##s41589-021-00866-8]
-verified: pdb
+verified: agent
 uniprot_id: P32238
 ---
 
@@ -76,28 +76,28 @@ The human cholecystokinin B receptor (CCKᴅR) is a class A G-protein-coupled re
       <td>1. Membrane preparation and solubilization</td>
       <td>Detergent extraction</td>
       <td>—</td>
-      <td>20 mM HEPES pH 7.5, 200 mM NaCl, 5 mM CaCl₂, 10 µM gastrin-17, 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 200 mM NaCl, 5 mM CaCl₂, 10 µM gastrin-17, 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td>Co-expression with G proteins; solubilization for 2 h at 4°C</td>
     </tr>
     <tr>
       <td>2. G protein complex assembly</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> 35 (<a href="/xray-mp-wiki/reagents/antibodies/nb35/">Nb35 Nanobody</a>) addition</td>
       <td>—</td>
-      <td>20 mM HEPES pH 7.5, 200 mM NaCl, 5 mM CaCl₂, 10 µM gastrin-17, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>20 mM HEPES pH 7.5, 200 mM NaCl, 5 mM CaCl₂, 10 µM gastrin-17, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
       <td><a href="/xray-mp-wiki/reagents/antibodies/nb35/">Nb35 Nanobody</a> added to stabilize G protein-receptor complex</td>
     </tr>
     <tr>
       <td>3. M1 anti-Flag <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
-      <td>Flag affinity purification</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> affinity purification</td>
       <td>—</td>
-      <td>20 mM HEPES pH 7.5, 200 mM NaCl, 5 mM CaCl₂, 10 µM gastrin-17, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
-      <td>Elution with Flag peptide</td>
+      <td>20 mM HEPES pH 7.5, 200 mM NaCl, 5 mM CaCl₂, 10 µM gastrin-17, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)</td>
+      <td>Elution with <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide</td>
     </tr>
     <tr>
       <td>4. Size-exclusion chromatography</td>
       <td>Superose 6 10/300 GL</td>
       <td>—</td>
-      <td>20 mM HEPES pH 7.5, 200 mM NaCl, 5 mM CaCl₂, 10 µM gastrin-17, 0.00075% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.00025% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.00025% <a href="/xray-mp-wiki/reagents/detergents/glyco-diosgenin/">GDN</a></td>
+      <td>20 mM HEPES pH 7.5, 200 mM NaCl, 5 mM CaCl₂, 10 µM gastrin-17, 0.00075% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.00025% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.00025% <a href="/xray-mp-wiki/reagents/detergents/glyco-diosgenin/">GDN</a></td>
       <td>Peak fractions collected for <a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> grid preparation</td>
     </tr>
   </tbody>

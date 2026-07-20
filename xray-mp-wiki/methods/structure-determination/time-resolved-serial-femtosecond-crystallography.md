@@ -1,5 +1,5 @@
 ---
-title: Time-Resolved Serial Femtosecond Crystallography (TR-SFX)
+title: "Time-Resolved Serial Femtosecond Crystallography (TR-SFX)"
 created: 2026-06-08
 updated: 2026-06-08
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-xray, subdirectory-structure-determination]
 sources: [doi/10.7554##eLife.62389, doi/10.1038##nature13453, doi/10.1038##nature21400, doi/10.1126##science.aat0094, doi/10.1038##s41467-024-54422-8, doi/10.1126##science.aah3497]
-verified: false
+verified: none
 ---
 
 # Time-Resolved Serial Femtosecond Crystallography (TR-SFX)

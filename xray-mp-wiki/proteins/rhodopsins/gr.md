@@ -7,8 +7,7 @@ category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1038##ncomms8177]
-verified: pdb
-uniprot_id: Q8RUT8
+verified: agent
 ---
 
 # GR (Halobacterium sp. GR Bacteriorhodopsin)
@@ -16,9 +15,7 @@ uniprot_id: Q8RUT8
 <div class="expr-badges"><span class="expr-badge expr-e-coli">E. coli</span></div>
 
 
-<a class="badge badge-uniprot" href="https://www.uniprot.org/uniprot/Q8RUT8">UniProt: Q8RUT8</a>
-
-<span class="expr-badge">Chlamydomonas reinhardtii</span>
+<span class="expr-badge">Halobacterium salinarum</span>
 
 ## Overview
 

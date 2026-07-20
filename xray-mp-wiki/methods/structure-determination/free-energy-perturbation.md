@@ -1,5 +1,5 @@
 ---
-title: Free Energy Perturbation
+title: "Free Energy Perturbation"
 created: 2026-05-27
 updated: 2026-05-27
 type: method
@@ -7,7 +7,7 @@ category: methods
 layout: default
 tags: [structure-refinement, subdirectory-structure-determination]
 sources: [doi/10.1016##j.jmb.2020.06.012]
-verified: false
+verified: regex
 ---
 
 # Free Energy Perturbation

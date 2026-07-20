@@ -1,13 +1,13 @@
 ---
-title: Rhomboid Protease Substrate Specificity
+title: "Rhomboid Protease Substrate Specificity"
 created: 2026-06-11
 updated: 2026-06-17
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-enzyme-mechanisms]
 sources: [doi/10.15252##embj.201489367]
-verified: false
+verified: regex
 ---
 
 # Rhomboid Protease Substrate Specificity

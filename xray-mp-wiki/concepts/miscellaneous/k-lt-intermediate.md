@@ -1,13 +1,13 @@
 ---
-title: K_LT Intermediate
+title: "K_LT Intermediate"
 created: 2026-06-11
 updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
+tags: [concept-functional, subdirectory-miscellaneous]
 sources: [doi/10.1038##44623]
-verified: false
+verified: regex
 ---
 
 # K_LT Intermediate
