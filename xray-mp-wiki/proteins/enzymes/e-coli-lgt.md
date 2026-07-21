@@ -1,7 +1,7 @@
 ---
 title: "E. coli Lipoprotein Diacylglyceryl Transferase (Lgt)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -85,6 +85,18 @@ Lgt (phosphatidylglycerol:prolipoprotein diacylglyceryl transferase) is an integ
     <tr>
       <td>Notes</td>
       <td>Two crystal forms obtained: form-1 (1.6 A, with palmitic acid/OG) and form-2 (1.9 A, with PG/DAG). Phased using Se-Met SAD.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

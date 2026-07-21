@@ -17,6 +17,64 @@ import sys
 from pathlib import Path
 from typing import Any, Callable, Optional
 
+import yaml
+
+# Fast YAML loader: use CSafeLoader (C libyaml, ~8x faster) when available
+try:
+    from yaml import CSafeLoader as _FastLoader
+    def fast_load_file(path):
+        """Load a YAML file using the fastest available loader."""
+        return yaml.load(open(path, "rb"), Loader=_FastLoader)
+    def fast_load_str(text):
+        """Parse a YAML string using the fastest available loader."""
+        return yaml.load(text, Loader=_FastLoader)
+except ImportError:
+    def fast_load_file(path):
+        """Load a YAML file using the fastest available loader (fallback)."""
+        return yaml.safe_load(open(path))
+    def fast_load_str(text):
+        """Parse a YAML string using the fastest available loader (fallback)."""
+        return yaml.safe_load(text)
+
+def parallel_load_yamls(file_paths, workers=6):
+    """Load multiple YAML files in parallel using multiprocessing.
+    
+    Args:
+        file_paths: iterable of Path objects
+        workers: number of parallel processes (default 6)
+    
+    Yields:
+        (path, data_or_None) tuples
+    """
+    import multiprocessing as mp
+    
+    n_workers = min(workers, len(list(file_paths)) if hasattr(file_paths, '__len__') else workers)
+    n_workers = max(1, n_workers)
+    
+    paths = list(file_paths)
+    if n_workers <= 1:
+        for p in paths:
+            yield _load_one_yaml(p)
+        return
+    
+    with mp.Pool(n_workers) as pool:
+        yield from pool.imap_unordered(_load_one_yaml, paths)
+
+
+# Module-level helper for multiprocessing (must be picklable)
+def _load_one_yaml(path):
+    """Load a single YAML file, returning (path, data_or_None)."""
+    try:
+        from yaml import CSafeLoader as _L
+        return path, yaml.load(open(path, "rb"), Loader=_L)
+    except ImportError:
+        try:
+            return path, yaml.safe_load(open(path))
+        except Exception:
+            return path, None
+    except Exception:
+        return path, None
+
 # Logging: warnings and errors go to stderr; info is silent by default.
 # Set env LOG_LEVEL=INFO for verbose mode.
 logging.basicConfig(

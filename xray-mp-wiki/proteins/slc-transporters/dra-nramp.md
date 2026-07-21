@@ -1,7 +1,7 @@
 ---
 title: "Deinococcus radiodurans Nramp (DraNramp)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,14 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
     <tr>
       <td>Notes</td>
       <td>DraNramp was co-crystallized with a monoclonal Fab fragment isolated from BALB/c mice immunized with DraNramp proteoliposomes. The crystallization construct included three surface patch mutations (QK169-170HH, EEK251-3YYY, RR398-9HH). Data collected at NE-CAT beamline at APS. Structure refined to R = 0.239, R_free = 0.274. Unit cell: 113.13, 132.08, 221.0 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -505,6 +513,18 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
     <tr>
       <td>Notes</td>
       <td>Protein mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> in 1:1.5 volume ratio using syringe reconstitution method. 60 nL protein bolus + 720 nL precipitant dispensed onto 96-well glass sandwich plates. Metal-free and metal-soaked (5 mM MnCl2 or Cd2+) crystals grown in various precipitant conditions. Crystals grown as 30-40 um rods. Soaking experiments performed by adding 2 uL soak solution to wells for 16-18 hr. Data collected at APS beamlines 24-ID-C and 23-ID-B.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

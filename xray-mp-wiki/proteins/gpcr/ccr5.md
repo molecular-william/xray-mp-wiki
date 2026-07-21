@@ -1,7 +1,7 @@
 ---
 title: "CCR5 Chemokine Receptor (C-C Chemokine Receptor Type 5)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -99,6 +99,14 @@ CCR5 (C-C chemokine receptor type 5) is a class A G protein-coupled receptor (GP
     <tr>
       <td>Notes</td>
       <td>Structure determined in complex with <a href="/xray-mp-wiki/reagents/ligands/maraviroc/">Maraviroc</a>. Detailed crystallization conditions in supplementary materials.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

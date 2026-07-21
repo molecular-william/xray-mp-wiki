@@ -169,6 +169,26 @@ proton transfer pathway.
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20-22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 32 % [precipitant] (PEG 2000)</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -675,6 +695,22 @@ proton transfer pathway.
     <tr>
       <td>Notes</td>
       <td>Large crystals (300x300x40 to 400x400x50 um) obtained by adding <a href="/xray-mp-wiki/reagents/additives/squalane/">Squalane</a> and a detergent to LCP host lipid; crystals frozen after light adaptation for ground state with all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>; trick X-ray damage assessment at 15 K vs 100 K</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Phosphate: 3 M [buffer]</td>
     </tr>
   </tbody>
 </table>

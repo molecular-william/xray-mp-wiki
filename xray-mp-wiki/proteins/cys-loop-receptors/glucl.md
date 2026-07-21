@@ -1,7 +1,7 @@
 ---
 title: "GluCl (C. elegans Glutamate-Gated Chloride Channel)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,32 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to ~3.3 A resolution. Additional structures obtained by soaking with glutamate, picrotoxin, or iodide. Fab derived from mouse monoclonal antibody against properly folded pentameric GluCl.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 21–23 % [precipitant] (Peg 400)  
+- Citrate: 50 mM [buffer]  
+- Sodium Chloride: 70 mM [salt]</td>
     </tr>
   </tbody>
 </table>

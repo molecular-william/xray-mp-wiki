@@ -1,7 +1,7 @@
 ---
 title: "Archaeoglobus fulgidus AglB (AfAglB)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -146,6 +146,32 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
     <tr>
       <td>Notes</td>
       <td>Initial screening with MemGold I, MemGold II, and MemStart+MemSys Kits (Molecular Dimensions). X-ray data collected at SPring-8 BL44XU to 3.50 A resolution. Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using apo AfAglB (3WAK) as search model. R_work/R_free = 20.7%/27.8%. Calculated solvent content 63.2% (Vm = 3.35 A^3/Da).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Magnesium Chloride: 0.01 M [salt]  
+- Peg: 22 % [precipitant] (PEG 550 MME)  
+- Jeffamine M 600: 5 % [precipitant]</td>
     </tr>
   </tbody>
 </table>
@@ -776,6 +802,31 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
     <tr>
       <td>Notes</td>
       <td>Lipidic sponge mesophase. Crystals identified by magenta color of TAMRA dye. Data collected from 2529 microcrystals at microfocus BL32XU, SPring-8. 483 datasets merged and scaled to 2.7 A using KAMO.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>7.7 MAG (1-(7Z-tetradecenoyl)-rac-glycerol)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 19-22 % [precipitant] (PEG400)  
+- Sodium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

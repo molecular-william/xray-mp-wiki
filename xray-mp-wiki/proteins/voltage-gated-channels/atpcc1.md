@@ -1,7 +1,7 @@
 ---
 title: "AtTPC1 Vacuolar Two-pore Channel from Arabidopsis thaliana"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,31 @@ AtTPC1 is a vacuolar two-pore channel (TPC) from Arabidopsis thaliana that
     <tr>
       <td>Notes</td>
       <td>Crystals appeared within 1–3 days and grew to 0.1 × 0.2 × 0.2 mm. Space group C222₁ with one subunit per asymmetric unit. Structure solved at 3.3 Å by SIRAS using Hg-derivative crystals. PDB 5E1J. <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury</a>-derivatized crystals obtained by soaking in 0.5–1.0 mM CH₃HgCl.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 26 % [precipitant] (PEG 400)  
+- Hepes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

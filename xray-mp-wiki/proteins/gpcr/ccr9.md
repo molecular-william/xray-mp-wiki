@@ -1,7 +1,7 @@
 ---
 title: "CC Chemokine Receptor 9 (CCR9)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -78,6 +78,22 @@ CC Chemokine Receptor 9 (CCR9) is a G-protein-coupled receptor (GPCR) activated 
     <tr>
       <td>Notes</td>
       <td>Crystals grown in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) using a non-fusion construct. No fusion partner used. Data collected at Diamond Light Source beamline I24. 10 crystals merged for final dataset. Space group P1 with two copies in the asymmetric unit arranged in parallel via TM4-TM4 interactions.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein-based LCP</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "AfUbiA - Archaeoglobus fulgidus UbiA Family Prenyltransferase"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -156,6 +156,37 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>monoolein</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 34 % [precipitant] (PEG400)  
+- Tris: 0.1 M [buffer]  
+- Sodium Chloride: 0.1 M [salt]  
+- Magnesium Chloride: 0.1 M [salt]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor diffusion</a> (<a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">sitting drop</a>)</td>
     </tr>
@@ -166,6 +197,27 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/additives/selenomethionine/">SeMet</a>-detergent crystal form; used for <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD phasing</a> at 3.2 Å</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.7</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 12.5 % [precipitant] (PEG20000)  
+- Mes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -186,6 +238,24 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
     <tr>
       <td>Notes</td>
       <td>Cd2+ co-crystallization for Mg2+ site verification</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 30 % [precipitant]  
+- Mes: 100 mM [buffer]  
+- Magnesium Chloride: 5 mM [salt]</td>
     </tr>
   </tbody>
 </table>

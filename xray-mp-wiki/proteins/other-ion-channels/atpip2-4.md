@@ -1,7 +1,7 @@
 ---
 title: "AtPIP2;4 (Arabidopsis thaliana Plasma Membrane Intrinsic Protein 2;4)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -135,6 +135,32 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
     <tr>
       <td>Notes</td>
       <td>Crystals appeared after a few days. The tetramer shows a typical <a href="/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/">Aquaporin</a> oligomer with four individual water pores. Two molecules in asymmetric unit. Data collected at ESRF beamline MASSIF-1 (ID30A-1). <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular replacement</a> with SoPIP2;1 (PDB: 4jc6).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Cacodylate: 0.05 M [buffer]  
+- Peg 400: 30 % [precipitant] (PEG400)  
+- Calcium Chloride: 0.01 M [salt]</td>
     </tr>
   </tbody>
 </table>

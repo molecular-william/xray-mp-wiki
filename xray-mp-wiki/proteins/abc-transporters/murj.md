@@ -1,7 +1,7 @@
 ---
 title: "MurJ (Lipid II Flippase from E. coli and T. africanus)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -144,6 +144,18 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     <tr>
       <td>Notes</td>
       <td>Crystals grown in 96-well glass sandwich plates. Salt composition of precipitant determined crystal form. Inward-closed: 1 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 50 mM Na acetate pH 4.6, 40% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>. Inward-open: 200 mM (NH4)2SO4, 50 mM Tris-HCl pH 8.5 or 100 mM Na citrate pH 5.5, 20-40% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>. Inward-occluded: 100 mM Na citrate pH 5.0, 40% <a href="/xray-mp-wiki/reagents/additives/peg200/">PEG200</a>. Outward: 1 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a>-NaOH pH 7.5, 20% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, or MgCl2/NaCl conditions. Crystals grew to full size in 4 weeks.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -522,6 +534,18 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
     <tr>
       <td>Notes</td>
       <td>EcMurJ crystallized in long thin plate-like crystals. AeMurJ produced two crystal forms (AeMurJ-N and AeMurJ-L). Structures determined by Se-Met SAD (AeMurJ) and molecular replacement using EcMurJ (PDB 6CC4) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

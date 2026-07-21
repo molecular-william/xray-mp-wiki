@@ -1,7 +1,7 @@
 ---
 title: "hGLUT3 (Human Glucose Transporter 3)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -144,6 +144,29 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
     <tr>
       <td>Notes</td>
       <td>Crystals grown in LCP using glass sandwich plates. Glucose-bound crystals diffracted to 1.5 Å at SSRF BL17U. Maltose-bound crystals: outward-occluded form appeared with 38-40% PEG400, 100 mM Mg(CHO₂)₂, 50 mM maltose; outward-open form in similar conditions. Two molecules per asymmetric unit in outward-open form (P2₁), one in outward-occluded form. Solved by molecular replacement.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.8</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 28 % [precipitant] (PEG400)  
+- Hepes: 0.1 M [buffer]  
+- Peg 400: 38-40 % [precipitant] (PEG400)  
+- Maltose: 50 mM [additive]</td>
     </tr>
   </tbody>
 </table>

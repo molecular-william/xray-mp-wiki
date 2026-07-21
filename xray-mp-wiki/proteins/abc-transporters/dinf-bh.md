@@ -1,7 +1,7 @@
 ---
 title: "DinF-BH (Bacillus halodurans DinF) - MATE Family H+-Coupled Transporter"
 created: 2026-06-05
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -160,6 +160,33 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 100 mM [salt]  
+- Peg 400: 30-35 % [precipitant] (PEG400)  
+- Ddm: 0.02 % [additive]  
+- Tcep: 1 mM [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Co-crystallization with <a href="/xray-mp-wiki/reagents/ligands/verapamil/">Verapamil</a>; hanging-drop vapor diffusion at 22 C</td>
     </tr>
@@ -186,6 +213,22 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
     <tr>
       <td>Notes</td>
       <td>Phasing by molecular replacement and <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a>; verapamil-bound structure very similar to R6G-bound form (rmsd <0.5 A for 447 Ca positions)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
     </tr>
   </tbody>
 </table>
@@ -724,6 +767,34 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Sodium Chloride: 100 mM [salt]  
+- Peg 400: 20-30 % [precipitant] (PEG400)  
+- Ddm: 0.03 % [additive]  
+- Tcep: 1 mM [additive]</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##nsmb.2687
 
 **Structures:**
@@ -837,6 +908,34 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
     <tr>
       <td>Notes</td>
       <td>Native crystals diffracted to 3.2 A. Heavy atom derivatization with 5 mM compounds for 8 h at 22 C. Substrate soaking with 0.5 mM R6G or tetraphenylarsonium (TPP analog) for 48 h at 22 C. Structure solved by combination of molecular replacement and <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a> phasing.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Sodium Chloride: 100 mM [salt]  
+- Peg 400: 20-30 % [precipitant] (PEG400)  
+- Ddm: 0.03 % [additive]  
+- Tcep: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>

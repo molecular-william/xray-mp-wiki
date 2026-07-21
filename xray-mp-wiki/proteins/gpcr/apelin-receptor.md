@@ -1,7 +1,7 @@
 ---
 title: "Human Apelin Receptor (APJR)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -126,6 +126,22 @@ The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT
     <tr>
       <td>Temperature</td>
       <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (Sigma M7765)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -103,6 +103,22 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     <tr>
       <td>Notes</td>
       <td>Space group P212121; unit cell a=118.09, b=129.42, c=182.94 A; alpha=beta=gamma=90 degrees; SAD phasing with selenium sites</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -212,6 +228,14 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Co-crystallization with substrate</td>
     </tr>
@@ -234,6 +258,14 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     <tr>
       <td>Notes</td>
       <td>Data collected to 3.2 A at beamline id29 at ESRF; structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using BetP (PDB 3P03) as search model</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1019,6 +1051,27 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
     <tr>
       <td>Notes</td>
       <td>Crystals grown by vapor diffusion at 18 C using 1:2 volume ratio of protein to reservoir. Single crystal yielded isotropic diffraction to 2.7 A at ESRF beamline id29. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using BetP trimer (PDB 2WIT) as search model. No NCS imposed during refinement. 8 POPG lipids modeled into clear Fo-Fc densities.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 300 mM [salt]  
+- Peg 400: 20-21 % [precipitant] (PEG400)</td>
     </tr>
   </tbody>
 </table>

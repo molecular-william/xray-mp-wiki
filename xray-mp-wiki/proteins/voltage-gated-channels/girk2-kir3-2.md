@@ -1,7 +1,7 @@
 ---
 title: "Mouse GIRK2 (Kir3.2) G Protein-Gated Inward Rectifier K+ Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -135,6 +135,31 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     <tr>
       <td>Notes</td>
       <td>Diffractive Imaging of Imperfect Crystals appeared as D-shaped plates after 1-3 days. D228N <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/">Rhodopsin N2C/D282C Mutant</a> crystallized with 24-26% <a href="/xray-mp-wiki/reagents/additives/peg-400/">Polyethylene Glycol 400 (PEG 400)</a> (PEG 400) (PEG 400) and 1 M NaNO3. WT + <a href="/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/">PIP2</a> Diffractive Imaging of Imperfect Crystals: 20% <a href="/xray-mp-wiki/reagents/additives/peg-400/">Polyethylene Glycol 400 (PEG 400)</a> (PEG 400) (PEG 400). R201A + <a href="/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/">PIP2</a> Diffractive Imaging of Imperfect Crystals: 50 mM Na <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a>, pH 7.25, 0.5 M NaCl, 25% <a href="/xray-mp-wiki/reagents/additives/peg-400/">Polyethylene Glycol 400 (PEG 400)</a> (PEG 400) (PEG 400) with 10 mM <a href="/xray-mp-wiki/reagents/additives/spermine/">Spermine</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 1 M [salt]  
+- Peg 400: 30-35 % [precipitant] (Polyethylene Glycol 400 (PEG 400) (PEG 400) (PEG 400))</td>
     </tr>
   </tbody>
 </table>
@@ -1778,6 +1803,31 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
     <tr>
       <td>Notes</td>
       <td>Diffractive Imaging of Imperfect Crystals of GIRK2-Gβγ complex grown by <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a> at 20 C. Diffractive Imaging of Imperfect Crystals were cryoprotected in reservoir solution supplemented with 20% GlpF before data collection.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 100 mM [salt]  
+- Peg 4000: 10 % [precipitant] (PEG 4000 (Polyethylene Glycol 4000) (Polyethylene Glycol 400)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "GgTRIC-A (Chicken Trimeric Intracellular Cation Channel A)"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -115,6 +115,18 @@ GgTRIC-A is the Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel (Gallus ga
     <tr>
       <td>Notes</td>
       <td>Crystallized In multiple lattices. SeMet Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing used for <a href="/xray-mp-wiki/reagents/ligands/g592-initial-quinoline-msba-inhibitor/">G592 (Initial Quinoline MsbA Inhibitor)</a> (Initial Quinoline MsbA Inhibitor) (Initial Quinoline MsbA Inhibitor) <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> solution. Structures determined In both Ca2+-<a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/">Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters</a> in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters and Ca2+-<a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> (azide-inhibited form) (azide-free ground state) <a href="/xray-mp-wiki/concepts/transport-mechanisms/gluex-conformational-states-clc/">Gluex Conformational States in CLC Transport Cycle</a> in CLC Transport Cycle in CLC Transport Cycle.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

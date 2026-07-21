@@ -1,7 +1,7 @@
 ---
 title: "Archaeoglobus fulgidus Oligosaccharyltransferase AfAglB"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -133,6 +133,32 @@ AfAglB is the catalytic subunit of the oligosaccharyltransferase (OST) from the 
     <tr>
       <td>Notes</td>
       <td>Crystals grown in lipidic sponge mesophase. Microcrystals identified by magenta color of TAMRA dye. Data collected from 2529 microcrystals at microfocus beamline BL32XU, SPring-8. 483 datasets merged and scaled to 2.7 Å using KAMO.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>7.7 MAG (1-(7Z-tetradecenoyl)-rac-glycerol)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 19-22 % [precipitant] (PEG400)  
+- Sodium Citrate: 0.1 M [buffer]  
+- Sodium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

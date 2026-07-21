@@ -36,6 +36,8 @@ from pathlib import Path
 import requests
 import yaml
 
+from scripts._base import fast_load_str
+
 # ─── Project paths ────────────────────────────────────────────────
 BASE = Path(__file__).parent.parent.parent
 PROTEINS_DIR = BASE / "xray-mp-wiki" / "proteins_yaml"
@@ -114,7 +116,7 @@ def collect_chain_pairs():
     for yf in sorted(PROTEINS_DIR.glob("*.yaml")):
         name = yf.stem
         try:
-            data = yaml.safe_load(yf.read_text())
+            data = fast_load_str(yf.read_text())
         except Exception:
             continue
         if not isinstance(data, dict):
@@ -513,7 +515,7 @@ def update_yaml(yaml_path, uniprot_value, dry_run=True):
         print(f"  ERROR: YAML not found: {yaml_path}")
         return False
     original = yaml_path.read_text()
-    data = yaml.safe_load(original)
+    data = fast_load_str(original)
     if not isinstance(data, dict):
         print(f"  ERROR: Invalid YAML: {yaml_path.name}")
         return False
@@ -541,7 +543,7 @@ def update_yaml(yaml_path, uniprot_value, dry_run=True):
         return True
 
     yaml_path.write_text(new_yaml)
-    verify = yaml.safe_load(yaml_path.read_text())
+    verify = fast_load_str(yaml_path.read_text())
     if verify.get("uniprot_id", "") != storage:
         print(f"  ERROR: Write verification failed for {yaml_path.name}")
         return False

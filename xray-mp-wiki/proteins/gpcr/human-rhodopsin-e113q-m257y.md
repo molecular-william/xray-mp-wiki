@@ -1,7 +1,7 @@
 ---
 title: "Human Rhodopsin E113Q/M257Y Mutant"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -147,6 +147,22 @@ Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/signaling-re
     <tr>
       <td>Notes</td>
       <td>Microcrystals 5-15 um; diffracted to 6.8 A at synchrotron; <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">SFX</a> data to 3.8/3.8/3.3 A anisotropic</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>61</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

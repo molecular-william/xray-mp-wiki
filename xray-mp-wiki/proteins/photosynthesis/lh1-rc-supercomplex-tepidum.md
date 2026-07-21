@@ -1,7 +1,7 @@
 ---
 title: "LH1-RC Supercomplex from Thermochromatium tepidum"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -111,6 +111,29 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     <tr>
       <td>Notes</td>
       <td>2 uL protein solution mixed with equal volume of precipitant solution. Space group C121 with unit cell a=145.23 A, b=143.81 A, c=210.28 A, beta=90.74 deg. Data collected at BL41XU of SPring-8 (wavelength 1.0 A, Pilatus 6M detector). 5400 images collected over 540 deg rotation. Refined to Rwork/Rfree = 0.1815/0.2152.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>microbatch</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 50 mM [buffer]  
+- Calcium Chloride: 50 mM [salt]  
+- Magnesium Chloride: 10 mM [salt]  
+- Peg 1450: 26 % [precipitant] (PEG 1450)</td>
     </tr>
   </tbody>
 </table>
@@ -2479,6 +2502,27 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
     <tr>
       <td>Notes</td>
       <td>HiPIP purified in reduced state. High molar ratio (15:1 HiPIP:LH1-RC) and acidic pH (5.0) required for co-crystal formation. MALDI/TOF-MS used to confirm HiPIP binding. <a href="/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/">ITC</a> analysis confirmed endothermic (entropically driven) binding.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>microbatch</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Calcium Chloride: 20 mM [salt]  
+- Peg: 30 % [precipitant] (PEG 1500)</td>
     </tr>
   </tbody>
 </table>

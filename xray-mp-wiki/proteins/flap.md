@@ -1,7 +1,7 @@
 ---
 title: "5-Lipoxygenase Activating Protein (FLAP)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,14 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1126##science.1144346
 
 **Structures:**
@@ -184,6 +192,14 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
     <tr>
       <td>Notes</td>
       <td>Crystals grown with  or iodinated analog of . Inhibitor molecules intercalate between monomers in surface grooves of the trimer.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

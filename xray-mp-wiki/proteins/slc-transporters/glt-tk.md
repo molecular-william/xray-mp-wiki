@@ -1,7 +1,7 @@
 ---
 title: "GltTk (Glutamate Transporter Homologue from Thermococcus kodakarensis)"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,34 @@ uniprot_id: Q5JID0
     <tr>
       <td>Cryoprotection</td>
       <td>None (crystals flash-frozen directly)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>5 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Glycerol: 20 % [additive]  
+- Peg 4000: 10 % [precipitant] (PEG 4000)  
+- Calcium Chloride: 60 mM [salt]  
+- Magnesium Chloride: 60 mM [salt]  
+- Og: 0.75 % [additive]</td>
     </tr>
   </tbody>
 </table>

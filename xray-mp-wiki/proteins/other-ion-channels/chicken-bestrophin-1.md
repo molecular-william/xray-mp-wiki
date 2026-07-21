@@ -1,7 +1,7 @@
 ---
 title: "Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -707,6 +707,32 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
     <tr>
       <td>Notes</td>
       <td>Crystals harvested after 5-10 days and flash-cooled in liquid nitrogen. Data collected at 100 K. Phases determined by molecular replacement using BEST1 WT (PDB 4RDQ) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 6 % [precipitant]  
+- Acetate: 50 mM [buffer]  
+- Glycerol: 20 % [additive]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Channelrhodopsin 2 (ChR2) from Chlamydomonas reinhardtii"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -132,6 +132,30 @@ basis for ion conduction and gating regulation.
     <tr>
       <td>Notes</td>
       <td>300 nl protein-mesophase mixture overlaid with 500 nl precipitant. Hexagonal and rod-shaped crystals grew to 30-150 um.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>1:1 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

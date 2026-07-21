@@ -1,7 +1,7 @@
 ---
 title: "Cysteinyl Leukotriene Receptor 1 (CysLT1R)"
 created: 2019-10-09
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -119,6 +119,28 @@ Cysteinyl leukotriene receptor type 1 (CysLT1R) is a class A G protein-coupled r
     <tr>
       <td>Notes</td>
       <td>Synchrotron data collected at ESRF beamlines ID29 and ID23-1. XFEL data collected at LCLS. The zafirlukast complex structure (6RZ5) was determined by molecular replacement using CysLT1R-pran (6RZ4) as search model. The 6RZ4 structure was solved by molecular replacement using P2Y1R (PDB 4XNW) and <a href="/xray-mp-wiki/reagents/protein-tags/bril/">Bril</a> from A2AAR (PDB 4EIY).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Peg 400: 30 % [precipitant] (Peg 400)  
+- Ammonium Sulfate: 100-400 mM [salt]</td>
     </tr>
   </tbody>
 </table>

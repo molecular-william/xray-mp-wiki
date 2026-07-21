@@ -1,7 +1,7 @@
 ---
 title: "EcSatP — Bacterial Succinate-Acetate Transporter (AceTr Family)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -135,6 +135,30 @@ shown to be critical for  translocation activity.
     <tr>
       <td>Notes</td>
       <td>Hexagonal-shaped crystals. Additive screening with n-nonyl-beta-D-thioglucoside improved diffraction. Dehydration trials critical for reaching 2.8 Å resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.8</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 0.1 M [salt]</td>
     </tr>
   </tbody>
 </table>

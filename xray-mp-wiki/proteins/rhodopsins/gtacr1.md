@@ -1,7 +1,7 @@
 ---
 title: "GtACR1 Anion Channelrhodopsin from Guillardia theta"
 created: 2026-06-09
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,18 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
     <tr>
       <td>Notes</td>
       <td>Crystals grown in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (LCP). Continuous grid-scan method used for X-ray data collection at SLS X06SA-PXI beamline (Swiss Light Source). Four partial datasets merged to 2.9 A. Space group P2(1)2(1)2, cell dimensions a=77.79 A, b=149.55 A, c=62.41 A, alpha=beta=gamma=90 degrees. Data processed with XDS/XSCALE. Structure solved by molecular replacement using CrChR2 (PDB 6EID) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
     </tr>
   </tbody>
 </table>
@@ -477,6 +489,26 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
     <tr>
       <td>Notes</td>
       <td>LCP crystallization set up in IMISX glass plates to facilitate high-throughput data collection. Crystals harvested using micromesh loops and 3D-printed holders. Data collected by serial synchrotron crystallography at SLS X06SA-PXI beamline. 217 datasets collected using EIGER 16M detector; 31 IMISX and 5 loop-mounted datasets merged to 3.2 A. Space group P 2(1). Structure solved by molecular replacement using 6EDQ as search model. Rwork/Rfree = 0.24/0.29.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

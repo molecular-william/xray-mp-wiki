@@ -1,7 +1,7 @@
 ---
 title: "DsbB (Disulfide Bond Formation Protein B)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -133,6 +133,27 @@ helix" in the P2 loop.
     <tr>
       <td>Notes</td>
       <td>Co-crystallization with monoclonal Fab antibody fragment was essential for obtaining diffracting crystals. Wild-type DsbB was conformationally heterogeneous; the Cys41Ser mutant provided homogeneous initial-state conformation.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 15 % [precipitant] (PEG3350)  
+- Mops: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

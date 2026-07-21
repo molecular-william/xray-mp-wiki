@@ -1,7 +1,7 @@
 ---
 title: "KpBest Bestrophin Ion Channel"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -94,6 +94,18 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
     <tr>
       <td>Notes</td>
       <td>Crystals grown from zinc acetate solution; 2.9 Å initial resolution improved to 2.3 Å after C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>; five-fold noncrystallographic symmetry aided refinement</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

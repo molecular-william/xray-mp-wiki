@@ -1,7 +1,7 @@
 ---
 title: "LtaA — S. aureus Lipid-Linked Disaccharide Flippase"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -143,6 +143,31 @@ diacylglycerol lipid tails.
     <tr>
       <td>Notes</td>
       <td>Plate-shaped crystals; dehydrated and cryoprotected by increasing <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 300 concentration; in situ annealing performed</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>16 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Glycine: 80-120 mM [buffer]  
+- Peg: 30-34 % [precipitant] (PEG 300)</td>
     </tr>
   </tbody>
 </table>

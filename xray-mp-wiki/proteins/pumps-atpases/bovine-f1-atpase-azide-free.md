@@ -1,7 +1,7 @@
 ---
 title: "Bovine F1-ATPase (azide-free ground state)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -107,6 +107,30 @@ Bovine F1-ATPase is the catalytic domain of the mitochondrial F1Fo-ATP synthase.
     <tr>
       <td>Notes</td>
       <td>Crystals grown in microdialysis buttons (50 ul) with SpectraPor 3500 MWCO membranes. Dehydration using free mounting system improved diffraction.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>dialysis</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 50 mM [buffer]  
+- Sodium Chloride: 200 mM [salt]  
+- Magnesium Sulfate: 20 mM [additive]  
+- Pmsf: 0.004 % [additive]  
+- Peg 6000: 10-12.5 % [precipitant] (Peg 6000)</td>
     </tr>
   </tbody>
 </table>

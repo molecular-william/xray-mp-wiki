@@ -1,7 +1,7 @@
 ---
 title: "Human mGlu1 Receptor 7TM Domain (Metabotropic Glutamate Receptor 1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -105,6 +105,18 @@ The human mGlu1 (metabotropic glutamate receptor 1) is a class C G protein-coupl
     <tr>
       <td>Notes</td>
       <td>Structure solved at 2.8 A from native data collected from 14 crystals. Initial phases obtained from a 4.0 A <a href="/xray-mp-wiki/methods/structure-determination/single-anomalous-dispersion/">[SAD</a>](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) data set from a single crystal soaked with tantalum bromide cluster. The asymmetric unit contains a parallel dimer of mGlu1 7TM domains, mediated mainly through helix I, with six well-resolved <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> molecules at the dimer interface.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (likely, standard LCP lipid)</td>
     </tr>
   </tbody>
 </table>

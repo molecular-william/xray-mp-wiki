@@ -1,7 +1,7 @@
 ---
 title: "Drosophila melanogaster Dopamine Transporter"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -126,6 +126,31 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
     <tr>
       <td>Notes</td>
       <td>Crystals of dDAT_mfc obtained by streak seeding 7 d after drop setup</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Glycine: 0.1 M [buffer]  
+- Peg: 38 % [precipitant] (PEG 350 monomethyl ether)</td>
     </tr>
   </tbody>
 </table>

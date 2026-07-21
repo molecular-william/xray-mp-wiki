@@ -1454,6 +1454,22 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1769,6 +1785,26 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     <tr>
       <td>Notes</td>
       <td>LCP prepared with modifications to Caffrey and Cherezov protocol; crystals grown in 96-well plastic sandwich plates; cryo crystals grown at 10 C and harvested into LN2; RT crystals grown at 20 C and transported to beamline at ambient temp; crystals 20-120 um; data collected at ALS beamline 8.3.1 with ADSC Q315r CCD detector</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>10 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -3706,6 +3742,22 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
     <tr>
       <td>Notes</td>
       <td>Peptides synthesized by Fmoc chemistry, purified by reverse-phase HPLC. Peptides dissolved in ethanol and added to dry monoolein powder with spiro-adamantyl amine. Lyophilized overnight, then cubic phase formed by melting at 40 C with MNG-3-C8 detergent. Data collected at ALS beamline 8.3.1.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

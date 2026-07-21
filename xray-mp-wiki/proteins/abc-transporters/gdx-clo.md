@@ -1,7 +1,7 @@
 ---
 title: "Gdx-Clo SMR Transporter (Clostridales oral taxon 876)"
 created: 2026-06-09
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -167,6 +167,31 @@ Gdx-Clo is a small multidrug resistance (SMR) family transporter from *Clostrida
     <tr>
       <td>Notes</td>
       <td>Initial hits improved by adding charged detergents (LDAO, Apo12) or octylGdm⁺ to protein solution before mixing. For selenomethionine-incorporated protein: 0.1 M LiNO₃, 0.1 M ADA pH 6.8, 35% PEG 600. For phenylGdm⁺-bound: 0.1 M LiNaSO₄, 100 mM Tris pH 8.8, 34% PEG 600. For octylGdm⁺-bound: 0.1 M calcium acetate, 0.1 M HEPES pH 7.5, 33% PEG 600. Data collected at LS-CAT beamline 21-ID-D (APS).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Peg 600: 32-36 % [precipitant] (PEG 600)</td>
     </tr>
   </tbody>
 </table>

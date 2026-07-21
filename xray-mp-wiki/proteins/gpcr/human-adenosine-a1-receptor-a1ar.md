@@ -1,7 +1,7 @@
 ---
 title: "Human Adenosine A1 Receptor (A1AR)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,28 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
     <tr>
       <td>Notes</td>
       <td>29 crystals merged into single dataset at 3.2 A resolution, space group P1; two receptor copies per asymmetric unit; structure solved by molecular replacement; lipid cubic phase method</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 0.1 M [buffer]  
+- Peg 400: 25-32 % [precipitant] (PEG400)  
+- Edta: 2-20 mM [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -424,6 +446,18 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
       <td>Notes</td>
       <td>Crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> at Diamond Light Source. Data collected at 3.3 A resolution, space group C22222, 2 crystals merged. Structure solved by molecular replacement.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

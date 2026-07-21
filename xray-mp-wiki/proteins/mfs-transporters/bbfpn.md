@@ -1,7 +1,7 @@
 ---
 title: "BbFPN — Putative Bacterial Ferroportin Homologue from Bdellovibrio bacteriovorus"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -121,6 +121,26 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
     <tr>
       <td>Notes</td>
       <td>Three crystal forms obtained. Hg-derivative/Fe2+-soaked crystals (Form I-like): 100 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 50-200 mM K-formate, 50-100 mM (NH4)2HPO4, 26-32% PEG550MME. Hg-derivative: 1 mM CH3HgCl, 2.5 h soak. Fe2+-soaked: 5 mM FeSO4, 12 h soak. Form I: 100 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.5, 100 mM NaK-tartrate, 100 mM KNO3, 30% PEG550MME. Form II: 100 mM Na-acetate pH 4.0, 200-300 mM K-formate, 10 mM ZnSO4, 10-20 mM ZnCl2, 27-30% PEG550MME.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (wt/wt)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>monoolein</td>
     </tr>
   </tbody>
 </table>

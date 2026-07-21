@@ -1,7 +1,7 @@
 ---
 title: "E. coli Diacylglycerol Kinase (DgkA)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -98,6 +98,26 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
     <tr>
       <td>Notes</td>
       <td>Crystals grown in glass sandwich plates; initial trials with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a>) at 20 C yielded minute crystals; optimization with shorter-chain <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> (7.8 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a>) at 4 C gave quality crystals; 50 nl protein-lipid mesophase + 800 nl precipitant</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 0.1 M [salt]</td>
     </tr>
   </tbody>
 </table>
@@ -490,6 +510,18 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
     <tr>
       <td>Notes</td>
       <td>Co-crystallized with 9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> host lipid; soaked with zinc-ACP to obtain ternary complex; also obtained room-temperature SFX structure using XFEL (Delta7 construct with 7.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a>)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

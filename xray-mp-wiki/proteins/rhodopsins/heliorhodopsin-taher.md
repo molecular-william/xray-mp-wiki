@@ -1,7 +1,7 @@
 ---
 title: "Heliorhodopsin (TaHeR) from Thermoplasmatales archaeon SG8-52-1"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -133,6 +133,22 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
     <tr>
       <td>Notes</td>
       <td>Crystals obtained by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">in meso</a> crystallization. Data collected to 2.4 A resolution. Space group P212121. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">molecular replacement</a> using <a href="/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/">bacteriorhodopsin</a> (PDB 1M0L) as search model after trimming side chains to alanine.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -536,6 +552,28 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
     <tr>
       <td>Notes</td>
       <td>First HeR crystallized via <a href="/xray-mp-wiki/methods/crystallization/bicelle-crystallization/">bicelle</a>s. Large 50-100 um diamond-shaped crystals. <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion">Hanging drop vapor diffusion</a>. Data collected at APS beamline 23-ID-B. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">molecular replacement</a> using basic TaHeR (PDB 6IS6) at 1.97 A. Space group P21212.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>bicelle</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>307 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 26 % [precipitant] (PEG 3350)  
+- Sodium Phosphate: 0.1 M [buffer]  
+- Ammonium Sulfate: 0.28 M [salt]</td>
     </tr>
   </tbody>
 </table>

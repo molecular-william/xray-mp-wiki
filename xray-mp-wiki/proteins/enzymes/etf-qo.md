@@ -1,7 +1,7 @@
 ---
 title: "Electron Transfer Flavoprotein-Ubiquinone Oxidoreductase (ETF-QO)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -113,6 +113,26 @@ ETF-QO (Electron Transfer Flavoprotein- Oxidoreductase) is a 4Fe4S flavoprotein 
     <tr>
       <td>Notes</td>
       <td>UQ-bound crystals obtained by adding 10-fold molar excess of UQ. Space group P42(1)2 with cell dimensions a = b = 154.8 A, c = 130.2 A. Structure solved by /MAD methods. Data collected at BioCARS beamline at Advanced Photon Source (UQ-bound, 2.5 A) and Rigaku RU200 (UQ-free, 2.7 A).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Calcium Chloride: 0.1 M [salt]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "F1-ATPase from Caldalkalibacillus thermarum"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -114,6 +114,14 @@ The F1-ATPase from Caldalkalibacillus thermarum is the water-soluble catalytic d
     <tr>
       <td>Notes</td>
       <td>Crystals grown by microbatch method. Data collected at European Synchrotron Radiation Facility, Grenoble, France. Crystallization buffers devoid of nucleotide.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>microbatch</td>
     </tr>
   </tbody>
 </table>

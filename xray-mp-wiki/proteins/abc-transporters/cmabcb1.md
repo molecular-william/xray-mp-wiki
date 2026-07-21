@@ -1,7 +1,7 @@
 ---
 title: "CmABCB1 (Homodimeric P-glycoprotein from Cyanidioschyzon merolae)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -157,6 +157,30 @@ apparatus, including extracellular, intramembranous, and cytosolic gates.
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 19–21 % [precipitant] (PEG 2000 MME)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion, sitting drop</td>
     </tr>
@@ -179,6 +203,30 @@ apparatus, including extracellular, intramembranous, and cytosolic gates.
     <tr>
       <td>Notes</td>
       <td>Inward-facing (R32 space group)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.1</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 14 % [precipitant] (PEG 2000 MME)</td>
     </tr>
   </tbody>
 </table>
@@ -815,6 +863,26 @@ apparatus, including extracellular, intramembranous, and cytosolic gates.
       <td>Notes</td>
       <td>Data collected at BL41XU of SPring-8 using MAR225HE detector. Space group R32. Initial phases from <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">MAD</a> on mercury derivative.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 14-16 % [precipitant] (PEG 2000 MME)</td>
     </tr>
   </tbody>
 </table>

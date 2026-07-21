@@ -1,7 +1,7 @@
 ---
 title: "ExbD (E. coli)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -135,6 +135,14 @@ ExbD is an integral polytopic membrane protein from Escherichia coli that, toget
     <tr>
       <td>Notes</td>
       <td>Structure at pH 7.0 (2.6 A) solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a>. Structure at pH 4.5 (3.5 A) showed clear electron density for the transmembrane helix of ExbD within the ExbB pentamer pore, while at pH 7.0 density was too diffuse to model. This pH-dependent behavior suggests ExbD TMH movement is modulated by pH.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

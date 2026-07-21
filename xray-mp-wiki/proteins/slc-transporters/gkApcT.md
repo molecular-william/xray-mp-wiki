@@ -1,7 +1,7 @@
 ---
 title: "GkApcT Amino Acid Transporter (CAT Homologue)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,28 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
     <tr>
       <td>Notes</td>
       <td>Protein-laden mesophase obtained by mixing cholesterol-doped monoolein (10% cholesterol) with protein in 60:40 (w/w) ratio using coupled syringe device. Diamond or rod-shaped crystals appeared after 3 days. Only rod-shaped crystals diffracted to high resolution (~30 um in longest dimension). Crystals harvested using 30 um micromounts (MiTeGen). Data collected at beamline I24, Diamond Light Source. Initial phases obtained by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using MjApcT structure (PDB 3GIA) as template.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 28-34 % [precipitant] (PEG 400)  
+- Acetate: 0.1 M [buffer]  
+- Potassium Fluoride: 0.1 M [additive]</td>
     </tr>
   </tbody>
 </table>

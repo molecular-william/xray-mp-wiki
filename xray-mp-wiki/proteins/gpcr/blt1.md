@@ -1,7 +1,7 @@
 ---
 title: "Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -66,6 +66,18 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
     <tr>
       <td>Notes</td>
       <td>Thermostabilized <a href="/xray-mp-wiki/proteins/blt1/">BLT1</a>-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> fusion crystallized in complex with <a href="/xray-mp-wiki/reagents/biil260/">BIIL260</a> by the <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase</a> method. Protein was mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">monoolein</a> at a 1:1 (w/w) ratio. The structure was determined at 3.7 A resolution. </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -273,6 +285,29 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
     <tr>
       <td>Notes</td>
       <td>hBLT1-CC crystallized in LCP using NT8-LCP robot. Crystals appeared 24-48 h after incubation at 20 C and continued to grow up to 2 weeks. Average crystal size was 40 x 15 x 8 µm. Data collected from 32 crystals at APS GM/CA 231D-B beamline. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using gpBLT1 (PDB 5X33) and flavodoxin (PDB 1I10) as search models. Anisotropic <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">truncation</a>: 2.9 A x 2.9 A x 3.6 A by STARANISO. </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.8</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 100 mM [buffer]  
+- Acetate: 385-500 mM [buffer]  
+- Benzamidine: 6-32 mM [additive]  
+- Peg 400: 27-30 % [precipitant] (PEG-400)</td>
     </tr>
   </tbody>
 </table>

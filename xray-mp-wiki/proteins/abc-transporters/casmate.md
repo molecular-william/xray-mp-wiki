@@ -1,7 +1,7 @@
 ---
 title: "CasMATE (Camelina sativa MATE Transporter)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -142,6 +142,26 @@ CasMATE is a multidrug and toxic compound extrusion (MATE) family transporter fr
     <tr>
       <td>Notes</td>
       <td>Crystals grown in reservoir solutions: (1) 30% PEG400, 100 mM sodium-chloride, 100 mM lithium-sulfate, 100 mM HEPES-Na pH 7.5; (2) 30% PEG400, 100 mM ADA pH 6.5, 300 mM lithium-sulfate; (3) 30% PEG300, 200 mM <a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate">Ammonium Sulfate</a>, 100 mM HEPES-Na pH 7.5</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (NU-CHEK-PREP)</td>
     </tr>
   </tbody>
 </table>

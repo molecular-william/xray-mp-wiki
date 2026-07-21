@@ -1,7 +1,7 @@
 ---
 title: "Geobacillus thermodenitrificans SecYE Active Translocation Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -150,6 +150,32 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
     <tr>
       <td>Notes</td>
       <td>Diffractive Imaging of Imperfect Crystals belong to space group P6122. Multi-Wavelength Anomalous Diffraction anisotropic (3.7 Å along c*, 4.5 Å along a*/b*). <a href="/xray-mp-wiki/reagents/antibodies/nanobody-nb80/">Nanobody Nb80</a> AYC08 essential for obtaining diffracting Diffractive Imaging of Imperfect Crystals.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 21-24 % [precipitant] (Peg 1500)  
+- Tris: 100 mM [buffer]  
+- Mpd: 2 % [precipitant]</td>
     </tr>
   </tbody>
 </table>

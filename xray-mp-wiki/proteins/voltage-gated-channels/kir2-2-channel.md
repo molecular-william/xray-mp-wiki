@@ -1,7 +1,7 @@
 ---
 title: "Chicken Kir2.2 Inward Rectifier K+ Channel"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -81,6 +81,32 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     <tr>
       <td>Notes</td>
       <td>Crystals in space group I4 with one subunit per asymmetric unit. Data collected at NSLS beamline X29. Structure solved by single-wavelength anomalous dispersion (SAD) using selenomethionine-substituted protein. Native data to 3.1 A, <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> data to 3.5 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Potassium Chloride Kcl: 0.2-0.8 M [additive]  
+- Hepes: 50 mM [buffer]  
+- Peg 400: 10-20 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>
@@ -643,6 +669,32 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     <tr>
       <td>Notes</td>
       <td>Diamond-shaped crystals, 150-350 um in longest dimension. Cryoprotected in reservoir solution with 25-30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>. Data collected at NSLS beamlines X29 and X25. Phases by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using apo-Kir2.2 (PDB 3JYC). Space group I4 with one subunit per asymmetric unit.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Potassium Chloride Kcl: 0.3-0.6 M [additive]  
+- Hepes: 50 mM [buffer]  
+- Peg 400: 10-20 % [precipitant] (PEG 400 or 3-8% PEG 4000)</td>
     </tr>
   </tbody>
 </table>
@@ -2799,6 +2851,14 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 2.0 A (apo) and 2.8 A (with added <a href="/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/">PIP2</a>). Space group I222. Data collected at APS beamline 24-ID-C/E.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

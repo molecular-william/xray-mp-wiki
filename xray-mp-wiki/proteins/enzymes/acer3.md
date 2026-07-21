@@ -1,7 +1,7 @@
 ---
 title: "Alkaline Ceramidase 3 (ACER3)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,32 @@ Alkaline ceramidase 3 (ACER3) is a human integral membrane protein with a seven-
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> mesophase formed by coupled two-syringe method at 2:3 protein:lipid ratio. Dispensed as 30-50 nL bolus in CrystalDirect pla<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a>. Crystals grew in sponge phase, approximately 20 x 10 x 5 um. Automated laser-based crystal harvesting using CrystalDirect harvester.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein:cholesterol (10:1)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 39.5-41 % [precipitant]  
+- Hepes: 100 mM [buffer]  
+- Magnesium Sulfate: 75 mM [additive]</td>
     </tr>
   </tbody>
 </table>

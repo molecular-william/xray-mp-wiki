@@ -1,7 +1,7 @@
 ---
 title: "MaMscL (Methanosarcina acetivorans Mechanosensitive Channel of Large Conductance)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -115,6 +115,14 @@ uniprot_id: Q8TNK0
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -125,6 +133,14 @@ uniprot_id: Q8TNK0
     <tr>
       <td>Notes</td>
       <td>Form 2 crystals - expanded intermediate state, different space group</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

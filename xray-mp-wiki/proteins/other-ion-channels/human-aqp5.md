@@ -1,7 +1,7 @@
 ---
 title: "Human Aquaporin 5 (AQP5)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -129,6 +129,18 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
     <tr>
       <td>Notes</td>
       <td>Non-tagged HsAQP5 crystallized in space group P2(1)2(1)2(1); His-tagged HsAQP5 crystallized in space group P312. Structure exhibited near-perfect pseudomerohedral twinning (46.3% twin fraction) with twin operator (0 1 0 1 0 0 0 0 -1) swapping a and b axes. Refinement performed using SHELXL. 3.0 A partially twinned data (twin fraction 13%) from His-tagged crystals used for validation. Data collected at 2.0 A (twinned). Full omit maps calculated using CNS model_map.twin script.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

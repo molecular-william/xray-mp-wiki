@@ -1,7 +1,7 @@
 ---
 title: "Human 5-HT2B Serotonin Receptor Bound to Ergotamine"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,26 @@ The 5-HT2B receptor is a class A G protein-coupled receptor (GPCR) for [Serotoni
     <tr>
       <td>Notes</td>
       <td>Crystals grown in 96-well glass sandwich plates; NT8-<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) robot; 40 nl <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">lcp</a> drops + 800 nl precipitant; crystals up to 100x30x20 um</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>40% protein : 60% lipid</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein/cholesterol mixture (40%:54%:6%)</td>
     </tr>
   </tbody>
 </table>

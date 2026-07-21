@@ -1,7 +1,7 @@
 ---
 title: "Human Glycine Receptor Alpha 3 (GlyRÎ±3)"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -121,6 +121,27 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyRÎ
     <tr>
       <td>Notes</td>
       <td>Two crystal forms solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> with Phaser. 5VDH in space group P43212 at 2.85 A resolution. 5VDI in space group P2121 at 3.08 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Calcium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

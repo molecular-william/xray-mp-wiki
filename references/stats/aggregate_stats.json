@@ -16,6 +16,7 @@
     "p type atpase": 14,
     "cys loop receptor family": 12,
     "channels: calcium ion selective": 11,
+    "unknown": 10,
     "adventitious membrane proteins: alpha helical pore forming toxins.": 10,
     "channels: amt/mep/rh proteins": 9,
     "snare protein family": 9,
@@ -55,7 +56,6 @@
     "channels: urea transporters": 3,
     "tetraspanins": 3,
     "n acyltransferases": 3,
-    "channels : formate/nitrite transporter (fnt) family": 3,
     "membrane associated proteins in eicosanoid and glutathione metabolism (mapeg)": 3,
     "outer membrane proteins": 3,
     "histidine kinase receptors": 3,
@@ -73,6 +73,7 @@
     "channels: fluc family": 2,
     "<em>o</em> acyltransferases": 2,
     "bacterial cell divison proteins": 2,
+    "channels : formate/nitrite transporter (fnt) family": 2,
     "sterol sensing domain (ssd) proteins": 2,
     "light harvesting+reaction center complexes": 2,
     "sterol reductases": 2,
@@ -125,9 +126,11 @@
       "chapso": 1,
       "ng": 17,
       "octylthioglucoside": 3,
+      "n-octyl-beta-d-glucopyranoside": 3,
       "lmng": 40,
       "gdn": 1,
       "sodium-cholate": 10,
+      "n-dodecyl-beta-d-maltoside": 1,
       "mng-3": 3,
       "heptylthioglucoside": 1,
       "c8e4": 1
@@ -136,7 +139,8 @@
       "og": 4,
       "ddm": 6,
       "dm": 1,
-      "n-nonyl-beta-d-glucopyranoside": 1
+      "n-nonyl-beta-d-glucopyranoside": 1,
+      "n-octyl-beta-d-glucopyranoside": 1
     },
     "channels: potassium, sodium, & proton ion selective": {
       "dhpc": 1,
@@ -144,11 +148,13 @@
       "ldao": 3,
       "dm": 63,
       "cholesterol-hydrogen-succinate": 4,
+      "nonylglucoside": 1,
       "anzergent-3-12": 3,
       "n-octyl-beta-d-maltoside": 1,
       "hega-10": 2,
       "cymal-6": 5,
       "dodecanoylmorpholine": 2,
+      "n-dodecyl-beta-d-maltoside": 3,
       "n-nonyl-beta-d-glucopyranoside": 1,
       "triton-x-100": 2
     },
@@ -178,9 +184,10 @@
     "bacterial, algal, viral, and unusual rhodopsins": {
       "ddm": 68,
       "triton-x-100": 3,
+      "n-dodecyl-beta-d-maltoside": 2,
       "cholesterol-hydrogen-succinate": 17,
       "og": 5,
-      "n-dodecyl-beta-d-maltoside": 1,
+      "n-octyl-beta-d-glucopyranoside": 1,
       "sucrose-monododecanoate": 3,
       "tween-20": 1,
       "lmng": 2
@@ -217,10 +224,12 @@
     "channels: aquaporins and glyceroporins": {
       "og": 23,
       "ng": 4,
+      "nonylglucoside": 1,
       "ogng": 7,
       "ldao": 2,
       "n-nonyl-beta-d-glucopyranoside": 1,
       "ddm": 5,
+      "n-octyl-beta-d-glucopyranoside": 1,
       "dm": 2
     },
     "glycosyltransfereases": {
@@ -235,6 +244,7 @@
     },
     "oxidoreductases": {
       "octaethylene-glycol-mono-n-dodecylether": 1,
+      "n-dodecyl-beta-d-maltoside": 1,
       "triton-x-100": 3,
       "og": 1,
       "ddm": 10,
@@ -247,6 +257,7 @@
       "mng": 1,
       "cholesterol-hydrogen-succinate": 4,
       "ng": 1,
+      "n-dodecyl-beta-d-maltoside": 1,
       "n-octyl-beta-d-maltoside": 1
     },
     "p type atpase": {
@@ -260,6 +271,7 @@
       "ldao": 1
     },
     "f type atpase": {
+      "n-dodecyl-beta-d-maltoside": 3,
       "foscholine-12": 1,
       "tridecylmaltoside": 1,
       "ddm": 9,
@@ -268,24 +280,27 @@
     "major facilitator superfamily (mfs) transporters": {
       "lmng": 3,
       "ddm": 46,
-      "ng": 7,
+      "ng": 5,
       "dm": 16,
       "og": 1,
       "cymal-6": 2,
       "chapso": 1,
-      "n-dodecyl-beta-d-maltoside": 1,
+      "n-dodecyl-beta-d-maltoside": 2,
       "ldao": 2,
+      "n-nonyl-beta-d-glucopyranoside": 2,
       "udm": 2,
       "cholesterol-hydrogen-succinate": 3,
       "nm": 2
     },
     "solute carrier (slc) transporter superfamily": {
-      "ddm": 37,
-      "cholesterol-hydrogen-succinate": 5,
+      "ddm": 39,
+      "cholesterol-hydrogen-succinate": 6,
+      "n-dodecyl-beta-d-maltoside": 2,
       "dm": 11,
       "lmng": 2,
       "dmng": 1,
-      "og": 1
+      "og": 1,
+      "n-octyl-beta-d-glucopyranoside": 1
     },
     "phosphoenolpyruvate dependent phosphotransferases (ptss)": {
       "ddm": 2,
@@ -336,6 +351,7 @@
     },
     "cys loop receptor family": {
       "ddm": 18,
+      "n-dodecyl-beta-d-maltoside": 1,
       "c12e9": 1
     },
     "<em>o</em> acyltransferases": {
@@ -389,10 +405,12 @@
       "ddm": 28,
       "dm": 5,
       "lmng": 1,
-      "og": 3
+      "og": 3,
+      "n-dodecyl-beta-d-maltoside": 3
     },
     "amino acid secondary transporters": {
       "ddm": 8,
+      "n-dodecyl-beta-d-maltoside": 1,
       "dm": 3,
       "ng": 1,
       "og": 1
@@ -421,11 +439,13 @@
       "triton-x-100": 2
     },
     "novel receptors": {
-      "ddm": 3
+      "ddm": 3,
+      "n-dodecyl-beta-d-maltoside": 1
     },
     "superfamily of k<sup>+</sup> transporters (skt proteins)": {
       "dm": 1,
-      "ddm": 2
+      "ddm": 2,
+      "n-dodecyl-beta-d-maltoside": 1
     },
     "light harvesting+reaction center complexes": {
       "ldao": 1,
@@ -451,7 +471,7 @@
       "foscholine-12": 1,
       "ddm": 11,
       "nm": 7,
-      "udm": 1,
+      "n-undecyl-beta-d-maltoside": 1,
       "dm": 1,
       "dodecanoylmorpholine": 1
     },
@@ -471,7 +491,7 @@
     "phospholipid synthases": {
       "og": 1,
       "ddm": 3,
-      "n-methyl-beta-d-glucoside": 2
+      "n-nonyl-beta-d-glucopyranoside": 2
     },
     "cyclin m/corc family of mg<sup>2+</sup> transporters": {
       "ddm": 4,
@@ -485,8 +505,9 @@
       "lmng": 2
     },
     "photosystems": {
-      "ddm": 6,
       "dm": 2,
+      "n-dodecyl-beta-d-maltoside": 3,
+      "ddm": 6,
       "ldao": 2
     },
     "mo/w<em>bis</em> mgd oxidoreductases": {
@@ -499,7 +520,7 @@
     },
     "photosystem+light harvesting complex supercomplex": {
       "ddm": 4,
-      "n-methyl-beta-d-glucoside": 1,
+      "n-nonyl-beta-d-glucopyranoside": 1,
       "glyco-diosgenin": 1,
       "n-octyl-beta-d-maltoside": 1
     },
@@ -558,6 +579,9 @@
     },
     "abgt family of transporters": {
       "ddm": 3
+    },
+    "ca<sup>2+</sup>:cation antiporter (caca) family": {
+      "n-dodecyl-beta-d-maltoside": 2
     }
   },
   "detergent_conc_ranges": {
@@ -595,6 +619,13 @@
       "max": 0.15,
       "mean": 0.15,
       "median": 0.15
+    },
+    "amino acid secondary transporters/n-dodecyl-beta-d-maltoside/mM": {
+      "n": 1,
+      "min": 10.0,
+      "max": 10.0,
+      "mean": 10.0,
+      "median": 10.0
     },
     "amino acid secondary transporters/ng/%": {
       "n": 1,
@@ -932,6 +963,13 @@
       "mean": 6.0,
       "median": 6.0
     },
+    "channels: aquaporins and glyceroporins/n-octyl-beta-d-glucopyranoside/%": {
+      "n": 1,
+      "min": 2.0,
+      "max": 2.0,
+      "mean": 2.0,
+      "median": 2.0
+    },
     "channels: aquaporins and glyceroporins/ng/%": {
       "n": 2,
       "min": 0.4,
@@ -1121,6 +1159,13 @@
       "mean": 7.5,
       "median": 10.0
     },
+    "channels: potassium, sodium, & proton ion selective/n-dodecyl-beta-d-maltoside/mM": {
+      "n": 3,
+      "min": 0.25,
+      "max": 4.0,
+      "mean": 1.5166666666666666,
+      "median": 0.3
+    },
     "channels: potassium, sodium, & proton ion selective/n-nonyl-beta-d-glucopyranoside/%": {
       "n": 1,
       "min": 0.4,
@@ -1289,6 +1334,20 @@
       "mean": 1.5,
       "median": 1.5
     },
+    "f type atpase/n-dodecyl-beta-d-maltoside/%": {
+      "n": 1,
+      "min": 0.4,
+      "max": 0.4,
+      "mean": 0.4,
+      "median": 0.4
+    },
+    "f type atpase/n-dodecyl-beta-d-maltoside/mM": {
+      "n": 1,
+      "min": 0.64,
+      "max": 0.64,
+      "mean": 0.64,
+      "median": 0.64
+    },
     "f type atpase/sodium-cholate/%": {
       "n": 1,
       "min": 1.0,
@@ -1372,6 +1431,20 @@
       "max": 0.005,
       "mean": 0.005,
       "median": 0.005
+    },
+    "g protein coupled receptors: class a/n-dodecyl-beta-d-maltoside/%": {
+      "n": 1,
+      "min": 1.0,
+      "max": 1.0,
+      "mean": 1.0,
+      "median": 1.0
+    },
+    "g protein coupled receptors: class a/n-octyl-beta-d-glucopyranoside/%": {
+      "n": 1,
+      "min": 1.0,
+      "max": 1.0,
+      "mean": 1.0,
+      "median": 1.0
     },
     "g protein coupled receptors: class a/ng/%": {
       "n": 13,
@@ -1611,11 +1684,25 @@
       "mean": 0.3446666666666667,
       "median": 0.03
     },
+    "major facilitator superfamily (mfs) transporters/n-dodecyl-beta-d-maltoside/%": {
+      "n": 1,
+      "min": 2.0,
+      "max": 2.0,
+      "mean": 2.0,
+      "median": 2.0
+    },
+    "major facilitator superfamily (mfs) transporters/n-nonyl-beta-d-glucopyranoside/%": {
+      "n": 2,
+      "min": 0.2,
+      "max": 0.4,
+      "mean": 0.30000000000000004,
+      "median": 0.4
+    },
     "major facilitator superfamily (mfs) transporters/ng/%": {
-      "n": 7,
+      "n": 5,
       "min": 0.02,
       "max": 0.4,
-      "mean": 0.31714285714285717,
+      "mean": 0.324,
       "median": 0.4
     },
     "major facilitator superfamily (mfs) transporters/nm/%": {
@@ -1737,6 +1824,13 @@
       "mean": 1.0,
       "median": 1.0
     },
+    "novel receptors/n-dodecyl-beta-d-maltoside/%": {
+      "n": 1,
+      "min": 1.0,
+      "max": 1.0,
+      "mean": 1.0,
+      "median": 1.0
+    },
     "nucleobase cation symport 2 (ncs2) family/ddm/%": {
       "n": 3,
       "min": 0.02,
@@ -1799,6 +1893,13 @@
       "max": 0.05,
       "mean": 0.05,
       "median": 0.05
+    },
+    "oxidoreductases/n-dodecyl-beta-d-maltoside/M": {
+      "n": 1,
+      "min": 12.0,
+      "max": 12.0,
+      "mean": 12.0,
+      "median": 12.0
     },
     "oxidoreductases/octaethylene-glycol-mono-n-dodecylether/%": {
       "n": 1,
@@ -1961,6 +2062,13 @@
       "mean": 0.25,
       "median": 0.25
     },
+    "photosystems/n-dodecyl-beta-d-maltoside/%": {
+      "n": 1,
+      "min": 0.08,
+      "max": 0.08,
+      "mean": 0.08,
+      "median": 0.08
+    },
     "s acyltransferases/ddm/mM": {
       "n": 2,
       "min": 0.5,
@@ -1982,6 +2090,13 @@
       "mean": 0.4,
       "median": 0.25
     },
+    "sec, translocase, and insertase proteins/n-dodecyl-beta-d-maltoside/%": {
+      "n": 3,
+      "min": 2.0,
+      "max": 2.0,
+      "mean": 2.0,
+      "median": 2.0
+    },
     "solute carrier (slc) transporter superfamily/cholesterol-hydrogen-succinate/%": {
       "n": 4,
       "min": 0.01,
@@ -1990,7 +2105,7 @@
       "median": 1.0
     },
     "solute carrier (slc) transporter superfamily/cholesterol-hydrogen-succinate/mM": {
-      "n": 1,
+      "n": 2,
       "min": 20.0,
       "max": 20.0,
       "mean": 20.0,
@@ -2004,10 +2119,10 @@
       "median": 0.1
     },
     "solute carrier (slc) transporter superfamily/ddm/mM": {
-      "n": 13,
+      "n": 15,
       "min": 0.5,
       "max": 40.0,
-      "mean": 12.0,
+      "mean": 11.8,
       "median": 1.0
     },
     "solute carrier (slc) transporter superfamily/dm/%": {
@@ -2037,6 +2152,13 @@
       "max": 1.0,
       "mean": 1.0,
       "median": 1.0
+    },
+    "solute carrier (slc) transporter superfamily/n-dodecyl-beta-d-maltoside/mM": {
+      "n": 1,
+      "min": 40.0,
+      "max": 40.0,
+      "mean": 40.0,
+      "median": 40.0
     },
     "solute carrier (slc) transporter superfamily/og/mM": {
       "n": 1,
@@ -2128,6 +2250,13 @@
       "max": 1.2,
       "mean": 1.2,
       "median": 1.2
+    },
+    "superfamily of k<sup>+</sup> transporters (skt proteins)/n-dodecyl-beta-d-maltoside/mM": {
+      "n": 1,
+      "min": 40.0,
+      "max": 40.0,
+      "mean": 40.0,
+      "median": 40.0
     },
     "sweet and semisweet transporters, and their relatives/cholesterol-hydrogen-succinate/%": {
       "n": 1,
@@ -2707,24 +2836,17 @@
     "membrane associated proteins in eicosanoid and [gsh](/xray mp wiki/reagents/additives/glutathione/) metabolism (mapeg)": {
       "expression": 1
     },
-    "channels : formate/nitrite transporter (fnt) family": {
-      "solubilization": 1,
-      "binding": 1,
-      "elution": 1,
-      "sec": 1,
-      "purification": 1
-    },
     "g protein coupled receptors: class f": {
       "solubilization": 5,
       "binding": 4,
       "elution": 2,
       "crystallization_setup": 1,
+      "complex_formation": 2,
+      "sec": 1,
       "expression": 1,
       "membrane_prep": 1,
-      "complex_formation": 2,
       "wash": 1,
-      "tag_cleavage": 1,
-      "sec": 1
+      "tag_cleavage": 1
     },
     "bacterial cell divison proteins": {
       "lysis": 3,
@@ -2753,6 +2875,9 @@
     },
     "glycoproteins": {
       "crystallization_setup": 1
+    },
+    "channels : formate/nitrite transporter (fnt) family": {
+      "purification": 1
     },
     "solute carrier family 4 (anion exchanger)": {
       "membrane_prep": 1
@@ -2886,10 +3011,10 @@
       "tag_cleavage": 1
     },
     "photosystems": {
-      "expression": 4,
       "membrane_prep": 4,
       "solubilization": 6,
-      "purification": 5
+      "purification": 5,
+      "expression": 4
     },
     "de novo designed membrane proteins": {
       "crystallization_setup": 1,
@@ -3249,6 +3374,10 @@
           "og"
         ],
         [
+          "n-octyl-beta-d-glucopyranoside",
+          "og"
+        ],
+        [
           "ddm",
           "ng",
           "og"
@@ -3267,6 +3396,19 @@
         ],
         [
           "octaethylene-glycol-mono-n-dodecylether"
+        ]
+      ]
+    ],
+    [
+      "C1C2GA (C1C2 T198G/G202A)",
+      "bacterial, algal, viral, and unusual rhodopsins",
+      [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
+          "ddm"
         ]
       ]
     ],
@@ -3312,6 +3454,19 @@
         ],
         [
           "cholesterol-hydrogen-succinate",
+          "ddm"
+        ]
+      ]
+    ],
+    [
+      "Chloroplast ATP Synthase c-Ring from Pisum sativum",
+      "f type atpase",
+      [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
           "ddm"
         ]
       ]
@@ -3437,6 +3592,32 @@
         [
           "ldao",
           "og"
+        ]
+      ]
+    ],
+    [
+      "Drosophila Dopamine Transporter (dDAT)",
+      "solute carrier (slc) transporter superfamily",
+      [
+        [
+          "cholesterol-hydrogen-succinate",
+          "ddm"
+        ],
+        [
+          "ddm"
+        ]
+      ]
+    ],
+    [
+      "DgoT (E. coli D-galactonate Transporter)",
+      "solute carrier (slc) transporter superfamily",
+      [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
+          "ddm"
         ]
       ]
     ],
@@ -3658,6 +3839,7 @@
         [
           "ddm",
           "n-dodecyl-beta-d-maltoside",
+          "n-octyl-beta-d-glucopyranoside",
           "og"
         ],
         [
@@ -3676,6 +3858,18 @@
         [
           "cholesterol-hydrogen-succinate",
           "ddm"
+        ]
+      ]
+    ],
+    [
+      "GltPh (Glutamate Transporter Homologue from Pyrococcus horikoshii)",
+      "amino acid secondary transporters",
+      [
+        [
+          "ddm"
+        ],
+        [
+          "n-dodecyl-beta-d-maltoside"
         ]
       ]
     ],
@@ -3721,6 +3915,19 @@
         ],
         [
           "og"
+        ]
+      ]
+    ],
+    [
+      "Human Equilibrative Nucleoside Transporter 1 (hENT1)",
+      "solute carrier (slc) transporter superfamily",
+      [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
+          "ddm"
         ]
       ]
     ],
@@ -3817,7 +4024,8 @@
       [
         [
           "cholesterol-hydrogen-succinate",
-          "ddm"
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
         ],
         [
           "cholesterol-hydrogen-succinate",
@@ -3919,6 +4127,31 @@
       ]
     ],
     [
+      "Human KDEL Receptor",
+      "novel receptors",
+      [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
+          "ddm"
+        ]
+      ]
+    ],
+    [
+      "Kir3.1-KirBac1.3 Chimeric GIRK Channel",
+      "channels: potassium, sodium, & proton ion selective",
+      [
+        [
+          "ddm"
+        ],
+        [
+          "nonylglucoside"
+        ]
+      ]
+    ],
+    [
       "KirBac Potassium Channels",
       "channels: potassium, sodium, & proton ion selective",
       [
@@ -3953,6 +4186,19 @@
         [
           "cholesterol-hydrogen-succinate",
           "ddm"
+        ],
+        [
+          "ddm"
+        ]
+      ]
+    ],
+    [
+      "KtrB (Potassium Transporter Membrane Subunit from Bacillus subtilis)",
+      "superfamily of k<sup>+</sup> transporters (skt proteins)",
+      [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
         ],
         [
           "ddm"
@@ -4003,6 +4249,7 @@
           "ddm"
         ],
         [
+          "n-octyl-beta-d-glucopyranoside",
           "og"
         ]
       ]
@@ -4069,14 +4316,14 @@
         ],
         [
           "ldao",
-          "ng"
+          "n-nonyl-beta-d-glucopyranoside"
         ],
         [
           "dm"
         ],
         [
           "ldao",
-          "ng"
+          "n-nonyl-beta-d-glucopyranoside"
         ]
       ]
     ],
@@ -4085,7 +4332,8 @@
       "channels: other ion channels",
       [
         [
-          "ddm"
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
         ],
         [
           "n-octyl-beta-d-maltoside"
@@ -4239,6 +4487,24 @@
         ],
         [
           "cholesterol-hydrogen-succinate",
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
+          "cholesterol-hydrogen-succinate",
+          "ddm"
+        ]
+      ]
+    ],
+    [
+      "NavAe1p Prokaryotic Sodium Channel Pore",
+      "channels: potassium, sodium, & proton ion selective",
+      [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
           "ddm"
         ]
       ]
@@ -4252,6 +4518,19 @@
         ],
         [
           "n-nonyl-beta-d-glucopyranoside"
+        ]
+      ]
+    ],
+    [
+      "NeRh50 (Nitrosomonas europaea Rh50 Ammonia Channel)",
+      "channels: amt/mep/rh proteins",
+      [
+        [
+          "n-octyl-beta-d-glucopyranoside",
+          "og"
+        ],
+        [
+          "og"
         ]
       ]
     ],
@@ -4415,11 +4694,28 @@
       ]
     ],
     [
+      "Photosystem II",
+      "photosystems",
+      [
+        [
+          "dm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
+          "dm"
+        ]
+      ]
+    ],
+    [
       "PsbA2-PSII dimer from Thermosynechococcus elongatus",
       "photosystems",
       [
         [
           "ldao"
+        ],
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
         ],
         [
           "ddm"
@@ -4432,6 +4728,10 @@
       [
         [
           "ldao"
+        ],
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
         ],
         [
           "ddm"
@@ -4462,7 +4762,7 @@
         ],
         [
           "ddm",
-          "n-methyl-beta-d-glucoside"
+          "n-nonyl-beta-d-glucopyranoside"
         ],
         [
           "glyco-diosgenin"
@@ -4504,7 +4804,7 @@
         ],
         [
           "ddm",
-          "n-methyl-beta-d-glucoside"
+          "n-nonyl-beta-d-glucopyranoside"
         ]
       ]
     ],
@@ -4525,6 +4825,10 @@
       "sec, translocase, and insertase proteins",
       [
         [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
           "ddm"
         ],
         [
@@ -4537,6 +4841,10 @@
       "sec, translocase, and insertase proteins",
       [
         [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
           "ddm"
         ],
         [
@@ -4548,6 +4856,10 @@
       "Thermus thermophilus SecY Core Channel Subunit",
       "sec, translocase, and insertase proteins",
       [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
         [
           "ddm"
         ],
@@ -4819,11 +5131,24 @@
       "antiporters",
       [
         [
-          "udm"
+          "n-undecyl-beta-d-maltoside"
         ],
         [
           "dm",
           "dodecanoylmorpholine"
+        ]
+      ]
+    ],
+    [
+      "Yeast F1c10-ATP Synthase Subcomplex (Mg-ADP Inhibited)",
+      "f type atpase",
+      [
+        [
+          "ddm",
+          "n-dodecyl-beta-d-maltoside"
+        ],
+        [
+          "ddm"
         ]
       ]
     ],
@@ -4867,7 +5192,7 @@
   ],
   "expression_systems": {
     "sf9": 123,
-    "e-coli": 354,
+    "e-coli": 353,
     "saccharomyces-cerevisiae": 20,
     "not-specified": 26,
     "pichia-pastoris": 42,
@@ -4881,8 +5206,8 @@
   },
   "resolution_by_step_type": {
     "binding": {
-      "n": 1102,
-      "mean": 2.9090671506352086,
+      "n": 1098,
+      "mean": 2.9104936247723137,
       "median": 2.9
     },
     "clarification": {
@@ -4911,8 +5236,8 @@
       "median": 2.9
     },
     "elution": {
-      "n": 34,
-      "mean": 3.0709411764705883,
+      "n": 30,
+      "mean": 3.1447333333333334,
       "median": 2.9
     },
     "exchange": {
@@ -4956,13 +5281,13 @@
       "median": 2.7
     },
     "sec": {
-      "n": 927,
-      "mean": 2.9221488673139158,
+      "n": 923,
+      "mean": 2.923902491874323,
       "median": 2.9
     },
     "solubilization": {
-      "n": 843,
-      "mean": 2.888982206405694,
+      "n": 839,
+      "mean": 2.8907532777115614,
       "median": 2.8
     },
     "tag_cleavage": {

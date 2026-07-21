@@ -1,7 +1,7 @@
 ---
 title: "Human Aquaporin 1 (hAQP1)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -152,6 +152,22 @@ solved from bovine red blood cells.
     <tr>
       <td>Notes</td>
       <td>Tetragonal-shaped crystals. Anisotropic diffraction - strong to 3.3 A along c*, weak beyond 6 A in perpendicular directions. Significant diffuse scattering observed. Space group I422. Data collected at PXIII, SLS-PSI, PILATUS 2M detector, 110 K, 410 mm crystal-to-detector distance. 120 total rotation, 1 per image, 4 s exposure per image.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
     </tr>
   </tbody>
 </table>

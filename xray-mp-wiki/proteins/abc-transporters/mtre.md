@@ -1,7 +1,7 @@
 ---
 title: "MtrE Outer Membrane Channel from Neisseria gonorrhoeae"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -146,6 +146,33 @@ MtrE is the outer membrane channel component of the [MtrCDE Tripartite Multidrug
     <tr>
       <td>Notes</td>
       <td>2 ul protein + 2 ul reservoir. Crystals grew within two weeks to 0.2 x 0.2 x 0.2 mm. Diffraction data to 3.29 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 20 % [precipitant] (PEG 400)  
+- Acetate: 0.2 M [buffer]  
+- Magnesium Sulfate: 0.25 M [additive]  
+- Og: 2 % [additive]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Lysophosphatidic Acid Receptor 1 (LPA1)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -136,6 +136,14 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Lipidic cubic phase (LCP)</td>
     </tr>
@@ -158,6 +166,14 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
     <tr>
       <td>Notes</td>
       <td>Disulfide-engineered construct (D204A-V282C) with modified mbRIL fusion. 39 crystals, 2.9 A resolution. P212121 space group.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

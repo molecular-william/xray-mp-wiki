@@ -1,7 +1,7 @@
 ---
 title: "MjNhaP1 Sodium/Proton Antiporter"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -146,6 +146,30 @@ MjNhaP1 is an electroneutral Na+/H+ antiporter from the archaeon *Methanocaldoco
     <tr>
       <td>Notes</td>
       <td>3D crystals for X-ray; maximal size 350 µm</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 24 % [precipitant] (PEG 1000)</td>
     </tr>
   </tbody>
 </table>

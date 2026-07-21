@@ -1,7 +1,7 @@
 ---
 title: "Gs Protein Alpha Subunit (Galpha s)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -74,6 +74,18 @@ The Gs protein alpha subunit (Galpha s) is the catalytic subunit of the stimulat
     <tr>
       <td>Notes</td>
       <td>Gs alpha subunit crystallized as part of the T4L-beta2AR-Gs-<a href="/xray-mp-wiki/reagents/antibodies/nb35/">Nb35</a> ternary complex</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>7.7 MAG with 10% Cholesterol</td>
     </tr>
   </tbody>
 </table>

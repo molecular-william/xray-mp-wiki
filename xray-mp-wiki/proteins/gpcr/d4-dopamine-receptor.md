@@ -1,7 +1,7 @@
 ---
 title: "D4 Dopamine Receptor (DRD4)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,14 @@ provides an atomic-resolution model for DRD4 ligand selectivity.
     <tr>
       <td>Notes</td>
       <td>Crystals grown in presence and absence of 200 mM added sodium. DRD4/nemonapride complex crystals diffracted to 1.95 Å resolution. Data collected at GM/CA@APS, Advanced Photon Source.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

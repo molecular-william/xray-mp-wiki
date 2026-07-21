@@ -1,7 +1,7 @@
 ---
 title: "CaVAb Bacterial Voltage-Gated Calcium Channel"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -89,6 +89,14 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     <tr>
       <td>Notes</td>
       <td>Crystals in space group C 1 21. Ca2+ binding sites identified at the selectivity filter through anomalous difference Fourier maps. Multiple soaking conditions tested: 0.5, 2.5, 5, 10, and 15 mM Ca2+. Cd2+ and Mn2+ soaking at 100 mM also performed.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1337,6 +1345,14 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
     </tr>
@@ -1359,6 +1375,14 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/amlodipine">Amlodipine</a>-bound structure in P212121 at 3.2 A resolution; W195Y mutation enables better resolution of drug binding site</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1393,6 +1417,14 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
     </tr>
@@ -1421,6 +1453,14 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
     </tr>
@@ -1443,6 +1483,14 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/br-verapamil">Br-Verapamil</a>-bound structure in P212121 at 3.3 A resolution; anomalous scattering of Br defines exact binding location in central cavity</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

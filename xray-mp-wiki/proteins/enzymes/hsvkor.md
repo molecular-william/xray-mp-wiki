@@ -1,7 +1,7 @@
 ---
 title: "Human Vitamin K Epoxide Reductase (HsVKOR)"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -176,6 +176,26 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Lipidic cubic phase (LCP)</td>
     </tr>
@@ -202,6 +222,26 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
     <tr>
       <td>Notes</td>
       <td>Co-crystallized with KO (<a href="/xray-mp-wiki/reagents/cofactors/vitamin-k/">Vitamin K</a> epoxide) mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

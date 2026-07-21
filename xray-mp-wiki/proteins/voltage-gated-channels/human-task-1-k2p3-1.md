@@ -1,7 +1,7 @@
 ---
 title: "Human TASK-1 (K2P 3.1) Potassium Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -165,6 +165,18 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
     <tr>
       <td>Notes</td>
       <td>Crystals obtained with CHOL-<a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> mix and trigalactoside additives; data processed with STARANISO for anisotropic <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>. Three structures: apo TASK-1 (6RV2), TASK-1-BAY1000493 complex (6RV3, 50% occupancy in two orientations), and TASK-1-BAY2341237 complex (6RV4, 100% occupancy, single orientation). Ramachandran statistics: 97.56% allowed, 2.44% preferred (6RV3); 97.54% allowed, 2.46% preferred (6RV4). BAY1000493 was synthesized in-house; BAY2341237 was synthesized as described in ref 31.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Aquaporin 0 (AQP0) from Bos taurus"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,32 @@ Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens
     <tr>
       <td>Notes</td>
       <td>Regular tetragonal prisms 100-200 µm in length, uniaxially birefringent under polarized light. Space group P42(1)2. Data collected at Beamline 8.3.1 at the Advanced Light Source (ALS, Lawrence Berkeley National Laboratory). Crystals mounted at approximately 100 K.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>10.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 30 % [precipitant] (polyethylene glycol 1K)  
+- Glycine: 20 mM [buffer]  
+- Sodium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

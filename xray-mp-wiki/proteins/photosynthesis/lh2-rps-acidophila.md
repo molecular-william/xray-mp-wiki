@@ -1,7 +1,7 @@
 ---
 title: "B800-850 LH2 Light-Harvesting Complex from Rhodopseudomonas acidophila"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -102,6 +102,14 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     <tr>
       <td>Notes</td>
       <td>Crystals grown by vapor diffusion. Space group R32. Unit cell: a = b = 120.3, c = 296.2 A (hexagonal). Resolution 2.5 A. Constrained refinement: R_cryst = 22.73, R_free = 25.32. Restrained refinement (3x PC): R_cryst = 20.98, R_free = 24.65. 3078 non-hydrogen atoms modeled. Data collected at Daresbury Laboratory. Crystals are type II where contacts form only between hydrophilic parts of the protein. beta-octylglucoside (OG) detergent used in crystallization; electron density in central hole fitted with OG molecules.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1170,6 +1178,26 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
     <tr>
       <td>Notes</td>
       <td>Hexagonal crystals with space group R32. Cell dimensions: a = 117.05 A, c = 298.44 A (significantly different from the room temperature 2.5 A structure: a ~ 120.3 A, c ~ 296.2 A). Data were collected at 100 K with an ADSC Quantum 4 CCD area detector on the SRS wiggler beamline 9.6 at Daresbury Laboratory. The structure was refined using REFMAC5 with TLS thermal refinement. Rcryst = 0.173, Rfree = 0.194. 3439 atoms and 242 water molecules were modelled with 30 TLS groups.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.3</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 2.3 M [additive]</td>
     </tr>
   </tbody>
 </table>

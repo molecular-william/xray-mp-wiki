@@ -1,7 +1,7 @@
 ---
 title: "Drosophila melanogaster Orai (CRAC Channel)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -82,6 +82,14 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     <tr>
       <td>Notes</td>
       <td>Crystals formed in space group P2_13 at 3.35 A resolution. Experimental phases from Hg, Ir, and Gd heavy atom derivatives. NCS averaging used for phase improvement. R_free = 28%.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1089,6 +1097,35 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
     <tr>
       <td>Notes</td>
       <td>All crystals dehydrated and cryo-protected before flash-cooling. H206A structure at 6.7 A resolution with 24 subunits per asymmetric unit (4 hexameric channels). Crystallographic phases determined by MR-SAD, phases improved by 24-fold NCS averaging. For ion experiments, Ba2+ (5 mM BaCl2 added to protein), Gd3+ (soaked), or I- (NaI substituted for KCl in purification) were used.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 32-35 % [precipitant] (Peg 400 (v/v))  
+- Potassium Phosphate: 0.1 M [buffer]  
+- Peg 400: 24-26 % [precipitant] (Peg 400)  
+- Potassium Phosphate: 0.2 M [buffer]  
+- Peg 400: 26-28 % [precipitant] (Peg 400)  
+- Potassium Phosphate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

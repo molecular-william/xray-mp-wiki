@@ -1,7 +1,7 @@
 ---
 title: "IPCT/DIPPS from Archaeoglobus fulgidus (Bifunctional CTP:Inositol-1-Phosphate Cytidylyltransferase/CDP-Inositol:Inositol-1-Phosphate Phosphotransferase)"
 created: 2026-06-05
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -122,6 +122,14 @@ IPCT/DIPPS is a bifunctional membrane enzyme from the hyperthermophilic archaeon
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Lipidic cubic phase (LCP) crystallization</td>
     </tr>
@@ -140,6 +148,14 @@ IPCT/DIPPS is a bifunctional membrane enzyme from the hyperthermophilic archaeon
     <tr>
       <td>Notes</td>
       <td>Crystallized in meso using <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> method</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

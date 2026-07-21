@@ -1,7 +1,7 @@
 ---
 title: "Human Beta2-Adrenergic Receptor (beta2 AR)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -273,6 +273,18 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>MONOOLEIN with 10% CHOLESTEROL</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -493,6 +505,14 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
       <td>Notes</td>
       <td>Two crystal forms: beta2 AR365-<a href="/xray-mp-wiki/reagents/antibodies/fab5">FAB5</a> (C2, 3.4 A) and beta2 AR24/365-Fab5 (C2, 3.4 A). The Fab5 fragment provided crystallographic contacts enabling structure determination.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1008,6 +1028,22 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
       <td>Notes</td>
       <td>Three complexes determined: <a href="/xray-mp-wiki/reagents/ligands/ici-118-551/">ICI 118,551</a> (3NY8), compound 2 (3NY9), and <a href="/xray-mp-wiki/reagents/ligands/alprenolol">ALPRENOLOL</a> (3NYA). All in P212121 space group.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>19 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>MONOOLEIN</td>
     </tr>
   </tbody>
 </table>
@@ -1577,6 +1613,18 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>7.7 MAG (modified monolein) with 10% CHOLESTEROL</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details class="pub-entry" markdown="1">
@@ -1649,6 +1697,18 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
       <td>Notes</td>
       <td>beta2 AR-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme">T4L</a> bound to carazolol and Cmpd-15PA crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> using two-syringe method. Protein:lipid ratio 2:3 (w/w). Crystallization precipitant: 0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> pH 7.5, 30-37.5% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 400 mM NH4F, 6% <a href="/xray-mp-wiki/reagents/additives/1,4-butanediol">1,4-BUTANEDIOL</a>, 1 mM Cmpd-15PA, 1% <a href="/xray-mp-wiki/reagents/additives/dmso/">DMSO</a>. Crystals appeared after 1 day and grew to full size within 1 week. Diffraction data anisotropic (3.1 A, 2.7 A, 2.8 A along a*, b*, c* axes). Data processed with XDS. 43 crystals used for data collection at SPring-8 beamline BL32XU.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein with 10% CHOLESTEROL</td>
     </tr>
   </tbody>
 </table>
@@ -1944,6 +2004,22 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details class="pub-entry" markdown="1">
@@ -1989,6 +2065,18 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
     <tr>
       <td>Notes</td>
       <td>FAUC50-beta2 AR(H93C)-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme">T4L</a> complex crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> using monoolein. Space group P21212. Data collected at APS GM/CA CAT 23ID-B. Structure determined at 3.5 A resolution. </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -2277,6 +2365,18 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
     <tr>
       <td>Notes</td>
       <td>Crystals grown using Gryphon<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> robot with 30-100 nL drops and 1 uL precipitant solution. Condition: 26-31% PEG400, 100 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.2-6.7, 75-125 mM <a href="/xray-mp-wiki/reagents/buffers/ammonium-phosphate/">Ammonium Phosphate</a> dibasic, 1 mM c-Epi. Crystals appeared after 1-3 days. Data collected at SPring-8 beamline BL32XU with 10 um x 15 um microfocus beam at 1.0 A wavelength. Structure determined at 3.2 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>7.7 MAG with cholesterol (10:1 mass ratio)</td>
     </tr>
   </tbody>
 </table>
@@ -2954,6 +3054,31 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
     <tr>
       <td>Notes</td>
       <td>Protein-lipid mixture at 1:1.5 mass ratio. 0.03 ul drops in 96-well glass sandwich plates. Crystals grew as small rods after 2 days. Space group P2_1_2_1_2_1.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>MONOOLEIN</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 37 % [precipitant] (PEG300 (v/v))  
+- Ammonium Phosphate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

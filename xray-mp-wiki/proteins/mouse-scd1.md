@@ -1,7 +1,7 @@
 ---
 title: "Mouse Stearoyl-CoA Desaturase 1 (mSCD1)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -138,6 +138,28 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
     <tr>
       <td>Notes</td>
       <td>Protein mixed with molten <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> doped with 10% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> at 1:1.5 (v/w) ratio using coupled syringe device. 50 nl deposited over 800 nl precipitant using Gryphon LCP robot. Data collected at 24-ID (NE-CAT), APS, Argonne. Wavelength 0.9791 A, resolution 3.51 A. R/Rfree 21.9%/27.6%. Model includes residues 41-361, two <a href="/xray-mp-wiki/reagents/additives/iron/">IRON</a> ions, and one <a href="/xray-mp-wiki/reagents/ligands/oleoyl-coa/">Oleoyl-CoA</a></td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.8</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg 400: 37-42 % [precipitant] (PEG400)  
+- Magnesium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

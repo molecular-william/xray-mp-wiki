@@ -1,7 +1,7 @@
 ---
 title: "F1-ATPase from Fusobacterium nucleatum"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,26 @@ The hydrolytic activity is likely regulated by  concentration, as in mitochondri
     <tr>
       <td>Notes</td>
       <td>Crystals harvested after 3-4 days. Diffraction data collected at Australian Synchrotron MX2 beamline. Four datasets merged due to radiation damage.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
     </tr>
   </tbody>
 </table>

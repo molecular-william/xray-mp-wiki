@@ -1,7 +1,7 @@
 ---
 title: "Human Neuropeptide Y Y1 Receptor (Y1R, NPY1R)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -148,6 +148,18 @@ bone disorders.
     <tr>
       <td>Notes</td>
       <td>UR-MK299 complex (5ZBQ, 2.7 A) crystallized in space group P21 with unit cell 37.8, 100.7, 83.2 A, beta=98.8 deg. BMS-193885 complex (5ZBH, 3.0 A) crystallized in space group C2221 with unit cell 76.9, 126.8, 170.3 A. Data from 47 crystals (UR-MK299) and 33 crystals (BMS-193885) merged for completeness. Protein residues 3-361 modeled; <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> residues 2-161 visible. Ramachandran: 97.56% allowed, 2.44% preferred (5ZBQ); 97.54% allowed, 2.46% preferred (5ZBH).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

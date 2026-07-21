@@ -1,7 +1,7 @@
 ---
 title: "Cytoplasmic Domain of Escherichia coli Rhomboid Protease GlpG"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -112,6 +112,30 @@ Crystal structure of the soluble cytoplasmic domain of the Escherichia coli rhom
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.9</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Phosphate: 0.49 M [buffer]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion (hanging drop)</td>
     </tr>
@@ -138,6 +162,28 @@ Crystal structure of the soluble cytoplasmic domain of the Escherichia coli rhom
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 1.35 A; data collected at Canadian Light Source beamline 08ID-1</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 100 mM [buffer]  
+- Ammonium Sulfate: 0.2 M [salt]  
+- Peg 4000: 25 % [precipitant] (PEG 4000)</td>
     </tr>
   </tbody>
 </table>

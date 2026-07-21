@@ -1,7 +1,7 @@
 ---
 title: "MexY (Pseudomonas aeruginosa multidrug exporter)"
 created: 2026-06-03
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

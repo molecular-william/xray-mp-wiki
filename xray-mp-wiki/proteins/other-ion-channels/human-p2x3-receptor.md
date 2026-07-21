@@ -1,7 +1,7 @@
 ---
 title: "Human P2X3 Receptor (hP2X3)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -1120,6 +1120,18 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1630,6 +1642,14 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 3.4-A resolution. Data collected at SPring-8 BL41XU and SSRF beamlines.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

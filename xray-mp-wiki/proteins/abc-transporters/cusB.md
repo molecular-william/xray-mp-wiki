@@ -1,7 +1,7 @@
 ---
 title: "CusB Membrane Fusion Protein"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -158,6 +158,18 @@ CusB is a periplasmic membrane fusion protein (MFP) from Escherichia coli, funct
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##nature09743
 
 **Structures:**
@@ -217,6 +229,32 @@ CusB is a periplasmic membrane fusion protein (MFP) from Escherichia coli, funct
     <tr>
       <td>Notes</td>
       <td>CusA-CusB co-crystal. SAD phasing used with six selenium sites per CusB molecule. Model consists of 1,686 amino acid residues (CusA residues 4-1043, CusB mol 1 residues 79-400, CusB mol 2 residues 79-402).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 6000: 10 % [precipitant] (PEG 6000)  
+- Ammonium Acetate: 0.1 M [buffer]  
+- Glycerol: 20 % [additive]</td>
     </tr>
   </tbody>
 </table>

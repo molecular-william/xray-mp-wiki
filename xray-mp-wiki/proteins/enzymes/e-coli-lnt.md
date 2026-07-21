@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli Apolipoprotein N-Acyl Transferase (Lnt)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -133,6 +133,27 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
       <td>Notes</td>
       <td>Native data collected at BL17U at SSRF (wavelength 0.9793 A). Se-Met <a href="/xray-mp-wiki/methods/phasing/single-anomalous-dispersion">SAD</a> data collected at BL1A at KEK (wavelength 0.9791 A). Space group P212121. Resolution 50-2.59 A. R_work/R_free: 23.2/28.9%.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30 % [precipitant] (PEG 400)  
+- Acetate: 0.2 M [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -454,6 +475,30 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
       <td>Notes</td>
       <td>Data collected at Swiss Light Source (X06SA-PXI, X10SA-PXII). SeMet <a href="/xray-mp-wiki/methods/phasing/single-anomalous-dispersion">SAD</a> at 0.9792 A for phasing. LntEco and LntEcoC387A in P212121; LntPae in C2.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mpd: 8 % [precipitant]  
+- Mes: 0.1 M [buffer]  
+- Peg: 0.4 % [precipitant] (ammonium citrate. LntPae: 30% (v/v) PEG-500 DME)  
+- Citrate: 0.1 M [buffer]  
+- Acetate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

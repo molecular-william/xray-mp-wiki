@@ -1,7 +1,7 @@
 ---
 title: "CmTMEM175 — Prokaryotic TMEM175 Lysosomal Potassium Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -117,6 +117,32 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
     <tr>
       <td>Notes</td>
       <td>Cryoprotected with 25% <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 1000, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 mM CaCl2, 50 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a>, 100 mM NaAc pH 4.6. Heavy atom derivatization with methyl <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury</a> chloride (CH3HgCl) for experimental phasing.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 16-22 % [precipitant] (Peg 1000)  
+- Calcium Chloride: 50 mM [salt]  
+- Magnesium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

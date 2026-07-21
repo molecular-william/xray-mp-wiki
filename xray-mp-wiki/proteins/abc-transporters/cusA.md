@@ -1,7 +1,7 @@
 ---
 title: "CusA Inner Membrane Efflux Pump"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -196,6 +196,32 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
     <tr>
       <td>Notes</td>
       <td>CusA (native) - CusB (SeMet-substituted) co-crystal. Grew within 2 months in sitting-drop vapor diffusion.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 6000: 10 % [precipitant] (PEG 6000)  
+- Ammonium Acetate: 0.1 M [buffer]  
+- Glycerol: 20 % [additive]</td>
     </tr>
   </tbody>
 </table>

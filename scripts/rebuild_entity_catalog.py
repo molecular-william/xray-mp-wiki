@@ -16,12 +16,12 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 try:
-    import yaml
+    import yaml  # noqa: F401 — side-effect guard: exit if PyYAML missing
 except ImportError:
     print("Error: PyYAML not installed. Install with: pip install pyyaml")
     sys.exit(1)
 
-from _base import BASE_DIR
+from _base import BASE_DIR, fast_load_str, parallel_load_yamls
 
 WIKI_ROOT = BASE_DIR / "xray-mp-wiki"
 CATALOG_PATH = BASE_DIR / "references" / "entity_catalog.json"
@@ -51,20 +51,20 @@ def build_from_manifest():
 
 
 def build_from_filesystem():
-    """Build catalog by scanning all YAML files (slow but independent of manifest)."""
+    """Build catalog by scanning all YAML files using parallel loader."""
     catalog = {}
     for d in YAML_DIRS:
-        for yf in (WIKI_ROOT / d).glob("*.yaml"):
-            try:
-                data = yaml.safe_load(yf.read_text())
-                if data and "title" in data:
-                    catalog[yf.stem] = {
-                        "type": d.replace("_yaml", ""),
-                        "title": data["title"],
-                        "filename": f"{yf.stem}.md",
-                    }
-            except Exception as e:
-                print(f"Warning: failed to parse {yf}: {e}")
+        yaml_dir = WIKI_ROOT / d
+        if not yaml_dir.exists():
+            continue
+        paths = sorted(yaml_dir.glob("*.yaml"))
+        for path, data in parallel_load_yamls(paths):
+            if data and "title" in data:
+                catalog[path.stem] = {
+                    "type": d.replace("_yaml", ""),
+                    "title": data["title"],
+                    "filename": f"{path.stem}.md",
+                }
     return catalog
 
 

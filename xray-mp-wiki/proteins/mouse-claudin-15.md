@@ -1,7 +1,7 @@
 ---
 title: "Mouse Claudin-15 (mCldn15)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -86,6 +86,14 @@ Mouse claudin-15 (mCldn15) is a tight junction membrane protein belonging to the
     <tr>
       <td>Notes</td>
       <td>Crystallized in monoolein-based LCP; structure determined by SeMet SAD phasing using microfocused synchrotron X-ray beam</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

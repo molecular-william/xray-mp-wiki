@@ -1,7 +1,7 @@
 ---
 title: "ASBT_Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -119,6 +119,28 @@ _Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii)
     <tr>
       <td>Notes</td>
       <td>Crystallized in <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> LCP. Wild-type structure solved at 1.95 Å (PDB 4N7W). E254A mutant solved at 2.5 Å. Space group C2 (wild-type); P2₁2₁2₁ (E254A).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Ammonium Sulfate: 200 mM [salt]  
+- Peg 400: 30 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

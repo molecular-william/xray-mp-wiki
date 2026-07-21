@@ -1,7 +1,7 @@
 ---
 title: "M3 Muscarinic Acetylcholine Receptor"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -396,6 +396,25 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.1</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Lithium Citrate: 113.5 mM [buffer]  
+- Ammonium Sulfate: 110 mM [salt]  
+- Peg: 45 % [precipitant]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase crystallization</a></td>
     </tr>
@@ -425,6 +444,24 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg: 44 % [precipitant]  
+- Ammonium Tartrate: 400 mM [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase crystallization</a></td>
     </tr>
@@ -448,6 +485,24 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
       <td>Notes</td>
       <td>Same crystallization condition as <a href="/xray-mp-wiki/reagents/ligands/tiotropium">Tiotropium</a>-bound M3-mT4L. 12 crystals used. Resolution 3.7 A (space group C2). Rwork/Rfree 23.9/28.5%. Binding pocket interactions nearly identical to <a href="/xray-mp-wiki/reagents/ligands/tiotropium">Tiotropium</a>-bound structure.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg: 44 % [precipitant]  
+- Ammonium Tartrate: 400 mM [additive]</td>
     </tr>
   </tbody>
 </table>

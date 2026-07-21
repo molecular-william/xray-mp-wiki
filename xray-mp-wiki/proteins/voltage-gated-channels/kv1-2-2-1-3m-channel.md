@@ -1,7 +1,7 @@
 ---
 title: "Kv1.2-2.1-3m Chimeric Channel (C-type Inactivated State)"
 created: 2026-06-16
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -132,6 +132,31 @@ The Kv1.2-2.1-3m channel is a triple mutant (W362F, S367T, V377T) of the Kv1.2-2
     <tr>
       <td>Notes</td>
       <td>Protein-to-reservoir ratio 1:1. Rod-shaped crystals. Data collected at APS (beamlines 23ID-B and 23ID-D). Multiple crystals combined for complete dataset.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg 400: 26-36 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

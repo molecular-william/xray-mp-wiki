@@ -1,7 +1,7 @@
 ---
 title: "LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -322,6 +322,14 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
       <td>Notes</td>
       <td>Two crystal forms obtained: C2 (high-resolution) and P2_12_12_1 (lower resolution). Proteins arranged as stacked bilayers held together by hydrophobic interactions between membrane-spanning regions, characteristic of the HiLiDe method.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

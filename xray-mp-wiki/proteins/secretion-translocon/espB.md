@@ -1,7 +1,7 @@
 ---
 title: "EspB"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -155,6 +155,24 @@ EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Calcium Acetate: 0.2 M [buffer]  
+- Tris: 0.1 M [buffer]  
+- Peg: 20 % [precipitant] (PEG3000)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Sitting drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
     </tr>
@@ -181,6 +199,26 @@ EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit
     <tr>
       <td>Notes</td>
       <td>Space group C2221; best dataset diffracted to 1.5 A resolution (Rwork 0.194, Rfree 0.218); refined with seven TLS groups; isomorphous with 4XWP but less disordered (only residues 90-114 missing); no electron density for <a href="/xray-mp-wiki/reagents/lipids/phosphatidylserine">Phosphatidylserine</a> observed despite additive presence</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>291 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 20 % [precipitant] (w/v PEG3350)</td>
     </tr>
   </tbody>
 </table>
@@ -219,6 +257,27 @@ EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>10.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 0.2 M [salt]  
+- Ammonium Sulfate: 1.26 M [salt]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Hanging drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
     </tr>
@@ -245,6 +304,27 @@ EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit
     <tr>
       <td>Notes</td>
       <td>Space group not specified; structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using EspB7-278 (PDB 4XXN) as search model; refined to 3.04 A resolution (Rwork 0.220, Rfree 0.266); C-terminal domain disordered; only 5 additional C-terminal residues (279-283) added</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>10.8</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 0.2 M [salt]  
+- Ammonium Sulfate: 1.5 M [salt]</td>
     </tr>
   </tbody>
 </table>

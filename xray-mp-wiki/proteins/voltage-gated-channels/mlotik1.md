@@ -1,7 +1,7 @@
 ---
 title: "MlotiK1 (Mesorhizobium loti Cyclic Nucleotide-Regulated Potassium Channel)"
 created: 2026-06-17
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -109,6 +109,26 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
     <tr>
       <td>Notes</td>
       <td>Crystals grown in the presence of substoichiometric amounts of cAMP (200 uM). KCl replaced by RbCl or CsCl by size exclusion for heavy-atom derivatives. Best diffracting crystals grew with 200 uM cAMP present. C-terminal CNB domains disordered. Data collected from native, RbCl co-crystal, and CsCl co-crystal forms.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 10 % [precipitant] (PEG 2000)</td>
     </tr>
   </tbody>
 </table>

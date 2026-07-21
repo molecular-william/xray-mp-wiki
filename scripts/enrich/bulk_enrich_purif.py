@@ -6,6 +6,8 @@ from pathlib import Path
 
 import yaml
 
+from scripts._base import fast_load_str
+
 W = Path("/home/wtliaf/Desktop/Research/coding_projects/xray-mp-wiki/xray-mp-wiki")
 
 ENTITIES = [
@@ -74,7 +76,7 @@ total_mod = 0
 total_links = 0
 
 for yf in sorted((W / "proteins_yaml").rglob("*.yaml")):
-    data = yaml.safe_load(yf.read_text())
+    data = fast_load_str(yf.read_text())
     if not isinstance(data, dict):
         continue
 

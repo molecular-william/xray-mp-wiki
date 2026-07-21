@@ -1,7 +1,7 @@
 ---
 title: "DgoT (E. coli D-galactonate Transporter)"
 created: 2019-05-13
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -181,6 +181,31 @@ bind the anionic substrate.
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.35</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 39 % [precipitant] (Peg 400)  
+- Acetate: 100 mM [buffer]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Hanging drop vapor diffusion</td>
     </tr>
@@ -207,6 +232,31 @@ bind the anionic substrate.
     <tr>
       <td>Notes</td>
       <td>Protein pre-incubated with 10 mM Na galactonate; space group C2; data collected at ALS Beamline 8.3.1 at wavelength 1.1158 A</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 32 % [precipitant] (Peg 1000)  
+- Glycine: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

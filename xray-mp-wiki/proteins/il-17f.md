@@ -1,7 +1,7 @@
 ---
 title: "Interleukin-17F (IL-17F)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -148,6 +148,23 @@ IL-17F is a secreted cytokine and a member of the IL-17 cytokine family. It form
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 0.2 M [salt]  
+- Peg 3350: 20 % [precipitant] (PEG 3350)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -183,6 +200,26 @@ IL-17F is a secreted cytokine and a member of the IL-17 cytokine family. It form
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 20 % [precipitant] (PEG 3350)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -212,6 +249,23 @@ IL-17F is a secreted cytokine and a member of the IL-17 cytokine family. It form
       <td>Notes</td>
       <td>Crystal form II, space group R32
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 20 % [precipitant] (PEG 3350)  
+- Ammonium Formate: 0.2 M [additive]</td>
     </tr>
   </tbody>
 </table>

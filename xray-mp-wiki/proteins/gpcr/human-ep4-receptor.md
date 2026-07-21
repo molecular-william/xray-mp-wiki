@@ -1,7 +1,7 @@
 ---
 title: "Human Prostaglandin E Receptor EP4"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -137,6 +137,18 @@ The prostaglandin E2 receptor EP4 (EP4) is a class A G protein-coupled receptor 
     <tr>
       <td>Notes</td>
       <td>Crystals grown in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) using <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>. Data collected at SPring-8 BL32XU. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using Fab001 structure and a GPCR homology model. The structure reveals a ligand-binding pocket at the lipid-bilayer interface formed by TM1, TM2, TM7, and ECL2.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

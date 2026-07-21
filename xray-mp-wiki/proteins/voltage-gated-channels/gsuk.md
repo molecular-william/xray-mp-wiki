@@ -1,7 +1,7 @@
 ---
 title: "GsuK Multi-Ligand Gated K+ Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -173,6 +173,32 @@ GsuK is a two-transmembrane, RCK-regulated K+ channel from *Geobacter sulfurredu
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 20-23 % [precipitant] (Peg 3350)  
+- Potassium Chloride Kcl: 120 mM [additive]  
+- Glycerol: 1 % [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting Drop Vapor Diffusion</a></td>
     </tr>
@@ -195,6 +221,32 @@ GsuK is a two-transmembrane, RCK-regulated K+ channel from *Geobacter sulfurredu
     <tr>
       <td>Notes</td>
       <td>Full-length channel crystals; various constructs used (wild-type, L97D, L97D+<a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>, L97D+NAD+)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 20-23 % [precipitant] (Peg 3350)  
+- Potassium Chloride Kcl: 120 mM [additive]  
+- Glycerol: 1 % [additive]</td>
     </tr>
   </tbody>
 </table>

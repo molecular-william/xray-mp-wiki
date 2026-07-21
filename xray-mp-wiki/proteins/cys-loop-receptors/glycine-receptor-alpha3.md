@@ -1,7 +1,7 @@
 ---
 title: "Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)"
 created: 2026-06-03
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,33 @@ The human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha-3 su
     <tr>
       <td>Notes</td>
       <td>Diffraction data collected at beamline 22-ID, Advanced Photon Source, Argonne. Final 3.0 Å data set assembled from 15 crystals (10-30° per crystal). Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using apo-<a href="/xray-mp-wiki/proteins/glucl">GluCl (GABA-Gated Chloride Channel from C. elegans)</a> (4TNV) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 25 mM [buffer]  
+- Potassium Chloride Kcl: 100 mM [additive]  
+- Magnesium Chloride: 200 mM [salt]  
+- Peg 400: 30-33 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

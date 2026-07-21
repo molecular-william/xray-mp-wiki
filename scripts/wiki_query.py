@@ -5,7 +5,7 @@ import sys
 import textwrap
 from collections import Counter, defaultdict
 
-from _base import BASE_DIR, HOST_MAP, normalize_host
+from _base import BASE_DIR, HOST_MAP, fast_load_str, normalize_host
 
 BASE = BASE_DIR
 INDEX_PATH = BASE / "references" / "entity_index.json"
@@ -112,7 +112,6 @@ class WikiQuery:
     def _load_yamls(self):
         if self._loaded:
             return
-        import yaml as _yaml
 
         for t in ["proteins", "reagents", "methods", "concepts"]:
             self._yamls[t] = {}
@@ -121,7 +120,7 @@ class WikiQuery:
                 continue
             for f in sorted(d.glob("*.yaml")):
                 try:
-                    data = _yaml.safe_load(f.read_text())
+                    data = fast_load_str(f.read_text())
                     if data and isinstance(data, dict):
                         self._yamls[t][f.stem] = data
                 except Exception:

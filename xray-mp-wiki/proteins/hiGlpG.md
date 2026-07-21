@@ -1,7 +1,7 @@
 ---
 title: "HiGlpG (Haemophilus influenzae Rhomboid Protease)"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,33 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
     <tr>
       <td>Notes</td>
       <td>Crystals grew to 100 x 50 x 20 micrometers. Two space groups obtained: monoclinic C2 and orthorhombic P2(1)2(1)2(1). Monoclinic data diffracted to higher resolution (2.2 A) with one molecule in the AU. Molecular replacement with MolRep using ecGlpG coordinates (2IC8.pdb). Refinement with Refmac5. Data collected at ALS beamline 8.3.1.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 25 % [precipitant] (PEG 4000)  
+- Citrate: 0.1 M [buffer]  
+- Sodium Chloride: 1 M [salt]  
+- Glycerol: 15 % [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -428,6 +455,18 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 2.85 A resolution, space group C2. Disorder in residues 134-164 (loop 4, helix 5, loop 5) was observed across 6 different data sets collected around 2.8 A. Approximately 150 crystals were searched for covalent inhibitors and heavy-atom derivatives. X-ray diffraction data collected on beamline 8.3.1 at the Advanced Light Source (ALS), Lawrence Berkeley Laboratory.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

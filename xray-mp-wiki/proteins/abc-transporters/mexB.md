@@ -1,7 +1,7 @@
 ---
 title: "MexB (Pseudomonas aeruginosa multidrug exporter)"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -128,6 +128,14 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
     <tr>
       <td>Notes</td>
       <td>Crystals belong to space group P1 with two trimers in the asymmetric unit. Structure solved at 3.0 A resolution by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using the asymmetric <a href="/xray-mp-wiki/proteins/acrB">ACRB</a> structure (PDB 2J8S) as search model. R-factors: R = 24.3%, R_free = 28.7%, with 2-fold noncrystallographic symmetry applied.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1056,6 +1064,31 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>25 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 300 mM [salt]  
+- Peg 400: 26 % [precipitant] (polyethylene glycol 400)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">hanging-drop</a> <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
     </tr>
@@ -1086,6 +1119,31 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/abi-pp">ABI-PP</a>-bound MexB crystallized using <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>. P1 crystals solved at 3.15 A resolution. Fo-Fc omit map contoured at 3.0 sigma. The hydrophobic TAP moiety of <a href="/xray-mp-wiki/reagents/ligands/abi-pp">ABI-PP</a> inserts into narrow hydrophobic trap surrounded by F136, F178, F610, F615, F628 and F573. Hydrophilic tetrazole ring interacts with D274, R620 and K151. PAEA moiety extends towards R128 in MexB (different from <a href="/xray-mp-wiki/proteins/acrB">ACRB</a> where it is bent between piperidine ring and aceto-amino ethylene ammonio-<a href="/xray-mp-wiki/reagents/buffers/acetate">Acetate Buffer</a> group).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>25 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 300 mM [salt]  
+- Peg 400: 26 % [precipitant] (polyethylene glycol 400)</td>
     </tr>
   </tbody>
 </table>
@@ -1128,6 +1186,22 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>25 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">hanging-drop</a> <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
     </tr>
@@ -1158,6 +1232,22 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/abi-pp">ABI-PP</a>-bound MexB(F178W) crystallized using <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>. P1 crystals solved at 3.00 A resolution. <a href="/xray-mp-wiki/reagents/ligands/abi-pp">ABI-PP</a> detected in hydrophobic trap as in wild-type MexB. Indolyl ring of W178 fits into position capable of forming pi-pi interactions with pyridopyrimidine ring without large <a href="/xray-mp-wiki/concepts/structural-mechanisms/conformational-change/">conformational change</a> relative to <a href="/xray-mp-wiki/reagents/ligands/abi-pp">ABI-PP</a>-free structure.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>25 C</td>
     </tr>
   </tbody>
 </table>

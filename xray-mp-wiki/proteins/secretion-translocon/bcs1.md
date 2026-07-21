@@ -1,7 +1,7 @@
 ---
 title: "Mouse Bcs1 (AAA Protein Translocase)"
 created: 2026-06-17
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -154,6 +154,14 @@ Bcs1 is a mitochondrial membrane-bound [AAA](/xray-mp-wiki/reagents/ligands/aaa/
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -164,6 +172,14 @@ Bcs1 is a mitochondrial membrane-bound [AAA](/xray-mp-wiki/reagents/ligands/aaa/
     <tr>
       <td>Notes</td>
       <td>X-ray crystallography of full-length mBcs1. Crystals only obtained in the presence of ATPgS.Mg2+. Diffracted to 4.4 A resolution. <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> failed with known <a href="/xray-mp-wiki/reagents/ligands/aaa/">AAA</a> structures; phased using the apo mBcs1 <a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> model. Bound ADP detected in the nucleotide-binding pocket despite ATPgS in the crystallization condition.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

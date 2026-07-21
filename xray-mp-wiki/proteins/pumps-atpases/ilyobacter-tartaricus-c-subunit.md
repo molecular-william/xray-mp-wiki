@@ -1,7 +1,7 @@
 ---
 title: "F-Type Na+-ATPase c11 Rotor Ring from Ilyobacter tartaricus"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -106,6 +106,18 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
     <tr>
       <td>Notes</td>
       <td>Crystallized in buffer containing 100 mM <a href="/xray-mp-wiki/reagents/buffers/sodium-acetate/">Sodium Acetate</a> to promote Na+ binding</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

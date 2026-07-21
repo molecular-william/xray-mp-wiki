@@ -1,7 +1,7 @@
 ---
 title: "E. coli Methionine ABC Transporter MetNI"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -64,6 +64,14 @@ The MetNI complex is the high-affinity methionine ABC transporter from *Escheric
     <tr>
       <td>Notes</td>
       <td>Crystals soaked in 1 mM L-<a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> for 2 hours; diffraction data collected to 5.2 Å resolution at the selenium edge</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

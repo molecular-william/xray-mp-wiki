@@ -1,7 +1,7 @@
 ---
 title: "E. coli DtpA Peptide Transporter"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -141,6 +141,14 @@ DtpA is a proton-dependent oligopeptide transporter (POT) from Escherichia coli 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -148,6 +156,14 @@ DtpA is a proton-dependent oligopeptide transporter (POT) from Escherichia coli 
       <td>Notes</td>
       <td>DtpA-N00 complex with <a href="/xray-mp-wiki/reagents/antibiotics/valganciclovir">VALGANCICLOVIR</a>. Drug added to DtpA solution in powder form (20 mM estimated concentration) and N00 added. Best diffracting crystals grew in 0.1 M glycine pH 9.0, 35% PEG 400, 0.15 M CaCl2, 0.02% Anapoe-C12E10. Data collected at beamline P13, PETRA III at 100 K wavelength 0.966 A. Solved by molecular replacement using ligand-free structure as search model.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

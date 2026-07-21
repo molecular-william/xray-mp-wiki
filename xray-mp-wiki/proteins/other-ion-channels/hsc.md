@@ -1,7 +1,7 @@
 ---
 title: "HSC (Hydrosulfide Channel from Clostridium difficile)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -150,6 +150,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -160,6 +168,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     <tr>
       <td>Notes</td>
       <td>Neutral pH crystal form</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -182,6 +198,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -192,6 +216,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     <tr>
       <td>Notes</td>
       <td>Salt-bridge-triad mutant</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -214,6 +246,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -224,6 +264,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     <tr>
       <td>Notes</td>
       <td>Disrupts His201-Thr84 hydrogen bond</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -246,6 +294,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -256,6 +312,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
     <tr>
       <td>Notes</td>
       <td>Point mutant</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

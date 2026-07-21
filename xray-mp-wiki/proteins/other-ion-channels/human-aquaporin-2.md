@@ -1,7 +1,7 @@
 ---
 title: "Human Aquaporin 2 (AQP2)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -103,6 +103,18 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
       <td>Notes</td>
       <td>CdCl2 used as an additive during crystallization. Complete data collected at ESRF (Grenoble, France) from a single frozen crystal. Crystals belonged to space group P42 with one tetramer in the asymmetric unit (a=119.11 A, b=119.11 A, c=90.48 A).
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
     </tr>
   </tbody>
 </table>
@@ -837,6 +849,33 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
       <td>Notes</td>
       <td>On-chip crystallization on Roadrunner II chip. 100 ul protein-precipitant mix applied to chip, equilibrated against 5-7 ml reservoir. Excess mother liquor removed by blotting. Room-temperature SFX data collected at LCLS MFX beamline using fast-scanning goniometer at 120 images/s, 50 um step size, 25-degree tilt angle. Humidified helium stream used during data collection.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>298 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Sodium Chloride: 0.1 M [salt]  
+- Magnesium Chloride: 0.1 M [salt]  
+- Peg 400: 22-25 % [precipitant] (PEG 400 with 0.1 M CdCl2)</td>
     </tr>
   </tbody>
 </table>

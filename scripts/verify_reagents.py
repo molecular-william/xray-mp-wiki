@@ -3,14 +3,14 @@
 import re
 from pathlib import Path
 
-import yaml
+from scripts._base import fast_load_str
 
 r_dir = Path("xray-mp-wiki/reagents_yaml")
 promoted = 0
 for yf in sorted(r_dir.rglob("*.yaml")):
     if yf.name.endswith(".bak"):
         continue
-    d = yaml.safe_load(yf.read_text())
+    d = fast_load_str(yf.read_text())
     if d.get("verified") != "regex":
         continue
     sources = d.get("sources") or []

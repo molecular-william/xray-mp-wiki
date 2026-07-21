@@ -1,7 +1,7 @@
 ---
 title: "MdfA Multidrug Transporter I239T/G354E Variant (E. coli)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -135,6 +135,18 @@ uniprot_id: P0AEY8
     <tr>
       <td>Notes</td>
       <td>All three structures (LDAO-bound, MV-bound, DXC-bound) crystallized in C2 space group. Phase solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> combined with SAD phasing. Data collected at APS beamline 24ID-C. LDAO-bound at pH 8.0 (2.2 Å), MV-bound at pH 8.0 (2.8 Å), DXC-bound at pH 6.0 (3.0 Å).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>24 C</td>
     </tr>
   </tbody>
 </table>

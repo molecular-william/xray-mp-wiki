@@ -1,7 +1,7 @@
 ---
 title: "Human Complement C5a Receptor 1 (C5aR1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -106,6 +106,14 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
     <tr>
       <td>Notes</td>
       <td>Two-syringe mixing method; <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> used as lipid; 11 crystals used for data collection</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>
@@ -561,6 +569,14 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
     <tr>
       <td>Notes</td>
       <td>Protein mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>; crystals grown in lipidic mesophase</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Archaerhodopsin-1 from Halorubrum sp. aus-1"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -91,6 +91,27 @@ Archaerhodopsin-1 (aR-1) is a light-driven proton pump from Halorubrum sp. aus-1
     <tr>
       <td>Notes</td>
       <td>Bi-pyramidal crystals grown over 3-6 weeks at high detergent:protein ratio (~1:1). Crystal exhibits claret color with fine absorption peaks at 453, 478, 509 and 546 nm from bacterioruberin</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>10 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 2.8-2.9 M [salt]  
+- Citrate: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

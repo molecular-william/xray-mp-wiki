@@ -1,7 +1,7 @@
 ---
 title: "mT4L (Minimal T4 Lysozyme)"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -99,6 +99,24 @@ mT4L is a minimal variant of T4 lysozyme engineered for [GPCR](/xray-mp-wiki/con
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg: 44 % [precipitant] (PEG 300)  
+- Ammonium Tartrate: 400 mM [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase</a> crystallization</td>
     </tr>
@@ -122,6 +140,24 @@ mT4L is a minimal variant of T4 lysozyme engineered for [GPCR](/xray-mp-wiki/con
       <td>Notes</td>
       <td>Same crystallization condition as <a href="/xray-mp-wiki/reagents/ligands/tiotropium">Tiotropium</a>-bound M3-mT4L. 12 crystals used. Resolution 3.7 A. Rwork/Rfree 23.9/28.5%. Binding pocket interactions nearly identical to <a href="/xray-mp-wiki/reagents/ligands/tiotropium">Tiotropium</a>-bound structure.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg: 44 % [precipitant] (PEG 300)  
+- Ammonium Tartrate: 400 mM [additive]</td>
     </tr>
   </tbody>
 </table>

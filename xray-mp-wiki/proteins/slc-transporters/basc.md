@@ -1,7 +1,7 @@
 ---
 title: "BasC (Bacterial Alanine-Serine-Cysteine Exchanger)"
 created: 2026-06-09
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -126,6 +126,33 @@ BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine</a>-labeled protein used for experimental phasing. Apo crystals diffracted to 2.9 A (space group C2), 2-AIB-bound crystals to 3.4 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Sodium Chloride: 200 mM [salt]  
+- Peg: 30 % [precipitant] (PEG 5000 MME (apo))  
+- Peg 4000: 20-25 % [precipitant] (PEG 4000 (holo))</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "HpnN Hopanoid Transporter from Burkholderia multivorans"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -93,6 +93,31 @@ HpnN from *Burkholderia multivorans* is a member of the hopanoid biosynthesis-as
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>3.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>25 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 16 % [precipitant] (PEG 2000)  
+- Citrate: 0.1 M [buffer]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Sitting-drop vapor diffusion</td>
     </tr>
@@ -123,6 +148,31 @@ HpnN from *Burkholderia multivorans* is a member of the hopanoid biosynthesis-as
     <tr>
       <td>Notes</td>
       <td>Form II crystals. Dimersions ~0.2 mm.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>25 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 15 % [precipitant] (PEG 2000)  
+- Citrate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

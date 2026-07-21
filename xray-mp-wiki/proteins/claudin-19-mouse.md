@@ -1,7 +1,7 @@
 ---
 title: "Mouse Claudin-19 (mCldn19)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -84,6 +84,14 @@ Mouse claudin-19 (mCldn19) is a tight junction membrane protein belonging to the
     <tr>
       <td>Notes</td>
       <td>Crystals contain two 1:1 claudin-toxin complexes per asymmetric unit. RMSD between Cα atoms of the two complexes is 0.39 Å.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

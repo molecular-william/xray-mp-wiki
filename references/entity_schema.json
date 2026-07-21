@@ -50,6 +50,7 @@
           "enum": [
             "none",
             "regex",
+            "pdb",
             "agent",
             "human"
           ],
@@ -85,6 +86,17 @@
           },
           "title": {
             "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "detergent_used", "buffer_component", "additive_used",
+              "ligand_bound", "method_used", "fusion_tag",
+              "crystallization_method", "purification_method",
+              "related_protein", "related_concept", "family_member",
+              "comparative_study", "entity_mentioned",
+              "antibiotic_selection", "expression_system", "related"
+            ]
           },
           "reason": {
             "type": "string"
@@ -170,6 +182,15 @@
         },
         "notes": {
           "type": "string"
+        },
+        "class": {
+          "type": "string",
+          "enum": [
+            "e-coli", "sf9", "hek293", "pichia-pastoris",
+            "saccharomyces-cerevisiae", "hi5", "native-tissue",
+            "cell-free", "lexsy", "other-bacterial",
+            "other-eukaryotic", "not-specified"
+          ]
         },
         "induction": {
           "type": "string"
@@ -276,7 +297,7 @@
                       },
                       "concentration": {
                         "type": [
-                          "number",
+                          "string",
                           "null"
                         ]
                       },
@@ -314,7 +335,7 @@
                       },
                       "ph": {
                         "type": [
-                          "number",
+                          "string",
                           "null"
                         ]
                       }
@@ -396,6 +417,50 @@
           },
           "notes": {
             "type": "string"
+          },
+          "crystallization_details": {
+            "$ref": "#/definitions/crystallization_details_schema"
+          }
+        }
+      }
+    },
+    "crystallization_details_schema": {
+      "type": "object",
+      "properties": {
+        "method_lc": {
+          "type": "string",
+          "enum": [
+            "lcp", "vapor-diffusion", "microbatch", "dialysis",
+            "bicelle", "nanodisc", "free-interface-diffusion",
+            "counter-diffusion", "not-specified"
+          ]
+        },
+        "method_variant": {
+          "type": "string",
+          "enum": ["sitting-drop", "hanging-drop"]
+        },
+        "ph": { "type": "string" },
+        "temperature_value": { "type": "string" },
+        "temperature_unit": {
+          "type": "string",
+          "enum": ["C", "K", "°C"]
+        },
+        "mixing_ratio": { "type": "string" },
+        "protein_to_lipid_ratio": { "type": "string" },
+        "lipid_note": { "type": "string" },
+        "reservoir_components": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["reagent"],
+            "properties": {
+              "reagent": { "type": "string", "pattern": "^/xray-mp-wiki/" },
+              "concentration": { "type": "string" },
+              "unit": { "type": "string", "enum": ["M", "mM", "%"] },
+              "role": { "type": "string", "enum": ["buffer", "salt", "precipitant", "additive", "detergent"] },
+              "subtype": { "type": "string" },
+              "note": { "type": "string" }
+            }
           }
         }
       }

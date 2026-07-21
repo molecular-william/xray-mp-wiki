@@ -1,7 +1,7 @@
 ---
 title: "Human GPR65 Proton-Sensing Receptor (TDAG8)"
 created: 2026-06-26
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -118,6 +118,28 @@ GPR65 (also known as TDAG8) is a proton-sensing G protein-coupled receptor predo
     <tr>
       <td>Notes</td>
       <td>Crystals harvested and flash-frozen. Data collected at SSRL beamline 12-2. Phased by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using BRIL as search model. Diffraction to 3.1 Angstrom resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Ammonium Sulfate: 200 mM [salt]  
+- Peg 400: 30 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "KvAP voltage-dependent K+ channel from Aeropyrum pernix"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -110,6 +110,14 @@ uniprot_id: Q9YDF8
     <tr>
       <td>Notes</td>
       <td>Two crystal forms: (1) <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kvap/">KvAP Voltage-Dependent Potassium Channel</a>-33H1 Fv complex in tetragonal space group at 3.9 A, (2) <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kvap/">KvAP Voltage-Dependent Potassium Channel</a> alone in triclinic space group at 8 A. <a href="/xray-mp-wiki/reagents/detergents/dhpc/">DHPC</a> used as detergent-like lipid for both forms. Fv-mediated crystal contacts in the tetragonal form.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

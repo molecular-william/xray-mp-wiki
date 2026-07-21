@@ -1,7 +1,7 @@
 ---
 title: "Human Endothelin ETB Receptor Bound to Bosentan"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -141,6 +141,14 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
     <tr>
       <td>Notes</td>
       <td>Crystals of ETB-Y5-mT4L-K-8794 in space group C2221 (2.2 A); ETB-Y4-mT4L-bosentan in space group P3221 (3.6 A). Molecular replacement used for structure determination.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

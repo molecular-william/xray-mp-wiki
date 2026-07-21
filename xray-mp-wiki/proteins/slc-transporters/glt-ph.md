@@ -1,7 +1,7 @@
 ---
 title: "GltPh (Glutamate Transporter Homologue from Pyrococcus horikoshii)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -789,6 +789,18 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion Crystallization</a></td>
     </tr>
@@ -821,6 +833,18 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion Crystallization</a></td>
     </tr>
@@ -847,6 +871,18 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     <tr>
       <td>Notes</td>
       <td>Apo structure; HP2 predominantly in open conformation</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
     </tr>
   </tbody>
 </table>
@@ -3529,6 +3565,18 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Sitting-drop vapor diffusion</td>
     </tr>
@@ -3561,6 +3609,18 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Cryo-EM single-particle analysis (nanodisc reconstitution)</td>
     </tr>
@@ -3587,6 +3647,14 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
     <tr>
       <td>Notes</td>
       <td>Cryo-EM structures of GltPh-XL2 in iOFS (3.7 A, 105,135 particles) and CICS (4.0 A, 98,093 particles). Data collected at 200 kV on 150,000x magnification. 40 e-/A2 electron exposure. Pixel size 0.986 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>nanodisc</td>
     </tr>
   </tbody>
 </table>

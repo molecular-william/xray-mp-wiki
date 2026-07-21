@@ -1,7 +1,7 @@
 ---
 title: "Na+,K+-ATPase (Bovine Kidney)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -157,6 +157,32 @@ well as two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) molecules.
     <tr>
       <td>Notes</td>
       <td>Initial hit from PEG/Ion Screen (Hampton Research) condition No. 5: 200 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20% <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 3350. Optimized by grid and additive screening with continual diffraction-potential evaluation. Space group C2221 with one molecule per asymmetric unit. Data collected at I911-3, MAX-lab, 100 K, MAR Mosaic 225 detector, 385 mm distance. 120 total rotation, 0.25 per image, 10 s exposure per image.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 14 % [precipitant] (Peg 3350)  
+- Magnesium Chloride: 210 mM [salt]  
+- Beta Mercaptoethanol: 25 mM [additive]</td>
     </tr>
   </tbody>
 </table>

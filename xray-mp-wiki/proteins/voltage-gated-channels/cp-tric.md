@@ -1,7 +1,7 @@
 ---
 title: "CpTRIC Channel from Clostridium perfringens"
 created: 2026-06-03
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -104,6 +104,22 @@ CpTRIC is a Trimeric Intracellular Cation (TRIC) channel from the bacterium Clos
     <tr>
       <td>Notes</td>
       <td>CpTRIC Se-Met crystal form. Wavelength 0.97876 A, space group R32, resolution ~2.4 A. Se-Met used for SAD phasing. Cd2+ bound at four distinct sites per protomer.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 38 % [precipitant]</td>
     </tr>
   </tbody>
 </table>

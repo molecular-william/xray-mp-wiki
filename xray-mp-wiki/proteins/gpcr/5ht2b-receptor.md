@@ -1,7 +1,7 @@
 ---
 title: "Human 5-HT2B Receptor"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,28 @@ The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> method with <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>. Crystals diffracted to 2.9 A (space group C2221). Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using 5-HT2B-R/<a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a> (PDB: 4IB4) and <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> (PDB: 1M6T) as search models</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 20 % [precipitant] (PEG400)  
+- Acetate: 0.2 M [buffer]  
+- Hepes: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -347,6 +369,26 @@ The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>-grown microcrystals (5x5x5 um) delivered via <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> injector at LCLS CXI. Co-axial He/N2 gas stabilization at 20-30 bar. 4,217,508 diffraction patterns collected in 10 hours at 120 Hz, 50 fs pulses, 9.5 keV. 152,651 crystal hits (3.6%), 32,819 indexed (21.5%). Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> at 2.8 A resolution. Rwork/Rfree = 22.7/27.0%. Space group C2221. First room-temperature <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr/">GPCR</a> structure obtained by SFX.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>21 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>40:60 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

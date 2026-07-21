@@ -1,7 +1,7 @@
 ---
 title: "GIRK1 Cytoplasmic Pore (G Protein-Gated Inward Rectifier K+ Channel)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -128,6 +128,31 @@ The G Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea-Gated-Por
     <tr>
       <td>Notes</td>
       <td>Diffractive Imaging of Imperfect Crystals in space group P42₁2 (a = 76.02 Å, c = 86.11 Å). SeMet-incorporated Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea used for MAD SeMet Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing at CHESS F2 station. Data collected at 3 wavelengths. Final <a href="/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/">Ball-and-Chain Model for SLC38A9</a> contains 1591 non-<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea atoms and 140 <a href="/xray-mp-wiki/concepts/signaling-receptors/water-network-in-ligand-binding/">Water Networks in GPCR Ligand Binding</a> in GPCR Ligand Binding in GPCR Ligand Binding molecules. Rwork/Rfree = 23.1/25.3%</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 50 mM [buffer]  
+- Peg 400: 55 % [precipitant] (PEG400)</td>
     </tr>
   </tbody>
 </table>

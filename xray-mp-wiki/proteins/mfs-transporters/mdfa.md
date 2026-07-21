@@ -1,7 +1,7 @@
 ---
 title: "Multidrug Transporter MdfA (E26T/D34M/A150E) from Escherichia coli"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -154,6 +154,31 @@ uniprot_id: P0AEY8
     <tr>
       <td>Notes</td>
       <td>10 µL hanging drops with equal volumes of protein and reservoir. Crystals obtained at pH 8.0 (Cm-bound), pH 5.0 (Cm-bound), pH 6.0 (DXC-bound), and pH 8.0 (LDAO-bound). Phase solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> combined with SAD phasing.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>24 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 150 mM [salt]  
+- Magnesium Chloride: 150 mM [salt]</td>
     </tr>
   </tbody>
 </table>

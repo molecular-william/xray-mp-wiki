@@ -1,7 +1,7 @@
 ---
 title: "GkPOT Proton-Coupled Oligopeptide Transporter"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -130,6 +130,18 @@ GPCR Inactive Conformation.
     <tr>
       <td>Notes</td>
       <td>Crystallized using <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> Crystallization method with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>. SeMet Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography used for SAD SeMet Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing. Native data collected to 1.9 A at Entropic Spring Mechanism in Tc Toxin Injection in Tc Toxin Injection-8 BL32XU. Diffractive Imaging of Imperfect Crystals also obtained for E310Q variant in complex with <a href="/xray-mp-wiki/reagents/ligands/alafosfalin/">Alafosfalin</a> and MgSO4-<a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/">Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters</a> in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters form.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

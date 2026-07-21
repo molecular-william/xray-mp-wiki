@@ -1,7 +1,7 @@
 ---
 title: "Human Alpha-1B Adrenergic Receptor (alpha1B AR)"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -109,6 +109,14 @@ The human alpha-1B adrenergic receptor (alpha1B AR, ADRA1B) is a class A G prote
       <td>Notes</td>
       <td>Structure determined at 3.1 A (processed to 2.87 A with STARANISO anisotropy correction). Data collected at synchrotron. Molecular replacement using turkey beta1 AR (PDB 6IBL) and <a href="/xray-mp-wiki/reagents/protein-tags/darpin/">Designed Ankyrin Repeat Protein (DARPin)</a> D12 (PDB 5LW2) as search models.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

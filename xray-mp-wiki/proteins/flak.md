@@ -1,7 +1,7 @@
 ---
 title: "FlaK (Preflagellin Peptidase from Methanococcus maripaludis)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -152,6 +152,32 @@ FlaK is a preflagellin peptidase (PFP) from the archaeon Methanococcus maripalud
     <tr>
       <td>Notes</td>
       <td>Data collected at NSLS (X25, X29) and APS (24-ID-C, E). Structure determined by Se-Met SAD phasing.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 30 % [precipitant] (PEG 300)  
+- Glycine: 50 mM [buffer]  
+- Sodium Chloride: 100 mM [salt]</td>
     </tr>
   </tbody>
 </table>

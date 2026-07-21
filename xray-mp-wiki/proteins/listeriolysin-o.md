@@ -1,7 +1,7 @@
 ---
 title: "Listeriolysin O"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

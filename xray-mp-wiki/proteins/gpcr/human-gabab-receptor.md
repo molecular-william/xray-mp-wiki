@@ -1,7 +1,7 @@
 ---
 title: "Human GABA_B Receptor"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,31 @@ The human GABA_B receptor (GABA_B R) is a class C G-protein-coupled receptor tha
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 10 % [precipitant] (PEG 3350)  
+- Glycerol: 20 % [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion (sitting drop)</td>
     </tr>
@@ -163,6 +188,31 @@ The human GABA_B receptor (GABA_B R) is a class C G-protein-coupled receptor tha
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 20 % [precipitant] (PEG 2000)  
+- Glycerol: 15 % [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion (sitting drop)</td>
     </tr>
@@ -181,6 +231,31 @@ The human GABA_B receptor (GABA_B R) is a class C G-protein-coupled receptor tha
     <tr>
       <td>Notes</td>
       <td>Crystallized in presence of 10 mM GABA. Crystals frozen in cryoprotecting solution containing 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> plus all crystallization components. Data collected at APS 24ID-C and 24ID-E beamlines.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 18 % [precipitant] (PEG 2000)  
+- Glycerol: 5 % [additive]</td>
     </tr>
   </tbody>
 </table>

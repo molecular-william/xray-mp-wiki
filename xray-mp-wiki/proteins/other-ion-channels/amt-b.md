@@ -1,7 +1,7 @@
 ---
 title: "Ammonium Transporter AmtB (E. coli)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,18 @@ ordered water/ammonia molecules in the central pore.
     <tr>
       <td>Notes</td>
       <td>Crystals of AmtB_Ecoli grown in presence of 25 mM AmSO4 at pH 6.5 diffract to 1.35 A. Also crystallized with 100 mM MASO4 at pH 6.5 for methylammonium complex.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
     </tr>
   </tbody>
 </table>
@@ -793,6 +805,32 @@ ordered water/ammonia molecules in the central pore.
     <tr>
       <td>Notes</td>
       <td>Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using AmtB structure (1U7G) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 100 mM [buffer]  
+- Sodium Chloride: 200 mM [salt]  
+- Peg: 20 % [precipitant]</td>
     </tr>
   </tbody>
 </table>
@@ -1672,6 +1710,31 @@ ordered water/ammonia molecules in the central pore.
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Peg: 22 % [precipitant]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -2417,6 +2480,32 @@ ordered water/ammonia molecules in the central pore.
     <tr>
       <td>Notes</td>
       <td>Ten-fold molar excess of PG added prior to crystallization. Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using PHASER with PDB 1U7G.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 15 % [precipitant] (PEG 4000 (Polyethylene Glycol 4000))  
+- Potassium Formate: 0.8 M [additive]  
+- Acetate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -3862,6 +3951,14 @@ ordered water/ammonia molecules in the central pore.
     <tr>
       <td>Notes</td>
       <td>Five variants (H168A, H168E, H168F, H318A, H318F) and double mutant H168A/H318A crystallized in hexagonal form. Data collected at Swiss Light Source. Structures refined to 2.0-2.2 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

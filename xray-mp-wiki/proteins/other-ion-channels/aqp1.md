@@ -1,7 +1,7 @@
 ---
 title: "Aquaporin-1 (AQP1)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -104,6 +104,14 @@ uniprot_id: P47865
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/quality-assessment/native-mass-spectrometry/">Native Mass Spectrometry</a> crystals obtained as described previously (reference 27). Co-crystallization with thallium yielded <a href="/xray-mp-wiki/reagents/additives/thallium-acetate/">Thallium Acetate</a>-derivatized crystals suitable for MAD <a href="/xray-mp-wiki/concepts/methods-techniques/long-wavelength-native-sad-phasing/">Long Wavelength Native Sad Phasing</a>. Space group I422, unit cell a = b = 93.3 A, c = 180.5 A, one molecule per asymmetric unit. Crystals diffracted to 2.1 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

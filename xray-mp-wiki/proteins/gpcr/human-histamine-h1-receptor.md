@@ -1,7 +1,7 @@
 ---
 title: "Human Histamine H1 Receptor (H1R)"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,32 @@ The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/si
     <tr>
       <td>Notes</td>
       <td>Protein-LCP mixture: 40% w/w receptor solution, 54% w/w <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>, 6% w/w <a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a>. The phosphate ion in the reservoir (300 mM ammonium phosphate) was found bound at the entrance to the ligand-binding pocket and acts as a positive modulator of ligand binding.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Phosphate: 300 mM [buffer]  
+- Tris: 100 mM [buffer]  
+- Peg 400: 25-30 % [precipitant] (v/v PEG 400)</td>
     </tr>
   </tbody>
 </table>

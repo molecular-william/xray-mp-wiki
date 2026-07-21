@@ -1,7 +1,7 @@
 ---
 title: "Acetabularia Rhodopsin II"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -116,6 +116,18 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
     <tr>
       <td>Notes</td>
       <td>Reddish-purple plate-like crystals grew to 100 µm × 100 µm × 10 µm. Crystals were very unstable under open-air conditions and easily damaged during handling. Four ARII monomers with eight <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">cholesterol</a> molecules in the asymmetric unit. Cholesterol molecules located between helices A and G, stabilizing overlaid planar layers. No obvious electron densities for loops between helices A-B and E-F.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

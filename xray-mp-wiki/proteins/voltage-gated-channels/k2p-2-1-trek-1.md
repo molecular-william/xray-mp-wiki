@@ -1,7 +1,7 @@
 ---
 title: "K2P 2.1 (TREK-1) Potassium Channel"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -169,6 +169,22 @@ K2P 2.1 (also known as TREK-1, encoded by KCNK2) is a polymodal thermo- and mech
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1126##sciadv.abc9174
 
 **Structures:**
@@ -233,6 +249,32 @@ K2P 2.1 (also known as TREK-1, encoded by KCNK2) is a polymodal thermo- and mech
     <tr>
       <td>Notes</td>
       <td>Structures determined at seven potassium concentrations (0, 1, 10, 30, 50, 100, 200 mM [K+]) and in the presence of <a href="/xray-mp-wiki/reagents/ligands/ml335/">ML335 (N-aryl-sulfonamide K2P activator)</a> activator.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 20-25 % [precipitant] (PEG400)  
+- Potassium Chloride Kcl: 200 mM [additive]  
+- Hepes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

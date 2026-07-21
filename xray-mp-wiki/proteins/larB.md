@@ -1,7 +1,7 @@
 ---
 title: "LarB (Lactiplantibacillus plantarum)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,26 @@ LarB is an enzyme from Lactiplantibacillus plantarum (formerly Lactobacillus pla
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 10-20 % [precipitant] (PEG 3350)</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1073/pnas.2106202118
 
 **Structures:**
@@ -170,6 +190,18 @@ LarB is an enzyme from Lactiplantibacillus plantarum (formerly Lactobacillus pla
     <tr>
       <td>Notes</td>
       <td>NAD+ soaked into LarB crystals to form LarB-NAD+ complex. Cys221 covalently attaches to C4 of the pyridine ring.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

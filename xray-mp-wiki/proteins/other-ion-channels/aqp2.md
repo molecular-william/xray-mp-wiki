@@ -1,7 +1,7 @@
 ---
 title: "Aquaporin-2 (AQP2)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -165,6 +165,33 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     <tr>
       <td>Notes</td>
       <td>T125M best in 20% PEG400 at 6 °C, T126M best in 24% PEG400 at room temperature, A147T in 22% PEG400 at 6 °C.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 20–30 % [precipitant] (PEG400)  
+- Tris: 20 mM [buffer]  
+- Magnesium Chloride: 0.1 M [salt]  
+- Sodium Chloride: 0.1 M [salt]</td>
     </tr>
   </tbody>
 </table>
@@ -1496,6 +1523,22 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
     <tr>
       <td>Notes</td>
       <td>CdCl₂ used as an additive during crystallization. Complete data collected at ESRF (Grenoble, France) from a single frozen crystal. Belonged to space group P4₂ with one tetramer in the asymmetric unit (a=119.11 Å, b=119.11 Å, c=90.48 Å).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
     </tr>
   </tbody>
 </table>

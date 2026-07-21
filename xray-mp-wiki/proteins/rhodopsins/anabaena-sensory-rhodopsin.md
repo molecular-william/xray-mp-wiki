@@ -1,7 +1,7 @@
 ---
 title: "Anabaena Sensory Rhodopsin"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -102,6 +102,18 @@ transducer rather than a membrane-embedded one.
     <tr>
       <td>Notes</td>
       <td>Cubic lipid phase crystallization. The bilayer in these crystals undulates due to specific protein-protein interactions within and between bilayers.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

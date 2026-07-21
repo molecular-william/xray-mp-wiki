@@ -17,7 +17,7 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-import yaml as std_yaml
+from scripts._base import fast_load_str
 
 BASE = Path("/home/wtliaf/Desktop/Research/coding_projects/xray-mp-wiki")
 DRY_RUN = "--dry-run" in sys.argv
@@ -30,7 +30,7 @@ def build_reagent_map():
     name_map = {}
     for yf in sorted(BASE.glob("xray-mp-wiki/reagents_yaml/*.yaml")):
         try:
-            data = std_yaml.safe_load(yf.read_text())
+            data = fast_load_str(yf.read_text())
         except Exception:
             continue
         if not data:
@@ -333,7 +333,7 @@ yaml_files_modified = []
 
 for yf in sorted(BASE.glob("xray-mp-wiki/proteins_yaml/*.yaml")):
     try:
-        data = std_yaml.safe_load(yf.read_text())
+        data = fast_load_str(yf.read_text())
     except Exception:
         continue
     if not data:
@@ -466,7 +466,7 @@ if DRY_RUN and yaml_files_modified:
         if shown >= 3:
             break
         try:
-            data = std_yaml.safe_load(yf.read_text())
+            data = fast_load_str(yf.read_text())
         except Exception:
             continue
         for pub in data.get("publications", []):

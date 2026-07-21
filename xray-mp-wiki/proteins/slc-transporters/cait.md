@@ -1,7 +1,7 @@
 ---
 title: "CaiT Carnitine Antiporter from Escherichia coli"
 created: 2026-06-05
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -138,6 +138,33 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
     <tr>
       <td>Notes</td>
       <td>Crystals grown by hanging-drop vapor diffusion at 20 C. Heavy atom derivatives obtained by soaking crystals in mother liquor containing 5 mM ethylmercurithiosalicylic acid and sodium salt. Cryoprotected with reservoir solution containing 30% <a href="/xray-mp-wiki/reagents/additives/peg-400/">Polyethylene Glycol 400 (PEG 400)</a>, 0.020% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, and 10 mM N-<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>. Space group P6(3), cell dimensions a=b=134.2 A, c=85.1 A, alpha=beta=90 deg, gamma=120 deg. Phased by SIRAS using <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury (HgCl2) - Aquaporin Inhibitor</a> peak-wavelength (1.0039 A) dataset. Model contains residues 12-504, nine <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury (HgCl2) - Aquaporin Inhibitor</a> atoms, and four <a href="/xray-mp-wiki/reagents/ligands/l-carnitine/">L-Carnitine</a> molecules. Rwork/Rfree = 0.262/0.281.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 0.1 M [buffer]  
+- Peg 400: 20-26 % [precipitant] (Polyethylene Glycol 400 (PEG 400))  
+- Sodium Chloride: 0.1 M [salt]  
+- L Carnitine: 5 mM [additive]</td>
     </tr>
   </tbody>
 </table>

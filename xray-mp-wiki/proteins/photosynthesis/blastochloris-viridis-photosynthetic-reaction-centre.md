@@ -1,7 +1,7 @@
 ---
 title: "Blastochloris viridis Photosynthetic Reaction Centre (RCvir)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -133,6 +133,18 @@ The photosynthetic reaction center from Blastochloris viridis (RCvir, formerly R
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.8-2.0 M [salt]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting drop vapor diffusion</a> (macrocrystals)</td>
     </tr>
@@ -159,6 +171,26 @@ The photosynthetic reaction center from Blastochloris viridis (RCvir, formerly R
     <tr>
       <td>Notes</td>
       <td>Rod-like crystals up to 1 mm long, approximately 50x50x250 micrometers. Crystallization conditions adapted from Michel (1982).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 2.4 M [salt]</td>
     </tr>
   </tbody>
 </table>
@@ -1311,6 +1343,18 @@ The photosynthetic reaction center from Blastochloris viridis (RCvir, formerly R
     <tr>
       <td>Notes</td>
       <td>LSP: liquid analogue of <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>). Protein solution and LSP mixed in 1:1 ratio (100 uL each), overlaid with 200 uL precipitant. <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">XFEL</a> data collection at LCLS CXI beamline. Wavelength 1.32 A, pulse energy 9.34 keV, pulse duration 42 fs, beam focus 10 um^2. Data from 1,175 indexed images merged. Multiplicity 27. Rwork/Rfree = 0.294/0.327. Space group P212121, a=57.9, b=84.8, c=384.3 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.8 M [salt]</td>
     </tr>
   </tbody>
 </table>

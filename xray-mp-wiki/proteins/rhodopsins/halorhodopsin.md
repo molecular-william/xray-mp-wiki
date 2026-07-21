@@ -1,7 +1,7 @@
 ---
 title: "Halorhodopsin (HR) from Halobacterium salinarum"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -125,6 +125,35 @@ through a protonated Schiff base [Retinal](/xray-mp-wiki/reagents/ligands/retina
     <tr>
       <td>Notes</td>
       <td>HR concentration 3.3-4.0 mg/ml. Crystals grew in dark. Final size 0.1 x 0.1 x 0.02 mm. Space group P6_322, a=b=67.3 Å, c=209.2 Å.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>58-62% <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>1-monoleoyl-rac-Glycerol (Monoolein)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Potassium Chloride Kcl: 4 M [additive]  
+- Tris: 50 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

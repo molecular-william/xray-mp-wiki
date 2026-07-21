@@ -1,7 +1,7 @@
 ---
 title: "Fluc-Ec2 Fluoride Channel"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -146,6 +146,18 @@ Ec2 is a fluoride ion channel from an E. coli virulence plasmid, belonging to th
     <tr>
       <td>Notes</td>
       <td>F⁻ ions located At 2F⁻ per Pore. Diffractive Imaging of Imperfect Crystals of F80Y, F80M, F83M, and T114S mutants obtained Microbatch Crystallization Under Oil similar conditions.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>
@@ -1068,6 +1080,18 @@ Ec2 is a fluoride ion channel from an E. coli virulence plasmid, belonging to th
     <tr>
       <td>Notes</td>
       <td>Diffractive Imaging of Imperfect Crystals formed over 3-7 days. Multi-Wavelength Anomalous Diffraction Br⁻ data collected At 13.5 keV. <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/">Rhodopsin N2C/D282C Mutant</a> Ec2-S81C Diffractive Imaging of Imperfect Crystals obtained Microbatch Crystallization Under Oil similar conditions with 100 mM Br⁻.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump"
 created: 2020-05-01
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -3065,6 +3065,36 @@ KR2 (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping rhodop
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (1-oleoyl-rac-Glycerol)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 42 % [precipitant] (PEG 200)  
+- Acetate: 0.1 M [buffer]  
+- Magnesium Chloride: 0.05 M [salt]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -3807,6 +3837,31 @@ KR2 (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping rhodop
     <tr>
       <td>Notes</td>
       <td>Crystals grown using NT8 robotic system (Formulatrix). Blue crystals obtained at pH 4.3, red crystals at pH 8.0. For pH-soaking experiments, crystals grown at pH 8.0 were transferred to 3.4 M <a href="/xray-mp-wiki/reagents/additives/sodium-malonate/">Sodium Malonate</a> baths at desired pH and equilibrated iteratively over 48+ hours. For monomeric form studies, crystals grown at pH 4.3 were soaked at pH 4.3, 6.0, and 8.0. Dry form obtained by fishing crystals without additional buffer; wet form by re-adding buffer and equilibrating for 30 min.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.3</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monooleoyl-formed lipidic phase (Nu-Chek Prep)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Malonate: 1.0 M [additive]  
+- Sodium Malonate: 1.2 M [additive]</td>
     </tr>
   </tbody>
 </table>

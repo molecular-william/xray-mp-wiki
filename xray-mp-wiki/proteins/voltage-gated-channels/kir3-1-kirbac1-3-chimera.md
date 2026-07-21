@@ -1,7 +1,7 @@
 ---
 title: "Kir3.1-KirBac1.3 Chimeric GIRK Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -150,6 +150,23 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
     <tr>
       <td>Notes</td>
       <td>Crystals in space group P4 (a = b = 98.42 Å, c = 92.62 Å); two unique subunits per asymmetric unit, producing two distinct four-fold symmetric channels (dilated and constricted cytoplasmic pore conformations). RbCl soak used to identify permeant ions at 2.4 Å. Data collected at Brookhaven X29 beamline. Resolution: 100-2.2 Å.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.2</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Potassium Chloride Kcl: 120 mM [additive]  
+- Potassium Phosphate: 200 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

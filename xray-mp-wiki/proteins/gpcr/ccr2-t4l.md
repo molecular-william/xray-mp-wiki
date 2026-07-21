@@ -1,7 +1,7 @@
 ---
 title: "CC Chemokine Receptor 2 with T4 Lysozyme Fusion (CCR2-T4L)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -113,6 +113,26 @@ CC chemokine receptor 2 (CCR2) is a class A G protein-coupled receptor expressed
     <tr>
       <td>Notes</td>
       <td>Crystal also contains a Zn2+ ion coordinated by H144(3.56) from CCR2, E238(6.30) from engineered region, and E1005 from T4L, identified by X-ray fluorescence emission analysis</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (LCP matrix)</td>
     </tr>
   </tbody>
 </table>

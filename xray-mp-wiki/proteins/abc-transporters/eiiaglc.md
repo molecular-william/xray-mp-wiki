@@ -1,7 +1,7 @@
 ---
 title: "EIIA^Glc (Escherichia coli Enzyme IIA^Glc)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

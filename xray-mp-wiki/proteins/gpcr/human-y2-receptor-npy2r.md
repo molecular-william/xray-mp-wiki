@@ -1,7 +1,7 @@
 ---
 title: "Human Neuropeptide Y Y2 Receptor (Y2R, NPY2R)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

@@ -1,7 +1,7 @@
 ---
 title: "Exiguobacterium sibiricum Rhodopsin (ESR)"
 created: 2026-06-21
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -144,6 +144,28 @@ represents the first high-resolution structure of a proteorhodopsin.
     <tr>
       <td>Notes</td>
       <td>Crystals grown using the in meso approach. Best crystals obtained at protein concentration of 35 mg/mL.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.6</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (Nu-Chek Prep)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 0.1 M [buffer]  
+- Sodium Malonate: 0.2 M [additive]  
+- Peg 3350: 12 % [precipitant] (PEG 3350)</td>
     </tr>
   </tbody>
 </table>

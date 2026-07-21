@@ -1,7 +1,7 @@
 ---
 title: "GluA2/3 Heteromeric AMPA Receptor"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,32 @@ GluA2/3 is a heteromeric AMPA-type ionotropic glutamate receptor composed of Glu
     <tr>
       <td>Notes</td>
       <td>GluA2/3 NTD crystallized at 12.5 mg/ml. GluA2/4 NTD crystallized in 17% <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 3350, 0.1-0.35 M ammonium sulfate. Data collected at Diamond Light Source I04-1 beamline.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 14-16 % [precipitant] (Peg 3350)  
+- Ammonium Sulfate: 0.27 M [salt]  
+- Bicine: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

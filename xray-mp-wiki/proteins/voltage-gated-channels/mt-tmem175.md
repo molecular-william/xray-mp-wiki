@@ -1,7 +1,7 @@
 ---
 title: "MtTMEM175 K+ channel from Marivirga tractuosa"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -180,6 +180,32 @@ is a Parkinson disease risk gene.
     <tr>
       <td>Notes</td>
       <td>Best crystals obtained after dehydration. Some crystals soaked with 5 mM KPtCl₄ followed by back-soaking for phasing. Crystals soaked with Cs⁺, Rb⁺ by replacing 150 mM KCl in cryo-protecting solution with 150 mM CsCl or RbCl. Zn²⁺ soaks with 0.5-2.5 mM ZnCl₂.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Sodium Chloride: 150 mM [salt]  
+- Peg 400: 28-30 % [precipitant] (PEG400)</td>
     </tr>
   </tbody>
 </table>

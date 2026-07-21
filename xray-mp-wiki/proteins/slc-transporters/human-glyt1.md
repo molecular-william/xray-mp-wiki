@@ -1,7 +1,7 @@
 ---
 title: "Human Glycine Transporter 1 (GlyT1)"
 created: 2021-03-03
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -104,6 +104,18 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
     <tr>
       <td>Notes</td>
       <td>Microcrystals of GlyT1 in complex with sybody Sb_GlyT1#7 and Cmpd1 were grown in LCP. Oscillation patterns collected from 409 mounted loops containing microcrystals by serial synchrotron crystallography at P14 beamline (PETRA III, DESY). Merged dataset yielded 3.4 A resolution. <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using <a href="/xray-mp-wiki/proteins/slc-transporters/mhsT/">MhsT Multi-Hydrophobic Amino Acid Transporter from Bacillus halodurans</a> (PDB 4US3) and human <a href="/xray-mp-wiki/proteins/slc-transporters/ssert/">SERT</a> (PDB 6DZZ).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

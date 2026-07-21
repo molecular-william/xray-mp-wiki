@@ -1,7 +1,7 @@
 ---
 title: "DsbA"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -307,6 +307,14 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
     <tr>
       <td>Notes</td>
       <td>Crystals grown and cryocooled without cryoprotectant. Crystallographic data collection, structure solution and refinement described in supplementary data. Resolution same as the <a href="/xray-mp-wiki/proteins/dsbB">DSBB</a>(Cys130Ser)-DsbA(Cys33Ala)-Q8 complex structure.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

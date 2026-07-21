@@ -1,7 +1,7 @@
 ---
 title: "ATP11C-CDC50A (Human Plasma Membrane Phospholipid Flippase)"
 created: 2020-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,27 @@ ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi
     <tr>
       <td>Notes</td>
       <td>Protein was reconstituted with DOPC lipids (lipid-to-protein ratio 0.2) and C₁₂E₈ detergent before crystallization. Crystals were plate-like, 800 × 500 × 50 µm. Space group P2₁2₁2₁. Structure solved at 3.9 Å by MR using ATP8A1 E2P structure (PDB 6K7L). Data merged from 1,588 crystals. PDB 6LKN.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Glycerol: 10 % [additive]  
+- Peg 4000: 14–17 % [precipitant] (PEG 4000)</td>
     </tr>
   </tbody>
 </table>

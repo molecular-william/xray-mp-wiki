@@ -1,7 +1,7 @@
 ---
 title: "Fragaceatoxin C (FraC) from Actinia fragacea"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -207,6 +207,32 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 8000: 16 % [precipitant] (PEG 8000)  
+- Sodium Cacodylate: 100 mM [buffer]  
+- Hepes: 100 mM [buffer]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a></td>
     </tr>
@@ -225,6 +251,22 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     <tr>
       <td>Notes</td>
       <td>Lipid-bound FraC crystals obtained in three space groups (P 3 2 1, P 4(2) 2(1) 2, P 3 2). DHPC present at 10 mM in protein sample.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -255,6 +297,22 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Lipidic mesophase (in meso)</td>
     </tr>
@@ -273,6 +331,14 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
     <tr>
       <td>Notes</td>
       <td>Transmembrane pore crystallized in lipidic mesophases. Pore particles prepared by incubating FraC with DOPC/SM (1:1) liposomes, solubilized with Triton X-100, and purified in LDAO. Octameric pore refined at 3.14 A resolution in space group C 2 2 2(1).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "LeuBAT (LeuT Engineered for Antidepressant Pharmacology)"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -105,6 +105,27 @@ LeuBAT is an engineered mutant of the bacterial leucine transporter [LEUT](/xray
     <tr>
       <td>Notes</td>
       <td>Crystals grown in presence of <a href="/xray-mp-wiki/reagents/ligands/serotonin/">Serotonin (5-Hydroxytryptamine, 5-HT)</a> soaked for 1 h in crystallization solution containing antidepressants; 12 crystal structures determined; <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using LeuT-Trp (PDB 3F3A) as search probe</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 100 % [precipitant] (NaPi pH 7.0 100 mM NaCl 32-34% PEG300)  
+- Peg 400: 100 % [precipitant] (Glycine pH 9.4 0.1 M Li2SO4 29-31% PEG400)</td>
     </tr>
   </tbody>
 </table>

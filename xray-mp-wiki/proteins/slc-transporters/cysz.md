@@ -1,7 +1,7 @@
 ---
 title: "CysZ bacterial sulfate permease"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -158,6 +158,34 @@ residues.
     <tr>
       <td>Notes</td>
       <td>IlCysZ crystals grew overnight, rhomboid/cuboid ~200 x 100 x 50 um. PfCysZ crystals cuboid, optimized with silicone oil microbatch. PdCysZ hexagonal prism crystals with multiple crystal forms (P6_3, P2_12_12_1, P4_122).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 28-32 % [precipitant] (PEG400)  
+- Tris: 0.1 M [buffer]  
+- Peg 400: 0.1 % [precipitant] (NaCl or 0.1 M MgCl2. PfCysZ: 28% PEG400)  
+- Peg: 0.1 % [precipitant] (MES pH 6.0. PdCysZ: 22-30% PEG550MME or PEG400)  
+- Mes: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

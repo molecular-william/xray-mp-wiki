@@ -1,7 +1,7 @@
 ---
 title: "Haloquadratum walsbyi Bacteriorhodopsin (HwBR)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -153,6 +153,18 @@ identical to the detergent-based structure.
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Lipidic cubic phase (LCP) crystallization - detergent approach (reference)</td>
     </tr>
@@ -175,6 +187,18 @@ identical to the detergent-based structure.
     <tr>
       <td>Notes</td>
       <td>Reference structure. Protein purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> micelles and OG micelles, then transferred into <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> LCP.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

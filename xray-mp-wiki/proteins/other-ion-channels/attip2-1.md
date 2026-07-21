@@ -1,7 +1,7 @@
 ---
 title: "AtTIP2;1 - Arabidopsis thaliana Tonoplast Intrinsic Protein 2;1"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,30 @@ ions, potentially increasing net ammonia permeation.
     <tr>
       <td>Notes</td>
       <td>Data collected at Swiss Light Source beamline X06SA (PXI), wavelength 1.0 A</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 28 % [precipitant] (Peg 400)</td>
     </tr>
   </tbody>
 </table>

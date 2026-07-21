@@ -1,7 +1,7 @@
 ---
 title: "Human Leukotriene C4 Synthase (LTC4S)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -1236,6 +1236,31 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
     <tr>
       <td>Notes</td>
       <td>Soaks conducted in reservoir solution with 1 mM hexyl-<a href="/xray-mp-wiki/reagents/additives/glutathione/">GSH</a> (30 s to 24 h). Crystals of WT, W116F, and W116A LTC4S obtained.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.1</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 0.2 M [salt]  
+- Sodium Cacodylate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

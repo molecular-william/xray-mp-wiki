@@ -1,7 +1,7 @@
 ---
 title: "Burkholderia cenocepacia Haem Importer Complex BhuUV"
 created: 2026-06-03
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,22 @@ The BhuUV complex is the transmembrane and nucleotide-binding domain core of the
     <tr>
       <td>Notes</td>
       <td>Nucleotide-free form; 76 ligands and 22 water molecules resolved in refinement</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

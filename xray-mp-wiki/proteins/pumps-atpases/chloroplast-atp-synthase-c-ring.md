@@ -1,7 +1,7 @@
 ---
 title: "Chloroplast ATP Synthase c-Ring from Pisum sativum"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,14 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
     <tr>
       <td>Notes</td>
       <td>Data collected at ESRF beamline ID23-1, wavelength 1.0 A</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

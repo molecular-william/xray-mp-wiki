@@ -1,7 +1,7 @@
 ---
 title: "Human Formyl Peptide Receptor 2 (FPR2)"
 created: 2026-06-09
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,14 @@ The Human formyl Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncated GLP-
       <td>Notes</td>
       <td>Data collected At a <a href="/xray-mp-wiki/methods/structure-determination/time-resolved-serial-synchrotron-crystallography/">TR-SMX</a> source. Rwork/Rfree values reported. The final <a href="/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/">Ball-and-Chain Model for SLC38A9</a> includes 320 residues (T3-E322) of FPR2 and residues A1-L106 of <a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL (Thermostabilized Apocytochrome b562RIL)</a> (Thermostabilized Apocytochrome b562RIL) (Thermostabilized Apocytochrome b562RIL) (Thermostabilized Apocytochrome b562RIL). 100% of residues In favored (95.5%) or allowed (4.5%) regions.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

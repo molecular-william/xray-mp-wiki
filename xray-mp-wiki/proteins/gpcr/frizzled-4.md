@@ -1,7 +1,7 @@
 ---
 title: "Frizzled 4 Receptor (FZD4)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,28 @@ The Human Frizzled 4 Mouse 5-HT3A Receptor (FZD4) is a class-F G-Rh Protein from
     <tr>
       <td>Notes</td>
       <td>Diffractive Imaging of Imperfect Crystals emerged In Liquid <a href="/xray-mp-wiki/methods/crystallization/sponge-phase/">Sponge Phase</a> Crystallization Liquid <a href="/xray-mp-wiki/methods/crystallization/sponge-phase/">Sponge Phase</a> Crystallization. Data collected At Entropic Spring Mechanism in Tc Toxin Injection in Tc Toxin Injection-8 beam line 41XU, Hyogo, Japan using PILATUS detector</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Cacodylate: 100 mM [buffer]  
+- Magnesium Sulfate: 80 mM [additive]  
+- Peg 400: 30 % [precipitant] (PEG400)</td>
     </tr>
   </tbody>
 </table>

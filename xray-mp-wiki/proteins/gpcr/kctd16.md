@@ -1,7 +1,7 @@
 ---
 title: "KCTD16 (Potassium Channel Tetramerization Domain-Containing Protein 16)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,29 @@ peptide.
     <tr>
       <td>Notes</td>
       <td>Crystals belong to P1 space group with 15 molecules per asymmetric unit. Data collected at APS 24ID-C beamline.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 6000: 2 % [precipitant] (PEG 6000)  
+- Glycerol: 2 % [additive]  
+- Peg 400: 8 % [precipitant] (PEG 400)  
+- Sodium Cacodylate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

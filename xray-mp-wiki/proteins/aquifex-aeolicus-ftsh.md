@@ -1,7 +1,7 @@
 ---
 title: "FtsH from Aquifex aeolicus (A. aeolicus AAA Protease)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -154,6 +154,31 @@ proteolytic activity, and a conserved [Glycine](/xray-mp-wiki/reagents/buffers/g
     <tr>
       <td>Notes</td>
       <td>Crystals of form X1 appeared initially. After several months, smaller of form X2 (shrunken c-axis appeared alongside. X2 has ordered <a href="/xray-mp-wiki/reagents/ligands/aaa/">AAA</a> [</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Calcium Chloride: 0.2 M [salt]  
+- Mes: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

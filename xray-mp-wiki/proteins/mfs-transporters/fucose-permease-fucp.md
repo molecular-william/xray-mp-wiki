@@ -1,7 +1,7 @@
 ---
 title: "Fucose Permease (FucP)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -141,6 +141,33 @@ uniprot_id: P11551
     <tr>
       <td>Notes</td>
       <td>Tetragonal rods (50 x 50 x 500 um). Diffractive Imaging of Imperfect Crystals grown with 2 mM <a href="/xray-mp-wiki/reagents/ligands/l-fucose/">L-Fucose</a> In <a href="/xray-mp-wiki/methods/crystallization/imisx-in-situ-crystallization/">IMISX In-Situ Serial Crystallography</a> solution. Best Multi-Wavelength Anomalous Diffraction obtained with 50 mM NaF as additive. Space group P32 21 with a=b=119.46 A, c=98.36 A. <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury (HgCl2) - Aquaporin Inhibitor</a> (HgCl2) - <a href="/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/">Aquaporin Family</a> Inhibitor (HgCl2) - <a href="/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/">Aquaporin Family</a> Family Inhibitor Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography Diffractive Imaging of Imperfect Crystals obtained by soaking In 1 mg/ml HgCN2 for 10 min, then back-soaking. Native and Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography Diffractive Imaging of Imperfect Crystals directly flash-frozen. Data collected At Entropic Spring Mechanism in Tc Toxin Injection in Tc Toxin Injection-8 BL41XU and SSRF BL17U. Resolution improved to 3.1 A with NaF.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30 % [precipitant] (PEG400)  
+- Mes: 0.1 M [buffer]  
+- Magnesium Chloride: 0.1 M [salt]  
+- L Fucose: 2 mM [additive]</td>
     </tr>
   </tbody>
 </table>

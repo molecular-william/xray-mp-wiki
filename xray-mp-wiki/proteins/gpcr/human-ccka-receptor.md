@@ -1,7 +1,7 @@
 ---
 title: "Human Cholecystokinin A Receptor (CCKₐR)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -133,6 +133,27 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
     <tr>
       <td>Notes</td>
       <td>Data collected at SPring-8 beamline BL41XU. Structures solved by molecular replacement using T4L and a GPCR template. Diffraction data from <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>-grown crystals with space group P2₁2₁2.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg 400: 30 % [precipitant] (PEG400 (for devazepide complex))</td>
     </tr>
   </tbody>
 </table>

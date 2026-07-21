@@ -1,7 +1,7 @@
 ---
 title: "Methanosarcina acetivorans ModBC Molybdate/Tungstate ABC Transporter (MaModBC)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -112,6 +112,14 @@ intracellular substrate accumulation downregulates further uptake.
     <tr>
       <td>Notes</td>
       <td>Crystals obtained by co-crystallization with <a href="/xray-mp-wiki/reagents/ligands/tungstate/">Tungstate (WO4 2-)</a>. Structure determined by three-wavelength MAD around tungsten edge. Diffraction data anisotropic, truncated to 3.0, 3.3, and 3.5 Å in three directions. Phases improved by solvent flattening and <a href="/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/">NCS</a> averaging.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

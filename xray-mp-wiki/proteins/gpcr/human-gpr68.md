@@ -1,7 +1,7 @@
 ---
 title: "Human GPR68 Proton-Sensing Receptor (OGR1)"
 created: 2026-06-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,28 @@ GPR68 (also known as OGR1, Ovarian Cancer G Protein-coupled Receptor 1) is a pro
     <tr>
       <td>Notes</td>
       <td>Crystals harvested and flash-frozen. Data collected at SSRL beamline 12-2. Phased by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using BRIL search model. Diffraction to 2.8 Angstrom resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Sodium Chloride: 100 mM [salt]  
+- Peg 400: 30 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

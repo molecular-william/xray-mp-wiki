@@ -1,7 +1,7 @@
 ---
 title: "Aquifex aeolicus MraY Phospho-MurNAc-pentapeptide Translocase"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -619,6 +619,27 @@ and caprolactam pocket (unique to capuramycins).
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 40 % [precipitant] (PEG400)  
+- Magnesium Chloride: 50 mM [salt]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1121,6 +1142,31 @@ and caprolactam pocket (unique to capuramycins).
     <tr>
       <td>Notes</td>
       <td>Crystals in P21 space group with two MraY_AA dimers and 4 NB7 molecules per asymmetric unit</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 40 % [precipitant] (PEG400)  
+- Magnesium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

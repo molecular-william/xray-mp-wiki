@@ -1,7 +1,7 @@
 ---
 title: "Fluoride Channel from B. pertussis (Bpe)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -108,6 +108,23 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
     <tr>
       <td>Notes</td>
       <td>Crystals appeared in 2-3 days in several low molecular weight <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>s including 30% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG 400</a>, <a href="/xray-mp-wiki/reagents/additives/peg-550mme/">PEG 550MME</a>, and <a href="/xray-mp-wiki/reagents/additives/peg-600/">PEG 600</a>. Final optimized crystals grown in 26% <a href="/xray-mp-wiki/reagents/additives/peg-550mme/">PEG 550MME</a>, 0.1M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> pH 5.0. Data collected at beam-line I04 Diamond Light Source, UK. Space group C 1 2 1.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 26 % [precipitant] (PEG 550MME)  
+- Citrate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -317,6 +334,18 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a> (<a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">sitting drop</a>)</td>
     </tr>
@@ -339,6 +368,18 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">In meso</a> crystallization attempt. Crystals diffracting to 2.1 Angstrom obtained in presence of 20 mM F-. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a>. Space group P1. <a href="/xray-mp-wiki/reagents/protein-tags/monobody-l2/">Monobody L2</a> binds in different orientation than S7 but also extends long loop into vestibule.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

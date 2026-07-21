@@ -1,7 +1,7 @@
 ---
 title: "Gastric H+,K+-ATPase (Gastric Proton Pump)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -146,6 +146,22 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/g592-initial-quinoline-msba-inhibitor/">G592 (Initial Quinoline MsbA Inhibitor)</a> (Initial Quinoline MsbA Inhibitor) (Initial Quinoline MsbA Inhibitor) screening using K+ night screen <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> On King screen; Diffractive Imaging of Imperfect Crystals flash frozen In Liquid Sponge Phase Crystallization nitrogen</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -1300,6 +1316,22 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
     <tr>
       <td>Notes</td>
       <td>Diffractive Imaging of Imperfect Crystals obtained by <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a> <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a> At 20 C. Diffractive Imaging of Imperfect Crystals diffracted to 2.8 A resolution. Vonoprazan-<a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/">Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters</a> in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters Diffractive Imaging of Imperfect Crystals showed anisotropic <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">Multi-Wavelength Anomalous Diffraction</a> with spots up to 2.3 A In c* direction.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

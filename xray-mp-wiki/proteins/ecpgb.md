@@ -1,7 +1,7 @@
 ---
 title: "E. coli Phosphatidylglycerophosphate Phosphatase B (ecPgpB)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -99,6 +99,14 @@ The structure serves as a prototype for eukaryotic PAP2 enzymes including human 
     <tr>
       <td>Notes</td>
       <td>I116M/E120K double mutant gave better resolution. Space group P2(1)2(1)2(1).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "E. coli MlaF ABC ATPase"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -138,6 +138,31 @@ MlaF is the cytoplasmic ABC ATPase (nucleotide binding domain, NBD) component of
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 0.07 M [buffer]  
+- Glycerol: 30 % [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Sitting-drop vapor diffusion</td>
     </tr>
@@ -164,6 +189,22 @@ MlaF is the cytoplasmic ABC ATPase (nucleotide binding domain, NBD) component of
     <tr>
       <td>Notes</td>
       <td>Crystals of ADP-bound MlaFB (MlaF_2B_2, PDB 6XGY). 100 nL + 100 nL drop. Phased using BALBES with search models 2OUK (MlaF) and 3F43 (<a href="/xray-mp-wiki/proteins/structural-adhesion/mlab/">MLAB</a>).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

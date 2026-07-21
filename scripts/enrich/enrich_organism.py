@@ -22,8 +22,9 @@ import time
 from collections import Counter
 from pathlib import Path
 
-import requests
 import yaml
+
+from scripts._base import fast_load_str
 
 # ─── Paths ────────────────────────────────────────────────────────
 BASE = Path(__file__).parent.parent.parent
@@ -145,7 +146,7 @@ def collect_unique_uniprots():
     for yf in sorted(PROTEINS_DIR.glob("*.yaml")):
         name = yf.stem
         try:
-            data = yaml.safe_load(yf.read_text())
+            data = fast_load_str(yf.read_text())
         except Exception:
             continue
         if not isinstance(data, dict):
@@ -286,7 +287,7 @@ def update_yaml_organism(yaml_path, organism, dry_run=True):
     if not yaml_path.exists():
         return False
     original = yaml_path.read_text()
-    data = yaml.safe_load(original)
+    data = fast_load_str(original)
     if not isinstance(data, dict):
         return False
 
@@ -304,7 +305,7 @@ def update_yaml_organism(yaml_path, organism, dry_run=True):
         return True
 
     yaml_path.write_text(new_yaml)
-    verify = yaml.safe_load(yaml_path.read_text())
+    verify = fast_load_str(yaml_path.read_text())
     if verify.get("organism", "") != organism:
         print(f"  ERROR: Verification failed for {yaml_path.name}")
         return False

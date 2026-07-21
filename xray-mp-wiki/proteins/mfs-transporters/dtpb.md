@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli DtpB Peptide Transporter"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -184,6 +184,18 @@ DtpB is a proton-dependent oligopeptide transporter (POT) from the Major Facilit
     <tr>
       <td>Notes</td>
       <td>14 structures in total with various di- and tripeptide substrates; DtpB crystallized in inward-facing (IF) open state; molecular replacement using <a href="/xray-mp-wiki/proteins/slc-transporters/dtpa/">Dtpa</a> (PDB 6GS4) as search model</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

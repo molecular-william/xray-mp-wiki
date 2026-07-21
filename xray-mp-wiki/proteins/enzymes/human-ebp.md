@@ -1,7 +1,7 @@
 ---
 title: "Human Emopamil-Binding Protein (EBP)"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,18 @@ Emopamil-Binding Protein (EBP), also known as 3-beta-hydroxysteroid-Delta8,Delta
     <tr>
       <td>Notes</td>
       <td>Crystals obtained only with <a href="/xray-mp-wiki/reagents/ligands/u18666a/">U18666A</a> or <a href="/xray-mp-wiki/reagents/ligands/tamoxifen/">Tamoxifen</a> present. Structure determined by Se-SAD and refined at 3.2 A (<a href="/xray-mp-wiki/reagents/ligands/u18666a/">U18666A</a>) and 3.5 A (<a href="/xray-mp-wiki/reagents/ligands/tamoxifen/">Tamoxifen</a>). Final models: 93.07%/6.93%/0.0% and 91.09%/8.74%/0.17% in favored/allowed/outlier Ramachandran regions.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

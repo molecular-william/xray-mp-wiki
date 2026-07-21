@@ -1,7 +1,7 @@
 ---
 title: "Bacillus pseudofirmus OF4 ATP Synthase c13 Ring (Wild-Type)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -129,6 +129,31 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     <tr>
       <td>Cryoprotection</td>
       <td>30% (v/v) <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 400, 0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate</a> pH 4.5, 0.05% beta-dodecyl maltoside</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.3</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 0.1 M [buffer]  
+- Peg 400: 20 % [precipitant] (Peg 400)</td>
     </tr>
   </tbody>
 </table>

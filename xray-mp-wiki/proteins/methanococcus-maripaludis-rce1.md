@@ -1,7 +1,7 @@
 ---
 title: "Methanococcus maripaludis Rce1 (MmRce1)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -77,6 +77,31 @@ Rce1 (Ras and α-factor converting enzyme 1) is an intramembrane protease that p
     <tr>
       <td>Notes</td>
       <td>Crystals grown at 20°C using sitting-drop vapor diffusion. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using Fab fragment structure (PDB 3VG9) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 16-24 % [precipitant] (PEG 4000)  
+- Citrate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

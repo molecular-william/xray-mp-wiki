@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_nodes": 490,
-    "total_edges": 2642
+    "total_nodes": 491,
+    "total_edges": 2647
   },
   "nodes": [
     {
@@ -16,7 +16,7 @@
       "sources": 18,
       "pdbs": 0,
       "insights": 0,
-      "degree": 313,
+      "degree": 312,
       "importance": 0.625,
       "radius": 26
     },
@@ -33,7 +33,7 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 288,
-      "importance": 0.481,
+      "importance": 0.482,
       "radius": 21
     },
     {
@@ -98,8 +98,8 @@
       "sources": 29,
       "pdbs": 0,
       "insights": 0,
-      "degree": 155,
-      "importance": 0.448,
+      "degree": 154,
+      "importance": 0.447,
       "radius": 20
     },
     {
@@ -132,7 +132,7 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 133,
-      "importance": 0.42,
+      "importance": 0.421,
       "radius": 19
     },
     {
@@ -147,7 +147,7 @@
       "sources": 17,
       "pdbs": 0,
       "insights": 0,
-      "degree": 158,
+      "degree": 157,
       "importance": 0.414,
       "radius": 19
     },
@@ -181,7 +181,7 @@
       "pdbs": 0,
       "insights": 18,
       "degree": 52,
-      "importance": 0.366,
+      "importance": 0.367,
       "radius": 17
     },
     {
@@ -231,7 +231,7 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 142,
-      "importance": 0.331,
+      "importance": 0.332,
       "radius": 16
     },
     {
@@ -314,7 +314,7 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 41,
-      "importance": 0.302,
+      "importance": 0.303,
       "radius": 15
     },
     {
@@ -380,7 +380,7 @@
       "pdbs": 0,
       "insights": 10,
       "degree": 25,
-      "importance": 0.269,
+      "importance": 0.27,
       "radius": 14
     },
     {
@@ -631,7 +631,7 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 64,
-      "importance": 0.244,
+      "importance": 0.245,
       "radius": 13
     },
     {
@@ -949,7 +949,7 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 147,
-      "importance": 0.2,
+      "importance": 0.201,
       "radius": 12
     },
     {
@@ -1014,7 +1014,7 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 118,
-      "importance": 0.188,
+      "importance": 0.189,
       "radius": 11
     },
     {
@@ -1030,7 +1030,7 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 57,
-      "importance": 0.185,
+      "importance": 0.186,
       "radius": 11
     },
     {
@@ -1047,7 +1047,7 @@
       "pdbs": 0,
       "insights": 9,
       "degree": 25,
-      "importance": 0.184,
+      "importance": 0.185,
       "radius": 11
     },
     {
@@ -1288,6 +1288,23 @@
       "radius": 10
     },
     {
+      "id": "c-type-inactivation",
+      "type": "concepts",
+      "title": "C-type Inactivation",
+      "subgroup": "",
+      "tags": [
+        "concept-functional",
+        "membrane-protein",
+        "subdirectory-structural-mechanisms"
+      ],
+      "sources": 11,
+      "pdbs": 0,
+      "insights": 0,
+      "degree": 25,
+      "importance": 0.17,
+      "radius": 10
+    },
+    {
       "id": "e-coli-lnt",
       "type": "proteins",
       "title": "Escherichia coli Apolipoprotein N-Acyl Transferase (Lnt)",
@@ -1317,23 +1334,6 @@
       "pdbs": 0,
       "insights": 588,
       "degree": 5,
-      "importance": 0.169,
-      "radius": 10
-    },
-    {
-      "id": "c-type-inactivation",
-      "type": "concepts",
-      "title": "C-type Inactivation",
-      "subgroup": "",
-      "tags": [
-        "concept-functional",
-        "membrane-protein",
-        "subdirectory-structural-mechanisms"
-      ],
-      "sources": 11,
-      "pdbs": 0,
-      "insights": 0,
-      "degree": 25,
       "importance": 0.169,
       "radius": 10
     },
@@ -2348,8 +2348,8 @@
       "sources": 7,
       "pdbs": 0,
       "insights": 0,
-      "degree": 30,
-      "importance": 0.126,
+      "degree": 29,
+      "importance": 0.125,
       "radius": 9
     },
     {
@@ -2842,7 +2842,7 @@
       "pdbs": 0,
       "insights": 7,
       "degree": 16,
-      "importance": 0.115,
+      "importance": 0.116,
       "radius": 9
     },
     {
@@ -3199,23 +3199,6 @@
       "radius": 8
     },
     {
-      "id": "hsc",
-      "type": "proteins",
-      "title": "HSC (Hydrosulfide Channel from Clostridium difficile)",
-      "subgroup": "Channels : Formate/Nitrite Transporter (FNT) Family",
-      "tags": [
-        "channel",
-        "membrane-protein",
-        "xray-crystallography"
-      ],
-      "sources": 1,
-      "pdbs": 0,
-      "insights": 8,
-      "degree": 11,
-      "importance": 0.107,
-      "radius": 8
-    },
-    {
       "id": "mdfA",
       "type": "proteins",
       "title": "MdfA Multidrug Efflux Transporter",
@@ -3262,6 +3245,24 @@
       "insights": 0,
       "degree": 54,
       "importance": 0.107,
+      "radius": 8
+    },
+    {
+      "id": "ca-vab",
+      "type": "proteins",
+      "title": "CaVAb Bacterial Voltage-Gated Calcium Channel",
+      "subgroup": "Channels: Calcium Ion-Selective",
+      "tags": [
+        "ion-channel",
+        "channel",
+        "membrane-protein",
+        "xray-crystallography"
+      ],
+      "sources": 2,
+      "pdbs": 0,
+      "insights": 6,
+      "degree": 16,
+      "importance": 0.106,
       "radius": 8
     },
     {
@@ -3316,20 +3317,19 @@
       "radius": 8
     },
     {
-      "id": "ca-vab",
+      "id": "hsc",
       "type": "proteins",
-      "title": "CaVAb Bacterial Voltage-Gated Calcium Channel",
-      "subgroup": "Channels: Calcium Ion-Selective",
+      "title": "HSC (Hydrosulfide Channel from Clostridium difficile)",
+      "subgroup": "Channels : Formate/Nitrite Transporter (FNT) Family",
       "tags": [
-        "ion-channel",
         "channel",
         "membrane-protein",
         "xray-crystallography"
       ],
-      "sources": 2,
+      "sources": 1,
       "pdbs": 0,
-      "insights": 6,
-      "degree": 16,
+      "insights": 8,
+      "degree": 10,
       "importance": 0.105,
       "radius": 8
     },
@@ -3574,40 +3574,6 @@
       "radius": 8
     },
     {
-      "id": "focA-vibrio-cholerae",
-      "type": "proteins",
-      "title": "FocA (Formate Channel A from Vibrio cholerae)",
-      "subgroup": "Channels : Formate/Nitrite Transporter (FNT) Family",
-      "tags": [
-        "channel",
-        "membrane-protein",
-        "xray-crystallography"
-      ],
-      "sources": 2,
-      "pdbs": 0,
-      "insights": 6,
-      "degree": 13,
-      "importance": 0.102,
-      "radius": 8
-    },
-    {
-      "id": "glpf",
-      "type": "proteins",
-      "title": "GlpF (Glycerol Facilitator from E. coli)",
-      "subgroup": "Channels: Aquaporins and Glyceroporins",
-      "tags": [
-        "channel",
-        "membrane-protein",
-        "xray-crystallography"
-      ],
-      "sources": 2,
-      "pdbs": 0,
-      "insights": 5,
-      "degree": 21,
-      "importance": 0.102,
-      "radius": 8
-    },
-    {
       "id": "hgpr40",
       "type": "proteins",
       "title": "Human Free Fatty Acid Receptor 1 (GPR40)",
@@ -3759,6 +3725,23 @@
       "radius": 8
     },
     {
+      "id": "glpf",
+      "type": "proteins",
+      "title": "GlpF (Glycerol Facilitator from E. coli)",
+      "subgroup": "Channels: Aquaporins and Glyceroporins",
+      "tags": [
+        "channel",
+        "membrane-protein",
+        "xray-crystallography"
+      ],
+      "sources": 2,
+      "pdbs": 0,
+      "insights": 5,
+      "degree": 20,
+      "importance": 0.101,
+      "radius": 8
+    },
+    {
       "id": "methanococcus-jannaschii-secy",
       "type": "proteins",
       "title": "Methanococcus jannaschii SecY Translocation Channel",
@@ -3827,22 +3810,6 @@
       "radius": 8
     },
     {
-      "id": "talon",
-      "type": "reagents",
-      "title": "TALON Cobalt Affinity Resin",
-      "subgroup": "",
-      "tags": [
-        "additive-stabilizer",
-        "subdirectory-additives"
-      ],
-      "sources": 4,
-      "pdbs": 0,
-      "insights": 0,
-      "degree": 39,
-      "importance": 0.1,
-      "radius": 8
-    },
-    {
       "id": "gdx-clo",
       "type": "proteins",
       "title": "Gdx-Clo SMR Transporter (Clostridales oral taxon 876)",
@@ -3890,24 +3857,6 @@
       "pdbs": 0,
       "insights": 6,
       "degree": 11,
-      "importance": 0.099,
-      "radius": 8
-    },
-    {
-      "id": "hiteha",
-      "type": "proteins",
-      "title": "HiTehA (TehA from Haemophilus influenzae)",
-      "subgroup": "Channels: Other Ion Channels",
-      "tags": [
-        "ion-channel",
-        "channel",
-        "membrane-protein",
-        "xray-crystallography"
-      ],
-      "sources": 2,
-      "pdbs": 0,
-      "insights": 5,
-      "degree": 19,
       "importance": 0.099,
       "radius": 8
     },
@@ -3980,6 +3929,22 @@
       "radius": 8
     },
     {
+      "id": "talon",
+      "type": "reagents",
+      "title": "TALON Cobalt Affinity Resin",
+      "subgroup": "",
+      "tags": [
+        "additive-stabilizer",
+        "subdirectory-additives"
+      ],
+      "sources": 4,
+      "pdbs": 0,
+      "insights": 0,
+      "degree": 38,
+      "importance": 0.099,
+      "radius": 8
+    },
+    {
       "id": "aquifex-aeolicus-mray",
       "type": "proteins",
       "title": "Aquifex aeolicus MraY Phospho-MurNAc-pentapeptide Translocase",
@@ -4010,6 +3975,24 @@
       "pdbs": 0,
       "insights": 6,
       "degree": 10,
+      "importance": 0.098,
+      "radius": 8
+    },
+    {
+      "id": "hiteha",
+      "type": "proteins",
+      "title": "HiTehA (TehA from Haemophilus influenzae)",
+      "subgroup": "Channels: Other Ion Channels",
+      "tags": [
+        "ion-channel",
+        "channel",
+        "membrane-protein",
+        "xray-crystallography"
+      ],
+      "sources": 2,
+      "pdbs": 0,
+      "insights": 5,
+      "degree": 18,
       "importance": 0.098,
       "radius": 8
     },
@@ -4217,6 +4200,22 @@
       "radius": 8
     },
     {
+      "id": "sav1866",
+      "type": "proteins",
+      "title": "Sav1866 (Staphylococcus aureus Multidrug ABC Transporter)",
+      "subgroup": "ATP Binding Cassette (ABC) Transporters",
+      "tags": [
+        "transporter",
+        "membrane-protein"
+      ],
+      "sources": 2,
+      "pdbs": 0,
+      "insights": 5,
+      "degree": 16,
+      "importance": 0.096,
+      "radius": 8
+    },
+    {
       "id": "large-domain-motion-in-p-type-atpases",
       "type": "concepts",
       "title": "Large Domain Motion in P-type ATPases",
@@ -4229,6 +4228,22 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 7,
+      "importance": 0.096,
+      "radius": 8
+    },
+    {
+      "id": "mate-transporter-family",
+      "type": "concepts",
+      "title": "MATE Transporter Family",
+      "subgroup": "",
+      "tags": [
+        "concept-protein-family",
+        "subdirectory-transport-mechanisms"
+      ],
+      "sources": 6,
+      "pdbs": 0,
+      "insights": 0,
+      "degree": 16,
       "importance": 0.096,
       "radius": 8
     },
@@ -4265,18 +4280,19 @@
       "radius": 8
     },
     {
-      "id": "sav1866",
+      "id": "ntmate2",
       "type": "proteins",
-      "title": "Sav1866 (Staphylococcus aureus Multidrug ABC Transporter)",
-      "subgroup": "ATP Binding Cassette (ABC) Transporters",
+      "title": "NtMATE2 (Nicotiana tabacum MATE2) - Nicotine MATE transporter",
+      "subgroup": "Multi-Drug Efflux Transporters",
       "tags": [
         "transporter",
-        "membrane-protein"
+        "membrane-protein",
+        "xray-crystallography"
       ],
-      "sources": 2,
+      "sources": 1,
       "pdbs": 0,
       "insights": 5,
-      "degree": 16,
+      "degree": 25,
       "importance": 0.095,
       "radius": 8
     },
@@ -4326,22 +4342,6 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 35,
-      "importance": 0.095,
-      "radius": 8
-    },
-    {
-      "id": "mate-transporter-family",
-      "type": "concepts",
-      "title": "MATE Transporter Family",
-      "subgroup": "",
-      "tags": [
-        "concept-protein-family",
-        "subdirectory-transport-mechanisms"
-      ],
-      "sources": 6,
-      "pdbs": 0,
-      "insights": 0,
-      "degree": 16,
       "importance": 0.095,
       "radius": 8
     },
@@ -4410,23 +4410,6 @@
       "pdbs": 0,
       "insights": 6,
       "degree": 17,
-      "importance": 0.094,
-      "radius": 8
-    },
-    {
-      "id": "ntmate2",
-      "type": "proteins",
-      "title": "NtMATE2 (Nicotiana tabacum MATE2) - Nicotine MATE transporter",
-      "subgroup": "Multi-Drug Efflux Transporters",
-      "tags": [
-        "transporter",
-        "membrane-protein",
-        "xray-crystallography"
-      ],
-      "sources": 1,
-      "pdbs": 0,
-      "insights": 5,
-      "degree": 25,
       "importance": 0.094,
       "radius": 8
     },
@@ -5452,23 +5435,6 @@
       "radius": 7
     },
     {
-      "id": "aqp1",
-      "type": "proteins",
-      "title": "Aquaporin-1 (AQP1)",
-      "subgroup": "Channels: Aquaporins and Glyceroporins",
-      "tags": [
-        "channel",
-        "membrane-protein",
-        "xray-crystallography"
-      ],
-      "sources": 1,
-      "pdbs": 0,
-      "insights": 4,
-      "degree": 25,
-      "importance": 0.084,
-      "radius": 7
-    },
-    {
       "id": "baca",
       "type": "proteins",
       "title": "Undecaprenyl Pyrophosphate Phosphatase (UppP/BacA) from Escherichia coli",
@@ -5635,6 +5601,23 @@
       "insights": 0,
       "degree": 17,
       "importance": 0.084,
+      "radius": 7
+    },
+    {
+      "id": "aqp1",
+      "type": "proteins",
+      "title": "Aquaporin-1 (AQP1)",
+      "subgroup": "Channels: Aquaporins and Glyceroporins",
+      "tags": [
+        "channel",
+        "membrane-protein",
+        "xray-crystallography"
+      ],
+      "sources": 1,
+      "pdbs": 0,
+      "insights": 4,
+      "degree": 24,
+      "importance": 0.083,
       "radius": 7
     },
     {
@@ -6263,6 +6246,22 @@
       "radius": 7
     },
     {
+      "id": "nanobody",
+      "type": "reagents",
+      "title": "Nanobody",
+      "subgroup": "",
+      "tags": [
+        "protein-tag",
+        "subdirectory-protein-tags"
+      ],
+      "sources": 3,
+      "pdbs": 0,
+      "insights": 0,
+      "degree": 32,
+      "importance": 0.079,
+      "radius": 7
+    },
+    {
       "id": "salt-bridge",
       "type": "concepts",
       "title": "Salt Bridge (Ion Pair)",
@@ -6547,22 +6546,6 @@
       "pdbs": 0,
       "insights": 0,
       "degree": 51,
-      "importance": 0.078,
-      "radius": 7
-    },
-    {
-      "id": "nanobody",
-      "type": "reagents",
-      "title": "Nanobody",
-      "subgroup": "",
-      "tags": [
-        "protein-tag",
-        "subdirectory-protein-tags"
-      ],
-      "sources": 3,
-      "pdbs": 0,
-      "insights": 0,
-      "degree": 32,
       "importance": 0.078,
       "radius": 7
     },
@@ -8036,6 +8019,39 @@
       "radius": 7
     },
     {
+      "id": "cardiotonic-steroids",
+      "type": "concepts",
+      "title": "Cardiotonic Steroids",
+      "subgroup": "",
+      "tags": [
+        "concept-functional",
+        "concept-structural",
+        "subdirectory-miscellaneous"
+      ],
+      "sources": 4,
+      "pdbs": 0,
+      "insights": 0,
+      "degree": 16,
+      "importance": 0.071,
+      "radius": 7
+    },
+    {
+      "id": "hilide-crystallization",
+      "type": "methods",
+      "title": "HiLiDe Crystallization",
+      "subgroup": "",
+      "tags": [
+        "crystallization-vapor-diffusion",
+        "subdirectory-crystallization"
+      ],
+      "sources": 4,
+      "pdbs": 0,
+      "insights": 0,
+      "degree": 16,
+      "importance": 0.071,
+      "radius": 7
+    },
+    {
       "id": "semet-sad-phasing",
       "type": "methods",
       "title": "Selenomethionine Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing",
@@ -8222,6 +8238,22 @@
       "radius": 7
     },
     {
+      "id": "acetylcholine",
+      "type": "reagents",
+      "title": "Acetylcholine",
+      "subgroup": "",
+      "tags": [
+        "ligand",
+        "subdirectory-ligands"
+      ],
+      "sources": 3,
+      "pdbs": 0,
+      "insights": 0,
+      "degree": 25,
+      "importance": 0.07,
+      "radius": 7
+    },
+    {
       "id": "potassium-chloride-kcl",
       "type": "reagents",
       "title": "Potassium Chloride (KCl)",
@@ -8238,35 +8270,18 @@
       "radius": 7
     },
     {
-      "id": "cardiotonic-steroids",
+      "id": "thermostabilization",
       "type": "concepts",
-      "title": "Cardiotonic Steroids",
+      "title": "Protein Thermostabilization",
       "subgroup": "",
       "tags": [
-        "concept-functional",
-        "concept-structural",
-        "subdirectory-miscellaneous"
+        "concept-construct-design",
+        "subdirectory-construct-design"
       ],
-      "sources": 4,
+      "sources": 3,
       "pdbs": 0,
       "insights": 0,
-      "degree": 16,
-      "importance": 0.07,
-      "radius": 7
-    },
-    {
-      "id": "hilide-crystallization",
-      "type": "methods",
-      "title": "HiLiDe Crystallization",
-      "subgroup": "",
-      "tags": [
-        "crystallization-vapor-diffusion",
-        "subdirectory-crystallization"
-      ],
-      "sources": 4,
-      "pdbs": 0,
-      "insights": 0,
-      "degree": 16,
+      "degree": 25,
       "importance": 0.07,
       "radius": 7
     }
@@ -11471,6 +11486,18 @@
       "multiplicity": 1,
       "bidirectional": false,
       "opacity": 0.52
+    },
+    {
+      "source": "blt1",
+      "target": "thermostabilization",
+      "type": "general",
+      "reasons": [
+        "Mutations used for both gpBLT1 and hBLT1 thermostabilization"
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
     },
     {
       "source": "blt1",
@@ -16562,114 +16589,6 @@
       "opacity": 0.2
     },
     {
-      "source": "focA-vibrio-cholerae",
-      "target": "hsc",
-      "type": "family",
-      "reasons": [
-        "Related FNT family channel; extensively compared with FocA i"
-      ],
-      "weight": 5.2,
-      "multiplicity": 1,
-      "bidirectional": true,
-      "opacity": 0.58
-    },
-    {
-      "source": "focA-vibrio-cholerae",
-      "target": "hiteha",
-      "type": "family",
-      "reasons": [
-        "Related anion channel within the FNT superfamily"
-      ],
-      "weight": 3.4,
-      "multiplicity": 1,
-      "bidirectional": false,
-      "opacity": 0.41
-    },
-    {
-      "source": "focA-vibrio-cholerae",
-      "target": "aqp1",
-      "type": "homolog",
-      "reasons": [
-        "Water channel with similar monomeric pore architecture"
-      ],
-      "weight": 5.8,
-      "multiplicity": 1,
-      "bidirectional": false,
-      "opacity": 0.63
-    },
-    {
-      "source": "focA-vibrio-cholerae",
-      "target": "glpf",
-      "type": "homolog",
-      "reasons": [
-        "Glycerol channel with similar monomeric pore architecture"
-      ],
-      "weight": 5.8,
-      "multiplicity": 1,
-      "bidirectional": false,
-      "opacity": 0.63
-    },
-    {
-      "source": "focA-vibrio-cholerae",
-      "target": "selectivity-filter",
-      "type": "general",
-      "reasons": [
-        "FocA selectivity filter with cytoplasmic slit and central co"
-      ],
-      "weight": 1.1,
-      "multiplicity": 1,
-      "bidirectional": false,
-      "opacity": 0.2
-    },
-    {
-      "source": "focA-vibrio-cholerae",
-      "target": "glycerol",
-      "type": "general",
-      "reasons": [
-        "Entity mentioned in text"
-      ],
-      "weight": 1.1,
-      "multiplicity": 1,
-      "bidirectional": false,
-      "opacity": 0.2
-    },
-    {
-      "source": "focA-vibrio-cholerae",
-      "target": "ddm",
-      "type": "general",
-      "reasons": [
-        "Entity mentioned in text"
-      ],
-      "weight": 1.1,
-      "multiplicity": 1,
-      "bidirectional": false,
-      "opacity": 0.2
-    },
-    {
-      "source": "focA-vibrio-cholerae",
-      "target": "talon",
-      "type": "general",
-      "reasons": [
-        "Entity mentioned in text"
-      ],
-      "weight": 1.1,
-      "multiplicity": 1,
-      "bidirectional": false,
-      "opacity": 0.2
-    },
-    {
-      "source": "focA-vibrio-cholerae",
-      "target": "tris",
-      "type": "general",
-      "reasons": [
-        "Entity mentioned in text"
-      ],
-      "weight": 1.1,
-      "multiplicity": 1,
-      "bidirectional": false,
-      "opacity": 0.2
-    },
-    {
       "source": "fpr2",
       "target": "talon",
       "type": "general",
@@ -17115,6 +17034,18 @@
     },
     {
       "source": "gcgr",
+      "target": "thermostabilization",
+      "type": "general",
+      "reasons": [
+        "GCGR constructs use thermostabilizing mutations or stabilizi"
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
+    },
+    {
+      "source": "gcgr",
       "target": "lipidic-cubic-phase",
       "type": "method",
       "reasons": [
@@ -17355,6 +17286,18 @@
     },
     {
       "source": "glic-ecd",
+      "target": "acetylcholine",
+      "type": "general",
+      "reasons": [
+        "Referenced in glic-ecd"
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
+    },
+    {
+      "source": "glic-ecd",
       "target": "nickel-nta",
       "type": "general",
       "reasons": [
@@ -17467,6 +17410,18 @@
       "type": "general",
       "reasons": [
         "Related class B GPCR, structural comparison (PDB 5EE7)"
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
+    },
+    {
+      "source": "glp1r",
+      "target": "thermostabilization",
+      "type": "general",
+      "reasons": [
+        "StaR construct uses thermostabilization via scanning mutagen"
       ],
       "weight": 1.1,
       "multiplicity": 1,
@@ -19350,18 +19305,6 @@
     },
     {
       "source": "hsc",
-      "target": "focA-vibrio-cholerae",
-      "type": "family",
-      "reasons": [
-        "Related FNT family channel; structural and functional compar"
-      ],
-      "weight": 5.2,
-      "multiplicity": 1,
-      "bidirectional": true,
-      "opacity": 0.58
-    },
-    {
-      "source": "hsc",
       "target": "hiteha",
       "type": "general",
       "reasons": [
@@ -19383,6 +19326,18 @@
       "multiplicity": 1,
       "bidirectional": false,
       "opacity": 0.2
+    },
+    {
+      "source": "hsc",
+      "target": "thermostabilization",
+      "type": "concept",
+      "reasons": [
+        "Related biological concept"
+      ],
+      "weight": 2.3,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.31
     },
     {
       "source": "hsc",
@@ -23665,6 +23620,18 @@
     },
     {
       "source": "m2-muscarinic-acetylcholine-receptor",
+      "target": "acetylcholine",
+      "type": "reagent",
+      "reasons": [
+        "Endogenous orthosteric ligand of the M2 receptor"
+      ],
+      "weight": 4.6,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.52
+    },
+    {
+      "source": "m2-muscarinic-acetylcholine-receptor",
       "target": "nanobody",
       "type": "general",
       "reasons": [
@@ -23734,6 +23701,18 @@
       "multiplicity": 1,
       "bidirectional": true,
       "opacity": 0.26
+    },
+    {
+      "source": "m3-muscarinic-acetylcholine-receptor",
+      "target": "acetylcholine",
+      "type": "general",
+      "reasons": [
+        "Endogenous agonist tested in competition binding assays"
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
     },
     {
       "source": "m3-muscarinic-acetylcholine-receptor",
@@ -27026,6 +27005,18 @@
       "opacity": 0.2
     },
     {
+      "source": "navms",
+      "target": "acetylcholine",
+      "type": "reagent",
+      "reasons": [
+        "Related ligand or cofactor"
+      ],
+      "weight": 4.6,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.52
+    },
+    {
       "source": "navrh",
       "target": "navab",
       "type": "concept",
@@ -28555,6 +28546,18 @@
       "type": "general",
       "reasons": [
         "Paper demonstrates multiple allosteric sites on PAR2 for ant"
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
+    },
+    {
+      "source": "par2",
+      "target": "thermostabilization",
+      "type": "general",
+      "reasons": [
+        "PAR2-StaR constructed with nine thermostabilizing mutations "
       ],
       "weight": 1.1,
       "multiplicity": 1,
@@ -36394,6 +36397,18 @@
       "opacity": 0.26
     },
     {
+      "source": "acetylcholine",
+      "target": "m1-muscarinic-acetylcholine-receptor",
+      "type": "reagent",
+      "reasons": [
+        "Endogenous agonist; reference ligand for transduction coeffi"
+      ],
+      "weight": 4.6,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.52
+    },
+    {
       "source": "angiotensin-ii",
       "target": "at1r",
       "type": "general",
@@ -36693,6 +36708,18 @@
       "multiplicity": 1,
       "bidirectional": false,
       "opacity": 0.52
+    },
+    {
+      "source": "dmng",
+      "target": "thermostabilization",
+      "type": "concept",
+      "reasons": [
+        "Related biological concept"
+      ],
+      "weight": 2.3,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.31
     },
     {
       "source": "dmng",
@@ -39493,6 +39520,54 @@
       "multiplicity": 1,
       "bidirectional": false,
       "opacity": 0.2
+    },
+    {
+      "source": "thermostabilization",
+      "target": "d-dopamine-transporter",
+      "type": "general",
+      "reasons": [
+        "Thermostabilization strategy enabled dDATcryst crystallizati"
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
+    },
+    {
+      "source": "thermostabilization",
+      "target": "ssert",
+      "type": "general",
+      "reasons": [
+        "ts3 thermostabilized construct enabled SERT crystallization "
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
+    },
+    {
+      "source": "thermostabilization",
+      "target": "truncation",
+      "type": "general",
+      "reasons": [
+        "Truncation and thermostabilization are complementary constru"
+      ],
+      "weight": 1.1,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.2
+    },
+    {
+      "source": "thermostabilization",
+      "target": "nortriptyline",
+      "type": "reagent",
+      "reasons": [
+        "Related ligand or cofactor"
+      ],
+      "weight": 4.6,
+      "multiplicity": 1,
+      "bidirectional": false,
+      "opacity": 0.52
     },
     {
       "source": "truncation",

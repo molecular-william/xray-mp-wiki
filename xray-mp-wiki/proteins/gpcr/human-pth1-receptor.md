@@ -1,7 +1,7 @@
 ---
 title: "Human Parathyroid Hormone 1 Receptor (PTH1R)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -128,6 +128,18 @@ The human parathyroid hormone 1 receptor (PTH1R) is a class B G-protein-coupled 
     <tr>
       <td>Notes</td>
       <td>Crystals grew in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (monoolein-based); P2_1_2_1_2_1 space group; diffraction to ~3.0 A resolution</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

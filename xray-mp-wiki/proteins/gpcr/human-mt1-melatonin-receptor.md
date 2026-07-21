@@ -1,7 +1,7 @@
 ---
 title: "Human MT1 Melatonin Receptor"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -158,6 +158,26 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
     <tr>
       <td>Notes</td>
       <td>Crystals appeared in LCP with P4 2_1 2 space group; ramelteon complex crystals used for XFEL data collection, 2-PMT complex crystals optimized for synchrotron</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

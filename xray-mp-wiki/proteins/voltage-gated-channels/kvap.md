@@ -1,7 +1,7 @@
 ---
 title: "KvAP Voltage-Dependent Potassium Channel"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,14 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
     <tr>
       <td>Notes</td>
       <td>Full-length KvAP-Fab 6E1 complex in I422. Also isolated VSD-Fab 33H1 in C2.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Acid-Sensing Ion Channel 1a"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -114,6 +114,14 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     <tr>
       <td>Notes</td>
       <td>Open state structure solved at 1.9 A resolution, space group P21. <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine</a> <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD Phasing</a> used. Crystals also derivatized with platinum and bromine for additional phasing. Resolution: 50-1.9 A (outer shell 1.97-1.90 A). R_merge 6.6% (42.1% in outer shell). Completeness 93.6% (69.3% outer shell).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1982,6 +1990,18 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -2757,6 +2777,32 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
     <tr>
       <td>Notes</td>
       <td>Crystals of Delta25-Ba2+ and Delta25-Ca2+ in space group P2(1)2(1)2(1). Delta25-Ba2+ diffracted to 2.95 A, Delta25-Ca2+ to 3.2 A. Ba2+ structure: Rwork 0.226, Rfree 0.258. Ca2+ structure: Rwork 0.287, Rfree 0.297. <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> added to protein before crystallization. X-ray data collected at Berkeley Center for Structural Biology and Northeastern Collaborative Access Team.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg 4000: 10-30 % [precipitant] (PEG 4000)  
+- Sodium Chloride: 0.2 M [salt]</td>
     </tr>
   </tbody>
 </table>

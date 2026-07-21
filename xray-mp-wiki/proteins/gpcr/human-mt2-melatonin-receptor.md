@@ -1,7 +1,7 @@
 ---
 title: "Human MT2 Melatonin Receptor"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -158,6 +158,26 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
     <tr>
       <td>Notes</td>
       <td>Crystals appeared in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> with P2_1 space group; XFEL data collected at LCLS; synchrotron data also used</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

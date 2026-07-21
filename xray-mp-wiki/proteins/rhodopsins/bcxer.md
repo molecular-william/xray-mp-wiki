@@ -1,7 +1,7 @@
 ---
 title: "BcXeR (Xenorhodopsin from Bacillus coahuilensis)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -207,6 +207,22 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
     <tr>
       <td>Notes</td>
       <td>Crystals grown in 96-well LCP glass sandwich plates. Best crystals obtained with 0.8 M Na/K-Pi pH 8.2. For pH 5.2 structures, crystals soaked 24 hr in 1.2 M Na/K-Pi pH 5.2 (buffer exchanged 3 times). For time-resolved serial crystallography, crystals grown in PCR tubes, reaching 30 x 20 x 5 um3. Space group P212121 for all structures. Unit cell: a ~68.2-69.1, b ~109.4-111.9, c ~118.5-119.6 A. Data collected at PETRAIII P14 beamline. Structures solved by molecular replacement using Anabaena sensory rhodopsin (PDB 1XIO) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human Glucose Transporter GLUT1 (SLC2A1)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -129,6 +129,32 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
     <tr>
       <td>Temperature</td>
       <td>4 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30 % [precipitant] (PEG 400)  
+- Mes: 0.1 M [buffer]  
+- Magnesium Chloride: 0.1 M [salt]</td>
     </tr>
   </tbody>
 </table>
@@ -456,6 +482,14 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -740,6 +774,32 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
     <tr>
       <td>Notes</td>
       <td>Cubic crystals ~100 x 100 x 100 um. Space group C2. Anomalous experiments to confirm Cl- site used MgBr2 instead of MgCl2 in reservoir. Data collected from single crystals at Diamond Light Source.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>17 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 42-46 % [precipitant] (PEG 400)  
+- Magnesium Chloride: 100-200 mM [salt]  
+- Mops: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

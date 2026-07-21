@@ -1,7 +1,7 @@
 ---
 title: "B800-850 Light-Harvesting Complex II (LH2) from Rhodospirillum molischianum"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -107,6 +107,26 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
     <tr>
       <td>Notes</td>
       <td>Crystals in space group P42₁2 with two crystallographically independent octameric complexes per asymmetric unit. Data collected from selenomethionine-incorporated protein. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using a homology model. Rwork/Rfree = 21.1/23.2%. The α-apoprotein is 56 residues, the β-apoprotein 45 residues (first two residues not observed). 16 water molecules, 3 UDAO and 6 HPTO molecules per αβ-heterodimer.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 3.0-3.3 M [salt]</td>
     </tr>
   </tbody>
 </table>

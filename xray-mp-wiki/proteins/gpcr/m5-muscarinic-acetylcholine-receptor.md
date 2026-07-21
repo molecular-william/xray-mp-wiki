@@ -1,7 +1,7 @@
 ---
 title: "Human M5 Muscarinic Acetylcholine Receptor"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -115,6 +115,27 @@ The human M5 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
       <td>Notes</td>
       <td>For allosteric modulator cocrystallization, 2.5 mM modulator was added to purified protein and incubated on ice for 3 hours before <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) reconstitution. The ternary complex with 4B-C7/3-phth yielded crystals that grew to much larger size and diffracted to 2.55 A. Data collected at SPring-8 beamline BL32XU and Australian Synchrotron MX2 beamline. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using M5-mTAL (PDB 4U15) as search model for receptor and <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> ensemble for T4 lysozyme. Refinement performed with Phenix.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Tartrate: 220-280 mM [additive]  
+- Peg 400: 37-41 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Bovine Urea Transporter B (UT-B)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -151,6 +151,14 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Co-crystallization with selenourea</td>
     </tr>
@@ -181,6 +189,14 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
     <tr>
       <td>Notes</td>
       <td>Selenourea used as a urea analog that produces strong anomalous signal for unambiguous identification of binding si<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a></td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

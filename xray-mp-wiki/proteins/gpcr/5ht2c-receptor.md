@@ -1,7 +1,7 @@
 ---
 title: "Human 5-HT2C Serotonin Receptor"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,18 @@ The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligand
     <tr>
       <td>Notes</td>
       <td>Crystals harvested and flash-cooled in liquid nitrogen. Data collected at SSRF beamline BL17U1 (Shanghai) or APS GM/CA-CAT. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using 5-HT2B receptor (PDB: 4IB4) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

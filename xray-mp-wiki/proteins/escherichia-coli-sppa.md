@@ -1,7 +1,7 @@
 ---
 title: "E. coli Signal Peptide Peptidase (SppA, Protease IV)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -140,6 +140,26 @@ assurance of periplasmic and membrane-bound proteins.
     <tr>
       <td>Notes</td>
       <td>Crystals in space group P2_1 with 4 molecules per asymmetric unit. SeMet data collected at NSLS beamline X4A; native data at ALS beamline 8.2.1. Matthews coefficient 2.7 A3/Da (54.6% solvent).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
     </tr>
   </tbody>
 </table>

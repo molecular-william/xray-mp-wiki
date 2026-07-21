@@ -1,7 +1,7 @@
 ---
 title: "GlpG (Escherichia coli Rhomboid Protease)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -82,6 +82,30 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     <tr>
       <td>Notes</td>
       <td>Cryo-protection by stepwise transfer to mother liquor with 25% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>. Native and <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> crystals grown. SeMet crystals required 2 mM DTT and 0.1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>. Data collected at BNL-NSLS beamlines X6A, X26C, X29.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 3 M [salt]</td>
     </tr>
   </tbody>
 </table>
@@ -298,6 +322,32 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> removed N-terminal cytoplasmic region. Expressed in E. coli C43(DE3) with mipA deletion. Purified by Ni-NTA, trypsinized overnight at 4 C, <a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> removed by para-aminobenzamidine and Sephadex G-50 columns. Dialyzed and concentrated to 5 mg/ml. SIRAS phasing from ethylmercury chloride derivative. Native data collected at 120 K on a Rigaku RU-<a href="/xray-mp-wiki/proteins/gpcr/human-histamine-h3-receptor/">H3R</a> generator (home source). Derivative data collected at ESRF beamline ID29-1. Processed with Denzo/Scalepack. SOLVE for heavy atom positions, RESOLVE for density modification and auto-building. Refined in CNS. Verified with MolProbity and PROCHECK.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30 % [precipitant] (PEG 400)  
+- Calcium Chloride: 200 mM [salt]  
+- Mes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -777,6 +827,30 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 3 M [salt]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1018,6 +1092,22 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     <tr>
       <td>Notes</td>
       <td>Native data set collected and heavy-atom derivatives prepared. <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> phasing. Data collected at BNL-NSLS. Two molecules per asymmetric unit.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.4</td>
     </tr>
   </tbody>
 </table>
@@ -1486,6 +1576,26 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>bicelle</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>298 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 1.5 M [salt]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion (hanging drop)</td>
     </tr>
@@ -1504,6 +1614,26 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     <tr>
       <td>Notes</td>
       <td>Detergent environment; trigonal crystal form (R32).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>298 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Chloride: 2.5-3.0 M [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -1887,6 +2017,14 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
     <tr>
       <td>Notes</td>
       <td>Crystals of GlpG in bicelle membrane were soaked with Ac-VRMA-CHO peptide aldehyde for increasing lengths of time prior to freezing and X-ray diffraction analysis. This time-resolved approach captured 10 catalytic snapshots from gate opening to peptide release.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>bicelle</td>
     </tr>
   </tbody>
 </table>

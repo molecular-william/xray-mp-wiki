@@ -1,7 +1,7 @@
 ---
 title: "Art(QN)2 ABC Amino Acid Importer from Thermoanaerobacter tengcongensis"
 created: 2026-06-08
-updated: 2026-07-09
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -176,6 +176,22 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
     </tr>
@@ -190,6 +206,22 @@ Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th
     <tr>
       <td>Notes</td>
       <td>ArtI-Arg complex solved at 1.48 Å resolution</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
     </tr>
   </tbody>
 </table>

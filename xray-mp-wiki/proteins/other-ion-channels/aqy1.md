@@ -1,7 +1,7 @@
 ---
 title: "Aqy1 - Yeast Aquaporin from Pichia pastoris"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -84,6 +84,18 @@ combination of phosphorylation at Ser107 and mechanosensitivity.
     <tr>
       <td>Notes</td>
       <td>Crystallization details available in supplementary materials</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
     </tr>
   </tbody>
 </table>
@@ -262,6 +274,30 @@ combination of phosphorylation at Ser107 and mechanosensitivity.
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>3.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 28 % [precipitant] (PEG400)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
     </tr>
@@ -284,6 +320,31 @@ combination of phosphorylation at Ser107 and mechanosensitivity.
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/">Single Crystal Microspectrophotometry</a> 2 (pH 8.0: diffracted to 1.40 A <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-2-2a/">Rhodopsin 2 2A</a>. Space group I4.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 33 % [precipitant] (PEG400)  
+- Sodium Chloride: 100 mM [salt]</td>
     </tr>
   </tbody>
 </table>

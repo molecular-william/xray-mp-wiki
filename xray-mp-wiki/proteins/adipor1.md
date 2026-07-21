@@ -1,7 +1,7 @@
 ---
 title: "Adiponectin Receptor 1 (ADIPOR1)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -68,6 +68,18 @@ uniprot_id: Q96A54
       <td>Notes</td>
       <td>Revised ADIPOR1 structure (5LXG) from re-analysis of PDB 3WXV data. The revised structure shows a clear improvement in statistics. No FFA is observed in the structure. Large rearrangements of TM5 and intracellular loop 2 (ICL2) compared to <a href="/xray-mp-wiki/proteins/adipor2">Adiponectin Receptor 2 (ADIPOR2)</a> structures. The zinc coordination sphere is similar to ADIPOR2.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -324,6 +336,18 @@ uniprot_id: Q96A54
       <td>Notes</td>
       <td>Crystallized by the lipidic mesophase method with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">monoolein</a>. X-ray diffraction data collected at SPring-8 beamline BL32XU. The asymmetric unit contains three molecules: two in the closed form (A, B) and one in the open form (C). Data collected at 3.1 Å resolution with space group P212121.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

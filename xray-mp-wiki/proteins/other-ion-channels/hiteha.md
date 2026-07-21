@@ -1,7 +1,7 @@
 ---
 title: "HiTehA (TehA from Haemophilus influenzae)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,18 @@ demonstrating the first in situ membrane protein structure determination at a sy
     <tr>
       <td>Notes</td>
       <td>Original crystallization; crystals diffracted beyond 1.1 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>277 K</td>
     </tr>
   </tbody>
 </table>
@@ -842,6 +854,32 @@ demonstrating the first in situ membrane protein structure determination at a sy
     <tr>
       <td>Notes</td>
       <td>Crystals grown in 96-well sitting-drop plates (CrystalQuick X) using Mosquito robot. Data collected directly in-plate at room temperature on Diamond I24 with Pilatus3 6M detector.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>277 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 0.1 M [salt]  
+- Tris: 120 mM [buffer]  
+- Peg 400: 20 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

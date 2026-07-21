@@ -1,7 +1,7 @@
 ---
 title: "Methanosarcina barkeri Membrane-Bound Hydrogenase (HmMBH)"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

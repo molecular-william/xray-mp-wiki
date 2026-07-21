@@ -1,7 +1,7 @@
 ---
 title: "DAP12 (CD331)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -136,6 +136,19 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Cholesterol: 10 % [additive]  
+- Peg 3350: 12.4 % [precipitant] (Peg 3350)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Lipidic cubic phase (LCP) crystallization</td>
     </tr>
@@ -158,6 +171,23 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
     <tr>
       <td>Notes</td>
       <td>Tetramer structure (PDB 4WO1) diffracted to 2.14 A. Four parallel alpha helices in asymmetric unit. Coordinated calcium ion at polar core.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.07</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 19.7 % [precipitant] (Peg 3350)  
+- Calcium Chloride: 0.269 M [salt]</td>
     </tr>
   </tbody>
 </table>

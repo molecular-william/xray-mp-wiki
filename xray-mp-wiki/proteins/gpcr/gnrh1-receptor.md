@@ -1,7 +1,7 @@
 ---
 title: "Human Gonadotropin-Releasing Hormone Receptor (GnRH1R)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -129,6 +129,18 @@ The human gonadotropin-releasing hormone receptor (GnRH1R, also known as luteini
     <tr>
       <td>Notes</td>
       <td>Data collected at Shanghai Synchrotron Radiation Facility (SSRF) BL17U. Structure solved by molecular replacement using <a href="/xray-mp-wiki/reagents/protein-tags/pgs-fusion/">PGS</a> domain as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

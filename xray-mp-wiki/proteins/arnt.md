@@ -1,7 +1,7 @@
 ---
 title: "4-Amino-4-deoxy-L-arabinose Transferase ArnT from Cupriavidus metallidurans"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -126,6 +126,28 @@ ArnT (PmrK) is an integral membrane lipid-to-lipid glycosyltransferase that
     <tr>
       <td>Notes</td>
       <td>Crystallized in <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> LCP. <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">SeMet</a>-substituted protein used for phasing. Space group P2₁2₁2₁. Apo structure at 2.8 Å (PDB 5E2M); UndP-bound at 3.2 Å (PDB 5F15).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 100 mM [buffer]  
+- Ammonium Sulfate: 200 mM [salt]  
+- Peg 400: 30 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

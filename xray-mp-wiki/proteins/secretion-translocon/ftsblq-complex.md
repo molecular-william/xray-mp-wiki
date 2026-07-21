@@ -1,7 +1,7 @@
 ---
 title: "FtsB-FtsL-FtsQ (FtsBLQ) Complex from Escherichia coli"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -163,6 +163,31 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
     <tr>
       <td>Notes</td>
       <td>Data collected At TPS 05A beamline (NSRRC, Taiwan) and X06SA-PXI (SLS, Switzerland). <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> solved by Molecular Replacement using partial <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> (PDB 5Z2W) as search <a href="/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/">Ball-and-Chain Model for SLC38A9</a>; ~40% of atoms manually built including 3 fully <a href="/xray-mp-wiki/methods/structure-determination/time-resolved-serial-synchrotron-crystallography/">TR-SMX</a> Tm helices. <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/">Rhodopsin N2C/D282C Mutant</a> structures (8HHF, 8HHH) refined to RMSD ~0.45 A from wild-Type.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Peg 400: 20-35 % [precipitant] (PEG400)</td>
     </tr>
   </tbody>
 </table>

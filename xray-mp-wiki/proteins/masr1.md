@@ -1,7 +1,7 @@
 ---
 title: "Delta14-sterol reductase MaSR1 from Methylomicrobium alcaliphilum"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,26 @@ MaSR1 is a Delta14-sterol reductase from the methanotrophic bacterium Methylomic
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> added to crystallization buffer at 1% (v/v) final concentration to improve diffraction. SeMet-labelled protein crystallized in same buffer plus 6 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>. Platinum derivatives obtained by soaking native crystals for 12 h in mother liquor plus 10 mg/ml K2Pt(NO2)4.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Pseudomonas aeruginosa LptB2FG LPS Extraction Complex"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -122,6 +122,30 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
     <tr>
       <td>Notes</td>
       <td>1 ul protein mixed with 1 ul reservoir solution. Best crystals obtained in solution containing 0.1 M HEPES pH 7.0.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

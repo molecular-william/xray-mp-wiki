@@ -1,7 +1,7 @@
 ---
 title: "GlpF (Glycerol Facilitator from E. coli)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -109,6 +109,18 @@ bipolar water orientation that blocks proton conduction.
     <tr>
       <td>Notes</td>
       <td>Crystals grown in space group I422, isomorphous to crystals previously grown in 15% (w/w) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> (PDB 1FX8). Xylose was used as a non-transported substrate replacement for <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> to obtain the water-bound form.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
     </tr>
   </tbody>
 </table>
@@ -839,6 +851,25 @@ bipolar water orientation that blocks proton conduction.
     <tr>
       <td>Temperature</td>
       <td>100 K (cryo)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 28 % [precipitant] (Peg 2000)  
+- Bicine: 100 mM [buffer]  
+- Glycerol: 15 % [additive]  
+- Og: 35 mM [additive]</td>
     </tr>
   </tbody>
 </table>

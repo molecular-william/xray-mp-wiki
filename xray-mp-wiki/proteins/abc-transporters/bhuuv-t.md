@@ -1,7 +1,7 @@
 ---
 title: "Burkholderia cenocepacia Haem Importer Complex BhuUV-T"
 created: 2026-06-03
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,22 @@ The BhuUV-T complex is a type II ATP-binding cassette (ABC) haem importer from t
     <tr>
       <td>Notes</td>
       <td>Nucleotide-free form; BhuT exhibits poor electron density with high temperature factors, possibly due to alternative orientation</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

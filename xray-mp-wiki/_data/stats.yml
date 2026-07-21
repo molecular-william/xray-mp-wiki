@@ -1,0 +1,90 @@
+entities:
+  total_pages: 2168
+  total_structures: 799
+  proteins: 800
+  reagents: 815
+  methods: 70
+  concepts: 483
+resolution:
+  mean: 2.86
+  median: 2.8
+top_families:
+- name: 'GPCRs: class a'
+  count: 112
+- name: 'channels: potassium, sodium, & proton ion selective'
+  count: 51
+- name: ABC transporters
+  count: 44
+- name: bacterial, algal, viral, and unusual rhodopsins
+  count: 44
+- name: MFS transporters
+  count: 38
+- name: multi drug efflux transporters
+  count: 34
+- name: solute carrier (slc) transporter superfamily
+  count: 27
+- name: 'channels: other ion channels'
+  count: 24
+- name: 'channels: aquaporins and glyceroporins'
+  count: 20
+- name: f type atpase
+  count: 20
+top_detergents:
+- name: DDM
+  count: 707
+- name: CHS
+  count: 211
+- name: DM
+  count: 168
+- name: LMNG
+  count: 73
+- name: OG
+  count: 68
+- name: NG
+  count: 48
+- name: LDAO
+  count: 29
+- name: DDM
+  count: 27
+- name: Triton X-100
+  count: 21
+- name: C12E8
+  count: 18
+top_expressions:
+- name: e-coli
+  count: 353
+- name: sf9
+  count: 123
+- name: native-tissue
+  count: 44
+- name: pichia-pastoris
+  count: 42
+- name: hek293
+  count: 35
+- name: not-specified
+  count: 26
+- name: other-bacterial
+  count: 24
+- name: saccharomyces-cerevisiae
+  count: 20
+top_steps:
+- name: 'g protein coupled receptors: class a'
+  count: 468
+- name: 'channels: potassium, sodium, & proton ion selective'
+  count: 206
+- name: atp binding cassette (abc) transporters
+  count: 157
+- name: bacterial, algal, viral, and unusual rhodopsins
+  count: 156
+- name: major facilitator superfamily (mfs) transporters
+  count: 141
+- name: multi drug efflux transporters
+  count: 138
+- name: solute carrier (slc) transporter superfamily
+  count: 113
+- name: 'channels: aquaporins and glyceroporins'
+  count: 88
+- name: 'channels: other ion channels'
+  count: 75
+- name: intramembrane proteases
+  count: 67

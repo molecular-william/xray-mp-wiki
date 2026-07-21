@@ -1,7 +1,7 @@
 ---
 title: "Human M4 Muscarinic Acetylcholine Receptor"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -135,6 +135,28 @@ The human M4 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
       <td>Notes</td>
       <td>M4-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a> crystallized in space group P 1 21 1. Data processed using XDS. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using inactive M2 structure (PDB: 3UON) and inactive M3-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a> (PDB: 4U15) as search models for receptor and <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a> fusion domains respectively. Refinement carried out in Phenix with manual building in Coot. 64 crystals used. Final Rwork/Rfree: 22.7%/24.0%.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 25-40 % [precipitant] (PEG 300)  
+- Edta: 50-100 mM [additive]  
+- Mes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

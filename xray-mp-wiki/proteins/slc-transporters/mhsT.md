@@ -1,7 +1,7 @@
 ---
 title: "MhsT Multi-Hydrophobic Amino Acid Transporter from Bacillus halodurans"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -144,6 +144,14 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>)</td>
     </tr>
@@ -162,6 +170,14 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     <tr>
       <td>Notes</td>
       <td>MhsT crystallized using <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> method, yielding structure at 2.6 A resolution. Similar overall structure to HiLiDe form (0.65 A RMSD) but differs at TM5 region.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>
@@ -695,6 +711,33 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
     <tr>
       <td>Notes</td>
       <td>Crystallized by <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">vapor diffusion</a> in hanging drops using immersion oil as sealing agent. Substrates included Tyr, 4F-Phe, Phe, Ile, Leu, Val. Diffraction data collected at Diamond Light Source (I24, I04) and Swiss Light Source (PXI).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>19 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 14-24 % [precipitant] (PEG400)  
+- Sodium Chloride: 0.3-0.5 M [salt]  
+- Tris: 100 mM [buffer]  
+- Glycerol: 5-10 % [additive]</td>
     </tr>
   </tbody>
 </table>

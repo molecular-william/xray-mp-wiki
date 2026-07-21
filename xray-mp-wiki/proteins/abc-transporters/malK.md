@@ -1,7 +1,7 @@
 ---
 title: "MalK (Escherichia coli Maltose Transporter ATPase Subunit)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

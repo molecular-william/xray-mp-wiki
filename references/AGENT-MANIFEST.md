@@ -18,7 +18,7 @@ Each entity is a YAML file in `xray-mp-wiki/<type>_yaml/<name>.yaml`. The full f
 | `created` | string (ISO date) | no | YYYY-MM-DD |
 | `updated` | string (ISO date) | no | Bump on every edit |
 | `layout` | string | no | `default` (the only valid value) |
-| `verified` | enum | no | `"none"` (default), `"regex"` (automated pattern checks passed), `"agent"` (LLM subagent confirmed against papers), `"human"` (domain expert reviewed) |
+| `verified` | enum | no | `"none"` (default), `"regex"` (automated pattern checks passed), `"pdb"` (PDB-DOI pairs verified via check_pdb.py), `"agent"` (LLM subagent confirmed against papers), `"human"` (domain expert reviewed) |
 | `overview` | string | no | Human-readable summary |
 | `cross_references` | list of objects | no | `{path, title, reason}` where `path` starts with `/xray-mp-wiki/` |
 

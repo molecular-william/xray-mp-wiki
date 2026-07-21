@@ -1,7 +1,7 @@
 ---
 title: "Glycophorin A Transmembrane Domain (GpA-TM)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -106,6 +106,27 @@ Glycophorin A (GpA) is a type I single-pass transmembrane sialoglycoprotein foun
     <tr>
       <td>Notes</td>
       <td>Two crystal forms identified from 26/384 conditions. Datasets from two isomorphous crystals merged to solve dimer structure. LCP media shows type-I packing.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 0.1 M [buffer]  
+- Peg 8000: 20 % [precipitant] (PEG 8000)</td>
     </tr>
   </tbody>
 </table>

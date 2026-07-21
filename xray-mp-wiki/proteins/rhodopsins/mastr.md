@@ -1,7 +1,7 @@
 ---
 title: "MastR (Mastigocladopsis repens Rhodopsin)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -130,6 +130,28 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
     <tr>
       <td>Notes</td>
       <td>Bicelles composed of DMPC-<a href="/xray-mp-wiki/reagents/detergents/chapso/">CHAPSO</a> (2.8:1 ratio, 24% w/v). Crystals grown in hanging drops</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>bicelle</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 24 % [precipitant] (PEG 2000 MME)  
+- Citrate: 100 mM [buffer]  
+- Ammonium Sulfate: 200 mM [salt]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "E. coli MlaC Periplasmic Lipid-Binding Protein"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,26 @@ MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/)
     <tr>
       <td>Notes</td>
       <td>Phased by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using MR-Rosetta homology model based on PDB 2QGU template. Two <a href="/xray-mp-wiki/reagents/lipids/phosphatidic-acid/">Phosphatidic Acid</a> molecules built into electron density in the core of each MlaC monomer in the asymmetric unit.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>3.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.6 M [salt]</td>
     </tr>
   </tbody>
 </table>

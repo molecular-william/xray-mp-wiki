@@ -1,7 +1,7 @@
 ---
 title: "Get3 (TRC40) TA Protein Targeting Factor"
 created: 2026-06-16
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

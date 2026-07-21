@@ -1,7 +1,7 @@
 ---
 title: "Human 5-HT1B Serotonin Receptor"
 created: 2026-06-21
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -173,6 +173,26 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>40% (w/w) protein solution, 54% monoolein, 6% cholesterol</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (54% w/w) + cholesterol (6% w/w)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
     </tr>
@@ -203,6 +223,26 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
     <tr>
       <td>Notes</td>
       <td>Crystals grew to 20-50 µm; data from 56 crystals merged for 2.8 Å structure</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>40% (w/w) protein solution, 54% monoolein, 6% cholesterol</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (54% w/w) + cholesterol (6% w/w)</td>
     </tr>
   </tbody>
 </table>

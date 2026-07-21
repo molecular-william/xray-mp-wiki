@@ -1,7 +1,7 @@
 ---
 title: "LbSemiSWEET from Leptospira biflexa"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -130,6 +130,18 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion</a></td>
     </tr>
@@ -144,6 +156,18 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
     <tr>
       <td>Notes</td>
       <td>Crystals appeared within two days; Q20A mutation favors inward-open conformation</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>
@@ -422,6 +446,18 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
     <tr>
       <td>Notes</td>
       <td>Crystals grew in about 1 week; captured in occluded conformation</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

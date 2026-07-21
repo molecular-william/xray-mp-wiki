@@ -1,7 +1,7 @@
 ---
 title: "Ks-Amt5 Ammonium Sensor Histidine Kinase from Candidatus Kuenenia stuttgartiensis"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,14 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
     <tr>
       <td>Notes</td>
       <td>Crystals grew in space group P1. The Amt domain (residues M1-A408) formed crystal contacts; the HK domains were structurally disordered.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

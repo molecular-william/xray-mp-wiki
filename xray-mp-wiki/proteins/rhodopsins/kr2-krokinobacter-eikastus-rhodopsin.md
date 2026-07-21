@@ -1,7 +1,7 @@
 ---
 title: "KR2 — Krokinobacter eikastus Rhodopsin 2 (Sodium Pump)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -98,6 +98,14 @@ uniprot_id: N0DKS8
     <tr>
       <td>Notes</td>
       <td>Three crystal types obtained: type A (blue, monomeric), type B (red, pentameric), type C (red). Crystals grown in LCP. See main text for full conditions.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

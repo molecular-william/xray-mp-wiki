@@ -1,7 +1,7 @@
 ---
 title: "Leptosphaeria Rhodopsin (LR/Mac)"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -154,6 +154,18 @@ for LR 1-313, 10 mg/L for LR 49-313.
     <tr>
       <td>Notes</td>
       <td>Crystals grown using in meso approach. Structure determined at 2.2 A resolution. Space group P 21 21 21, cell dimensions: a=63.54, b=70.78, c=148.02 A. Data collected at ESRF synchrotron beamlines. Rwork/Rfree = 23.8/28.5%.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

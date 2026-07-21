@@ -1,7 +1,7 @@
 ---
 title: "DltB (Membrane-Bound O-Acyltransferase)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -141,6 +141,33 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
     <tr>
       <td>Notes</td>
       <td>Crystal form I (P2₁, 3.30 Å): native DltB apo. Crystal form II (P2₁, 3.15 Å): DltB-DltC-Ppant complex, DltB and DltC mixed at 1:2 molar ratio. Crystal form III (P2₁2₁2, 3.30 Å): DltB apo. Au-SAD phasing used for structure determination (Au derivative for crystal form I).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 21 % [precipitant] (PEG400)  
+- Tris: 100 mM [buffer]  
+- Sodium Chloride: 100 mM [salt]  
+- Magnesium Chloride: 100 mM [salt]</td>
     </tr>
   </tbody>
 </table>

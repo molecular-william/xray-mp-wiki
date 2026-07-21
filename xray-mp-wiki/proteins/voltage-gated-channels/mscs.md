@@ -1,7 +1,7 @@
 ---
 title: "E. coli MscS (Mechanosensitive Channel of Small Conductance)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -99,6 +99,32 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
     <tr>
       <td>Notes</td>
       <td>Crystals grew to 0.3 x 0.1 x 0.1 mm in 2 d. Data collected at ID14-4, ESRF. Resolution determined by Diederichs-Karplus method as implemented in PDB REDO.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 0.07 M [buffer]  
+- Sodium Chloride: 0.07 M [salt]  
+- Peg 400: 23 % [precipitant] (v/v PEG 400)</td>
     </tr>
   </tbody>
 </table>

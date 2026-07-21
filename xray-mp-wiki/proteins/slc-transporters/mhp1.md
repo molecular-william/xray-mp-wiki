@@ -1,7 +1,7 @@
 ---
 title: "Mhp1 Benzyl-Hydantoin Transporter from Microbacterium liquefaciens"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

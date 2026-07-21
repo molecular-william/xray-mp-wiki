@@ -1,7 +1,7 @@
 ---
 title: "AlgM1M2SS Alginate ABC Transporter"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -119,6 +119,27 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 18 % [precipitant] (PEG 3000)  
+- Sodium Chloride: 0.15 M [salt]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a> (<a href="/xray-mp-wiki/reagents/additives/selenomethionine/">SeMet</a> derivative)</td>
     </tr>
@@ -145,6 +166,26 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/additives/selenomethionine/">SeMet</a> derivative used for phasing; structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using <a href="/xray-mp-wiki/proteins/abc-transporters/malF/">MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)</a>, <a href="/xray-mp-wiki/proteins/abc-transporters/malG/">MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)</a>, <a href="/xray-mp-wiki/proteins/abc-transporters/malK/">MalK (Escherichia coli Maltose Transporter ATPase Subunit)</a> subunits from PDB 2R6G</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 18 % [precipitant] (PEG4000)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "KdpFABC Potassium-Importing Complex"
 created: 2017-06-21
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -109,6 +109,33 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
     <tr>
       <td>Notes</td>
       <td>Plate-like morphology with birefringence; crystals appeared within 1-2 weeks</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 100 mM [buffer]  
+- Sodium Chloride: 50 mM [salt]  
+- Calcium Chloride: 20 mM [salt]  
+- Peg: 30 % [precipitant] (PEG 550 MME)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "AcrB Multidrug Efflux Transporter"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,32 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
     <tr>
       <td>Notes</td>
       <td>Crystal size 0.3 x 0.3 x 0.2 mm. Space group C2. <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a> phasing. Data collected at 100 K at SPring-8.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 14 % [precipitant] (PEG 4000)  
+- Sodium Phosphate: 100 mM [buffer]  
+- Sodium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>
@@ -3602,6 +3628,18 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -4566,6 +4604,14 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor diffusion</a></td>
     </tr>
@@ -4576,6 +4622,14 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
     <tr>
       <td>Notes</td>
       <td>AcrBZ complex crystallized by <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

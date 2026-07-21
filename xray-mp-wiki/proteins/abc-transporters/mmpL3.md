@@ -1,7 +1,7 @@
 ---
 title: "MmpL3 from Mycobacterium smegmatis"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -173,6 +173,22 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">sitting-drop vapor diffusion</a></td>
     </tr>
@@ -187,6 +203,18 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
     <tr>
       <td>Growth time</td>
       <td>not reported</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>
@@ -213,6 +241,18 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">sitting-drop vapor diffusion</a></td>
     </tr>
@@ -233,6 +273,18 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">sitting-drop vapor diffusion</a></td>
     </tr>
@@ -247,6 +299,18 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
     <tr>
       <td>Growth time</td>
       <td>not reported</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>
@@ -1630,6 +1694,22 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>16 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">hanging-drop vapor diffusion</a></td>
     </tr>
@@ -1644,6 +1724,22 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
     <tr>
       <td>Growth time</td>
       <td>3 days</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>16 C</td>
     </tr>
   </tbody>
 </table>

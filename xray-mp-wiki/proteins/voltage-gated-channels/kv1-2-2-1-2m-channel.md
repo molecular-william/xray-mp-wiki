@@ -1,7 +1,7 @@
 ---
 title: "Kv1.2-2.1-2m Chimeric Channel (W362F, S367T)"
 created: 2026-06-16
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -105,6 +105,27 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
     <tr>
       <td>Notes</td>
       <td>Protein-to-reservoir ratio 2:1. Structure determined at 150 mM K+.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg 400: 26-36 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

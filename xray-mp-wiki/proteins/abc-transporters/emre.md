@@ -1,7 +1,7 @@
 ---
 title: "EmrE (E. coli Small Multidrug Resistance Transporter)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -787,6 +787,32 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
     <tr>
       <td>Notes</td>
       <td>Crystals formed in 96-well plates. Space group C121 (apo, TPP+, MeTPP+, harmane, benzyltrimethylammonium) or P1 (methyl viologen). Substrate-bound crystals grown in 0.1 M LiNO3 or 0.1 M (NH4)2SO4, 0.1 M ADA pH 6.5 or 0.1 M HEPES pH 7.1-7.3, 30-35% PEG 600 with substrates added from stock solutions (1 mM methyl viologen, 500 uM harmane, 300 uM benzyltrimethylammonium, 100 uM TPP+, 300 uM MeTPP+). Structures solved by molecular replacement using L10 monobody and Gdx-Clo helices as search models.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Chloride: 0.2 M [salt]  
+- Sodium Cacodylate: 0.1 M [buffer]  
+- Peg 600: 34 % [precipitant] (PEG 600 (low pH, no substrate))</td>
     </tr>
   </tbody>
 </table>

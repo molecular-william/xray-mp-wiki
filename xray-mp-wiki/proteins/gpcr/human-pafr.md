@@ -1,7 +1,7 @@
 ---
 title: "Human Platelet-Activating Factor Receptor (PAFR)"
 created: 2018-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -149,6 +149,27 @@ pH 5.0, 100 mM Na malonate pH 7.0, 100 mM <a href="/xray-mp-wiki/reagents/additi
 (mT4L fusion): 40-45 mg/ml, 30-32% PEG 400, 100 mM Na <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a> pH 5.0, 100 mM
 Na malonate pH 7.0, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 3% sarcosine. Data merged from 36 crystals
 (SR 27417) and 52 crystals (ABT-491) due to radiation damage.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 28-32 % [precipitant] (PEG 400)  
+- Imidazole: 0-100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

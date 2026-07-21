@@ -1,7 +1,7 @@
 ---
 title: "Bovine ADP/ATP Carrier"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,18 @@ The bovine ADP/ATP carrier (AAC) is a mitochondrial inner membrane protein that 
     <tr>
       <td>Notes</td>
       <td>Plate-shaped crystals 100x20x5 um3. Data collected at ESRF BM30A. Space group C2221 with unit cell a=80, b=109, c=89 A (low salt or a=76, b=111, c=90 A (5 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a>). Role in stabilizing the carrier's conformational changes during nucleotide exchange.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Jeffamine M600: 28-32 % [precipitant]</td>
     </tr>
   </tbody>
 </table>

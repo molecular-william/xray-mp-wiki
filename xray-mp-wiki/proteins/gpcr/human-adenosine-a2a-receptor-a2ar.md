@@ -1,7 +1,7 @@
 ---
 title: "Human Adenosine A2A Receptor (A2AR)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -115,6 +115,18 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     <tr>
       <td>Notes</td>
       <td>Diffraction data from 13 crystals combined to yield 2.6 A dataset. Phases obtained by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using beta2AR-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> (PDB 2RH1). Final model includes residues Ile3-Gln310 of <a href="/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar/">A2AR</a>, residues 2-161 of <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a>, five stearic acid lipids, eight sulfate ions, and <a href="/xray-mp-wiki/reagents/ligands/zm241385/">ZM241385</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein and Cholesterol mixture</td>
     </tr>
   </tbody>
 </table>
@@ -3884,6 +3896,18 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein and Cholesterol mixture</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details class="pub-entry" markdown="1">
@@ -4738,6 +4762,14 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
     <tr>
       <td>Notes</td>
       <td>SFX structure solved using HVC injector at SACLA at atmospheric pressure. 190,041 diffraction patterns collected, 10,510 indexed. No 7.9/9.7 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> additives needed.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "CLC-ec1 Cl-/H+ Antiporter"
 created: 2020-04-20
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,29 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     <tr>
       <td>Notes</td>
       <td>Protein mixed with 1.5 parts (w/w) of monolein containing 10% (w/w) <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> using syringe reconstitution method. 25 nL LCP droplets overlaid with 600 nL precipitant in 96-well glass sandwich plates. Crystals harvested after 3-4 weeks incubation at 16 C. Structure solved by molecular replacement. No antibody Fab fragment used.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>16 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Sodium Malonate: 100 mM [additive]  
+- Peg 400: 30 % [precipitant] (Peg 400)  
+- Mpd: 2.5 % [precipitant]</td>
     </tr>
   </tbody>
 </table>
@@ -752,6 +775,18 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     <tr>
       <td>Notes</td>
       <td>Crystals of DeltaNC construct diffracted to 2.2-2.7 A Bragg spacing. E202Y mutant crystals obtained at 3.2 A resolution. 52 crystallographic water molecules modeled in the DeltaNC dataset. Data collection details not fully specified.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
     </tr>
   </tbody>
 </table>
@@ -2750,6 +2785,31 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Glycine: 50 mM [buffer]  
+- Peg: 34 % [precipitant] (Peg 300)</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details class="pub-entry" markdown="1">
@@ -2847,6 +2907,30 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
     <tr>
       <td>Notes</td>
       <td>1 ul protein mixed with equal volume reservoir, plus ~10 mM 4-cyclohexyl-1-butyl-beta-D-maltoside added to the 2 ul drop. Crystals grown by vapor diffusion in sitting drop trays. Data collected remotely at beamline 8.2.1 of the Advanced Light Source Eastern Annex. Data processed in HKL2000. Structure solved by molecular replacement in PHASER using residues 30-450 of a single subunit of ClC-ec1 as search model; refinement in REFMAC5.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 41-45 % [precipitant] (PEG400)</td>
     </tr>
   </tbody>
 </table>

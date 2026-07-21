@@ -1,7 +1,7 @@
 ---
 title: "JAGN1 (Jagunal Homolog 1) from Homo sapiens"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -84,6 +84,14 @@ JAGN1 (Jagunal Homolog 1) is a human four-transmembrane helix protein involved i
     <tr>
       <td>Notes</td>
       <td>The sfGFP-restrained JAGN1 was crystallized and diffracted to near-atomic resolution. The sfGFP coupler provided crystal contacts and enabled molecular replacement phasing.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

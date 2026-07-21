@@ -1,7 +1,7 @@
 ---
 title: "CusA Heavy-Metal Efflux RND Transporter (E. coli)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,27 @@ CusA is the inner-membrane transporter component of the CusCBA tripartite efflux
     <tr>
       <td>Notes</td>
       <td>Apo-CusA, SeMet-CusA crystallized under same conditions. Heavy-atom derivatives: KAuCl4 (1 mM) or Ta6Br12 (5 mM) soaked 1.5 h. CusA-Cu(I): 2 mM [Cu(CH3CN)4]PF6, 2 mM TCEP soaked 1 h. CusA-Ag(I): 1 mM AgNO3 soaked 1 h. Data collected at APS beamline 24ID-C. Rhombohedral R32 space group, one monomer per asymmetric unit.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>25 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 10 % [precipitant] (PEG 3350)  
+- Jeffamine M600: 1 % [precipitant]</td>
     </tr>
   </tbody>
 </table>

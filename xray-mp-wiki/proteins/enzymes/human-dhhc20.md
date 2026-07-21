@@ -1,7 +1,7 @@
 ---
 title: "Human DHHC20 Palmitoyltransferase"
 created: 2026-06-10
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -151,6 +151,36 @@ cancers resistant to EGFR-targeted therapy.
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.8</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>1:1 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 50 mM [buffer]  
+- Peg: 27.7 % [precipitant] (PEG 300)  
+- Dtt: 25 mM [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Lipidic cubic phase (LCP)</td>
     </tr>
@@ -179,6 +209,36 @@ cancers resistant to EGFR-targeted therapy.
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>1:1 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 100 mM [buffer]  
+- Peg: 31 % [precipitant] (PEG 300)  
+- Dtt: 50 mM [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a></td>
     </tr>
@@ -201,6 +261,32 @@ cancers resistant to EGFR-targeted therapy.
     <tr>
       <td>Notes</td>
       <td>P21 crystal form; data collected at APS GM/CA-CAT 23ID-B</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 50 mM [buffer]  
+- Peg: 30.3 % [precipitant] (PEG 300)  
+- Dtt: 50 mM [additive]</td>
     </tr>
   </tbody>
 </table>

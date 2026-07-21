@@ -1,7 +1,7 @@
 ---
 title: "Ci-VSD Voltage-Sensing Domain"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -94,6 +94,14 @@ Ci-VSD is the isolated voltage-sensing domain from the Ciona intestinalis voltag
     <tr>
       <td>Notes</td>
       <td>Ci-VSD R217E+33F12_4 complex crystallized in space group P6_5 2 2 at 2.5 A resolution. Ci-VSD WT+39D10_18 complex crystallized in space group P1 at 3.6 A resolution with 4 complexes per asymmetric unit. <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> detergent molecules and succinic acid resolved around the S3-S4 loop region of the R217E structure.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

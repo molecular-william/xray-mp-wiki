@@ -19,7 +19,7 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-import yaml
+from scripts._base import fast_load_str
 
 BASE = Path(__file__).resolve().parent.parent
 W = BASE / "xray-mp-wiki"
@@ -54,7 +54,7 @@ def main():
     ]:
         for yf in sorted((W / yaml_dir).rglob("*.yaml")):
             try:
-                data = yaml.safe_load(yf.read_text())
+                data = fast_load_str(yf.read_text())
             except Exception:
                 continue
             if not isinstance(data, dict):

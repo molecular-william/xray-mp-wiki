@@ -1,7 +1,7 @@
 ---
 title: "CD47 BRIL-B6H12 complex from Homo sapiens"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -114,6 +114,32 @@ CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system. 
     <tr>
       <td>Notes</td>
       <td>Full-length CD47-B6H12 complex crystals diffracted to 2.85 Angstrom</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 25 % [precipitant] (PEG400)  
+- Citrate: 0.1 M [buffer]  
+- Mes: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

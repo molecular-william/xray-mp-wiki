@@ -1,7 +1,7 @@
 ---
 title: "AhlABC Tripartite Alpha-Pore Forming Toxin from Aeromonas hydrophila"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,18 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting drop vapor diffusion</a></td>
     </tr>
@@ -165,6 +177,32 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
     <tr>
       <td>Notes</td>
       <td>AhlC Form 1 in space group P6(2)2. AhlC Form 2 in space group P2(1). Se-Met <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD</a> for phasing.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>16 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Magnesium Chloride: 0.2 M [salt]  
+- Tris: 0.1 M [buffer]  
+- Peg: 10 % [precipitant]</td>
     </tr>
   </tbody>
 </table>

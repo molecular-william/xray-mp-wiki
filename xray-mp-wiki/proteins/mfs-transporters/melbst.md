@@ -1,7 +1,7 @@
 ---
 title: "Melibiose Permease from Salmonella typhimurium (MelBSt)"
 created: 2026-06-04
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -125,6 +125,34 @@ uniprot_id: P30878
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">hanging-drop</a> <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a> method. Protein mixed 2 ul with 2 ul reservoir. Crystals frozen with liquid nitrogen. Data collected at ALS BL 5.0.2 (wavelength 1.004 A, 100 K). Asymmetric unit contains four molecules (Mol-ABCD) with twinning and pseudo-translation symmetries. Two conformations observed: outward partially occluded (Mol-A/C) and partial outward (Mol-B/D).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>23 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mops: 100 mM [buffer]  
+- Sodium Chloride: 100 mM [salt]  
+- Calcium Chloride: 50 mM [salt]  
+- Peg 400: 35-37 % [precipitant] (PEG 400)  
+- Octyl Beta D Galactopyranoside: 0.08 % [additive]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Bacillus pseudofirmus OF4 ATP Synthase A16/20G c12 Ring"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -101,6 +101,31 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
     <tr>
       <td>Cryoprotection</td>
       <td>0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 9.0, 30% (v/v) <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 400, 2% (w/v) alpha-nonyl-maltoside</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Peg 400: 23 % [precipitant] (Peg 400)</td>
     </tr>
   </tbody>
 </table>

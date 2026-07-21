@@ -1,7 +1,7 @@
 ---
 title: "E. coli MlaD MCE Protein"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -140,6 +140,28 @@ MlaD is an [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membr
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Lithium Sulfate: 0.2 M [additive]  
+- Hepes: 0.1 M [buffer]  
+- Peg 400: 15 % [precipitant] (PEG 400)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">sitting-drop</a> <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
     </tr>
@@ -166,6 +188,26 @@ MlaD is an [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membr
     <tr>
       <td>Notes</td>
       <td>Native data collected at ALS 8.3.1, indexed to P212121. Phased by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using Phaser with core MCE domain as search model. Final model: 3 copies of <a href="/xray-mp-wiki/concepts/miscellaneous/periplasm/">periplasmic</a> domain; 2-fold symmetry generates hexameric ring.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

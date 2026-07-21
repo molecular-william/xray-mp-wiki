@@ -1,7 +1,7 @@
 ---
 title: "Isoprenylcysteine Carboxyl Methyltransferase (ICMT) from Tribolium castaneum"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,14 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
     <tr>
       <td>Notes</td>
       <td>Crystals obtained in lipidic-cubic phase in the presence of AdoHcy cofactor and AGGC substrate analog. SeMet crystals collected for SAD phasing. Native crystals at 2.3 A (P21 21 21) and 4.0 A (C2221, ICMT without monobody in detergent).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

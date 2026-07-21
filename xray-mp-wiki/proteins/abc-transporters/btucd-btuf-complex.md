@@ -1,7 +1,7 @@
 ---
 title: "BtuCD-BtuF Complex (E. coli Vitamin B12 ABC Transporter)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -695,6 +695,26 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
     <tr>
       <td>Notes</td>
       <td>X-ray data collected at Swiss Light Source beamline X06SA. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using PHENIX and Coot. Data processed with Denzo/Scalepack (HKL Research).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.8</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 20-30 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

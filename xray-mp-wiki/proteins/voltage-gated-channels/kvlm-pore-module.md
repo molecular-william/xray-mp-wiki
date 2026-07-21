@@ -1,7 +1,7 @@
 ---
 title: "KvLm Pore Module (Voltage-Gated K+ Channel Pore from Listeria monocytogenes)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -145,6 +145,27 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
     <tr>
       <td>Notes</td>
       <td>LCP formed using <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (1-oleoyl-rac-<a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>). Also crystallized in alternative condition with sodium nitrate instead of <a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate/">Ammonium Sulfate</a>. Data collected at GM/CA-CAT beamline (23-ID) at APS using minibeam.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 0.5-0.6 M [salt]  
+- Hepes: 50 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Yersinia pestis Heme Transporter HmuUV"
 created: 2026-06-05
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -110,6 +110,14 @@ The HmuUV complex is the transmembrane and nucleotide-binding domain core of the
     <tr>
       <td>Notes</td>
       <td>3D crystals grown in detergent solution. Phased using two <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury (HgCl2) - Aquaporin Inhibitor</a> derivatives (EMP and EMTS) by single-wavelength anomalous diffraction (SIRAS). Diffraction data anisotropic: 3.0 A best, 3.2 A worst direction.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

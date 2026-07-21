@@ -20,7 +20,7 @@ from datetime import date as date_type
 from datetime import datetime, timedelta
 
 import yaml
-from _base import BASE_DIR
+from _base import BASE_DIR, fast_load_str
 
 WIKI_ROOT = BASE_DIR / "xray-mp-wiki"
 CATEGORIES = ["proteins", "reagents", "methods", "concepts"]
@@ -75,7 +75,7 @@ def parse_frontmatter(path):
     if not match:
         return None, content
     try:
-        fm = yaml.safe_load(match.group(1))
+        fm = fast_load_str(match.group(1))
     except yaml.YAMLError:
         fm = {}
     if fm is None:

@@ -1,7 +1,7 @@
 ---
 title: "Human GABA_A Receptor Beta-3 Subunit"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -142,6 +142,33 @@ The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> solved At 3.0 A resolution by Molecular Replacement using <a href="/xray-mp-wiki/proteins/cys-loop-receptors/glucl/">GluCl (C. elegans Glutamate-Gated Chloride Channel)</a> (C. elegans Glutamate-Gated Chloride Channel) (C. elegans Glutamate-Gated Chloride Channel) (C. elegans Glutamate-Gated Chloride Channel) (PDB 3RIF) as search <a href="/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/">Ball-and-Chain Model for SLC38A9</a>. R_work = 0.207, R_free = 0.227. 13972 atoms (13643 protein, 279 glycans, 45 Benzamidine, 5 Chloride).
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 11.5 % [precipitant] (PEG 4000 (Polyethylene Glycol 4000) (Polyethylene Glycol 400)  
+- Sodium Chloride: 100 mM [salt]  
+- Aces: 100 mM [additive]  
+- Benzamidine: 2 % [additive]</td>
     </tr>
   </tbody>
 </table>

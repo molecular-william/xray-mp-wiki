@@ -1,7 +1,7 @@
 ---
 title: "MvINS - Mycobacterial Insig Homolog from Mycobacterium vanbaalenii"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -125,6 +125,14 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
     <tr>
       <td>Notes</td>
       <td>Crystals appeared in several conditions under different detergents and diffracted X-rays beyond 2.0 Å resolution. Native structure determined by Hg-SAD from mercury-derivatized crystals. DAG-bound structure obtained by co-crystallization with a bromine-derived <a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a> in Cymal-7 detergent.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

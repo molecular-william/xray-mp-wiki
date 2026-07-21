@@ -1,7 +1,7 @@
 ---
 title: "GlpT Glycerol-3-Phosphate Transporter from Escherichia coli"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -99,6 +99,18 @@ GlpT (glycerol-3-phosphate transporter) from the E. coli inner Solid-Supported M
     <tr>
       <td>Notes</td>
       <td>X-ray Multi-Wavelength Anomalous Diffraction data collected from native, tungsten-<a href="/xray-mp-wiki/concepts/miscellaneous/manganese-calcium-cluster/">Manganese-Calcium Cluster (Mn4Ca Cluster)</a> (Mn4Ca Cluster) (Mn4Ca Cluster) Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography, and SeMet Diffractive Imaging of Imperfect Crystals. Experimental maps at 3.3 A resolution were obtained after solvent flattening and Liquid Sponge Phase Crystallization extension. SeMet residues were located by Multi-Wavelength Anomalous Diffraction difference maps from SeMet Diffractive Imaging of Imperfect Crystals.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

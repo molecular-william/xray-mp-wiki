@@ -1,7 +1,7 @@
 ---
 title: "ECF-CbrT (ECF-type ABC Transporter for Vitamin B12 from Lactobacillus delbrueckii)"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -118,6 +118,14 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
     <tr>
       <td>Notes</td>
       <td>OH-Cbl was added in excess to crystallization condition but not bound in structure</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

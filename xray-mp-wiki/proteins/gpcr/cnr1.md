@@ -1,7 +1,7 @@
 ---
 title: "Cannabinoid Receptor 1 (CNR1/CB1)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -784,6 +784,26 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:1 (protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details class="pub-entry" markdown="1">
@@ -895,6 +915,36 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     <tr>
       <td>Notes</td>
       <td>29 crystals merged into single dataset; <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> with LPA1 (PDB 4Z34) and <a href="/xray-mp-wiki/reagents/protein-tags/flavodoxin/">Flavodoxin</a> (PDB 1I1O) as search models; Rwork/Rfree = not specified; data collected at Spring-8 BL41XU</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (90% w/w) + Cholesterol (10% w/w)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 0.1 M [buffer]  
+- Peg 400: 25-32 % [precipitant] (PEG 400)  
+- Edta: 2-20 mM [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -1954,6 +2004,37 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/ligands/am11542/">AM11542</a> crystals grew to full size in 1 week. <a href="/xray-mp-wiki/reagents/ligands/am841/">AM841</a> crystals appeared after 2 days, full size after 1 week. 16 crystals (<a href="/xray-mp-wiki/reagents/ligands/am11542/">AM11542</a>) and 10 crystals (<a href="/xray-mp-wiki/reagents/ligands/am841/">AM841</a>) merged for final datasets. Data collected at APS GM/CA-CAT 23ID-B and SLS X06SA.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (90% w/w) + Cholesterol (10% w/w)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Cacodylate: 0.1 M [buffer]  
+- Peg 400: 30 % [precipitant] (PEG 400. AM841: 0.1 M sodium Cacodylate trihydrate pH 6.2)  
+- Peg 400: 30 % [precipitant] (PEG400)  
+- Glycine: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

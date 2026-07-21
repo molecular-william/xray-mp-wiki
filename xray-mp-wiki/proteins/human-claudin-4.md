@@ -1,7 +1,7 @@
 ---
 title: "Human Claudin-4 (hCLDN-4)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -122,6 +122,14 @@ receptor, in contrast to mice where CLDN-3 and CLDN-8 serve this role.
     <tr>
       <td>Notes</td>
       <td>Data collected at ALS beamline 8.3.1. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a>. Resolution 3.37 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

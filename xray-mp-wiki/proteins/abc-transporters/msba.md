@@ -1,7 +1,7 @@
 ---
 title: "MsbA Lipid A Flippase"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -152,6 +152,31 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
     <tr>
       <td>Notes</td>
       <td>Crystals grew to 200-500 um. Apo crystals grown under same conditions without <a href="/xray-mp-wiki/reagents/lipids/lipid-a/">Lipid A</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.34</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Peg: 32.5 % [precipitant] (PEG 300)</td>
     </tr>
   </tbody>
 </table>

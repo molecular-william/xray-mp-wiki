@@ -1,7 +1,7 @@
 ---
 title: "Human Neurokinin 1 Receptor (NK1R)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -157,6 +157,32 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
       <td>Notes</td>
       <td>CP-99,994 complex crystals appeared in <1 h in broad conditions. <a href="/xray-mp-wiki/reagents/ligands/aprepitant/">Aprepitant</a> complex: 100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> pH 6.0, 31% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 50-70 mM MgCl2, 50 uM <a href="/xray-mp-wiki/reagents/ligands/aprepitant/">Aprepitant</a>. <a href="/xray-mp-wiki/reagents/ligands/netupitant/">Netupitant</a> complex: 100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> pH 6.0, 31% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 40-50 mM Mg(HCO3)2, 50 uM <a href="/xray-mp-wiki/reagents/ligands/netupitant/">Netupitant</a>. All crystals cryo-cooled in liquid nitrogen without additional cryoprotectant.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein + 10% (w/v) Cholesterol</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Peg 400: 31 % [precipitant] (PEG400)  
+- Potassium Acetate: 190-210 mM [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -807,6 +833,31 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
       <td>Notes</td>
       <td>Crystals observed in 1 day, full size in 1 week. Cryoprotected in crystallization mother liquid. Data from 36 merged crystals. Diffraction data collected at APS 23ID-D beamline (12 keV, Pilatus3 6M detector). Resolution limit 3.4 A. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> with Phaser.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein + 10% (w/w) Cholesterol (2:3 protein:lipid mass ratio)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 100 mM [buffer]  
+- Peg: 30 % [precipitant] (PEG300)</td>
     </tr>
   </tbody>
 </table>

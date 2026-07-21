@@ -1,7 +1,7 @@
 ---
 title: "GLIC ECD (Extracellular Domain of Gloeobacter violaceus Ion Channel)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -58,6 +58,18 @@ The extracellular domain (ECD) of the [Pentameric Ligand-Gated Ion Channel (pLGI
     <tr>
       <td>Temperature</td>
       <td>20</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

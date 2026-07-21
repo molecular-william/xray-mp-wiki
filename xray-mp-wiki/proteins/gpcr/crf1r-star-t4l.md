@@ -1,7 +1,7 @@
 ---
 title: "Human Corticotropin-Releasing Factor 1 Receptor StaR-T4L (CRF1R)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -69,6 +69,18 @@ The human corticotropin-releasing factor 1 receptor (CRF1R) is a class A G prote
       <td>Notes</td>
       <td>CRF1R StaR-T4L crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/). Three molecules (A-C) in the asymmetric unit arranged by non-crystallographic symmetry. Crystals grown on average 15-20 um in size. Data collected using microdiffraction assembly method: 32141 unique reflections, 86.3% completeness, Rwork/Rfree 0.2413/0.2651. Space group P212121, unit cell a=86.6, b=124.0, c=166.8 A.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

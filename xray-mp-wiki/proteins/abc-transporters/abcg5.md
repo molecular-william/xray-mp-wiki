@@ -1,7 +1,7 @@
 ---
 title: "ABCG5"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -87,6 +87,33 @@ A highly conserved phenylalanine array on transmembrane helix 2, termed the phen
     <tr>
       <td>Notes</td>
       <td>Crystals only diffracted to 3.9 Å when cholesterol was present in bicelles. Two heterodimers in asymmetric unit. Tungsten <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction">SAD</a> phasing using sodium phosphotungstate derivative. Native data merged from 19 crystals to 3.9 Å resolution. Space group I 2 2 2. Structure refined to R/Rfree = 0.242/0.328.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20-22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.7-2.0 M [salt]  
+- Mes: 100 mM [buffer]  
+- Peg 400: 2-5 % [precipitant] (PEG400 (or PEG350 MME))  
+- Tcep: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -632,6 +659,29 @@ A highly conserved phenylalanine array on transmembrane helix 2, termed the phen
     <tr>
       <td>Notes</td>
       <td>Crystals harvested by submersion in 0.2 M sodium malonate. Space group I 2 2 2. Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using PDB 7JR7.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.8-2.0 M [salt]  
+- Mes: 100 mM [buffer]  
+- Peg 400: 2-5 % [precipitant] (PEG400)  
+- Tcep: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>

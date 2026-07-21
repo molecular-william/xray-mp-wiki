@@ -1,7 +1,7 @@
 ---
 title: "CIR Chloride-Pumping Rhodopsin from Nonlabens marinus"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -147,6 +147,22 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     <tr>
       <td>Notes</td>
       <td>Type A crystals at pH 6.0 diffracted to 2.0 A; type B crystals at pH 4.5 diffracted to 1.56 A. Data at Pohang Accelerator Laboratory. Structures solved by molecular replacement using <a href="/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/">Bacteriorhodopsin</a> (PDB 1C3W).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -1005,6 +1021,22 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1818,6 +1850,22 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -2200,6 +2248,22 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -2384,6 +2448,14 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
     <tr>
       <td>Notes</td>
       <td>Single crystals subjected to CW laser (532 <a href="/xray-mp-wiki/reagents/detergents/nm/">NM</a>) or pulsed laser (532 <a href="/xray-mp-wiki/reagents/detergents/nm/">NM</a>, 10 kHz). Data at Pohang Accelerator Laboratory.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>95 K</td>
     </tr>
   </tbody>
 </table>

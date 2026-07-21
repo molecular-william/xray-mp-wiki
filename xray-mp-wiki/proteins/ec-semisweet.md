@@ -1,7 +1,7 @@
 ---
 title: "E. coli SemiSWEET (EcSemiSWEET)"
 created: 2026-06-05
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -140,6 +140,18 @@ EcSemiSWEET is a sugar transporter from the SWEET family found in Escherichia co
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Sitting drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
     </tr>
@@ -150,6 +162,18 @@ EcSemiSWEET is a sugar transporter from the SWEET family found in Escherichia co
     <tr>
       <td>Notes</td>
       <td>Outward-open structure (Crystal-II); both conformations captured simultaneously</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

@@ -15,7 +15,7 @@ import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
-import yaml
+from scripts._base import fast_load_str
 
 BASE = Path(__file__).resolve().parent.parent.parent
 W = BASE / "xray-mp-wiki"
@@ -35,7 +35,7 @@ rd = BASE / "xray-mp-wiki" / "reagents_yaml"
 for yf in rd.glob("*.yaml"):
     slug = yf.stem
     try:
-        data = yaml.safe_load(yf.read_text())
+        data = fast_load_str(yf.read_text())
         if not isinstance(data, dict):
             continue
         tags = data.get("tags", []) or []
@@ -159,15 +159,17 @@ resolution_data = []  # (family, resolution)
 expr_data = []  # (title, expr_system_or_class) for expression×resolution correlation
 detergent_data = []  # (family, detergent_slug, conc_val, conc_unit, step_type)
 
-for yf in sorted((W / "proteins_yaml").glob("*.yaml")):
-    try:
-        data = yaml.safe_load(yf.read_text())
-    except Exception:
-        continue
-    if not isinstance(data, dict):
-        continue
+# ── Parallel-load all protein YAMLs once ─────────────────────────────
+from scripts._base import parallel_load_yamls
+_all_proteins = {}
+for path, data in parallel_load_yamls(sorted((W / "proteins_yaml").glob("*.yaml"))):
+    if isinstance(data, dict):
+        _all_proteins[path.stem] = data
 
-    title = data.get("title", yf.stem)
+# ── Process loaded data ──────────────────────────────────────────────
+for slug, data in sorted(_all_proteins.items()):
+
+    title = data.get("title", slug)
     family = family_label(data.get("mpstruc_classification", {}).get("subgroup", ""))
     family_count[family] += 1
 
@@ -281,14 +283,8 @@ def exchange_analysis():
     """Detergent exchange: proteins where detergent changes between steps."""
     exchanges = []
     exchange_count = Counter()
-    for yf in sorted((W / "proteins_yaml").glob("*.yaml")):
-        try:
-            data = yaml.safe_load(yf.read_text())
-        except Exception:
-            continue
-        if not isinstance(data, dict):
-            continue
-        title = data.get("title", yf.stem)
+    for slug, data in sorted(_all_proteins.items()):
+        title = data.get("title", slug)
         fam = family_label(data.get("mpstruc_classification", {}).get("subgroup", ""))
         environments = []  # list of frozensets, one per step
         for pub in data.get("publications", []) or []:

@@ -1,7 +1,7 @@
 ---
 title: "BcsA from Rhodobacter sphaeroides (Cellulose Synthase Catalytic Subunit)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,28 @@ BcsA is the catalytically active subunit of the bacterial cellulose synthase com
     <tr>
       <td>Notes</td>
       <td>Initial crystals observed after approximately 7 days; final size about 50 x 50 x 10 micrometers</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 30 % [precipitant] (PEG200)  
+- Mes: 0.1 M [buffer]  
+- Sodium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

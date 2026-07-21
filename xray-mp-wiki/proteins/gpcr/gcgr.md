@@ -1,7 +1,7 @@
 ---
 title: "Human Glucagon Receptor (GCGR)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -119,6 +119,22 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/imisx-in-situ-crystallization/">IMISX In-Situ Serial Crystallography</a> by <a href="/xray-mp-wiki/methods/structure-determination/lcp-serial-millisecond-crystallography/">LCP-SMX</a> method At 20 C. Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea reconstituted into <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> Crystallization with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>. Diffractive Imaging of Imperfect Crystals grown In 40-50% <a href="/xray-mp-wiki/reagents/additives/peg-400/">Polyethylene Glycol 400 (PEG 400)</a> (PEG 400) (PEG 400) (PEG 400), 0.1 M Na <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> (Sodium Citrate) (Sodium Citrate) (Sodium Citrate) Ph 5.0-5.5, 0.1 M LiCl.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -345,6 +361,18 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
     <tr>
       <td>Notes</td>
       <td>GCGR-StaR(136-417)-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> construct with <a href="/xray-mp-wiki/reagents/ligands/mk-0893/">MK-0893</a> Agonist-to-Antagonist Conversion via C8 Modification</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -658,6 +686,18 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -933,6 +973,22 @@ The Human glucagon Mouse 5-HT3A Receptor (GCGR, UniProt P47871) is a class B G-R
     <tr>
       <td>Notes</td>
       <td>GCGR-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> solubilized In <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, purified by <a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a>, reconstituted into <a href="/xray-mp-wiki/methods/structure-determination/lcp-serial-millisecond-crystallography/">LCP-SMX</a> with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>. Diffractive Imaging of Imperfect Crystals grown At 20 C. Data from 10 Diffractive Imaging of Imperfect Crystals merged for <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> solution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

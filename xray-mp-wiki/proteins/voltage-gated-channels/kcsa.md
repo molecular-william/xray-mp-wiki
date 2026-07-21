@@ -1,7 +1,7 @@
 ---
 title: "KcsA Potassium Channel"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -847,6 +847,32 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Calcium Chloride: 200 mM [salt]  
+- Hepes: 100 mM [buffer]  
+- Peg 400: 48 % [precipitant] (PEG 400)</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1281,6 +1307,14 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     <tr>
       <td>Notes</td>
       <td>Wild-type KcsA crystallized in open-gate and closed-gate conformations under identical conditions. Open-gate obtained by soaking pre-grown crystals in BaCl2 solutions.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -3114,6 +3148,14 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     <tr>
       <td>Protein sample</td>
       <td>Y82C-KcsA mutant in detergent</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -6510,6 +6552,31 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 20-25 % [precipitant] (PEG 400)  
+- Acetate: 50 mM [buffer]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -7341,6 +7408,31 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     <tr>
       <td>Notes</td>
       <td>E71A mutant diffracted to 2.25 A (PDB 5VK6), Y82A mutant to 2.37 A (PDB 5VKE), and Y82A-F103A closed mutant to 2.25 A (PDB 5VKH).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 24-27 % [precipitant] (PEG400 (v/v))  
+- Acetate: 50 mM [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -8367,6 +8459,14 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     <tr>
       <td>Protein sample</td>
       <td>E71V KcsA mutant in <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a></td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -10259,6 +10359,31 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 20-25 % [precipitant] (PEG 400)  
+- Acetate: 50 mM [buffer]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -11805,6 +11930,31 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 11 % [precipitant] (PEG 4000)  
+- Citrate: 100 mM [buffer]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -12554,6 +12704,14 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     <tr>
       <td>Notes</td>
       <td>Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> and refined to 2.1 A resolution. Electron density omit map confirmed transplanar Y78-ester linkage.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -14518,6 +14676,18 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -15213,6 +15383,26 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
     <tr>
       <td>Notes</td>
       <td>Isomorphous with closed FL KcsA-Fab2 (3EFF) crystals. Data collected at APS beamline 23ID, processed by HKL2000. Structure solved by molecular replacement using Fab2 and closed FL KcsA as search models. Refined with CNS.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 10 % [precipitant] (PEG3350)</td>
     </tr>
   </tbody>
 </table>

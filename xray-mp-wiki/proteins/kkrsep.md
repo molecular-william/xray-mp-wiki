@@ -1,7 +1,7 @@
 ---
 title: "Kangiella koreensis Site-2 Protease Homolog (KkRseP)"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -109,6 +109,22 @@ KkRseP is an ortholog of E. coli RseP from the marine bacterium Kangiella koreen
     <tr>
       <td>Notes</td>
       <td>Two crystal forms obtained: space group P1 (3.10 A) and P2_1 (3.15 A); SeMet-substituted protein used for phasing; data collected at SPring-8 BL32XU</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

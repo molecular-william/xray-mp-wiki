@@ -1,7 +1,7 @@
 ---
 title: "Adiponectin Receptor 2 (ADIPOR2)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -80,6 +80,18 @@ uniprot_id: Q86V24
     <tr>
       <td>Notes</td>
       <td>ADIPOR2-scFv complex crystallized in <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>. Three structures solved: S1 (5LX9, 2.4 A), S2 (5LWY, 2.4 A), and S3 (5LXA, 3.0 A). Crystals grown in sandwich glass pla<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -638,6 +650,31 @@ uniprot_id: Q86V24
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> mesophase formed by coupled two-syringe method. Dispensed in CrystalDirect pla<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> (30-50 nL bolus). Crystals approximately 30 x 20 x 5 um. Automated laser-based harvesting using CrystalDirect harvester. SSX data collected at cryogenic (SLS) and room temperature (PETRA III P14). Crystals stable for several weeks.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein:cholesterol (10:1)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 42.3 % [precipitant]  
+- Hepes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

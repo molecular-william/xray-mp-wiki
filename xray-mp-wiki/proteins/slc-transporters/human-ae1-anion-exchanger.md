@@ -1,7 +1,7 @@
 ---
 title: "Human AE1 Anion Exchanger (Band 3) - C-Terminal Membrane Domain"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -132,6 +132,14 @@ Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membran
     <tr>
       <td>Notes</td>
       <td>Co-crystallized with a monoclonal antibody Fab fragment that binds tightly to a conformational epitope of AE1_CTD. The antibody was selected from a panel raised by inoculation of mice with AE1_CTD-displaying baculovirus. Two steps were required for crystallization: (1) deglycosylation with N-glycosidase F, (2) co-crystallization with Fab fragment.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

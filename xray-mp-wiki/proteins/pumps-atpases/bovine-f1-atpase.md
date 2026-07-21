@@ -1,7 +1,7 @@
 ---
 title: "Bovine F1-ATPase (azide-inhibited form)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -110,6 +110,14 @@ Bovine F1-ATPase is the catalytic domain of the mitochondrial F1Fo-ATP synthase,
     <tr>
       <td>Notes</td>
       <td>Crystals grown in the presence of <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>, <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a> (5-adenyl-imidodiphosphate), and azide. Space group P2_1_2_1_2_1.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

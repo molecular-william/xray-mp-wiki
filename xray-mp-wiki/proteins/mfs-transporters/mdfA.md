@@ -1,7 +1,7 @@
 ---
 title: "MdfA Multidrug Efflux Transporter"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -481,6 +481,31 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
     <tr>
       <td>Notes</td>
       <td>Crystals grew to 20 x 20 x 50 um in about 3 days. Se-Met derivative crystals grown under same conditions. Cm-containing crystals obtained by <a href="/xray-mp-wiki/methods/crystallography/soaking/">soaking</a> original crystals in reservoir solution supplemented with 5.0 mM <a href="/xray-mp-wiki/reagents/antibiotics/chloramphenicol/">chloramphenicol</a>. <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>-bound structure obtained when crystallization pH was adjusted from 5.8 to 8.5. PDB 4ZOW (Cm complex, 2.4 A), 4ZP0 (Dxc complex, 2.0 A), 4ZP2 (<a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> complex, 2.2 A). Phases obtained by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.8</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>16 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 50 mM [buffer]  
+- Peg 400: 20-24 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

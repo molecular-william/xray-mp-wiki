@@ -1,7 +1,7 @@
 ---
 title: "Orphan GPR52 (G Protein-Coupled Receptor 52)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -149,6 +149,18 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo Em</a> single-particle analysis</td>
     </tr>
@@ -163,6 +175,14 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
     <tr>
       <td>Notes</td>
       <td>Data collected on FEI Titan Krios at 300 kV with Falcon III detector. 7,287 movies; 651,456 particles; nominal global resolution 3.3 A. Processed with RELION-3.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

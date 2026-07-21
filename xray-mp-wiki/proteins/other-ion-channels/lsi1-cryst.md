@@ -1,7 +1,7 @@
 ---
 title: "Rice silicon channel Lsi1 crystallization construct"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -114,6 +114,34 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 1.6 Angstrom but suffered from lattice-translocation defects. X-ray intensities corrected using Wang et al. approach. Structure solved at 1.8 Angstrom resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 0.1 M [buffer]  
+- Sodium Chloride: 0.1 M [salt]  
+- Magnesium Chloride: 20 mM [salt]  
+- Peg 400: 34 % [precipitant] (PEG400)  
+- Atp: 5 mM [additive]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human 5-HT2A Receptor"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,22 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
     <tr>
       <td>Notes</td>
       <td>Structures solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a>. Data collected at SPring-8 beamlines. Space group C2 for both complexes.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

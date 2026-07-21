@@ -1,7 +1,7 @@
 ---
 title: "Aquifex aeolicus PrtD (AaPrtD) Type-1 Secretion System ABC Transporter"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -113,6 +113,14 @@ uniprot_id: O67184
     <tr>
       <td>Notes</td>
       <td>Crystals optimized in the presence of <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction">SAD</a> phasing using samarium <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate Buffer (Sodium Acetate)</a>-soaked crystals and <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury (HgCl2) - Aquaporin Inhibitor</a> chloride-soaked single-Cys mutants, and Se-Met-derivatized protein. Initial phases from <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction">SAD</a> in ShelX. Model built in Coot and refined in Phenix. Native data to 3.15 A resolution. Unit cell: 118.6, 97.9, 179.8 A, beta=100.5 deg.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

@@ -11,6 +11,8 @@ from pathlib import Path
 
 import matplotlib
 
+from scripts._base import fast_load_str
+
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
@@ -117,7 +119,6 @@ def fig_detergent_heatmap():
 # ── Figure 5: Buffer composition × Family heatmap ──────────────────
 def fig_buffer_heatmap():
     """Count buffer reagent mentions per family from YAML buffer_details."""
-    import yaml
 
     W = Path("xray-mp-wiki")
     buf_fam = Counter()
@@ -147,7 +148,7 @@ def fig_buffer_heatmap():
     }
     for yf in yf_list:
         try:
-            data = yaml.safe_load(yf.read_text())
+            data = fast_load_str(yf.read_text())
         except Exception:
             continue
         if not isinstance(data, dict):

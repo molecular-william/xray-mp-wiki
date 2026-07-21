@@ -1,7 +1,7 @@
 ---
 title: "IrtAB ABC Exporter from Mycobacterium thermoresistibile"
 created: 2026-06-21
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -153,6 +153,22 @@ to capture membrane-embedded mycobactin.
     <tr>
       <td>Notes</td>
       <td>IrtAB(ΔSID) was crystallized with the aid of sybody Syb_NL5; SID domain was crystallized separately</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

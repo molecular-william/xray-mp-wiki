@@ -1,7 +1,7 @@
 ---
 title: "Human Glucagon-Like Peptide-1 Receptor (GLP-1R)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -116,6 +116,22 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     <tr>
       <td>Notes</td>
       <td>8 <a href="/xray-mp-wiki/methods/diffractive-imaging-imperfect-crystals/">Diffractive Imaging of Imperfect Crystals</a> used. Space group P3.21. Cell dimensions: a=94.44, b=94.44, c=163.9 A; alpha=90, beta=90, gamma=120. Resolution 54.63-3.7 A (shell: 4.05-3.70). Rwork/Rfree: 0.285/0.334. 3,409 atoms (3,242 protein, 107 ligand, 60 others).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -389,6 +405,18 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
     <tr>
       <td>Notes</td>
       <td>GLP-1R-<a href="/xray-mp-wiki/reagents/ligands/pf-06372222/">PF-06372222</a>: 25 <a href="/xray-mp-wiki/methods/diffractive-imaging-imperfect-crystals/">Diffractive Imaging of Imperfect Crystals</a> merged. GLP-1R-<a href="/xray-mp-wiki/reagents/ligands/nn-c0640/">NNC0640</a>: 27 <a href="/xray-mp-wiki/methods/diffractive-imaging-imperfect-crystals/">Diffractive Imaging of Imperfect Crystals</a> merged. Crystallized in LCP using standard methods (Cherezov et al., 2009). Thermostabilized construct with <a href="/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/">Engineered Disulfide Bridge Conformational Trapping</a> bond I317C-G361C and C347F mutation enabled high-resolution <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">Multi-Wavelength Anomalous Diffraction</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

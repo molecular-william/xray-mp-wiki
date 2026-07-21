@@ -1,7 +1,7 @@
 ---
 title: "Human Endothelin ETB Receptor Bound to Endothelin-1"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -145,6 +145,18 @@ the entire peptide.
     <tr>
       <td>Notes</td>
       <td>ET-1-bound structure determined at 2.8 Å resolution. Ligand-free structure from <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a> construct.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human Delta-Opioid Receptor (DOP)"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -138,6 +138,14 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
       <td>Notes</td>
       <td>Crystallized using the lipidic mesophase technique. Diffraction data collected from 20 crystals and merged for structure solution. Structure solved by molecular replacement at 3.4 Å resolution.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -373,6 +381,26 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> crystals were used for serial femtosecond crystallography at the LCLS CXI beamline. Crystals were injected using an <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> injector. 4.6 h collection yielded 36,083 indexed patterns. Structure determined by molecular replacement using naltindole-bound δ-OR as search model. Two structures determined: XFEL structure at 2.73 Å and synchrotron structure at 3.0 Å; both highly similar (rmsd 0.5 Å).
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -779,6 +807,26 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-DOP-KGCHM07: 27-32% <a href="/xray-mp-wiki/reagents/additives/peg-400/">Peg 400</a>, 100-120 mM potassium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a>, 100 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.0, crystals ~70 μm. <a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-DOP-DPI-287: 32-35% <a href="/xray-mp-wiki/reagents/additives/peg-400/">Peg 400</a>, 100-110 mM potassium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a>, 100 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.0, crystals 100-140 μm. Both crystallized at 20°C. Crystals appeared overnight, full size in ~10 days. 20 μM BMS986187 (PAM) added during DPI-287 purification but no electron density observed.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein with 10% (w/w) cholesterol</td>
     </tr>
   </tbody>
 </table>

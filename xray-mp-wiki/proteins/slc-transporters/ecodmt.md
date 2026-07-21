@@ -1,7 +1,7 @@
 ---
 title: "EcoDMT - Eremococcus coleocola NRAMP Divalent Metal Transporter"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,26 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
     <tr>
       <td>Notes</td>
       <td>24-well plates, 1 uL protein + 1 uL reservoir equilibrated against 500 uL reservoir. Inhibitor soaks: Br-BIT and oBr-BIT soaked into pre-grown crystals. Data collected at Swiss Light Source beamlines X06SA and X06DA at wavelength 0.92 A (bromine anomalous edge). 3.8 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

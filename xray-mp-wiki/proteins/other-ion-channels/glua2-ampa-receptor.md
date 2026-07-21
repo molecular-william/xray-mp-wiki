@@ -1,7 +1,7 @@
 ---
 title: "GluA2 AMPA Receptor — Structures with Antagonists, NAMs, and Allosteric Modulators"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -681,6 +681,34 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.3</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 8000: 8-11 % [precipitant] (Peg 8000)  
+- Sodium Cacodylate: 0.1 M [buffer]  
+- Peg 6000: 11-14 % [precipitant] (Peg 6000)  
+- Ammonium Phosphate: 0.1 M [buffer]  
+- Tris: 0.1 M [buffer]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1273,6 +1301,27 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>microbatch</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>279 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 0.1 M [buffer]  
+- Peg: 12 % [precipitant] (Peg 20000)</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1832,6 +1881,18 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     <tr>
       <td>Notes</td>
       <td>Crystals grown from GluA2* in complex with partial agonist (S)-5-nitrowillardine. Comparison with GluA2_ZK (ZK 200775-bound) closed-state structure</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>
@@ -2465,6 +2526,18 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
     <tr>
       <td>Notes</td>
       <td>Multiple structures determined at 3.8-4.1 A resolution. Modulator (R,R)-2b included to improve diffraction quality. Complexes with <a href="/xray-mp-wiki/reagents/ligands/kainate/">KA</a> or <a href="/xray-mp-wiki/reagents/ligands/fluorowilliardiine/">FW</a> as partial agonists. Lurcher-like mutants A622T and T625G used to favor open state. Structures represent toxin-bound preopen states</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

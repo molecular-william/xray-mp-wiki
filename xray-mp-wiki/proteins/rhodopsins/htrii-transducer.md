@@ -1,7 +1,7 @@
 ---
 title: "HtrII Transducer (Sensory Rhodopsin II Transducer)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,22 @@ unimpaired complex with SRII.
     <tr>
       <td>Notes</td>
       <td>Thin orange orthorhombic crystals ~140 um. Complex solubilized in 2% n-octyl-beta-D-glucopyranoside, 150 mM NaCl, 25 mM Na/KPi pH 5.1. Data collected at ESRF beamline ID14-1.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monovacccin</td>
     </tr>
   </tbody>
 </table>

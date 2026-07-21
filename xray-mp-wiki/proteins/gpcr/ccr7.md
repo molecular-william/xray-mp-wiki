@@ -1,7 +1,7 @@
 ---
 title: "Human CC Chemokine Receptor 7 (CCR7)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,18 @@ chemotypes with selectivity across chemokine receptor subtypes.
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> crystallization in meso. Data collected at X06SA (PXI) beamline, Swiss Light Source. 5x5 um collimated beam. Data from 11 crystals merged.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

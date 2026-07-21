@@ -1,7 +1,7 @@
 ---
 title: "BbZIP (Bordetella bronchiseptica ZIP metal transporter)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -137,6 +137,35 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
     <tr>
       <td>Notes</td>
       <td>Stick-shaped crystals appeared after ~1 week; crystallization at low pH (~4.0) was necessary to obtain the apo state</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>21 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (protein:monoolein, v/v)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 27 % [precipitant] (Peg 200)  
+- Sodium Chloride: 20 mM [salt]</td>
     </tr>
   </tbody>
 </table>

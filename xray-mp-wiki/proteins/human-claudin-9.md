@@ -1,7 +1,7 @@
 ---
 title: "Human Claudin-9 (hCLDN-9)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -140,6 +140,26 @@ junction integrity.
     <tr>
       <td>Notes</td>
       <td>Crystals cryoprotected and flash-frozen in liquid nitrogen. Data collected at ALS beamline 8.3.1. Structures determined by MR using homology model of hCLDN-9 and cCpE. Two distinct conformers captured: closed (cCpE deep in palm) and open (cCpE rocked outward).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 25 % [precipitant] (PEG 1500)</td>
     </tr>
   </tbody>
 </table>

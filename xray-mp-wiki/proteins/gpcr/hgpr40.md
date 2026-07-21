@@ -1,7 +1,7 @@
 ---
 title: "Human Free Fatty Acid Receptor 1 (GPR40)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -332,6 +332,29 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> matrix: 9:1 (w/w) <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>:<a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a>. Crystals appeared in 1-2 days, reached full size in 2+ weeks. Six crystals merged for ternary dataset, ten crystals for binary.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.3</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 27-35 % [precipitant] (PEG400)  
+- Peg 400: 0.1 % [precipitant] (MES pH 6.3-6.8 (ternary) or 27-35% PEG400)  
+- Sodium Malonate: 0.2 M [additive]  
+- Tris: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

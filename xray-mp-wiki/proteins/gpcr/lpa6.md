@@ -1,7 +1,7 @@
 ---
 title: "Lysophosphatidic Acid Receptor 6 (LPA6/P2Y5)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -125,6 +125,36 @@ Lysophosphatidic acid receptor 6 (LPA6, also known as P2Y5 or LPAR6) is a class 
     <tr>
       <td>Notes</td>
       <td>241 crystals merged into single dataset for 3.2 A resolution structure. Data collected at SPring-8 BL32XU beamline using 10 um minibeam. Rastering used to find best diffracting crystal regions.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (90% w/w) + Cholesterol (10% w/w)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 0.1 M [buffer]  
+- Peg 400: 30 % [precipitant] (PEG400)  
+- Glycine: 50 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

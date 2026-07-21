@@ -1,7 +1,7 @@
 ---
 title: "Human Angiotensin-Converting Enzyme 2 (hACE2)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -53,7 +53,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
 **Expression:**
 
 - **Expression system**: [Hi5 Insect Cells](/xray-mp-wiki/methods/expression-systems/hi5-expression-system/) ([Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
-- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/additives/gp67-signal-peptide/), C-terminal 6xHis tag
+- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/peptides/gp67-signal-peptide/), C-terminal 6xHis tag
 
 **Purification:**
 
@@ -117,6 +117,31 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 0.1 M [buffer]  
+- Peg: 10 % [precipitant] (w/v PEG 5000 MME)</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##s41586-020-2180-5
 
 **Structures:**
@@ -143,7 +168,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
 **Expression:**
 
 - **Expression system**: [Hi5 Insect Cells](/xray-mp-wiki/methods/expression-systems/hi5-expression-system/) ([Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
-- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/additives/gp67-signal-peptide/), C-terminal 6xHis tag
+- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/peptides/gp67-signal-peptide/), C-terminal 6xHis tag
 
 **Purification:**
 
@@ -214,6 +239,31 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Peg: 10 % [precipitant] (PEG 5000 MME)</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##s41586-020-2179-y
 
 **Structures:**
@@ -240,7 +290,7 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
 **Expression:**
 
 - **Expression system**: [Hi5 Insect Cells](/xray-mp-wiki/methods/expression-systems/hi5-expression-system/) ([Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
-- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/additives/gp67-signal-peptide/), C-terminal 6xHis tag
+- **Construct**: hACE2 residues Ser19-Asp615, N-terminal [gp67 Signal Peptide](/xray-mp-wiki/reagents/peptides/gp67-signal-peptide/), C-terminal 6xHis tag
 
 **Purification:**
 
@@ -308,6 +358,32 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
     <tr>
       <td>Notes</td>
       <td>X-ray diffraction data collected at Advanced Photon Source beamline 24-ID-E; structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using <a href="/xray-mp-wiki/concepts/miscellaneous/sars-cov/">SARS-CoV</a> RBD-ACE2 (PDB 2AJF)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg 6000: 18-20 % [precipitant] (PEG 6000)  
+- Sodium Chloride: 100 mM [salt]</td>
     </tr>
   </tbody>
 </table>

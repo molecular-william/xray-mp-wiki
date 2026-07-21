@@ -1,7 +1,7 @@
 ---
 title: "Bacillus halodurans YidC2 (BhYidC2)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -76,6 +76,14 @@ YidC is a conserved membrane protein insertase that inserts its substrates into 
     <tr>
       <td>Notes</td>
       <td>Protein-lipid mixture (50 nl) overlaid with 800 nl precipitant solution. Crystals grown at 20°C. Structure determined by multi-wavelength anomalous diffraction using methyl-mercury-chloride-derivatized YidC (Y150C mutant). Diffraction data at SPring-8 BL32XU.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

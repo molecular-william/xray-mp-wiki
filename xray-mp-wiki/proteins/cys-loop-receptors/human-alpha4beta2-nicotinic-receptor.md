@@ -1,7 +1,7 @@
 ---
 title: "Human Alpha4Beta2 Nicotinic Receptor"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -55,6 +55,14 @@ The human alpha4beta2 nicotinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/a
     <tr>
       <td>Method</td>
       <td>Co-crystallization with <a href="/xray-mp-wiki/reagents/ligands/nicotine/">Nicotine</a> and <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> analogue</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

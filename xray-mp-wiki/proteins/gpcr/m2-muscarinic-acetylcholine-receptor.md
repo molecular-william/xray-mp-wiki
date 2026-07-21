@@ -1,7 +1,7 @@
 ---
 title: "Human M2 Muscarinic Acetylcholine Receptor"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -161,6 +161,14 @@ The human M2 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
       <td>Notes</td>
       <td>Crystallized by lipidic mesophase crystallography at Advanced Photon Source beamline 23ID-D. Data collected by X-ray microdiffraction. 17 crystals used for the <a href="/xray-mp-wiki/reagents/ligands/iperoxo">Iperoxo</a>-<a href="/xray-mp-wiki/reagents/antibodies/nb9-8">Nb9-8 Nanobody</a> structure (3.5 A). Supplementing crystallization conditions with <a href="/xray-mp-wiki/reagents/ligands/ly2119620">LY2119620</a> yielded crystals of the ternary complex (3.7 A, 18 crystals). Both structures solved in P212121 space group.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

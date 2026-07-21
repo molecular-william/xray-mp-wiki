@@ -1,7 +1,7 @@
 ---
 title: "AcrA multidrug efflux pump periplasmic protein"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,29 @@ AcrA is a periplasmic membrane fusion protein from Escherichia coli that partner
     <tr>
       <td>Notes</td>
       <td>Space group C222, cell dimensions a=88.7 A, b=100.0 A, c=332.6 A. Four molecules per asymmetric unit, 60% solvent content. Data collected at APS-BM19 and ALS-8.2.2 beamlines. Multi-wavelength <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">MAD</a> phasing with <a href="/xray-mp-wiki/reagents/additives/selenomethionine">Selenomethionine (SeMet)</a>-labeled protein. 16 Se si<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> located with SHELXL, refined with SHARP. R_work 23.7%, R_free 27.5% at 2.71 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mpd: 30 % [precipitant]  
+- Magnesium Chloride: 20 mM [salt]  
+- Citrate: 100 mM [buffer]  
+- Tcep: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>

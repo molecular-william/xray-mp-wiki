@@ -1,7 +1,7 @@
 ---
 title: "Folate ECF Transporter from Lactobacillus brevis"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

@@ -1,7 +1,7 @@
 ---
 title: "Human Niemann-Pick C1 (NPC1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -115,6 +115,18 @@ Human NPC1 (Niemann-Pick C1) is a large multi-domain membrane protein essential 
     <tr>
       <td>Notes</td>
       <td>Crystals grew in 3 d. Data collected at NECAT beamlines (APS), processed with XDS. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using previous NPC1* structure (5I31) as search model. Refined with PHENIX to Rfree 30.5% and Rwork 25.3%.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

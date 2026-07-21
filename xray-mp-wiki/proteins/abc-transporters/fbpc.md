@@ -1,7 +1,7 @@
 ---
 title: "FbpC (Nucleotide-Binding Domain of the FbpABC Iron Transporter)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,14 @@ FbpC is the nucleotide-binding domain (NBD) of the FbpABC ferric uptake -binding
     <tr>
       <td>Notes</td>
       <td>Crystals obtained for both native and SeMet-labeled FbpC. Data collected at ESRF beamline ID23eh1 (native, 1.9 A) and SRS 10.1 Daresbury (SeMet, 2.7 A). Structure solved by SeMet SAD phasing. Final Rwork/Rfree: 18.6%/23.4%.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human Smoothened (SMO) — Extracellular Domain Regulation"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -119,6 +119,28 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
     <tr>
       <td>Notes</td>
       <td>Crystals grown in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>; data collected at Diamond Light Source beamlines I24 and B21. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using SMO TMD structure (PDB 4O9R) and CRD solution structure</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Ammonium Sulfate: 100 mM [salt]  
+- Peg 400: 30 % [precipitant] (PEG400)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "E. coli MlaA Outer Membrane Lipoprotein"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -213,6 +213,32 @@ MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membr
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Lithium Sulfate: 0.2 M [additive]  
+- Peg 4000: 24 % [precipitant] (PEG 4000)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -236,7 +262,7 @@ the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) M
 ### Non-essential but critical for outer membrane integrity
 
 While individual MCE system components are non-essential for E. coli growth in rich
-media, mutations in mla genes result in increased sensitivity to [SDS](/xray-mp-wiki/reagents/detergents/sds/) and [EDTA](/xray-mp-wiki/reagents/additives/edta/),
+media, mutations in mla genes result in increased sensitivity to [SDS](/xray-mp-wiki/reagents/additives/sds/) and [EDTA](/xray-mp-wiki/reagents/additives/edta/),
 indicative of [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) defects. The MlaA-OmpC/OmpF complex is required for
 the complete Mla system to function, and its disruption leads to accumulation of
 phospholipids in the outer leaflet of the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/), disrupting [lipid asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/).

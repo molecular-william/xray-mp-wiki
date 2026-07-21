@@ -101,6 +101,27 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>21 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Peg: 25-35 % [precipitant] (PEG 1K)</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -1359,6 +1380,31 @@ Human microsomal prostaglandin E2 synthase 1 (mPGES-1) is a 152 amino-acid membe
     <tr>
       <td>Notes</td>
       <td>Crystals grown with <a href="/xray-mp-wiki/reagents/additives/glutathione/">GSH</a> or bis-phenyl-<a href="/xray-mp-wiki/reagents/additives/glutathione/">GSH</a> analog. Native <a href="/xray-mp-wiki/reagents/additives/glutathione/">GSH</a> complex crystals grown with 100 mM Tris pH 8.0-8.5, 30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400, 100 mM NaCl, 1 mM TCEP. Structure solved by SAD using <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury (HgCl2) - Aquaporin Inhibitor</a> from mersalyl acid soak.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30 % [precipitant] (PEG 400)  
+- Sodium Chloride: 100 mM [salt]</td>
     </tr>
   </tbody>
 </table>

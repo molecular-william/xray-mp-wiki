@@ -1,7 +1,7 @@
 ---
 title: "A. fulgidus AglB-L Oligosaccharyltransferase"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -129,6 +129,31 @@ AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 0.1 M [buffer]  
+- Peg 4000: 15 % [precipitant] (polyethylene glycol 4000)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
     </tr>
@@ -151,6 +176,31 @@ AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si
     <tr>
       <td>Notes</td>
       <td>Crystal form 2; space group P4_3_2_1_2; resting state with well-ordered EL5 plastic loop; no sulfate bound</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.02 M [buffer]  
+- Peg: 22 % [precipitant] (polyethylene glycol 550MME)</td>
     </tr>
   </tbody>
 </table>

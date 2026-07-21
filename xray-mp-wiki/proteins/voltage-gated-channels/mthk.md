@@ -1,7 +1,7 @@
 ---
 title: "MthK (Methanobacterium thermoautotrophicum K+ Channel)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -118,6 +118,31 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     <tr>
       <td>Temperature</td>
       <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Calcium Chloride: 200 mM [salt]</td>
     </tr>
   </tbody>
 </table>
@@ -639,6 +664,26 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     <tr>
       <td>Notes</td>
       <td>Wild-type crystals were space group I4 with anisotropic diffraction; V77C with S68R or S68H mutations improved packing yielding P42_12 space group</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -1808,6 +1853,23 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Calcium Chloride: 200 mM [salt]  
+- Calcium Chloride: 200 mM [salt]</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##s41467-019-13227-w
 
 **Structures:**
@@ -2358,6 +2420,18 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
     <tr>
       <td>Notes</td>
       <td>Crystals in 150, 50, 11, and 6 mM [K+]. Lower [K+] crystals were very small (~10-15 um) but high-resolution diffraction (<2 A) obtained for all conditions. 1 mM [K+] sample failed to crystallize without K+ supplementation. PDB 6U9P (150 mM), 6U9T (50 mM), 6U9Y (11 mM), 6U9Z (6 mM).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

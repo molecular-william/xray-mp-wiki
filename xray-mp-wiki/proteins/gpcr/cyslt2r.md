@@ -1,7 +1,7 @@
 ---
 title: "Cysteinyl Leukotriene Receptor 2 (CysLT2R)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -156,6 +156,26 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
       <td>Notes</td>
       <td>Four structures determined: CysLT2R-11a in two space groups (2.4 A each, PDB 6RZ6 and 6RZ7), CysLT2R-11b (2.7 A, PDB 6RZ8), and CysLT2R-11c (2.7 A, PDB 6RZ9). Structures solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using CysLT1R-pranlukast as search model.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

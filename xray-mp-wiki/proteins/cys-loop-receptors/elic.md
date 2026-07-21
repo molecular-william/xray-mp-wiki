@@ -1,7 +1,7 @@
 ---
 title: "ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -136,6 +136,22 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion (sitting drop)</td>
     </tr>
@@ -146,6 +162,22 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     <tr>
       <td>Temperature</td>
       <td>Room temperature</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -1446,6 +1478,14 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -2638,6 +2678,22 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
     <tr>
       <td>Notes</td>
       <td>Crystals grown using E. coli lipid extract (58% PE, 15% PG, 10% ) as essential crystallization additive. Structure solved at 2.5 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Cannabinoid Receptor 2 (CNR2/CB2)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -163,6 +163,22 @@ uniprot_id: ['P34972', 'P59768', 'P62873', 'P63096']
     <tr>
       <td>Notes</td>
       <td>Crystals grown by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>; harvested with micro-mounts (MiTeGen) and flash frozen in liquid nitrogen; data collected at Spring-8 beamline 41XU with Pilatus3 6M detector at 1.0000 A wavelength</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -797,6 +813,22 @@ uniprot_id: ['P34972', 'P59768', 'P62873', 'P63096']
     <tr>
       <td>Notes</td>
       <td>Crystals grown by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> using syringe mixer; 96-well glass sandwich plates; 50 nL protein-lipid mesophase dispensed per well; data collected at Spring-8 BL32XU; 7 crystals merged; multiple small wedge data collection scheme</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>90% (w/v) Monoolein + 10% (w/v) Cholesterol</td>
     </tr>
   </tbody>
 </table>

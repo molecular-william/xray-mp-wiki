@@ -1,7 +1,7 @@
 ---
 title: "NaChBac Bacterial Voltage-Gated Sodium Channel"
 created: 2026-05-29
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

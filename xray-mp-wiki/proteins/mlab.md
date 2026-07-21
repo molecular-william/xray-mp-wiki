@@ -1,7 +1,7 @@
 ---
 title: "E. coli MlaB STAS Domain Protein"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -138,6 +138,31 @@ MlaB is a small STAS (Sulfate Transporter and Anti-Sigma factor Antagonist) doma
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 0.07 M [buffer]  
+- Glycerol: 30 % [additive]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Sitting-drop vapor diffusion</td>
     </tr>
@@ -164,6 +189,22 @@ MlaB is a small STAS (Sulfate Transporter and Anti-Sigma factor Antagonist) doma
     <tr>
       <td>Notes</td>
       <td>ADP-bound structure (MlaF_2B_2, PDB 6XGY). Phased using BALBES.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

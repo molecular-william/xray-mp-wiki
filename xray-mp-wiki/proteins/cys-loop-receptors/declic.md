@@ -1,7 +1,7 @@
 ---
 title: "DeCLIC (Desulfofustis deltaproteobacterium Pentameric Ligand-Gated Ion Channel)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -132,6 +132,14 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
       <td>Notes</td>
       <td>Initial hits with 250 mM Ca2+. Extensive seeding and systematic screening required for diffracting crystals. NTD1 fragment crystals grew from independent crystallization setup. Ba2+ anomalous datasets confirmed Ca2+ binding sites. Data collected at synchrotron sources.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

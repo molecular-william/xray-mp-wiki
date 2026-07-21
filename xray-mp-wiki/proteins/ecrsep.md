@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli Site-2 Protease Homolog RseP (EcRseP)"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -107,6 +107,22 @@ EcRseP is the E. coli homolog of [Site-2 Protease (mjS2P) from Methanocaldococcu
     <tr>
       <td>Notes</td>
       <td>Crystals obtained in space group P1, diffracted to 3.20 A resolution; data collected at SPring-8 BL32XU</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

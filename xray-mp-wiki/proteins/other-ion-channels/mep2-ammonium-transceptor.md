@@ -1,7 +1,7 @@
 ---
 title: "Mep2 Ammonium Transceptor (S. cerevisiae and C. albicans)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -150,6 +150,18 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
     <tr>
       <td>Notes</td>
       <td>ScMep2 crystallized in presence of 0.2 M ammonium ions. CaMep2: R3 and P3 crystal forms obtained. <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> mutant 442Δ crystallized from a similar condition. DD mutant and S453D mutant crystallized at 2.4 A resolution. Data collected at Newcastle University Structural Biology Laboratory (beamline not specified). Structures solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using archaeal AfAmt-1 (PDB 2B2H) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
     </tr>
   </tbody>
 </table>

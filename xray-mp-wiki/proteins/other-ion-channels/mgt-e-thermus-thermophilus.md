@@ -1,7 +1,7 @@
 ---
 title: "MgtE (Magnesium Transport Channel)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,24 @@ and regulate channel gating.
     <tr>
       <td>Notes</td>
       <td>New crystal form obtained by extensive detergent screening. Co2+-soaked crystals used for anomalous signal to confirm Mg2+-binding sites. Structure determined at 2.94 A resolution, improved from earlier 3.5 A structure.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 7-9 % [precipitant] (PEG 4000)  
+- Magnesium Chloride: 0.2 M [salt]  
+- Mes: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -480,6 +498,14 @@ and regulate channel gating.
     <tr>
       <td>Notes</td>
       <td>MgtE-TMD crystals obtained after TEV protease cleavage of the loop connecting cytosolic and TM domains. Three data sets collected: Mg2+-bound (2.2 A), Mn2+-bound (2.2 A native, 2.84 A anomalous), and Ca2+-bound (3.2 A).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

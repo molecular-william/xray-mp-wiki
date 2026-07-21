@@ -1,7 +1,7 @@
 ---
 title: "Interleukin-17 Receptor A (IL-17RA)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

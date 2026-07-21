@@ -1,7 +1,7 @@
 ---
 title: "Human Excitatory Amino Acid Transporter 1 (EAAT1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -165,6 +165,18 @@ to glutamine alters the ion-bound conformation.
     <tr>
       <td>Notes</td>
       <td>Crystals grown in presence of 0.5 mM UCPH101; space group P6_3</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
     </tr>
   </tbody>
 </table>

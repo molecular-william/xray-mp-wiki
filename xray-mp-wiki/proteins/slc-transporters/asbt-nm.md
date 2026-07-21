@@ -1,7 +1,7 @@
 ---
 title: "ASBT-NM (Bacterial Homologue of the Bile Acid Sodium Symporter ASBT)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,14 @@ ASBT-NM is a bacterial homologue of the apical sodium-dependent bile acid transp
     <tr>
       <td>Notes</td>
       <td>Grown in presence of 10 mM taurocholate; dehydration necessary to obtain diffraction data; data collected at Diamond Light Source beamlines I02 and I03</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

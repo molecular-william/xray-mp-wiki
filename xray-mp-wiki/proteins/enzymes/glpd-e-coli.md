@@ -1,7 +1,7 @@
 ---
 title: "E. coli Glycerol-3-Phosphate Dehydrogenase (GlpD)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -149,6 +149,26 @@ E. coli glycerol-3-phosphate dehydrogenase (GlpD) is an essential monotopic memb
     <tr>
       <td>Notes</td>
       <td>Soaking experiments: GlpD-DHAP crystals transferred to sitting drops containing 4 uL crystallization solution with 4% extra PEG 6000 and either MD or HQNO at 2.5 mM at 4 C. GAP soaking: similar protocol with 5 mM GAP. Crystals screened after 24 h. Native enzyme crystallized in space group I222 with ~55% solvent content and two molecules per asymmetric unit.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 6000: 4 % [precipitant] (extra PEG 6000)</td>
     </tr>
   </tbody>
 </table>

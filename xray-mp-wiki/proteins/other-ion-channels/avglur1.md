@@ -1,7 +1,7 @@
 ---
 title: "AvGluR1 Ligand-Binding Domain (LBD)"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -172,6 +172,14 @@ The ligand-binding domain (LBD) of AvGluR1, an ionotropic glutamate receptor fro
     <tr>
       <td>Notes</td>
       <td>Crystallized as back-to-back dimers, canonical arrangement found in full-length GluA2. P21 space group</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

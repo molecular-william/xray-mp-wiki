@@ -1,7 +1,7 @@
 ---
 title: "Human Histamine H3 Receptor (H3R)"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -110,6 +110,24 @@ The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/si
     <tr>
       <td>Notes</td>
       <td>Crystals formed within 1 week; collected with 50 um micro-loops and flash-frozen in liquid nitrogen</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.4</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Sodium Cacodylate: 0.1 M [buffer]  
+- Citrate: 90 mM [buffer]  
+- Peg 400: 34 % [precipitant] (PEG400)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "AqpM (Aquaporin from Methanothermobacter marburgensis)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -137,6 +137,33 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
       <td>Notes</td>
       <td>Best crystals grew from protein samples dialyzed to avoid phase separation. Crystal form is tetragonal. Highest diffracting crystal grew in <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.5, 200 mM MgCl₂, 23% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG 4000</a>. Data collected at ALS Beamline 8.3.1. Two structures determined: low-resolution (2.3 Å) from a crystal in the detergent-rich phase, and high-resolution (1.68 Å) from a dialyzed sample with no phase separation.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Sodium Chloride: 100 mM [salt]  
+- Peg 4000: 20 % [precipitant] (PEG 4000)  
+- Glycerol: 10 % [additive]</td>
     </tr>
   </tbody>
 </table>

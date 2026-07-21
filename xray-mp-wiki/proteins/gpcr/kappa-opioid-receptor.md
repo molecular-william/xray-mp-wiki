@@ -1,7 +1,7 @@
 ---
 title: "Kappa Opioid Receptor"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -130,6 +130,22 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
     <tr>
       <td>Notes</td>
       <td>Crystallized using <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> method as described in Caffrey & Cherezov (2009). Data collected at APS.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>
@@ -673,6 +689,22 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -985,6 +1017,22 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
     <tr>
       <td>Notes</td>
       <td>Crystals grown in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

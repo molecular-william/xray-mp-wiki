@@ -1,7 +1,7 @@
 ---
 title: "Arabidopsis thaliana Nitrate Transporter NRT1.1 (CHL1/NPF6.3)"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

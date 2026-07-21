@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli CorA Mg2+ Channel (Cytoplasmic Domain)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -136,6 +136,14 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
     <tr>
       <td>Notes</td>
       <td>Monomeric 241EcCorA crystallized in space group C222_1 at 2.90 A resolution. Solved by SAD phasing with <a href="/xray-mp-wiki/reagents/additives/selenomethionine">Selenomethionine (SeMet)</a>-labeled protein.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "MacB ABC Transporter from Acinetobacter baumannii"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -147,6 +147,30 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
     <tr>
       <td>Notes</td>
       <td>Crystals grown by <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">sitting-drop vapor diffusion</a> technique. For Se-Met labeling, M9 minimal medium with seleno-<a href="/xray-mp-wiki/reagents/ligands/l-methionine/">L-methionine</a>; 2 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> added instead of ADPβS before crystallization.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>25 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 1.2-1.3 M [buffer]</td>
     </tr>
   </tbody>
 </table>

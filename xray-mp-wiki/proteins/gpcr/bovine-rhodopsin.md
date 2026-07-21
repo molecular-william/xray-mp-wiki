@@ -1,7 +1,7 @@
 ---
 title: "Bovine Rhodopsin"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -103,6 +103,14 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     <tr>
       <td>Notes</td>
       <td>Crystals belonged to space group P4(1) with unit cell a=97.25, c=149.54 A. Two molecules per asymmetric unit. Data collected at SPring-8 BL45XU (<a href="/xray-mp-wiki/methods/structure-determination/mad-phasing/">MAD</a>, 3.3 A) and APS 19-ID (high-resolution, 2.8 A). <a href="/xray-mp-wiki/methods/structure-determination/mad-phasing/">MAD</a> phasing using Hg derivative (soaking). Merohedral twinning was significant; least twinned data selected for phasing. Structure refined to R=23.3%, R_free=28.8% at 2.8 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -362,6 +370,18 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     <tr>
       <td>Notes</td>
       <td>Two crystal forms obtained: rhombohedral R32 (3.8 A, one molecule per ASU) and trigonal P3(1)12 (4.1-4.2 A, three molecules per ASU). Crystals photoactivated by light exposure.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
     </tr>
   </tbody>
 </table>
@@ -1498,6 +1518,18 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -2500,6 +2532,33 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     <tr>
       <td>Notes</td>
       <td>N2C/D282C double mutant. Co-crystallization with compounds RS01-RS16 at 0.5-1 mM. All structures in P 21 21 21 space group.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 0.1 M [buffer]  
+- Peg: 24-34 % [precipitant]  
+- Acetate: 0.1 M [buffer]  
+- Peg: 27-32 % [precipitant]</td>
     </tr>
   </tbody>
 </table>
@@ -3934,6 +3993,31 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.8</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tricine: 0.1 M [additive]  
+- Peg: 25.5 % [precipitant]</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -4687,6 +4771,22 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+  </tbody>
+</table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
@@ -4912,6 +5012,14 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     <tr>
       <td>Notes</td>
       <td>Crystals grown under dim red light. Data collected using focused microbeam. Phases obtained by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using E113Q/GalphaCT structure as search model. One complex per asymmetric unit. R=0.22, R_free=0.26 at 3.3 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -5603,6 +5711,30 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
     <tr>
       <td>Notes</td>
       <td>Crystals appeared after 4-5 days at 4 C, reaching 50-200 um in 7 days. <a href="/xray-mp-wiki/proteins/gpcr/opsin/">Opsin (Retinal-Free Rhodopsin Apoprotein)</a> was crystallized under the same conditions excluding 6mr. B-factor sharpening (beta_shar = -178 A^2) applied to diffraction data.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.1</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 2.8-3.4 M [salt]</td>
     </tr>
   </tbody>
 </table>

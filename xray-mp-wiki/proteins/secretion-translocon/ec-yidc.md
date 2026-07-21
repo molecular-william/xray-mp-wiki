@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli YidC"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -322,6 +322,22 @@ YidC is an essential bacterial membrane protein insertase and chaperone that med
     <tr>
       <td>Notes</td>
       <td>Crystallized by sitting drop vapor diffusion at 20 C. Crystals appeared within 3-7 days. Data collected at BL32XU of SPring-8 at 100 K. Helical data collection method used for small crystals.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

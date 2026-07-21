@@ -1,7 +1,7 @@
 ---
 title: "Archaerhodopsin-3 (AR3)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -114,6 +114,28 @@ Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H
     <tr>
       <td>Notes</td>
       <td>All crystallization procedures performed under dim light. LA structure from crystals illuminated with white tungsten light for 2 min prior to cryo-freezing. DA structure from crystals not exposed to light. Data collected at Diamond Light Source I24 microfocus beamline.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 600: 30 % [precipitant] (PEG 600)  
+- Mes: 100 mM [buffer]  
+- Sodium Chloride: 150 mM [salt]</td>
     </tr>
   </tbody>
 </table>

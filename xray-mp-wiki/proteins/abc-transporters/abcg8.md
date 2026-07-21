@@ -1,7 +1,7 @@
 ---
 title: "ABCG8"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -86,6 +86,33 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     <tr>
       <td>Notes</td>
       <td>Crystals only diffracted to 3.9 Å when <a href="/xray-mp-wiki/reagents/lipids/cholesterol">cholesterol</a> was present in <a href="/xray-mp-wiki/methods/crystallization/bicelle-crystallization/">bicelle</a>s. Two heterodimers in asymmetric unit. Tungsten <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD phasing</a> using sodium phosphotungstate derivative. Native data merged from 19 crystals to 3.9 Å resolution. Space group I 2 2 2. Structure refined to R/Rfree = 0.242/0.328.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20-22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.7-2.0 M [salt]  
+- Mes: 100 mM [buffer]  
+- Peg 400: 2-5 % [precipitant] (PEG 400 (or PEG 350 MME))  
+- Tcep: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -631,6 +658,29 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
     <tr>
       <td>Notes</td>
       <td>Crystals harvested by submersion in 0.2 M <a href="/xray-mp-wiki/reagents/additives/sodium-malonate">sodium malonate</a>. Space group I 2 2 2. Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using PDB 7JR7.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.8-2.0 M [salt]  
+- Mes: 100 mM [buffer]  
+- Peg 400: 2-5 % [precipitant] (PEG 400)  
+- Tcep: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>

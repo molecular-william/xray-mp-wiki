@@ -1,7 +1,7 @@
 ---
 title: "LmrP Multidrug Transporter from Lactococcus lactis"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -137,6 +137,18 @@ hydrophobic component to accommodate diverse substrates.
     <tr>
       <td>Notes</td>
       <td>Crystallization required extensive screening; precise control of lipidation state essential; highest-resolution crystals required delta199-202 loop deletion; co-crystallization with <a href="/xray-mp-wiki/reagents/additives/hoechst-33342/">Hoechst 33342</a>; SeMet derivative crystals used for phasing</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

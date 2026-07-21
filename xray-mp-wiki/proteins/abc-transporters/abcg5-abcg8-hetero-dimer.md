@@ -1,7 +1,7 @@
 ---
 title: "Human ABCG5/ABCG8 Sterol Transporter Heterodimer"
 created: 2026-06-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,33 @@ ABCG5 and ABCG8 form an obligate heterodimer that functions as a sterol efflux t
     <tr>
       <td>Notes</td>
       <td>Crystals only diffracted to 3.9 Angstrom when <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">cholesterol</a> was present in bicelles. Two heterodimers in asymmetric unit. Tungsten <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD</a> phasing using sodium phosphotungstate derivative. Native data merged from 19 crystals. Phased by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using cryo-EM model PDB 7JR7.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20-22 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.7-2.0 M [salt]  
+- Mes: 100 mM [buffer]  
+- Peg 400: 2-5 % [precipitant] (PEG 400)  
+- Tcep: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -588,6 +615,29 @@ ABCG5 and ABCG8 form an obligate heterodimer that functions as a sterol efflux t
     <tr>
       <td>Notes</td>
       <td>Space group I 2 2 2. Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using PDB 7JR7.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.8-2.0 M [salt]  
+- Mes: 100 mM [buffer]  
+- Peg 400: 2-5 % [precipitant] (PEG 400)  
+- Tcep: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "bcMalT (Bacillus cereus Maltose Transporter)"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,35 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
     <tr>
       <td>Cryoprotection</td>
       <td>Flash frozen in liquid nitrogen</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.7</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (protein solution:molten <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>, w:w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 39 % [precipitant] (Polyethylene Glycol 400 (PEG400))  
+- Sodium Chloride: 450 mM [salt]</td>
     </tr>
   </tbody>
 </table>

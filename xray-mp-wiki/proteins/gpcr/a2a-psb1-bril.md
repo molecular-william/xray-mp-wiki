@@ -1,7 +1,7 @@
 ---
 title: "Human Adenosine A2A Receptor A2A-PSB1-bRIL Complex"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,14 @@ The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 2.25 A (PDB: 7PX4) and 2.6 A (PDB: 7PYR). Data deposited in the Protein Data Bank under accession codes 7PX4 and 7PYR.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

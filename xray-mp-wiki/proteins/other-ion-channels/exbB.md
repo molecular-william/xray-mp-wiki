@@ -1,7 +1,7 @@
 ---
 title: "ExbB (E. coli)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -135,6 +135,14 @@ ExbB is an integral polytopic membrane protein from Escherichia coli that is a c
     <tr>
       <td>Notes</td>
       <td>Initial phases calculated using Se-SAD at 5.2 A resolution (Extended Data Fig. 1). Native structure at 2.6 A solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using the Se-SAD model. Two ExbB pentamers per asymmetric unit with some helical shifts indicating flexibility. Ring-like difference density observed along conserved residues T148 and T181 in the transmembrane pore.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Metabotropic Glutamate Receptor 5 (mGlu5)"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -136,6 +136,26 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
       <td>Notes</td>
       <td>Diffraction data from 5 crystals grown in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/), collected at Diamond Light Source beamline I24. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> and an ensemble of 8 GPCR TMD structures as search models. Rwork/Rfree = 23.9/27.4%.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20.0 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>40:60 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein with 10% Cholesterol</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "GadC Glutamate/GABA Antiporter"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -140,6 +140,33 @@ GadC is a SLC1/EAAT/GATs antiporter from the Apc (JLK-6 acid-polyamine-organocat
     <tr>
       <td>Notes</td>
       <td>Rod-shaped Diffractive Imaging of Imperfect Crystals; best Multi-Wavelength Anomalous Diffraction 2.95 A At SSRF beamline BL17U. SeMet and Pt-SAD derivatives also obtained.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 21 % [precipitant] (PEG400)  
+- Tris: 100 mM [buffer]  
+- Sodium Chloride: 100 mM [salt]  
+- Acetate: 325 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human P2Y1 Receptor"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,14 @@ The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>X-ray crystallography</td>
     </tr>
@@ -138,6 +146,14 @@ The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/
       <td>Notes</td>
       <td>Data collection statistics from Extended Data Table 1. 50.0-2.20 A resolution (2.30-2.20 A shell). Rmerge 10.1% (97.9% in shell).
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

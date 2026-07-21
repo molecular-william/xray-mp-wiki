@@ -1,7 +1,7 @@
 ---
 title: "C1C2GA (C1C2 T198G/G202A)"
 created: 2026-06-05
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -132,6 +132,22 @@ C1C2GA is a blue-shifted mutant of the channelrhodopsin chimera C1C2, created by
     <tr>
       <td>Notes</td>
       <td>Yellow crystals obtained in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> under neutral pH conditions (pH 7.0). Structure determined by molecular replacement method using C1C2WT (PDB 3UG9) as template. Overall structure at pH 7.0 nearly identical to C1C2WT at pH 6.0 (RMSD 0.66 A over all Ca atoms).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Lipidic cubic phase (MOS/DCG or similar LCP medium)</td>
     </tr>
   </tbody>
 </table>

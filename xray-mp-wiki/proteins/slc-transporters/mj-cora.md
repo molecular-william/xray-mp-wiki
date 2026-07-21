@@ -1,7 +1,7 @@
 ---
 title: "MjCorA — CorA Mg2+ Transporter from Methanocaldococcus jannaschii"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -90,6 +90,19 @@ CorA is the primary Mg2+ transport system in most prokaryotes and is conserved t
     <tr>
       <td>Notes</td>
       <td>Crystallized in 30% PEG8000, HEPES-NaOH, 60 mM MgCl2</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 8000: 30 % [precipitant] (PEG8000)  
+- Magnesium Chloride: 60 mM [salt]</td>
     </tr>
   </tbody>
 </table>

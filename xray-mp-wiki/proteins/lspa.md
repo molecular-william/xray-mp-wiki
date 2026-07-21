@@ -1,7 +1,7 @@
 ---
 title: "LspA from Staphylococcus aureus (Lipoprotein Signal Peptidase II)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -136,6 +136,28 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
     <tr>
       <td>Notes</td>
       <td>Crystallization was performed using the in meso method. Protein solution mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> in a 2:3 ratio (v/v) to form the <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>. Boluses of protein-laden mesophase (50 nL) were covered with 800 nL precipitant solution. LspMrs-<a href="/xray-mp-wiki/reagents/ligands/globomycin/">Globomycin</a> crystals: bipyramid-shaped, 50x50x50 um, appeared after 4 days. LspMrs-myxovirescin crystals: thin hexagon-shaped, 80 um longest dimension, appeared after 2-3 days. Data collected at SLS beamline X06SA-PXI.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 47.1 % [precipitant] (PEG 1000)  
+- Peg 400: 40 % [precipitant] (PEG 400)  
+- Magnesium Sulfate: 80 mM [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -426,6 +448,14 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
     <tr>
       <td>Notes</td>
       <td>LspA from P. aeruginosa was crystallized using the in meso (lipid cubic phase) method in the presence of <a href="/xray-mp-wiki/reagents/ligands/globomycin/">Globomycin</a>. The structure of the complex was obtained at 2.8 A resolution by using seleno-methionine, single-wavelength anomalous diffraction (SAD) phasing.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human ABCB10 Mitochondrial ATP-Binding Cassette Transporter"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,22 @@ ABCB10 is a human [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (A
     <tr>
       <td>Notes</td>
       <td>Plate-form crystals grown with AMPPNP; rod-form crystals grown with [AMPPCP (Adenosine 5'-[beta,gamma-methylene]triphosphate)](/xray-mp-wiki/reagents/amppcp/) from protein purified with CDL. Diffraction data collected at Diamond Light Source beamline I24.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "AdiC Arginine/Agmatine Antiporter"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -132,6 +132,32 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 3.2 A. <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">SeMet</a> derivatives used for phasing. Data collected on NSLS, APS, and ALS.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30-35 % [precipitant] (PEG 400)  
+- Calcium Chloride: 100-200 mM [salt]  
+- Glycine: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

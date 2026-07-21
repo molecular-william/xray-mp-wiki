@@ -1,7 +1,7 @@
 ---
 title: "dsT4L (Disulfide-Stabilized T4 Lysozyme)"
 created: 2026-05-28
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -85,6 +85,25 @@ dsT4L is a disulfide-stabilized variant of T4 lysozyme engineered for use as a f
       <td>Notes</td>
       <td>Crystals in higher symmetry space group P41212 compared to P1 for M3-wtT4L (4DAJ). Not twinned. One molecule per asymmetric unit. Resolution 3.6 A. Solved by molecular replacement using wtT4L (PDB 4LZM) as search model.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.1</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Lithium Citrate: 113.5 mM [buffer]  
+- Ammonium Sulfate: 110 mM [salt]  
+- Peg: 45 % [precipitant] (PEG 300)</td>
     </tr>
   </tbody>
 </table>

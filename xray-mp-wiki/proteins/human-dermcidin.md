@@ -1,7 +1,7 @@
 ---
 title: "Human Dermcidin (DCD) Antimicrobial Channel"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -107,6 +107,30 @@ Dermcidin (DCD) is a human antimicrobial host-defense peptide that forms transme
     <tr>
       <td>Notes</td>
       <td>Crystallized in absence of detergents or lipids; crystals flash-frozen in liquid nitrogen without cryoprotectant</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 8000: 18 % [precipitant] (PEG8000)</td>
     </tr>
   </tbody>
 </table>

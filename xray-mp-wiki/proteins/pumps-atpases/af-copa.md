@@ -1,7 +1,7 @@
 ---
 title: "CopA from Archaeoglobus fulgidus (AfCopA)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -93,6 +93,23 @@ CopA from Archaeoglobus fulgidus (AfCopA) is a copper-transporting P1B-type ATPa
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging drop vapor diffusion</a>; 5.0 mM 06:0 Lyso PC additive used for final data collection; crystals flash-frozen in liquid nitrogen</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 0.1 M [buffer]  
+- Beta Mercaptoethanol: 5 mM [additive]</td>
     </tr>
   </tbody>
 </table>

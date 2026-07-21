@@ -1,7 +1,7 @@
 ---
 title: "Human Aquaporin 4 (hAQP4)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -95,6 +95,14 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
       <td>Notes</td>
       <td>Crystals obtained by drop-volume ratio trials and capillary microbatch. Full-length crystallization trials yielded 8 Å resolution; the 1.8 Å structure was from a truncated construct.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

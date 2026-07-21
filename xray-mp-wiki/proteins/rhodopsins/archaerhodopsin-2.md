@@ -1,7 +1,7 @@
 ---
 title: "Archaerhodopsin-2"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

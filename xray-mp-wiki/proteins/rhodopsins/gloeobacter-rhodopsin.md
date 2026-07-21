@@ -1,7 +1,7 @@
 ---
 title: "Gloeobacter Rhodopsin (GR) from Gloeobacter violaceus"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,22 @@ resolution from crystals grown in bicelles.
     <tr>
       <td>Notes</td>
       <td>GR in 1% OG mixed with 24% (w/v) <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a>:<a href="/xray-mp-wiki/reagents/detergents/chapso/">CHAPSO</a> bicelles at 1:2 ratio (final 8% bicelles). Plate-like crystals grown at pH 3.4 in the dark. X-ray data collected at APS beamline 23ID-D with Pilatus 6M detector.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

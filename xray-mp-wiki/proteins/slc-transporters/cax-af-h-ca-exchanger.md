@@ -1,7 +1,7 @@
 ---
 title: "CAX_Af H+/Ca2+ Exchanger (Archaeoglobus fulgidus)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -117,6 +117,18 @@ exchanger structure captured in an inward-facing conformation.
     <tr>
       <td>Notes</td>
       <td>Crystallized under low-pH conditions (pH 6.0-6.5) which stabilizes the H+ bound state. Structure determined by multiple anomalous dispersion (MAD) using <a href="/xray-mp-wiki/reagents/additives/mercury/">mercury</a> derivatives. Final model refined to 2.3 A resolution. Crystallographic asymmetric unit contained two molecules.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

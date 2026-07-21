@@ -1,7 +1,7 @@
 ---
 title: "LPCAT3 (Lysophosphatidylcholine Acyltransferase 3)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -121,6 +121,27 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
     <tr>
       <td>Notes</td>
       <td>Crystals harvested by flash freezing in liquid nitrogen. Cryoprotectant: 32% <a href="/xray-mp-wiki/reagents/additives/peg">PEG (Polyethylene Glycol)</a> 400, 100 mM <a href="/xray-mp-wiki/reagents/buffers/mes">MES</a> pH 6.0, 50 mM magnesium <a href="/xray-mp-wiki/reagents/buffers/acetate">Acetate Buffer (Sodium Acetate)</a></td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>16 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Peg: 25 % [precipitant]</td>
     </tr>
   </tbody>
 </table>

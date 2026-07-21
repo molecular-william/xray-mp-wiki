@@ -1,7 +1,7 @@
 ---
 title: "LptB2FGC LPS Transport Complex from Enterobacter cloacae and Vibrio cholerae"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -150,6 +150,31 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Peg 400: 21 % [precipitant] (v/v PEG400)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Sitting-drop vapor diffusion</td>
     </tr>
@@ -176,6 +201,32 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
     <tr>
       <td>Notes</td>
       <td>Long, fragile plate crystals. Crystals also obtained with wild-type protein and AMPPNP.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Calcium Chloride: 200 mM [salt]  
+- Tris: 100 mM [buffer]  
+- Peg 400: 40 % [precipitant] (v/v PEG400)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human Beta-1 Adrenergic Receptor (beta1 AR)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -177,6 +177,24 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 100 mM [buffer]  
+- Lithium Sulfate: 150-175 mM [additive]  
+- Peg: 38-42 % [precipitant] (PEG300)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
     </tr>
@@ -191,6 +209,25 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
     <tr>
       <td>Notes</td>
       <td>Active state crystals (<a href="/xray-mp-wiki/reagents/ligands/bi-167107/">BI-167107</a>, <a href="/xray-mp-wiki/reagents/ligands/norepinephrine/">Norepinephrine</a>, and <a href="/xray-mp-wiki/reagents/ligands/epinephrine/">Epinephrine</a> complexes); protein:lipid ratio 2:3</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 100 mM [buffer]  
+- Ammonium Sulfate: 100-175 mM [salt]  
+- Peg 400: 38-43 % [precipitant] (PEG400)  
+- Glycine: 0.15-0.2 M [buffer]</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,14 @@ The human endothelin ETB receptor (ETBR) is a class A GPCR that binds endothelin
     <tr>
       <td>Notes</td>
       <td>32 datasets collected and merged by KAMO. Structure determined by molecular replacement using ET-3-bound receptor (PDB 6IGK). Space group not specified in main text.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

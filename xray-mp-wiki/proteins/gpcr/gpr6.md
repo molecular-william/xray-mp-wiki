@@ -1,7 +1,7 @@
 ---
 title: "GPR6 — Orphan G Protein-Coupled Receptor Implicated in Parkinson's Disease"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -165,6 +165,32 @@ intrinsic conformational preference of the protein itself.
     <tr>
       <td>Notes</td>
       <td>LCP mix: 40% receptor solution, 54% <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>, 6% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a>. Crystals harvested using 100 µm dual thickness micromounts. Data collected at APS GM/CA beamline at 1.0332 Å wavelength.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.1</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30 % [precipitant] (PEG 400)  
+- Sodium Chloride: 100 mM [salt]  
+- Peg 400: 25-35 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

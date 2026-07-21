@@ -1,7 +1,7 @@
 ---
 title: "Cruxrhodopsin-3 (cR3) from Haloarcula vallismortis"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,31 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
     <tr>
       <td>Notes</td>
       <td>Mixture contained claret membrane (~3 mg/ml), 5 mg/ml <a href="/xray-mp-wiki/reagents/detergents/nonylglucoside/">NG</a>, 1 M ammonium sulfate, 0.08 M sodium chloride, 0.04 M sodium azide, 0.04 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a> (pH 4). Trigonal crystals (P321) with typical size 50x50x5 um^3. Crystal maintained trimeric assembly with <a href="/xray-mp-wiki/reagents/lipids/bacterioruberin/">Bacterioruberin</a> bound.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>15 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 2.2-2.8 M [salt]  
+- Citrate: 0.1 M [buffer]</td>
     </tr>
   </tbody>
 </table>

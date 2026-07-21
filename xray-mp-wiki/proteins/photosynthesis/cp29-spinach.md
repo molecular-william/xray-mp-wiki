@@ -1,7 +1,7 @@
 ---
 title: "CP29 Light-Harvesting Complex from Spinach (Spinacia oleracea)"
 created: 2026-06-11
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -96,6 +96,18 @@ CP29 is a minor light-harvesting chlorophyll a/b-binding protein from photosyste
     <tr>
       <td>Temperature</td>
       <td>Not specified</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Krokinobacter eikastus Rhodopsin 2 (KR2) — Light-Driven Sodium Pump"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -171,6 +171,28 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> formed with <a href="/xray-mp-wiki/reagents/lipids/monoolein">monoolein</a> at 4:7 v/v (protein:lipid). Blue plate-like crystals 10-30 × 10-25 × 1-3 µm³. Crystals treated by washing with 150 mM NaCl, 35% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 200 for neutral pH experiments. TR-<a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">SFX</a> data collected at SwissFEL; 158,832 dark and 496,904 light patterns analyzed. Data processed with CrystFEL, structures refined in PHENIX.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 200 mM [buffer]  
+- Magnesium Chloride: 150 mM [salt]  
+- Peg: 35 % [precipitant] (PEG 200)</td>
     </tr>
   </tbody>
 </table>

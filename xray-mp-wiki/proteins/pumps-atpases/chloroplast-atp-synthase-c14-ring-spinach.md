@@ -1,7 +1,7 @@
 ---
 title: "Spinach Chloroplast ATP Synthase c14-Ring"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,14 @@ state.
     <tr>
       <td>Notes</td>
       <td>Type I plate-like crystals up to 20 um. Crystals had strong yellow color (characteristic of isoprenoids). Space group I121.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

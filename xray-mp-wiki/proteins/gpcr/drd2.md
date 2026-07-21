@@ -1,7 +1,7 @@
 ---
 title: "Human D2 Dopamine Receptor (DRD2)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -158,6 +158,29 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
     <tr>
       <td>Notes</td>
       <td>Protein-laden <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> prepared by mixing protein with monoolein and 10% <a href="/xray-mp-wiki/reagents/lipids/cholesterol">CHOLESTEROL</a> at 2:3 volume ratio. Data collected by serial femtosecond crystallography at SACLA XFEL.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]  
+- Peg 400: 28-32 % [precipitant] (PEG400)  
+- Atp: 0.01 M [additive]  
+- Spiperone: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>

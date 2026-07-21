@@ -1,7 +1,7 @@
 ---
 title: "Mouse Dopamine Receptor D4 (DRD4)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -136,6 +136,18 @@ Mouse [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) receptor D4 ([DRD4](/
     <tr>
       <td>Notes</td>
       <td>Crystals grew within one week. Harvested from <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> matrix using 50 um micromounts and flash-frozen in liquid nitrogen. Data collected at SPring-8 beamline 41XU</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

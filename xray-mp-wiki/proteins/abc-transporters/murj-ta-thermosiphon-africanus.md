@@ -1,7 +1,7 @@
 ---
 title: "MurJ from Thermosiphon africanus (MurJ_TA) — Lipid II Flippase"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -119,6 +119,27 @@ uniprot_id: B7IE18
     <tr>
       <td>Notes</td>
       <td>Protein mixed with molten <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> in 2:3 (w/w) protein:lipid ratio. 150 nL LCP drops overlaid with 1 uL precipitant. Crystals grew to full size in 4 weeks. Native crystals supplemented with 1.5 mM lipid II in <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30-45 % [precipitant] (PEG400)  
+- Calcium Chloride: 200-400 mM [salt]</td>
     </tr>
   </tbody>
 </table>

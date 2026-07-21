@@ -1,7 +1,7 @@
 ---
 title: "Amt-1 ammonium transporter from Archaeoglobus fulgidus"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -110,6 +110,14 @@ Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the 
     <tr>
       <td>Notes</td>
       <td>Crystals grown in hexagonal space group P6_2_22. Substrate soaks performed with 20 mM (NH4)2SO4 and 80 mM CH3NH3+. Xenon derivatives prepared for phase determination and hydrophobic cavity mapping.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

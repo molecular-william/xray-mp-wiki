@@ -1,7 +1,7 @@
 ---
 title: "Human Dopamine D3 Receptor (D3R)"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

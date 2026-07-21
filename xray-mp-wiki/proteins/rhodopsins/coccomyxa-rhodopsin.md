@@ -1,7 +1,7 @@
 ---
 title: "Coccomyxa subellipsoidea Rhodopsin (CsR)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,28 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
       <td>Notes</td>
       <td>CsR mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> containing 10% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> in 1:1 (w/w) ratio. Rhombohedral crystals (space group H3) with one monomer per asymmetric unit. >100 crystals screened at ESRF (ID23-2) and BESSY II. Cell dimensions: a=b=78.08, c=143.97 A.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 42 % [precipitant] (polyethylene glycol 400)  
+- Mes: 100 mM [buffer]  
+- Acetate: 150 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

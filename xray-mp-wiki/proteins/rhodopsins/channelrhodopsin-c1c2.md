@@ -1,7 +1,7 @@
 ---
 title: "Channelrhodopsin C1C2"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -144,6 +144,38 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     <tr>
       <td>Notes</td>
       <td>Protein-<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> mixture dispensed by mosquito <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> robot (TTP LabTech). 100 nl protein-<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> aliquots overlaid with 1 ul precipitant on 96-well sandwich plates. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/mad-phasing/">MAD</a> phasing using mercury-derivatized crystals. Data collected at SLS beamline X06SA and SPring-8 BL32XU. First example of <a href="/xray-mp-wiki/methods/structure-determination/mad-phasing/">MAD</a> phasing for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>-grown crystals.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 30-34 % [precipitant] (PEG500DME)  
+- Magnesium Chloride: 100 mM [salt]  
+- Sodium Chloride: 100 mM [salt]  
+- Peg: 100 % [precipitant] (2SO4. Derivative: 31% (w/v) PEG500DME)  
+- Atp: 10 mM [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -618,6 +650,27 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
     <tr>
       <td>Notes</td>
       <td>Protein mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">monoolein</a> at 2:3 protein-to-lipid ratio (w/w). High-density microcrystals (2-5 µm) formed, optimized for TR-SFX at SACLA XFEL. Dark state structure solved at 2.3 A resolution. Time-resolved structures at 50 µs, 250 µs, 1 ms, and 4 ms were collected using 470 nm pump laser pulses.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.9</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Peg: 30 % [precipitant] (PEG500DM)</td>
     </tr>
   </tbody>
 </table>

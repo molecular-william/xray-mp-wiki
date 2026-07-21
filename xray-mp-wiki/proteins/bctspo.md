@@ -1,7 +1,7 @@
 ---
 title: "BcTSPO Translocator Protein from Bacillus cereus"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -94,6 +94,14 @@ BcTSPO is the translocator protein (TSPO) homolog from *Bacillus cereus*, a bact
     <tr>
       <td>Notes</td>
       <td>Apo structure solved from detergent micelle at 1.7 Å. PK11195-bound dimer crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>. Apo micelle may be a swapped dimer.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

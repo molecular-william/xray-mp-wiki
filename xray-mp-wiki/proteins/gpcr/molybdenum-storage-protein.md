@@ -1,7 +1,7 @@
 ---
 title: "Molybdenum Storage Protein (MOSTO)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,31 @@ Molybdenum storage protein (MOSTO) is a heterohexameric (αβ)₃ cage-like prot
     <tr>
       <td>Notes</td>
       <td>Crystallization conditions were modified to produce sub-50 µm crystals suitable for SMX: 1.1–1.7 M NH₄H₂PO₄ gradient screen. Optimal: 1.4 M NH₄H₂PO₄. Drops: 2+2 µL. Crystals harvested by pooling hanging drops and mixing with ~70% monoolein through a 400 µm LCP coupler.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 0.1 M [buffer]  
+- Glycerol: 20 % [additive]</td>
     </tr>
   </tbody>
 </table>

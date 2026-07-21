@@ -1,7 +1,7 @@
 ---
 title: "GluN1-GluN2B NMDA Receptor (Xenopus laevis, Full-Length)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -115,6 +115,27 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
       <td>Notes</td>
       <td>Crystals appeared in 16-18% <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 3350. Prior to crystallization, 28 mM DDM, 300 ug/ml <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a>, 5 mM ACPC, 1 mM t-ACBD, 1 mM Ro25-6981, and 1 mM MK-801 were added.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.1</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 16-18 % [precipitant] (Peg 3350)  
+- Mes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -6024,6 +6045,23 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
       <td>Notes</td>
       <td>Diffraction-quality crystals obtained after 2 weeks. Best dataset extended to 3.9 A, 3.7 A and 3.4 A resolution along a*, b* and c*.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Peg 3350: 19-20 % [precipitant] (Peg 3350)</td>
     </tr>
   </tbody>
 </table>

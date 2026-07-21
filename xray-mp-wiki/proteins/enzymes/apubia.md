@@ -1,7 +1,7 @@
 ---
 title: "ApUbiA (UbiA from Aeropyrum pernix) — Intramembrane Prenyltransferase"
 created: 2026-06-08
-updated: 2026-07-09
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

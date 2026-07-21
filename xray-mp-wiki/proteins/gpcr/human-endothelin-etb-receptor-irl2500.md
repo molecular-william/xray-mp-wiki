@@ -1,7 +1,7 @@
 ---
 title: "Human Endothelin ETB Receptor in Complex with IRL2500"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -141,6 +141,32 @@ agonist, as demonstrated using a constitutively active ETB mutant (L192[3.43]Q).
     <tr>
       <td>Notes</td>
       <td>Protein-laden mesophase dispensed into 96-well glass plates in 30 nl drops overlaid with 800 nl precipitant solution by Gryphon <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> robot. Crystals harvested directly from <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> using micromounts or LithoLoops, frozen in <a href="/xray-mp-wiki/concepts/methods-techniques/cryocooling/">liquid nitrogen</a> without extra cryoprotectant.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein and Cholesterol (10:1 by mass)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 30 % [precipitant] (PEG300)  
+- Sodium Phosphate: 150 mM [buffer]  
+- Tcep: 10 mM [additive]</td>
     </tr>
   </tbody>
 </table>

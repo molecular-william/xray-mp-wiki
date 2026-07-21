@@ -1,7 +1,7 @@
 ---
 title: "E. coli MscS Mechanosensitive Channel (A106V Open Form)"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -40,6 +40,14 @@ The structure of an open form of the *Escherichia coli* mechanosensitive channel
     <tr>
       <td>Notes</td>
       <td>A106V mutant crystals diffracted to 3.45 Å resolution</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

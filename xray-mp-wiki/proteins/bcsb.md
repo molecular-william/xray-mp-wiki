@@ -1,7 +1,7 @@
 ---
 title: "BcsB from Rhodobacter sphaeroides (Cellulose Synthase Periplasmic Subunit)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,28 @@ BcsB is a periplasmic protein that associates with the catalytic [Bcsa](/xray-mp
     <tr>
       <td>Notes</td>
       <td>Crystals of selenomethionine-derivatized BcsA-BcsB complex grown at 4 C; diffraction to 4.5 A</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 30 % [precipitant] (PEG200)  
+- Mes: 0.1 M [buffer]  
+- Sodium Chloride: 50 mM [salt]</td>
     </tr>
   </tbody>
 </table>

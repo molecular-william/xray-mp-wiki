@@ -1,7 +1,7 @@
 ---
 title: "Human BK Channel (Slo1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -110,6 +110,14 @@ The BK (Slo1) channel is a high-conductance voltage- and Ca2+-activated K+ chann
     <tr>
       <td>Notes</td>
       <td>Crystal structure refined to 2.0 A resolution. L390P mutation flattens the first turn of the alphaB helix compared to wild-type, with no other notable structural changes in the CTD.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

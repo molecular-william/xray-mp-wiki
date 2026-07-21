@@ -1,7 +1,7 @@
 ---
 title: "Mitochondrial Calcium Uniporter (MCU)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -139,6 +139,31 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 3.5 A; P2_1_2_1_2 space group; also crystallized MaMCU-<a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> complex (C222_1 space group) and MaMCU soluble domain (C2 space group)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Peg 4000: 35 % [precipitant] (PEG 4000)</td>
     </tr>
   </tbody>
 </table>

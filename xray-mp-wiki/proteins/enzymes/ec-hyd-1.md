@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli Hydrogenase 1 (EcHyd-1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -104,6 +104,14 @@ Hydrogenase 1 (EcHyd-1) is a membrane-bound, O2-tolerant [NiFe]-hydrogenase from
     <tr>
       <td>Notes</td>
       <td>As-isolated EcHyd-1 crystal; orthorhombic; data collected at SLS (Swiss Light Source). H2-reduced structure by exposing crystal to 8 bar H2 for 10 min. Oxidized structure by soaking as-isolated crystal with 2 mM 4-OH-1,4-naphthoquinone (OH-NQ) and 10 mM K3Fe(CN)6. Focused microbeam used for data collection.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

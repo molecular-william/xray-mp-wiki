@@ -1,7 +1,7 @@
 ---
 title: "McjD - Antibacterial Peptide ABC Exporter from Escherichia coli"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -495,6 +495,14 @@ severe anisotropy.
     <tr>
       <td>Notes</td>
       <td>McjD-ADP-VO4 and McjD-apo crystals grown by vapor diffusion; data collected at Diamond Light Source beamlines</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -1159,6 +1167,29 @@ severe anisotropy.
     <tr>
       <td>Notes</td>
       <td>McjD-ADP-VO4 complex crystals; space group C2; data collected on beamline I23 at Diamond Light Source using PILATUS 12M detector</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 10 % [precipitant] (PEG 4000)  
+- Ammonium Sulfate: 100 mM [salt]  
+- Hepes: 100 mM [buffer]  
+- Glycerol: 22 % [additive]</td>
     </tr>
   </tbody>
 </table>

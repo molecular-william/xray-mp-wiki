@@ -1,7 +1,7 @@
 ---
 title: "Angiotensin II Type 2 Receptor"
 created: 2026-05-29
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -54,7 +54,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) ([Bac-to-Bac System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
 - **Construct**: BRIL-AT2R chimera; AT2R residues 1-34 and 336-363 truncated; N-terminal BRIL (apocytochrome b562RIL, Met7Trp, His102Ile, Arg106L) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x His tag, TEV cleavage site
-- **Notes**: AT2R gene sequence (UNIPROT P50052) codon-optimized for insect cell expression, cloned into [pFastBac1](/xray-mp-wiki/reagents/additives/pfastbac1/) vector. [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/), membranes prepared by hypotonic lysis and high osmotic wash.
+- **Notes**: AT2R gene sequence (UNIPROT P50052) codon-optimized for insect cell expression, cloned into [pFastBac1](/xray-mp-wiki/reagents/vectors/pfastbac1/) vector. [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/), membranes prepared by hypotonic lysis and high osmotic wash.
 
 
 **Purification:**
@@ -143,6 +143,26 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     <tr>
       <td>Notes</td>
       <td>Data collected at 100 K at SPring-8 BL32XU micro-focus beamline. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> with MOLREP. 470 datasets collected with KAMO system and merged.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>1:1 Monoolein:Cholesterol</td>
     </tr>
   </tbody>
 </table>
@@ -388,7 +408,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) ([Bac-to-Bac System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
 - **Construct**: BRIL-AT2R chimera; AT2R residues 1-34 and 336-363 truncated; N-terminal BRIL (apocytochrome b562RIL, Met7Trp, His102Ile, Arg106L) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x His tag, TEV cleavage site
-- **Notes**: AT2R gene sequence (UNIPROT P50052) codon-optimized for insect cell expression, cloned into [pFastBac1](/xray-mp-wiki/reagents/additives/pfastbac1/) vector. [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/), membranes prepared by hypotonic lysis and high osmotic wash.
+- **Notes**: AT2R gene sequence (UNIPROT P50052) codon-optimized for insect cell expression, cloned into [pFastBac1](/xray-mp-wiki/reagents/vectors/pfastbac1/) vector. [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/), membranes prepared by hypotonic lysis and high osmotic wash.
 
 
 **Purification:**
@@ -476,6 +496,36 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein + 10% Cholesterol</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Potassium Formate: 25 mM [additive]  
+- Peg 400: 25 % [precipitant] (PEG 400)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>) - Synchrotron radiation</td>
     </tr>
@@ -502,6 +552,36 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     <tr>
       <td>Notes</td>
       <td>Crystals (70x40x20 um) harvested with micromounts and flash-frozen in liquid nitrogen. Data collected at 23ID-D beamline (GM/CA) at Advanced Photon Source, Argonne National Laboratory. Integrated and scaled with XDS.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>2:3 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein + 10% Cholesterol</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 100 mM [buffer]  
+- Potassium Formate: 25-100 mM [additive]  
+- Peg 400: 25-35 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>
@@ -1029,7 +1109,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) ([Bac-to-Bac System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
 - **Construct**: BRIL-AT2R chimera; AT2R residues 1-34 and 336-363 truncated; N-terminal BRIL (apocytochrome b562RIL, Met7Trp, His102Ile, Arg106L) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x His tag, TEV cleavage site
-- **Notes**: AT2R gene sequence (UNIPROT P50052) codon-optimized for insect cell expression, cloned into [pFastBac1](/xray-mp-wiki/reagents/additives/pfastbac1/) vector. [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/), membranes prepared by hypotonic lysis and high osmotic wash.
+- **Notes**: AT2R gene sequence (UNIPROT P50052) codon-optimized for insect cell expression, cloned into [pFastBac1](/xray-mp-wiki/reagents/vectors/pfastbac1/) vector. [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/), membranes prepared by hypotonic lysis and high osmotic wash.
 
 
 **Purification:**
@@ -1118,6 +1198,26 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     <tr>
       <td>Notes</td>
       <td>Data collected at 100 K at SPring-8 BL32XU micro-focus beamline. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> with MOLREP. 470 datasets collected with KAMO system and merged. High Rmerge due to large variety of crystals, not poor datasets.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>not specified</td>
     </tr>
   </tbody>
 </table>

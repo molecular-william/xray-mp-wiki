@@ -1,7 +1,7 @@
 ---
 title: "mHv1cc Mouse Voltage-Gated Proton Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -88,6 +88,14 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
       <td>Notes</td>
       <td>Multiple crystal forms obtained: native Cryst-B (S76-mHv1cc) at 3.45 A resolution; <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> derivatives Se-Met1 (L107M L118M), Se-Met2, and Se-Met3 (L182M) for MAD phasing; and zinc-bound crystals (Cryst-Z1, Cryst-Z2). All crystals in space group P6_3. Initial phasing by Se-MAD at 4.3 A resolution. Native data collected to 3.45 A.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

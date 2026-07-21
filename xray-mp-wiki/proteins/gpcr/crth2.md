@@ -1,7 +1,7 @@
 ---
 title: "Human CRTH2 (PGD2 Receptor)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -142,6 +142,31 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 2.74-2.80 A. Structures solved by molecular replacement using C5aR (6C1R) and T4L from ETBR (5XPR). Data collected at APS GM/CA beamline. Two PDB depositions: 6D26 (fevipiprant-bound) and 6D27 (CAY10471-bound).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 25 % [precipitant] (Peg 3350)  
+- Peg: 5 % [precipitant] (Peg 200)</td>
     </tr>
   </tbody>
 </table>

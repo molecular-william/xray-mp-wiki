@@ -1,7 +1,7 @@
 ---
 title: "Human Equilibrative Nucleoside Transporter 1 (hENT1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -143,6 +143,26 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
       <td>Notes</td>
       <td>Dilazep-bound: Concentrated to 40 mg/mL, mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> 40:60. Reservoir: 35-50% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> pH 9.0, 0.5 M NaCl. Plate-like crystals 50x20 um appeared after 12 h. For <a href="/xray-mp-wiki/reagents/ligands/nbmpr/">NBMPR</a>: Reservoir 30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 500 MME, 0.1 M MgCl2, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Protein:lipid ratio</td>
+      <td>40:60 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

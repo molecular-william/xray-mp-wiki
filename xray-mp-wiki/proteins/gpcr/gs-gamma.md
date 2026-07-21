@@ -1,7 +1,7 @@
 ---
 title: "Gs Protein Gamma Subunit (Ggamma2)"
 created: 2026-06-02
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

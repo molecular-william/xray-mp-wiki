@@ -1,7 +1,7 @@
 ---
 title: "Interleukin-17 Receptor C (IL-17RC)"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -173,6 +173,26 @@ IL-17RC is a single-pass type I transmembrane glycoprotein and a member of the i
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 20 % [precipitant] (PEG 3350)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -202,6 +222,23 @@ IL-17RC is a single-pass type I transmembrane glycoprotein and a member of the i
       <td>Notes</td>
       <td>Crystal form II, space group R32
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 20 % [precipitant] (PEG 3350)  
+- Ammonium Formate: 0.2 M [additive]</td>
     </tr>
   </tbody>
 </table>

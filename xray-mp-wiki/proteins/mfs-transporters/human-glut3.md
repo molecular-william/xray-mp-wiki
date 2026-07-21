@@ -1,7 +1,7 @@
 ---
 title: "Human Glucose Transporter 3 (GLUT3)"
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -88,6 +88,24 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.6</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 40 % [precipitant] (PEG400)  
+- Tris: 100 mM [buffer]  
+- Magnesium Chloride: 100 mM [salt]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
     </tr>
@@ -102,6 +120,14 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
     <tr>
       <td>Notes</td>
       <td>GLUT3-<a href="/xray-mp-wiki/reagents/additives/sa47/">SA47</a> complex crystallized using same <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> protocol</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

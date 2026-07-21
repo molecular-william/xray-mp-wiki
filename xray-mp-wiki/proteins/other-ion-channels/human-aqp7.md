@@ -1,7 +1,7 @@
 ---
 title: "Human Aquaporin 7 (AQP7)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,31 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
     <tr>
       <td>Notes</td>
       <td>Two crystals from the same drop were used for data collection at the P13 beamline at PETRA III, EMBL Hamburg. Crystal 1 was subjected to crude dehydration via <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> gradient. Both structures solved by molecular replacement. <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> molecules were modeled in the conducting pore, with G4 occupying two alternative positions (G4a, G4b) at the NPA region.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 85 mM [buffer]  
+- Peg: 37 % [precipitant] (v/v PEG 200)</td>
     </tr>
   </tbody>
 </table>

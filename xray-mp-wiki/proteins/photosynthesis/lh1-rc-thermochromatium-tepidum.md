@@ -1,7 +1,7 @@
 ---
 title: "LH1-RC complex from Thermochromatium tepidum"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,34 @@ The light-harvesting core antenna (LH1) and the reaction centre (RC) from Thermo
     <tr>
       <td>Notes</td>
       <td>Dehydration and cryoprotectant replacement performed by progressively raising <a href="/xray-mp-wiki/reagents/additives/peg3000/">PEG 3000</a> (15% to 24%) and <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> (1% to 16%) concentrations. Crystal size 0.3x0.4x0.05 to 0.4x0.8x0.2 mm3.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 20 mM [buffer]  
+- Calcium Chloride: 50 mM [salt]  
+- Dpc: 0.54 % [additive]  
+- Glycerol: 2 % [additive]  
+- Peg: 14 % [precipitant] (PEG 3000)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "MexB Multidrug Efflux Pump"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,14 @@ hydrophobic pit.
     <tr>
       <td>Notes</td>
       <td>Data collected at BL44XU beamline in SPring-8 at 100 K. <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using DDM-bound <a href="/xray-mp-wiki/proteins/abc-transporters/mexB/">MexB (Pseudomonas aeruginosa multidrug exporter)</a> structure (PDBID 3W9I) as search model. REFMAC and COOT used for refinement and remodeling.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

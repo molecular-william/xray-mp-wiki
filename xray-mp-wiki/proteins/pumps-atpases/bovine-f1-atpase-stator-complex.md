@@ -1,7 +1,7 @@
 ---
 title: "Bovine Mitochondrial F1-ATPase-Stator Complex (Membrane Extrinsic Region)"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,29 @@ The bovine mitochondrial F1-ATPase-stator complex (F1-stator_T) is a subcomplex 
     <tr>
       <td>Notes</td>
       <td>Crystals grown by microbatch under light paraffin oil in 72-well microbatch plates. 4 crystals harvested, washed, and analyzed by SDS/PAGE (intact subunits confirmed). Data collected at ESRF beamline ID23eh1 (λ=0.9790 Å).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>microbatch</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>23 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 8000: 15-22 % [precipitant] (polyethylene glycol 8000)  
+- Ammonium Sulfate: 300 mM [salt]  
+- Mes: 100 mM [buffer]  
+- Amp Pnp: 1 mM [additive]</td>
     </tr>
   </tbody>
 </table>

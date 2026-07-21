@@ -1,7 +1,7 @@
 ---
 title: "LeuT Amino Acid Transporter from Aquifex aeolicus"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -117,6 +117,31 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     <tr>
       <td>Notes</td>
       <td>Cryoprotected with 35% PEG 550 MME and 40 mM beta-<a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">OG</a>. Space group C2.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 18-22 % [precipitant] (PEG 550 MME)  
+- Sodium Chloride: 0.2 M [salt]</td>
     </tr>
   </tbody>
 </table>
@@ -806,6 +831,31 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
     <tr>
       <td>Notes</td>
       <td>Cocrystallization of LeuT with <a href="/xray-mp-wiki/reagents/ligands/clomipramine/">CMI</a>, <a href="/xray-mp-wiki/reagents/ligands/desipramine/">Desipramine</a>, or <a href="/xray-mp-wiki/reagents/ligands/imipramine/">Imipramine</a>. Also prepared LeuT-alanine-<a href="/xray-mp-wiki/reagents/ligands/clomipramine/">CMI</a> complex with 100 mM alanine in all buffers.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 17-22 % [precipitant] (PEG 550 MME)  
+- Sodium Chloride: 200 mM [salt]</td>
     </tr>
   </tbody>
 </table>

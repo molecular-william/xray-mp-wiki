@@ -1,7 +1,7 @@
 ---
 title: "Turkey Beta1-Adrenergic Receptor (beta1AR)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,32 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     <tr>
       <td>Notes</td>
       <td>Crystals grew in space groups P21 (<a href="/xray-mp-wiki/reagents/ligands/carazolol/">Carazolol</a>) or C2 (cyanopindolol/iodocyanopindolol). Data collected at ESRF ID23-2 and SLS X06SA.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.9</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 600: 29-33 % [precipitant] (Peg 600 (Cyanopindolol))  
+- Tris: 0.1 M [buffer]  
+- Peg 400: 40 % [precipitant] (Peg 400 (Carazolol))</td>
     </tr>
   </tbody>
 </table>
@@ -427,6 +453,18 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
     <tr>
       <td>Notes</td>
       <td>Four crystal structures determined with resolutions between 3.0-3.2 A. Data collected at ESRF (beamlines ID23-2, ID30-A3, ID29, ID30B, MASSIF-1) and Diamond Light Source (beamline I24).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 C</td>
     </tr>
   </tbody>
 </table>

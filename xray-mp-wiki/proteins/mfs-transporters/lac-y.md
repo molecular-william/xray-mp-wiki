@@ -1,7 +1,7 @@
 ---
 title: "Lactose Permease of Escherichia coli (LacY)"
 created: 2026-06-02
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -169,6 +169,18 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Crystal soaking for cryoprotection</td>
     </tr>
@@ -191,6 +203,23 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
     <tr>
       <td>Notes</td>
       <td>pH 5.6 structure at 3.3 A resolution. Diffraction data collected at Swiss Light Source beam-line X06SA.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 100 % [precipitant] (MES (pH 5.6)/36% PEG 400/200 mM CaCl2/3% 1)  
+- Chapso: 8 mM [additive]</td>
     </tr>
   </tbody>
 </table>
@@ -962,6 +991,14 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details class="pub-entry" markdown="1">
@@ -1355,6 +1392,32 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
       <td>Notes</td>
       <td>Phospholipid content adjusted during crystallization to enable wild-type LacY crystallization. Data collected at ALS BL8.2.1 and Swiss Light Source. Space group P2_12_12_1. Structure solved by molecular replacement using 1PV7. Also contains 5 mM TDG (ligand) in crystallization drop, though no clear sugar density observed.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>23 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 0.1 M [buffer]  
+- Ammonium Sulfate: 0.1 M [salt]  
+- Peg 400: 29-31 % [precipitant] (PEG 400)</td>
     </tr>
   </tbody>
 </table>

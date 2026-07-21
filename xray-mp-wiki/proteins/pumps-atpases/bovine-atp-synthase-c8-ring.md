@@ -1,7 +1,7 @@
 ---
 title: "Bovine Mitochondrial F-ATPase c8-Ring (F1-c-ring Complex)"
 created: 2026-06-21
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -121,6 +121,27 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
     <tr>
       <td>Notes</td>
       <td>Crystals harvested and analyzed by SDS-PAGE confirmed all subunits of F1-c-ring complex present and undegraded. Four crystals were harvested, washed three times in buffer, dissolved and analyzed.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>microbatch</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>23 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 14-16.5 % [precipitant] (PEG 4600)  
+- Hepes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

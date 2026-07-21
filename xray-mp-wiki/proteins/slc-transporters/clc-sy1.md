@@ -1,7 +1,7 @@
 ---
 title: "CLC-sy1 (CLC Cl-/H+ Antiporter from Synechocystis sp. PCC6803)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -113,6 +113,28 @@ CLC-sy1 (SY) is a CLC Cl-/H+ exchange transporter from the cyanobacterium Synech
     <tr>
       <td>Notes</td>
       <td>Additives introduced to final concentrations: C-Hega-11 (14 mM), SrCl2 (12 mM), PEG 400 (6.2%), and in some cases Hega-10 (9 mM) and decanoyl sucrose (3 mM). Only crystals larger than 200 um diffracted well. Structure solved by molecular replacement with PHASER using EC homodimer (PDB 1OTS) as search model. Anisotropic diffraction with high mosaicity. High solvent content (80%).</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.0</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 30-32 % [precipitant] (PEG 400)  
+- Calcium Chloride: 200 mM [salt]  
+- Tris: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

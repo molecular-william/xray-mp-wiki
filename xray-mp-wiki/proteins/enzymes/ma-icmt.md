@@ -1,7 +1,7 @@
 ---
 title: "Isoprenylcysteine Carboxyl Methyltransferase (ICMT) from Methanosarcina acetivorans"
 created: 2026-05-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,14 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) is an integral membrane meth
     <tr>
       <td>Notes</td>
       <td>Crystals were obtained in complex with SAH (Sigma) but not in its absence, suggesting that cofactor influences the protein conformation and is required for conformational homogeneity necessary for crystallization. Two derivatives were collected: EMTS (ethylmercurithiosalicylate) at DLS beam line I02, and gold derivative (KAu(CN)2) at DLS beam line I03. Structure determined from SAD phases obtained from EMTS and gold derivatives and multicrystal averaging.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Human KDEL Receptor"
 created: 2026-05-26
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,28 @@ The human KDEL receptor is a seven-pass transmembrane receptor that retrieves es
     <tr>
       <td>Notes</td>
       <td>Crystals grew as thin plates and diffracted to 3.0 A resolution. The structure was solved by molecular replacement. The acidic pH of the reservoir (pH 4.6) mimics the acidic pH of the Golgi apparatus where the KDEL receptor binds its ligand. Space group P212121, one molecule in the asymmetric unit.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 20-30 % [precipitant] (PEG 400)  
+- Acetate: 0.1 M [buffer]  
+- Magnesium Chloride: 0.2 M [salt]</td>
     </tr>
   </tbody>
 </table>

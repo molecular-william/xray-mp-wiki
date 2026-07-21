@@ -1,7 +1,7 @@
 ---
 title: "Chrimson Channelrhodopsin"
 created: 2018-09-26
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,26 @@ Chrimson is a red light-activated channelrhodopsin from the algae *Chlamydomonas
     <tr>
       <td>Notes</td>
       <td>Protein mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> at 2:3 protein-to-lipid ratio (w/w). 50 nl protein-LCP mixture per well, overlaid with 800 ul precipitant solution. Crystals harvested using microworms. Data collected at SPring-8 BL32XU; merged from multiple crystals using KAMO.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 28-33 % [precipitant] (PEG500DME)</td>
     </tr>
   </tbody>
 </table>

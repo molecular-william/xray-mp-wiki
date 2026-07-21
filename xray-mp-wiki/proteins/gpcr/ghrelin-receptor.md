@@ -1,7 +1,7 @@
 ---
 title: "Human Ghrelin Receptor (GHSR)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -130,6 +130,32 @@ The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a cla
     <tr>
       <td>Notes</td>
       <td>Data collected at SPring-8 BL32XU. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using orexin receptor (PDB 4S0V), <a href="/xray-mp-wiki/reagents/protein-tags/bril/">bRIL</a> (PDB 1M6T), and Fab 7881 (PDB 6KS2) as search models.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein:cholesterol (10:1)</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 100 mM [buffer]  
+- Potassium Acetate: 400 mM [buffer]  
+- Peg: 36-40 % [precipitant] (PEG 300)</td>
     </tr>
   </tbody>
 </table>

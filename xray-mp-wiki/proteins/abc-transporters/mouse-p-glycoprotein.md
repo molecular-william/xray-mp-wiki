@@ -1,7 +1,7 @@
 ---
 title: "Mouse P-glycoprotein"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -144,6 +144,33 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
     <tr>
       <td>Notes</td>
       <td>Crystals typically appeared after 1-3 days, grew to full size in ~2 weeks. Cryoprotected in reservoir solution with 32% <a href="/xray-mp-wiki/reagents/additives/peg-600/">PEG 600</a>. Typical crystal dimensions ~650 x 400 x 300 um. Data collected at SSRL BL11-1 and CLS 08ID-1 at 100 K. For co-crystals, excess cyclopeptide removed before crystallization.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 0.1 M [buffer]  
+- Lithium Sulfate: 50 mM [additive]  
+- Edta: 10 mM [additive]  
+- Peg 600: 24-29.5 % [precipitant] (PEG 600)</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Fucoxanthin Chlorophyll a/c-Binding Protein (FCP) from Phaeodactylum tricornutum"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -130,6 +130,18 @@ uniprot_id: B7FRW2
     <tr>
       <td>Notes</td>
       <td>Crystals diffracted to 1.8 A resolution. Phasing by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using PHASER with an LHCII search model, followed by extension to 1.8 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

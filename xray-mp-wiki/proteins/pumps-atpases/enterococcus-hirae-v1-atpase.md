@@ -1,7 +1,7 @@
 ---
 title: "V1-ATPase from Enterococcus hirae (EhV1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -124,6 +124,26 @@ uniprot_id: ['P43435', 'P43455', 'Q08636', 'Q08637']
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 C</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##ncomms13235
 
 **Structures:**
@@ -224,6 +244,22 @@ uniprot_id: ['P43435', 'P43455', 'Q08636', 'Q08637']
     <tr>
       <td>Notes</td>
       <td>Crystals soaked with various nucleotide concentrations. For 2ADP-V1: 20 μM , 3 mM MgSO4, 4.5 h soak. For 3ADP-V1: 2 mM , 3 mM MgSO4, 4.5 h soak. For Pi-bound: 2 mM Pi, 3 mM , 5.0 h soak.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>pH</td>
+      <td>6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 1.6 M [salt]</td>
     </tr>
   </tbody>
 </table>

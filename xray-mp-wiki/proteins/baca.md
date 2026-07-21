@@ -1,7 +1,7 @@
 ---
 title: "Undecaprenyl Pyrophosphate Phosphatase (UppP/BacA) from Escherichia coli"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -127,6 +127,31 @@ Undecaprenyl pyrophosphate phosphatase (UppP, also known as BacA) is a 30 kDa po
     <tr>
       <td>Notes</td>
       <td>Initial crystals with 40% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 200, 100 mM NaCl, 100 mM LiSO4, 100 mM Na<a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a> pH 5. Optimized crystals harvested using MicroMounts and frozen directly in liquid nitrogen. <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury</a> derivatized crystals: sixfold molar excess ethyl mercury phosphate incubated for 30 min at 4°C before <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> preparation. Crystals grown in 45% PEG 200, 150 mM MgCl2, 400 mM LiSO4, 100 mM NaCitrate pH 5.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (Sigma), 2:3 (v/v) protein-to-lipid ratio</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 45-50 % [precipitant] (PEG 200)  
+- Sodium Chloride: 0-150 mM [salt]</td>
     </tr>
   </tbody>
 </table>

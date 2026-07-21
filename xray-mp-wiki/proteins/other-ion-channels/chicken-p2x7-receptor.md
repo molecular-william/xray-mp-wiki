@@ -1,7 +1,7 @@
 ---
 title: "Chicken P2X7 Receptor (ckP2X7)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -141,6 +141,19 @@ The P2X7 receptor is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-gated non-sel
     <tr>
       <td>Notes</td>
       <td>Co-crystallized with TNP-<a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a>. X-ray data collected at 100 K at beamline X06SA-PXI (SLS). Structure solved by molecular replacement using the amP2X structure (PDB 4DW0) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 20 % [precipitant]  
+- Glycerol: 10 % [additive]</td>
     </tr>
   </tbody>
 </table>

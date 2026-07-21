@@ -1,7 +1,7 @@
 ---
 title: "Blastochloris viridis Photosynthetic Reaction Center (RC_vir)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -130,6 +130,23 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/">LSP</a> prepared by mixing <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> with water (60:40 v/v) to form LCP, then adding <a href="/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/">LSP</a> initiating solution (20% Jeffamine M-600, 1 M HEPES pH 8.0, 0.7 M (NH4)2SO4, 2.5% 1,2,3-heptanetriol) at 1:4 (v/v). Hanging-drop vapor-diffusion method with 1 μL <a href="/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/">LSP</a> precipitant + 1 μL protein + 1 μL 1 M trisodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>. Diamond-shaped crystals 0.25 x 0.25 x 0.15 mm. <a href="/xray-mp-wiki/concepts/structural-mechanisms/type-i-crystal-packing/">Type I Crystal Packing</a> with stacked antiparallel planes.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>pH</td>
+      <td>6.3</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Acetate: 0.55 M [buffer]  
+- Hepes: 0.75 M [buffer]</td>
     </tr>
   </tbody>
 </table>

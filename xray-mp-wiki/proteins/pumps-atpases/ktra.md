@@ -1,7 +1,7 @@
 ---
 title: "KtrA (Cytosolic Regulatory Protein from Bacillus subtilis)"
 created: 2026-06-03
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -142,6 +142,32 @@ KtrA is a cytosolic regulatory protein from the bacterium Bacillus subtilis that
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Hepes: 100 mM [buffer]  
+- Peg 6000: 3 % [precipitant] (PEG 6000)  
+- Mpd: 2.5 % [precipitant]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Sitting-drop vapor diffusion</td>
     </tr>
@@ -164,6 +190,31 @@ KtrA is a cytosolic regulatory protein from the bacterium Bacillus subtilis that
     <tr>
       <td>Cryoprotection</td>
       <td>Flash-frozen in liquid nitrogen</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.6</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Citrate: 100 mM [buffer]  
+- Peg: 14.5 % [precipitant] (PEG 20000)</td>
     </tr>
   </tbody>
 </table>

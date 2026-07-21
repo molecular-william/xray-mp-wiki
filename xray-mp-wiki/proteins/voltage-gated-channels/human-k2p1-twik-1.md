@@ -1,7 +1,7 @@
 ---
 title: "Human K2P1 (TWIK-1) Potassium Channel"
 created: 2026-06-21
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -98,6 +98,14 @@ Human K2P1 (also known as TWIK-1, encoded by KCNK1) is a two-pore domain potassi
     <tr>
       <td>Notes</td>
       <td>Crystals grown in presence of 150 mM K+. Soaked in Tl+ solutions for anomalous phasing. Space group P2(1) with four copies per asymmetric unit forming two channels. Experimental SAD/MAD phasing using Hg, Au, and Tl derivatives.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

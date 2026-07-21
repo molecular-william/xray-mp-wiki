@@ -1,7 +1,7 @@
 ---
 title: "CD9 (Tetraspanin)"
 created: 2026-06-09
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -126,6 +126,27 @@ CD9 is a member of the tetraspanin family, a class of four-transmembrane domain 
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury (HgCl2) - Aquaporin Inhibitor</a> derivative co-crystallized with 2 mM CH3HgCl for SIRAS phasing. Crystals collected and flash-cooled in liquid nitrogen.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 32-50 mM [precipitant]  
+- Mops: 10-50 mM [buffer]</td>
     </tr>
   </tbody>
 </table>

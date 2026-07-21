@@ -1,7 +1,7 @@
 ---
 title: "Heliobacterial Reaction Center (HbRC)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -109,6 +109,14 @@ common ancestor of all photosynthetic reaction centers.
     <tr>
       <td>Notes</td>
       <td>Crystals grown and diffracted to 2.2 Å resolution. Data collected at Berkeley Center for Structural Biology, Advanced Light Source, and Structural Biology Center at the Advanced Photon Source.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

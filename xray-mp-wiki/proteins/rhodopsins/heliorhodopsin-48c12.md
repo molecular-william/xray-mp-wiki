@@ -1,7 +1,7 @@
 ---
 title: "Heliorhodopsin 48C12 from actinobacterial fosmid (Lake Kinneret)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -135,6 +135,22 @@ HeR-48C12 is a bacterial heliorhodopsin (HeR) discovered in an actinobacterial f
     <tr>
       <td>Notes</td>
       <td>Rhombic crystals reached 150 um in length and width, maximum thickness 20 um. Crystals grown at both pH 8.8 (violet form) and pH 4.3 (blue form). Crystal packing same for both, with one 48C12 dimer in asymmetric unit. P2_1 symmetry.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
     </tr>
   </tbody>
 </table>

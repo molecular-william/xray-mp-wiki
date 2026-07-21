@@ -1,7 +1,7 @@
 ---
 title: "M1 Muscarinic Acetylcholine Receptor"
 created: 2026-05-27
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -579,6 +579,18 @@ The M1 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/)
       <td>Notes</td>
       <td>Three structures were solved: <a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> with <a href="/xray-mp-wiki/reagents/ligands/77-lh-28-1/">77-LH-28-1</a> (PDB 6ZFZ), <a href="/xray-mp-wiki/reagents/ligands/htl9936/">HTL9936</a> (PDB 6ZG4), and <a href="/xray-mp-wiki/reagents/ligands/gsk1034702/">GSK1034702</a> (PDB 6ZG9). All structures were solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using the turkey beta1-adrenergic receptor (PDB 2Y00) as the search model. Iterative rounds of model refinement with BUSTER were interspersed with manual model building in COOT. Two TLS groups corresponding to the receptor and <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> were defined.
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

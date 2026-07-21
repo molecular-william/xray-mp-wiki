@@ -1,7 +1,7 @@
 ---
 title: "GLIC (Gloeobacter violaceus Ion Channel)"
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -709,6 +709,32 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     <tr>
       <td>Cryoprotection</td>
       <td>Reservoir supplemented with 20% glycerol</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>3.9</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 4000: 10 % [precipitant] (-12% PEG 4000)  
+- Ammonium Sulfate: 225 mM [salt]  
+- Acetate: 50 mM [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -4050,6 +4076,14 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -4060,6 +4094,14 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     <tr>
       <td>Notes</td>
       <td>GLIC_His10 produced in insect cells, crystallized at pH 4. Space group P212121. Shows coexistence of locally closed and open conformations.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -10034,6 +10076,32 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
     <tr>
       <td>Cryoprotection</td>
       <td>Reservoir supplemented with 30% ethyleneglycol</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>3.9</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Ammonium Sulfate: 225 mM [salt]  
+- Acetate: 50 mM [buffer]  
+- Peg 4000: 9-12 % [precipitant] (PEG4000)</td>
     </tr>
   </tbody>
 </table>

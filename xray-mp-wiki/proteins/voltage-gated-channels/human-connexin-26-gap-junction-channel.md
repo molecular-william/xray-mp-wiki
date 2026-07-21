@@ -1,7 +1,7 @@
 ---
 title: "Human Connexin 26 (Cx26/GJB2) Gap Junction Channel"
 created: 2026-06-16
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,30 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
     <tr>
       <td>Notes</td>
       <td>Crystals obtained by vapor diffusion at 4°C. Crystals dehydrated by gradually adding triethyleneglycol to 25-30% final concentration and flash frozen in liquid nitrogen. Ta6Br14 derivative prepared by soaking crystals in 1 mM Ta6Br14 overnight. Data collected at BL44XU, SPring-8 and X06SA, Swiss Light Source. Structure determination by multiple isomorphous replacement with SAD/MAD using Ta derivatives and SeMet labeling.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Potassium Phosphate: 100 mM [buffer]  
+- Potassium Chloride Kcl: 100 mM [additive]  
+- Dtt: 10 mM [additive]  
+- Egta: 0.5 mM [additive]  
+- Peg: 16-18 % [precipitant] (PEG200)</td>
     </tr>
   </tbody>
 </table>

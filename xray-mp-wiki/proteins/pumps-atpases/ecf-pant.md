@@ -1,7 +1,7 @@
 ---
 title: "ECF-PanT (Energy-Coupling Factor Pantothenate Transporter)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -131,6 +131,26 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
     <tr>
       <td>Notes</td>
       <td>Crystals appeared in sitting drops.  Nb81 (CA14381) used as crystallization chaperone enabled crystal formation. Data collected at Diamond Light Source beamline I24 at 100 K. Crystal belonged to space group P1 (a=97.29 A, b=110.47 A, c=110.50 A, alpha=89.00 deg, beta=102.27 deg, gamma=102.24 deg). 2.8 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>4.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
     </tr>
   </tbody>
 </table>

@@ -1,7 +1,7 @@
 ---
 title: "Phosphatidylinositol Phosphate Synthase PgsA1 from Mycobacterium tuberculosis"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -154,6 +154,18 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
     <tr>
       <td>Notes</td>
       <td>Apo crystals obtained in one condition; Mn-<a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> complex from 100 mM <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>, 120 mM Mn2+ in crystallization solution; CDP-<a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a> complex from co-crystallization with CDP-<a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a> and Mg2+ in LCP. Data collected at Diamond Light Source beamline I24.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>100 K</td>
     </tr>
   </tbody>
 </table>

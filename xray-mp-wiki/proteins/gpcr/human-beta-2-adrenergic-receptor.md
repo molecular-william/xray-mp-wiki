@@ -1,7 +1,7 @@
 ---
 title: "Human Beta-2 Adrenergic Receptor (β2AR)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -113,6 +113,14 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     <tr>
       <td>Notes</td>
       <td>Crystals were obtained of the active <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a>-β2AR bound to <a href="/xray-mp-wiki/reagents/ligands/bi-167107/">BI-167107</a> and <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nb6B9</a> in a crystallization condition saturated with 3 mM of Cmpd-6FA. The structure was resolved to 3.2 A by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using the <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a>-β2AR-<a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nb6B9</a> structure (PDB 4LDO) as the search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>
@@ -431,6 +439,14 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
     <tr>
       <td>Notes</td>
       <td><a href="/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/">LSP</a> prepared by mixing <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>/<a href="/xray-mp-wiki/reagents/lipids/cholesterol/">cholesterol</a> with buffer containing <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400 and sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>. Protein solution mixed with lipid mixture using syringe mixer. Crystallization in 96-well glass sandwich plates. For each ligand, microcrystals grew within 2-4 days. <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">SFX</a> data collected at SACLA BL2, 10 keV, 10 μm beam, 50 mm detector distance. Data indexed with CrystFEL; structures solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using β2AR-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> (PDB 4LDO) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

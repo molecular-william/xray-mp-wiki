@@ -1,7 +1,7 @@
 ---
 title: "Prostaglandin E2 Receptor EP3 (Prostanoid EP3 Receptor)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -91,14 +91,14 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
       <td>Solubilization</td>
       <td>Stirred for 2 h at 4C</td>
       <td>—</td>
-      <td>50 mM  pH 7.5, 800 mM NaCl, 1% , 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/additives/cholesteryl-hemisuccinate/)</td>
+      <td>50 mM  pH 7.5, 800 mM NaCl, 1% , 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/cholesteryl-hemisuccinate/)</td>
       <td></td>
     </tr>
     <tr>
       <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
       <td> resin (Clontech), overnight batch binding at 4C</td>
       <td> IMAC resin</td>
-      <td>Wash 1: 50 mM  pH 7.2, 150 mM NaCl, 10 mM , 8 mM , 0.1% , 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/additives/cholesteryl-hemisuccinate/), 10% , 20 mM . Wash 2: 50 mM  pH 7.5, 150 mM NaCl, 0.05% , 0.01% <a href="/xray-mp-wiki/reagents/additives/cholesteryl-hemisuccinate/">CHS</a>, 10% , 20 mM </td>
+      <td>Wash 1: 50 mM  pH 7.2, 150 mM NaCl, 10 mM , 8 mM , 0.1% , 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">[CHS</a>](/xray-mp-wiki/reagents/cholesteryl-hemisuccinate/), 10% , 20 mM . Wash 2: 50 mM  pH 7.5, 150 mM NaCl, 0.05% , 0.01% <a href="/xray-mp-wiki/reagents/cholesteryl-hemisuccinate/">CHS</a>, 10% , 20 mM </td>
       <td>Eluted with 2.5 CV of elution buffer</td>
     </tr>
     <tr>
@@ -130,6 +130,18 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
     <tr>
       <td>Notes</td>
       <td>Crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>. Diffraction data collected at LCLS XFEL using <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">Serial Femtosecond Crystallography</a> (SFX) at room temperature. Structure determined at 2.5 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -341,6 +353,14 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
     <tr>
       <td>Notes</td>
       <td>Crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>. Data collected at SPring-8 synchrotron. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a>. Space group P21, unit cell a=66.1, b=42.3, c=161.3 A, beta=96.1 deg.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
     </tr>
   </tbody>
 </table>

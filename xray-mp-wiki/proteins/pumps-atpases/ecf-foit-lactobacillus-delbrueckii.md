@@ -1,7 +1,7 @@
 ---
 title: "ECF-FoIT Energy-Coupling Factor Transporter for Folate from Lactobacillus delbrueckii"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default

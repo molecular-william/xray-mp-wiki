@@ -1,7 +1,7 @@
 ---
 title: "Ascaris suum Quinol-Fumarate Reductase (QFR)"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -120,6 +120,18 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
     <tr>
       <td>Notes</td>
       <td>Reddish crystals grew to 100-200 um in 2-3 days. Fumarate-soaked Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction prepared by soaking in reservoir supplemented with 1 mM sodium Slc26Dgray-mp-wiki/concepts/<a href="/xray-mp-wiki/concepts/enzyme-mechanisms/quinol-fumarate-reductase/">QFR</a>/ instead of Navmstetep1ylatem Ionm Cholatem Acetateacm Butyratem Malonateey7m Phosphatem Cacodylatelpm Sulfiter Acetatetsjm Citrateamilym Thiocyanatem Bicarbonatem CyanoborohydrideNmYfm <a href="/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/">Channel Gating</a> Sodium Channel1P Sodium Channelm Ethylmercurithiosalicylatem Allosteric Modulationm Channel Inactivation Gatingrokinobacter Eikastus Rhodopsinm Channel Ion Permeability Selectivity malonate. Data collected at</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
     </tr>
   </tbody>
 </table>

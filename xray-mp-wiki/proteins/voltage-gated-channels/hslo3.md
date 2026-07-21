@@ -1,7 +1,7 @@
 ---
 title: "Human SLO3 (hSLO3) pH- and Voltage-Gated Potassium Channel"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -128,6 +128,31 @@ hSLO3 (KCNU1) is a pH- and voltage-gated potassium channel from the SLO family, 
     <tr>
       <td>Notes</td>
       <td>Final pH of mixed drop measured at 6.8. Crystals grew to 0.4 x 0.15 x 0.05 mm. Space group I222.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.3</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg: 3 % [precipitant] (PEG12000)  
+- Ammonium Formate: 1 M [additive]</td>
     </tr>
   </tbody>
 </table>

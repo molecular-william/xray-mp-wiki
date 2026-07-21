@@ -1,7 +1,7 @@
 ---
 title: "Bovine F1-ATPase-Efrapeptin Complex"
 created: 2026-06-11
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -107,6 +107,14 @@ The structure of bovine mitochondrial F1-ATPase complexed with efrapeptin C, a m
     <tr>
       <td>Notes</td>
       <td>Crystals grown in the presence of <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a>, <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>, and efrapeptin. Data collected at the Synchrotron Radiation Source, Daresbury, UK (station 9.6) using a MAR Research image plate detector. Diffraction data processed with MOSFLM and programs from the CCP4 suite.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
     </tr>
   </tbody>
 </table>

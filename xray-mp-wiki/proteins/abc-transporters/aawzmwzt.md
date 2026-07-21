@@ -1,7 +1,7 @@
 ---
 title: "AaWzmWzt (O Antigen ABC Transporter from Aquifex aeolicus)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -116,6 +116,22 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
     <tr>
       <td>Notes</td>
       <td>Crystals grown with <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> and magnesium. <a href="/xray-mp-wiki/reagents/detergents/c12e8/">C12E8</a> and <a href="/xray-mp-wiki/reagents/detergents/ldao">LDAO</a> were used as detergents throughout purification.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>
@@ -536,6 +552,31 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
     <tr>
       <td>Notes</td>
       <td>Long construct crystallized as needle-shaped crystals diffracting to 3.6 A. Truncated construct (lacking 8 N-terminal residues) diffracted to 2.65 A and was used for refinement. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using E. coli O9a CBD (PDB 2R5O) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>5.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>27-30 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mops: 0.1 M [buffer]  
+- Acetate: 1.5 M [buffer]</td>
     </tr>
   </tbody>
 </table>

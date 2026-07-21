@@ -1,7 +1,7 @@
 ---
 title: "GLUT5 Fructose Transporter"
 created: 2026-06-08
-updated: 2026-06-29
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -130,6 +130,27 @@ GLUT5 is a fructose-specific facilitated-diffusion transporter belonging to the 
 <table class="wiki-kv-table">
   <tbody>
     <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 400: 33-35 % [precipitant] (Peg 400)  
+- Calcium Chloride: 0.12 M [salt]</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
       <td>Method</td>
       <td>Vapor diffusion</td>
     </tr>
@@ -152,6 +173,18 @@ GLUT5 is a fructose-specific facilitated-diffusion transporter belonging to the 
     <tr>
       <td>Notes</td>
       <td>Bovine GLUT5 crystallized in the open inward-facing conformation; data showed severe anisotropy (resolutions along a*/b*/c* of 4.0/3.0/4.0 A)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
     </tr>
   </tbody>
 </table>

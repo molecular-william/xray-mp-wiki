@@ -1,7 +1,7 @@
 ---
 title: "Human BK (Slo1/MaxiK) Large-Conductance Ca2+-Gated K+ Channel"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -123,6 +123,30 @@ BK channels (also called MaxiK or Slo1, gene KCNMA1) are large-conductance Ca2+-
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>8.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Tris: 0.1 M [buffer]</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##nature10670
 
 **Structures:**
@@ -208,6 +232,31 @@ BK channels (also called MaxiK or Slo1, gene KCNMA1) are large-conductance Ca2+-
     <tr>
       <td>Notes</td>
       <td>Crystals grown to ~0.2 x 0.2 x 0.3 mm. Space group P21212 with cell dimensions a=137.65, b=210.82, c=238.76 Å. Eight subunits per asymmetric unit forming two gating rings. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using monomeric Ca2+-bound human BK CTD (PDB 3MT5). Refined to 3.6 Å with Rwork=0.260 and Rfree=0.289. Data collected at NSLS beamline X29.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>hanging-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.3</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Mes: 50 mM [buffer]  
+- Peg 4000: 4 % [precipitant] (PEG 4000)</td>
     </tr>
   </tbody>
 </table>

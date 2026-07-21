@@ -1,7 +1,7 @@
 ---
 title: "Jumping Spider Rhodopsin-1 (JSR1)"
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -137,6 +137,22 @@ The jumping spider rhodopsin-1 (JSR1) from Hasarius adansoni is a class A G prot
       <td>Notes</td>
       <td>JSiR1 concentrated to 20-30 mg/ml and mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> in 40:60 ratio (protein:lipid) to form <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/). Crystallization screening using mosquito <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">lcp</a> robot at 4 C with 100 um glass Laminex plates. Optimized conditions: 31-36% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 100 mM Bis-Tris pH 6.5. Data collected at SLS beamline PX1 (wavelength 1.000 A, 16 M Eiger detector). Anisotropic diffraction: 2.5 A, 2.1 A, 2.3 A along a*, b*, c* axes. STARANISO-processed data. Two datasets merged and scaled with Aimless. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using squid rhodopsin (PDB 2Z73).
 </td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>lcp</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein (9.9 MAG)</td>
     </tr>
   </tbody>
 </table>

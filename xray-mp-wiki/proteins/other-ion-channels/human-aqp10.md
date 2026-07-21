@@ -1,7 +1,7 @@
 ---
 title: "Human Aquaporin 10 (AQP10)"
 created: 2026-06-16
-updated: 2026-07-03
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -134,6 +134,22 @@ of aquaporin regulation important for controlling body fat mass.
     <tr>
       <td>Notes</td>
       <td>Data collected at SLS beamline X06SA, Paul Scherrer Institut, Villigen, Switzerland. Phased by molecular replacement using GlpF (pdb-id 1LDI). Space group P2_1_2_1_2_1 with cell a=97.1 Å, b=116.8 Å, c=138.5 Å, one tetramer in the asymmetric unit. Model built in COOT and refined in phenix.refine to Rwork 18.9%.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>277 C</td>
     </tr>
   </tbody>
 </table>

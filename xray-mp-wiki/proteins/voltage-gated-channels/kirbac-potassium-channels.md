@@ -1,7 +1,7 @@
 ---
 title: "KirBac Potassium Channels"
 created: 2026-05-26
-updated: 2026-07-13
+updated: 2026-07-20
 type: protein
 category: proteins
 layout: default
@@ -796,6 +796,29 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     <tr>
       <td>Notes</td>
       <td>Crystallized at Bio21 C3 facility. Structures III-VII phased by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using 1XL4/1XL6. Q170A mutant crystallized separately. Structure XI soaked with Sm3+ to capture nontwist form.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>19-20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Peg 3350: 20 % [precipitant] (PEG 3350 + 0.2 M calcium chloride + 0.1 M HEPES buffer pH 7.)  
+- Peg 3350: 15 % [precipitant] (PEG 3350 + 0.1 M Magnesium Chloride + 0.1 M Citrate Buffer ()  
+- Peg 3350: 20 % [precipitant] (PEG 3350 + 0.2 M Sodium Chloride + 0.1 M HEPES buffer pH 7.5)  
+- Peg 3350: 20 % [precipitant] (PEG 3350 + 0.2 M Spermine + 0.1 M HEPES buffer pH 8.0 (XI))</td>
     </tr>
   </tbody>
 </table>
@@ -2291,6 +2314,34 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     </tr>
   </tbody>
 </table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7.2</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Glycerol: 10 % [additive]  
+- Hepes: 90 mM [buffer]  
+- Peg 400: 20 % [precipitant] (PEG 400)  
+- Peg 4000: 5 % [precipitant] (PEG 4000)  
+- Peg 8000: 2.5 % [precipitant] (PEG 8000)</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details class="pub-entry" markdown="1">
@@ -2402,6 +2453,31 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     <tr>
       <td>Notes</td>
       <td>Initial screening with Mosquito nanoliter-dispensing system (672 conditions). Best crystals obtained by hanging-drop vapor diffusion. 400 nL drops (1:1 protein:reservoir) for screening, 4 uL drops for optimization. Crystals in P2_1_2_1_2 space group. Data collected at SOLEIL PROXIMA-1 beamline at 100 K with PILATUS 6M detector at 1.07114 A wavelength.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Glycerol: 15 % [additive]  
+- Mes: 100 mM [buffer]</td>
     </tr>
   </tbody>
 </table>
@@ -4381,6 +4457,34 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
     <tr>
       <td>Notes</td>
       <td>Crystals appeared after 2-4 days at room temperature. Data collected at Diamond Light Source I-24 beamline (lambda=0.978 A) at 100 K using Pilatus 6M detector to 2.46 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method (structured)</td>
+      <td>vapor-diffusion</td>
+    </tr>
+    <tr>
+      <td>Variant</td>
+      <td>sitting-drop</td>
+    </tr>
+    <tr>
+      <td>pH</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Temperature (structured)</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>- Glycerol: 10 % [additive]  
+- Hepes: 90 mM [buffer]  
+- Peg 400: 20 % [precipitant] (Polyethylene Glycol 400 (PEG 400))  
+- Peg 4000: 5 % [precipitant] (PEG 4000 (Polyethylene Glycol 4000))  
+- Peg 8000: 2.5 % [precipitant] (Polyethylene Glycol 8000 (PEG 8000))</td>
     </tr>
   </tbody>
 </table>
